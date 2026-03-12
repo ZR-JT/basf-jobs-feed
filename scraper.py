@@ -18,7 +18,6 @@ def strip_html(text):
 
 async def scrape_jobs():
     api_key = None
-    request_body = None
 
     async with async_playwright() as p:
         browser = await p.chromium.launch()
@@ -26,10 +25,9 @@ async def scrape_jobs():
         page = await context.new_page()
 
         async def handle_request(request):
-            nonlocal api_key, request_body
+            nonlocal api_key
             if "searchui.search.windows.net" in request.url:
                 headers = dict(request.headers)
-                body = request.post_data or ""
                 found_key = (
                     headers.get("api-key") or
                     headers.get("Api-Key") or
@@ -37,8 +35,6 @@ async def scrape_jobs():
                 )
                 if found_key:
                     api_key = found_key
-                if body:
-                    request_body = body
 
         context.on("request", handle_request)
         await page.goto(SEARCH_URL, timeout=60000, wait_until="domcontentloaded")
@@ -51,126 +47,59 @@ async def scrape_jobs():
 
     print("✅ API Key gefunden")
 
-    # Alle Locales abrufen, dann deduplizieren
-    # Bevorzugte Reihenfolge: en_US > de_DE > andere
     PREFERRED_LOCALES = ["en_US", "de_DE", "de_AT", "de_CH"]
+    PAGE_SIZE = 1000
 
-    search_body = {
-        "search": "*",
-        "filter": "addresses/any(a: a/country eq 'Germany') and isActive eq true",
-        "select": "*",
-        "top": 1000,
-        "orderby": "datePosted desc"
-    }
+    # Paginierung: alle Seiten abrufen bis keine Ergebnisse mehr
+    all_raw_jobs = []
+    skip = 0
 
     async with aiohttp.ClientSession() as session:
-        async with session.post(
-            AZURE_URL,
-            headers={"api-key": api_key, "Content-Type": "application/json"},
-            json=search_body
-        ) as resp:
-            if resp.status != 200:
-                err = await resp.text()
-                print(f"❌ Fehler: {err[:300]}")
-                return
-            data = await resp.json()
-            raw_jobs = data.get("value", [])
-            print(f"Rohdaten: {len(raw_jobs)} Einträge (inkl. alle Locales)")
+        while True:
+            search_body = {
+                "search": "*",
+                "filter": "addresses/any(a: a/country eq 'Germany')",
+                "select": "*",
+                "top": PAGE_SIZE,
+                "skip": skip,
+                "count": True
+            }
+
+            async with session.post(
+                AZURE_URL,
+                headers={"api-key": api_key, "Content-Type": "application/json"},
+                json=search_body
+            ) as resp:
+                if resp.status != 200:
+                    err = await resp.text()
+                    print(f"❌ Fehler bei skip={skip}: {err[:300]}")
+                    break
+                data = await resp.json()
+
+            batch = data.get("value", [])
+            total_count = data.get("@odata.count", "?")
+
+            if skip == 0:
+                print(f"API meldet @odata.count: {total_count}")
+
+            all_raw_jobs.extend(batch)
+            print(f"  Seite skip={skip}: {len(batch)} Einträge geladen (gesamt bisher: {len(all_raw_jobs)})")
+
+            if len(batch) < PAGE_SIZE:
+                break
+            skip += PAGE_SIZE
+
+    print(f"Rohdaten gesamt: {len(all_raw_jobs)} Einträge (inkl. alle Locales)")
 
     # Deduplizieren: pro numerischer Job-ID nur einen Eintrag behalten
-    # jobId Format: "134069-fi_FI" → numeric_id = "134069"
-    job_map = {}  # numeric_id → job dict
+    job_map = {}
 
-    for job in raw_jobs:
+    for job in all_raw_jobs:
         full_id = str(job.get("jobId", ""))
-        # Numerische ID extrahieren
         numeric_id = full_id.split("-")[0] if "-" in full_id else full_id
         language = job.get("language", "")
 
         if numeric_id not in job_map:
             job_map[numeric_id] = job
         else:
-            # Bevorzugte Locale? Dann ersetzen
-            current_lang = job_map[numeric_id].get("language", "")
-            current_pref = PREFERRED_LOCALES.index(current_lang) if current_lang in PREFERRED_LOCALES else 999
-            new_pref = PREFERRED_LOCALES.index(language) if language in PREFERRED_LOCALES else 999
-            if new_pref < current_pref:
-                job_map[numeric_id] = job
-
-    print(f"Nach Deduplizierung: {len(job_map)} unique Jobs")
-
-    jobs = []
-    for numeric_id, job in job_map.items():
-
-        # Adresse
-        addr = {}
-        addresses = job.get("addresses", [])
-        if isinstance(addresses, list) and addresses:
-            addr = addresses[0] if isinstance(addresses[0], dict) else {}
-
-        # Recruiter
-        recruiter_raw = job.get("recruiter") or {}
-        recruiter = {}
-        if recruiter_raw:
-            recruiter = {
-                "name": f"{recruiter_raw.get('firstName', '')} {recruiter_raw.get('lastName', '')}".strip(),
-                "email": recruiter_raw.get("email", ""),
-                "phone": recruiter_raw.get("phone", "")
-            }
-            recruiter = {k: v for k, v in recruiter.items() if v}
-
-        # Beschreibung
-        raw_desc = job.get("description") or ""
-        description = strip_html(raw_desc)[:3000]
-
-        entry = {
-            "job_id": numeric_id,
-            "title": (job.get("title") or "").strip(),
-            "url": job.get("link") or f"https://basf.jobs/job/{numeric_id}/",
-            "city": addr.get("city") or addr.get("locationCity") or "",
-            "state": addr.get("state") or "",
-            "country": addr.get("country") or job.get("country") or "Germany",
-            "postal_code": addr.get("adcode") or job.get("adcode") or "",
-            "company": job.get("legalEntity") or "BASF",
-            "business_unit": job.get("businessUnit") or "",
-            "department": job.get("department") or "",
-            "job_field": job.get("jobField") or job.get("category") or "",
-            "job_level": job.get("jobLevel") or job.get("customfield1") or "",
-            "job_type": job.get("jobType") or job.get("customfield5") or "",
-            "hybrid": job.get("hybrid") or False,
-            "date_posted": job.get("datePosted") or "",
-            "start_date": job.get("startDate") or "",
-            "language": job.get("language") or "",
-            "description": description,
-            "recruiter": recruiter if recruiter else None,
-            "valid": True
-        }
-
-        # Leerstrings und None entfernen
-        entry = {k: v for k, v in entry.items() if v is not None and v != "" and v != {}}
-        entry["valid"] = True
-        jobs.append(entry)
-
-    # Stats
-    print(f"\n📊 Statistiken:")
-    print(f"  Unique Jobs: {len(jobs)}")
-    print(f"  Mit URL: {sum(1 for j in jobs if j.get('url'))}")
-    print(f"  Mit Beschreibung: {sum(1 for j in jobs if j.get('description'))}")
-    print(f"  Mit Recruiter: {sum(1 for j in jobs if j.get('recruiter'))}")
-    print(f"  Mit Datum: {sum(1 for j in jobs if j.get('date_posted'))}")
-    print(f"  Hybrid: {sum(1 for j in jobs if j.get('hybrid'))}")
-    print(f"  Job-Types: {set(j.get('job_type','') for j in jobs)}")
-    print(f"  Job-Levels: {set(j.get('job_level','') for j in jobs)}")
-
-    output = {
-        "last_updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "total_active": len(jobs),
-        "jobs": jobs
-    }
-
-    with open("jobs.json", "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
-
-    print(f"\n✅ jobs.json gespeichert — {len(jobs)} deduplizierte Jobs!")
-
-asyncio.run(scrape_jobs())
+            current
