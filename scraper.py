@@ -1,95 +1,132 @@
 import json
 import asyncio
+import aiohttp
 from playwright.async_api import async_playwright
 from datetime import datetime
 
 SEARCH_URL = "https://basf.jobs/?currentPage=1&pageSize=1000&addresses%2Fcountry=Germany"
+AZURE_API = "https://searchui.search.windows.net/indexes/basf-prod/docs/search?api-version=2020-06-30"
+
+ARCHIVE_HINTS = [
+    "leider ist diese stellenausschreibung nicht mehr verfügbar",
+    "job posting is no longer available",
+    "position has already been filled",
+    "vielen dank, dass sie die karrierewebseite von basf nutzen",
+]
 
 async def scrape_jobs():
-    api_responses = []
+    captured_request = None
 
     async with async_playwright() as p:
         browser = await p.chromium.launch()
         page = await browser.new_page()
 
-        # Jeden Netzwerk-Request mitschneiden
-        async def handle_response(response):
-            url = response.url
-            # Nur JSON-Antworten die nach Jobs aussehen
-            if any(x in url.lower() for x in ["job", "search", "career", "vacancy", "position", "api"]):
+        # Request abfangen UND Headers + Body mitspeichern
+        async def handle_request(request):
+            nonlocal captured_request
+            if "searchui.search.windows.net" in request.url and captured_request is None:
                 try:
-                    content_type = response.headers.get("content-type", "")
-                    if "json" in content_type:
-                        body = await response.json()
-                        api_responses.append({
-                            "url": url,
-                            "status": response.status,
-                            "data_preview": str(body)[:300]
-                        })
-                        print(f"✅ JSON API gefunden: {url}")
-                        print(f"   Preview: {str(body)[:200]}\n")
+                    body = request.post_data
+                    headers = dict(request.headers)
+                    captured_request = {
+                        "url": request.url,
+                        "headers": headers,
+                        "body": body
+                    }
+                    print(f"✅ Azure Request abgefangen!")
+                    print(f"   Headers: {list(headers.keys())}")
+                    print(f"   Body: {body[:300] if body else 'leer'}")
                 except Exception as e:
-                    pass
+                    print(f"Fehler beim Abfangen: {e}")
 
-        page.on("response", handle_response)
+        page.on("request", handle_request)
 
-        print("Lade Seite und warte auf API-Calls...")
+        print("Lade Seite...")
         await page.goto(SEARCH_URL, timeout=60000, wait_until="networkidle")
         await page.wait_for_timeout(5000)
-
-        # Alle abgefangenen Requests ausgeben
-        print(f"\n=== {len(api_responses)} JSON API-Calls gefunden ===")
-        for r in api_responses:
-            print(f"URL: {r['url']}")
-            print(f"Status: {r['status']}")
-            print(f"Data: {r['data_preview']}")
-            print("---")
-
-        # Versuche Jobs direkt aus API-Response zu extrahieren
-        jobs = []
-        for r in api_responses:
-            url = r["url"]
-            if len(jobs) > 0:
-                break
-            try:
-                response = await page.request.get(url)
-                data = await response.json()
-
-                # Häufige JSON-Strukturen probieren
-                candidates = []
-                if isinstance(data, list):
-                    candidates = data
-                elif "jobs" in data:
-                    candidates = data["jobs"]
-                elif "results" in data:
-                    candidates = data["results"]
-                elif "data" in data:
-                    candidates = data["data"] if isinstance(data["data"], list) else []
-                elif "items" in data:
-                    candidates = data["items"]
-
-                print(f"\nKandidaten gefunden: {len(candidates)} in {url}")
-
-                for item in candidates[:5]:
-                    print(f"  Felder: {list(item.keys()) if isinstance(item, dict) else item}")
-
-                jobs = candidates
-            except Exception as e:
-                print(f"Fehler bei {url}: {e}")
-
         await browser.close()
 
-    # Ergebnis speichern
+    if not captured_request:
+        print("❌ Kein Azure Request gefunden!")
+        return
+
+    # Azure API direkt aufrufen mit den echten Headers
+    print("\nRufe Azure API direkt auf...")
+
+    headers = captured_request["headers"]
+    original_body = json.loads(captured_request["body"])
+
+    # Deutschland-Filter + maximale Ergebnisse setzen
+    search_body = {
+        **original_body,
+        "top": 1000,
+        "filter": "addresses/any(a: a/country eq 'Germany')",
+        "select": "jobId,title,locations,description,url,jobUrl,category,employmentType,postedDate"
+    }
+
+    print(f"Request Body: {json.dumps(search_body, indent=2)[:400]}")
+
+    jobs = []
+    async with aiohttp.ClientSession() as session:
+        async with session.post(
+            AZURE_API,
+            headers=headers,
+            json=search_body
+        ) as response:
+            print(f"Status: {response.status}")
+            if response.status == 200:
+                data = await response.json()
+                print(f"Keys in Response: {list(data.keys())}")
+
+                raw_jobs = data.get("value", data.get("results", []))
+                print(f"Rohe Jobs gefunden: {len(raw_jobs)}")
+
+                # Erste 3 Jobs zeigen um Feldnamen zu sehen
+                if raw_jobs:
+                    print(f"\nFelder eines Jobs: {list(raw_jobs[0].keys())}")
+                    print(f"Beispiel-Job: {json.dumps(raw_jobs[0], ensure_ascii=False)[:400]}")
+
+                for job in raw_jobs:
+                    # Feldnamen flexibel auslesen
+                    title = (
+                        job.get("title") or
+                        job.get("jobTitle") or
+                        job.get("name") or ""
+                    )
+                    url = (
+                        job.get("jobUrl") or
+                        job.get("url") or
+                        job.get("applyUrl") or ""
+                    )
+                    location = ""
+                    loc = job.get("locations") or job.get("location") or job.get("addresses") or ""
+                    if isinstance(loc, list) and loc:
+                        location = loc[0].get("city", "") if isinstance(loc[0], dict) else str(loc[0])
+                    elif isinstance(loc, str):
+                        location = loc
+
+                    if title and url:
+                        jobs.append({
+                            "title": title,
+                            "url": url,
+                            "location": location,
+                            "valid": True
+                        })
+            else:
+                error_text = await response.text()
+                print(f"❌ Fehler: {error_text[:500]}")
+
+    print(f"\n✅ {len(jobs)} Jobs gefunden")
+
     output = {
         "last_updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
         "total_active": len(jobs),
-        "api_calls_found": [r["url"] for r in api_responses],
-        "jobs": jobs[:5]  # erstmal nur 5 zum Testen
+        "jobs": jobs
     }
 
     with open("jobs.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\n✅ Fertig. {len(jobs)} Jobs, {len(api_responses)} API-Calls abgefangen.")
+    print("jobs.json gespeichert!")
 
 asyncio.run(scrape_jobs())
