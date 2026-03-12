@@ -50,7 +50,6 @@ async def scrape_jobs():
     PREFERRED_LOCALES = ["en_US", "de_DE", "de_AT", "de_CH"]
     PAGE_SIZE = 1000
 
-    # Paginierung: alle Seiten abrufen bis keine Ergebnisse mehr
     all_raw_jobs = []
     skip = 0
 
@@ -83,7 +82,7 @@ async def scrape_jobs():
                 print(f"API meldet @odata.count: {total_count}")
 
             all_raw_jobs.extend(batch)
-            print(f"  Seite skip={skip}: {len(batch)} Einträge geladen (gesamt bisher: {len(all_raw_jobs)})")
+            print(f"  Seite skip={skip}: {len(batch)} Einträge geladen (gesamt: {len(all_raw_jobs)})")
 
             if len(batch) < PAGE_SIZE:
                 break
@@ -91,7 +90,6 @@ async def scrape_jobs():
 
     print(f"Rohdaten gesamt: {len(all_raw_jobs)} Einträge (inkl. alle Locales)")
 
-    # Deduplizieren: pro numerischer Job-ID nur einen Eintrag behalten
     job_map = {}
 
     for job in all_raw_jobs:
@@ -165,8 +163,6 @@ async def scrape_jobs():
     print(f"  Mit Recruiter: {sum(1 for j in jobs if j.get('recruiter'))}")
     print(f"  Mit Datum: {sum(1 for j in jobs if j.get('date_posted'))}")
     print(f"  Hybrid: {sum(1 for j in jobs if j.get('hybrid'))}")
-    print(f"  Job-Types: {set(j.get('job_type','') for j in jobs)}")
-    print(f"  Job-Levels: {set(j.get('job_level','') for j in jobs)}")
 
     output = {
         "last_updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -177,6 +173,48 @@ async def scrape_jobs():
     with open("jobs.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"\n✅ jobs.json gespeichert — {len(jobs)} deduplizierte Jobs!")
+    print(f"✅ jobs.json gespeichert — {len(jobs)} Jobs!")
+
+    # HTML-Version generieren
+    html_jobs = ""
+    for j in jobs:
+        recruiter_info = ""
+        if j.get("recruiter"):
+            r = j["recruiter"]
+            recruiter_info = f'<p class="recruiter">Ansprechpartner: {r.get("name","")} | {r.get("email","")} | {r.get("phone","")}</p>'
+
+        html_jobs += f"""
+<div class="job">
+  <h2><a href="{j.get('url','')}">{j.get('title','')}</a></h2>
+  <p><strong>Ort:</strong> {j.get('city','')}, {j.get('state','')}</p>
+  <p><strong>Unternehmen:</strong> {j.get('company','')}</p>
+  <p><strong>Bereich:</strong> {j.get('job_field','')}</p>
+  <p><strong>Abteilung:</strong> {j.get('department','')}</p>
+  <p><strong>Level:</strong> {j.get('job_level','')}</p>
+  <p><strong>Typ:</strong> {j.get('job_type','')}</p>
+  <p><strong>Hybrid:</strong> {'Ja' if j.get('hybrid') else 'Nein'}</p>
+  <p><strong>Veröffentlicht:</strong> {j.get('date_posted','')[:10]}</p>
+  <p class="description">{j.get('description','')}</p>
+  {recruiter_info}
+</div>
+"""
+
+    html_content = f"""<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>BASF Jobs Deutschland</title>
+</head>
+<body>
+  <h1>BASF Stellenangebote Deutschland</h1>
+  <p>Stand: {output['last_updated']} | Anzahl: {len(jobs)} Stellen</p>
+  {html_jobs}
+</body>
+</html>"""
+
+    with open("jobs.html", "w", encoding="utf-8") as f:
+        f.write(html_content)
+
+    print(f"✅ jobs.html gespeichert!")
 
 asyncio.run(scrape_jobs())
