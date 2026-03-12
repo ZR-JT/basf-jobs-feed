@@ -129,7 +129,7 @@ async def scrape_jobs():
             recruiter = {k: v for k, v in recruiter.items() if v}
 
         raw_desc = job.get("description") or ""
-        description = strip_html(raw_desc)[:3000]
+        description = strip_html(raw_desc)[:500]
 
         entry = {
             "job_id": numeric_id,
