@@ -29,10 +29,10 @@ jobs:
       - name: Scraper ausfuehren
         run: python scraper.py
 
-      - name: jobs.json committen
+      - name: Dateien committen
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add jobs.json
-          git diff --staged --quiet || git commit -m "Update jobs.json $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git add jobs.json jobs.html
+          git diff --staged --quiet || git commit -m "Update jobs $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
