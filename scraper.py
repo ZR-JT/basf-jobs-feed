@@ -102,4 +102,81 @@ async def scrape_jobs():
         if numeric_id not in job_map:
             job_map[numeric_id] = job
         else:
-            current
+            current_lang = job_map[numeric_id].get("language", "")
+            current_pref = PREFERRED_LOCALES.index(current_lang) if current_lang in PREFERRED_LOCALES else 999
+            new_pref = PREFERRED_LOCALES.index(language) if language in PREFERRED_LOCALES else 999
+            if new_pref < current_pref:
+                job_map[numeric_id] = job
+
+    print(f"Nach Deduplizierung: {len(job_map)} unique Jobs")
+
+    jobs = []
+    for numeric_id, job in job_map.items():
+
+        addr = {}
+        addresses = job.get("addresses", [])
+        if isinstance(addresses, list) and addresses:
+            addr = addresses[0] if isinstance(addresses[0], dict) else {}
+
+        recruiter_raw = job.get("recruiter") or {}
+        recruiter = {}
+        if recruiter_raw:
+            recruiter = {
+                "name": f"{recruiter_raw.get('firstName', '')} {recruiter_raw.get('lastName', '')}".strip(),
+                "email": recruiter_raw.get("email", ""),
+                "phone": recruiter_raw.get("phone", "")
+            }
+            recruiter = {k: v for k, v in recruiter.items() if v}
+
+        raw_desc = job.get("description") or ""
+        description = strip_html(raw_desc)[:3000]
+
+        entry = {
+            "job_id": numeric_id,
+            "title": (job.get("title") or "").strip(),
+            "url": job.get("link") or f"https://basf.jobs/job/{numeric_id}/",
+            "city": addr.get("city") or addr.get("locationCity") or "",
+            "state": addr.get("state") or "",
+            "country": addr.get("country") or job.get("country") or "Germany",
+            "postal_code": addr.get("adcode") or job.get("adcode") or "",
+            "company": job.get("legalEntity") or "BASF",
+            "business_unit": job.get("businessUnit") or "",
+            "department": job.get("department") or "",
+            "job_field": job.get("jobField") or job.get("category") or "",
+            "job_level": job.get("jobLevel") or job.get("customfield1") or "",
+            "job_type": job.get("jobType") or job.get("customfield5") or "",
+            "hybrid": job.get("hybrid") or False,
+            "date_posted": job.get("datePosted") or "",
+            "start_date": job.get("startDate") or "",
+            "language": job.get("language") or "",
+            "description": description,
+            "recruiter": recruiter if recruiter else None,
+            "valid": True
+        }
+
+        entry = {k: v for k, v in entry.items() if v is not None and v != "" and v != {}}
+        entry["valid"] = True
+        jobs.append(entry)
+
+    print(f"\n📊 Statistiken:")
+    print(f"  Unique Jobs: {len(jobs)}")
+    print(f"  Mit URL: {sum(1 for j in jobs if j.get('url'))}")
+    print(f"  Mit Beschreibung: {sum(1 for j in jobs if j.get('description'))}")
+    print(f"  Mit Recruiter: {sum(1 for j in jobs if j.get('recruiter'))}")
+    print(f"  Mit Datum: {sum(1 for j in jobs if j.get('date_posted'))}")
+    print(f"  Hybrid: {sum(1 for j in jobs if j.get('hybrid'))}")
+    print(f"  Job-Types: {set(j.get('job_type','') for j in jobs)}")
+    print(f"  Job-Levels: {set(j.get('job_level','') for j in jobs)}")
+
+    output = {
+        "last_updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "total_active": len(jobs),
+        "jobs": jobs
+    }
+
+    with open("jobs.json", "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+
+    print(f"\n✅ jobs.json gespeichert — {len(jobs)} deduplizierte Jobs!")
+
+asyncio.run(scrape_jobs())
