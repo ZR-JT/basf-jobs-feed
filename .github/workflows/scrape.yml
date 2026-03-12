@@ -37,3 +37,8 @@ jobs:
           git add jobs.json
           git diff --staged --quiet || git commit -m "Update jobs.json $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
+          - name: Abhängigkeiten installieren
+        run: |
+          pip install playwright aiohttp
+          playwright install chromium
+          playwright install-deps chromium
