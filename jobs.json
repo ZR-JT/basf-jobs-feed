@@ -1,6 +1,10 @@
 {
-  "last_updated": "2026-03-12T17:36:31Z",
+  "last_updated": "2026-03-12T17:41:44Z",
   "total_active": 0,
-  "jobs": [],
-  "debug": "siehe Actions Log für Link-Struktur"
+  "api_calls_found": [
+    "https://basf.jobs/services/jobs/options/facetValues/",
+    "https://searchui.search.windows.net/indexes/basf-prod/docs/search?api-version=2020-06-30",
+    "https://searchui.search.windows.net/indexes/basf-prod/docs/search?api-version=2020-06-30"
+  ],
+  "jobs": []
 }
