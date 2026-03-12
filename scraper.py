@@ -57,7 +57,7 @@ async def scrape_jobs():
 
     search_body = {
         "search": "*",
-        "filter": "addresses/any(a: a/country eq 'Germany') and isActive eq true",
+"filter": "addresses/any(a: a/country eq 'Germany')",
         "select": "*",
         "top": 1000,
         "orderby": "datePosted desc"
