@@ -158,6 +158,7 @@ async def scrape_jobs():
     print(f"  Mit Recruiter: {sum(1 for j in jobs if j.get('recruiter'))}")
     print(f"  Mit Datum: {sum(1 for j in jobs if j.get('date_posted'))}")
     print(f"  Hybrid: {sum(1 for j in jobs if j.get('hybrid'))}")
+        print(f"  Mit Beschreibung: {sum(1 for j in jobs if j.get('description'))}")
     print(f"  Job-Types: {set(j.get('job_type','') for j in jobs)}")
     print(f"  Job-Levels: {set(j.get('job_level','') for j in jobs)}")
 
