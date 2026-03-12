@@ -6,46 +6,90 @@ from datetime import datetime
 SEARCH_URL = "https://basf.jobs/?currentPage=1&pageSize=1000&addresses%2Fcountry=Germany"
 
 async def scrape_jobs():
+    api_responses = []
+
     async with async_playwright() as p:
         browser = await p.chromium.launch()
         page = await browser.new_page()
 
-        print("Lade Seite...")
-        await page.goto(SEARCH_URL, timeout=60000, wait_until="domcontentloaded")
-        await page.wait_for_timeout(8000)
+        # Jeden Netzwerk-Request mitschneiden
+        async def handle_response(response):
+            url = response.url
+            # Nur JSON-Antworten die nach Jobs aussehen
+            if any(x in url.lower() for x in ["job", "search", "career", "vacancy", "position", "api"]):
+                try:
+                    content_type = response.headers.get("content-type", "")
+                    if "json" in content_type:
+                        body = await response.json()
+                        api_responses.append({
+                            "url": url,
+                            "status": response.status,
+                            "data_preview": str(body)[:300]
+                        })
+                        print(f"✅ JSON API gefunden: {url}")
+                        print(f"   Preview: {str(body)[:200]}\n")
+                except Exception as e:
+                    pass
 
-        # Alle Links auf der Seite ausgeben
-        all_links = await page.eval_on_selector_all(
-            "a[href]",
-            "els => [...new Set(els.map(e => e.href))].filter(h => h.includes('basf'))"
-        )
+        page.on("response", handle_response)
 
-        print(f"\n=== ALLE BASF LINKS ({len(all_links)}) ===")
-        for link in all_links[:50]:
-            print(link)
+        print("Lade Seite und warte auf API-Calls...")
+        await page.goto(SEARCH_URL, timeout=60000, wait_until="networkidle")
+        await page.wait_for_timeout(5000)
 
-        # Seitentitel und etwas HTML ausgeben
-        title = await page.title()
-        print(f"\n=== SEITENTITEL ===\n{title}")
+        # Alle abgefangenen Requests ausgeben
+        print(f"\n=== {len(api_responses)} JSON API-Calls gefunden ===")
+        for r in api_responses:
+            print(f"URL: {r['url']}")
+            print(f"Status: {r['status']}")
+            print(f"Data: {r['data_preview']}")
+            print("---")
 
-        # Ersten sichtbaren Text ausgeben
-        body_text = await page.inner_text("body")
-        print(f"\n=== ERSTER TEXT (500 Zeichen) ===\n{body_text[:500]}")
+        # Versuche Jobs direkt aus API-Response zu extrahieren
+        jobs = []
+        for r in api_responses:
+            url = r["url"]
+            if len(jobs) > 0:
+                break
+            try:
+                response = await page.request.get(url)
+                data = await response.json()
 
-        # Screenshot speichern
-        await page.screenshot(path="debug_screenshot.png", full_page=False)
-        print("\nScreenshot gespeichert als debug_screenshot.png")
+                # Häufige JSON-Strukturen probieren
+                candidates = []
+                if isinstance(data, list):
+                    candidates = data
+                elif "jobs" in data:
+                    candidates = data["jobs"]
+                elif "results" in data:
+                    candidates = data["results"]
+                elif "data" in data:
+                    candidates = data["data"] if isinstance(data["data"], list) else []
+                elif "items" in data:
+                    candidates = data["items"]
+
+                print(f"\nKandidaten gefunden: {len(candidates)} in {url}")
+
+                for item in candidates[:5]:
+                    print(f"  Felder: {list(item.keys()) if isinstance(item, dict) else item}")
+
+                jobs = candidates
+            except Exception as e:
+                print(f"Fehler bei {url}: {e}")
 
         await browser.close()
 
-    # Leere JSON damit der Commit funktioniert
+    # Ergebnis speichern
     output = {
         "last_updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "total_active": 0,
-        "jobs": [],
-        "debug": "siehe Actions Log für Link-Struktur"
+        "total_active": len(jobs),
+        "api_calls_found": [r["url"] for r in api_responses],
+        "jobs": jobs[:5]  # erstmal nur 5 zum Testen
     }
+
     with open("jobs.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
+
+    print(f"\n✅ Fertig. {len(jobs)} Jobs, {len(api_responses)} API-Calls abgefangen.")
 
 asyncio.run(scrape_jobs())
