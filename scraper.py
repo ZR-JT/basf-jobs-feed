@@ -155,7 +155,6 @@ async def scrape_jobs():
     print(f"\n📊 Statistiken:")
     print(f"  Unique Jobs: {len(jobs)}")
     print(f"  Mit URL: {sum(1 for j in jobs if j.get('url'))}")
-    print(f"  Mit Beschreibung: {sum(1 for j in jobs if j.get('description'))}")
     print(f"  Mit Recruiter: {sum(1 for j in jobs if j.get('recruiter'))}")
     print(f"  Mit Datum: {sum(1 for j in jobs if j.get('date_posted'))}")
     print(f"  Hybrid: {sum(1 for j in jobs if j.get('hybrid'))}")
