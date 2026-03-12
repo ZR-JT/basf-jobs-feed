@@ -57,7 +57,7 @@ async def scrape_jobs():
 
     search_body = {
         "search": "*",
-"filter": "addresses/any(a: a/country eq 'Germany')",
+        "filter": "addresses/any(a: a/country eq 'Germany') and isActive eq true",
         "select": "*",
         "top": 1000,
         "orderby": "datePosted desc"
@@ -155,10 +155,10 @@ async def scrape_jobs():
     print(f"\n📊 Statistiken:")
     print(f"  Unique Jobs: {len(jobs)}")
     print(f"  Mit URL: {sum(1 for j in jobs if j.get('url'))}")
+    print(f"  Mit Beschreibung: {sum(1 for j in jobs if j.get('description'))}")
     print(f"  Mit Recruiter: {sum(1 for j in jobs if j.get('recruiter'))}")
     print(f"  Mit Datum: {sum(1 for j in jobs if j.get('date_posted'))}")
     print(f"  Hybrid: {sum(1 for j in jobs if j.get('hybrid'))}")
-        print(f"  Mit Beschreibung: {sum(1 for j in jobs if j.get('description'))}")
     print(f"  Job-Types: {set(j.get('job_type','') for j in jobs)}")
     print(f"  Job-Levels: {set(j.get('job_level','') for j in jobs)}")
 
