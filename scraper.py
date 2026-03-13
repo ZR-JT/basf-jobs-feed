@@ -172,4 +172,107 @@ async def scrape_jobs():
     }
     with open("jobs.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
-    print(f"✅ jobs
+    print(f"✅ jobs.json gespeichert — {len(jobs)} Jobs!")
+
+    # ── Nach Bundesland + Stadt gruppieren ──────────────────────────────────
+    regions = {}  # key: (state, city) → list of jobs
+    for j in jobs:
+        state = j.get("state", "Unbekannt")
+        city = j.get("city", "Unbekannt")
+        key = (state, city)
+        if key not in regions:
+            regions[key] = []
+        regions[key].append(j)
+
+    # Regionen sortieren: Bundesland alphabetisch, dann Stadt alphabetisch
+    sorted_regions = sorted(regions.keys(), key=lambda k: (k[0].lower(), k[1].lower()))
+
+    # ── Regionsseiten generieren ─────────────────────────────────────────────
+    import os
+    os.makedirs("regions", exist_ok=True)
+
+    region_slugs = {}  # (state, city) → slug
+
+    for (state, city) in sorted_regions:
+        slug = f"region-{slugify(state)}-{slugify(city)}"
+        region_slugs[(state, city)] = slug
+        region_jobs = regions[(state, city)]
+
+        rows = ""
+        for j in region_jobs:
+            recruiter_str = ""
+            if j.get("recruiter"):
+                r = j["recruiter"]
+                recruiter_str = f'{r.get("name","")} | {r.get("email","")} | {r.get("phone","")}'
+
+            rows += f"""<div class="job">
+  <h2><a href="{j.get('url','')}">{j.get('title','')}</a></h2>
+  <p><strong>Link:</strong> {j.get('url','')}</p>
+  <p><strong>Unternehmen:</strong> {j.get('company','')}</p>
+  <p><strong>Bereich:</strong> {j.get('job_field','')}</p>
+  <p><strong>Abteilung:</strong> {j.get('department','')}</p>
+  <p><strong>Level:</strong> {j.get('job_level','')}</p>
+  <p><strong>Typ:</strong> {j.get('job_type','')}</p>
+  <p><strong>Hybrid:</strong> {'Ja' if j.get('hybrid') else 'Nein'}</p>
+  <p><strong>Veröffentlicht:</strong> {j.get('date_posted','')[:10]}</p>
+  <p><strong>Beschreibung:</strong> {j.get('description','')}</p>
+  {f'<p><strong>Ansprechpartner:</strong> {recruiter_str}</p>' if recruiter_str else ''}
+</div>
+"""
+
+        html = f"""<!DOCTYPE html>
+<html lang="de">
+<head><meta charset="UTF-8"><title>BASF Jobs – {city}, {state}</title></head>
+<body>
+<p><a href="{BASE_URL}/index.html">← Zurück zur Übersicht</a></p>
+<h1>BASF Jobs – {city}, {state}</h1>
+<p>Stand: {timestamp} | {len(region_jobs)} Stelle(n)</p>
+{rows}
+</body>
+</html>"""
+
+        with open(f"regions/{slug}.html", "w", encoding="utf-8") as f:
+            f.write(html)
+
+    print(f"✅ {len(sorted_regions)} Regionsseiten generiert!")
+
+    # ── Index-Seite generieren ───────────────────────────────────────────────
+    index_rows = ""
+    current_state = None
+
+    for (state, city) in sorted_regions:
+        if state != current_state:
+            if current_state is not None:
+                index_rows += "</ul>\n"
+            index_rows += f"<h2>{state}</h2>\n<ul>\n"
+            current_state = state
+
+        slug = region_slugs[(state, city)]
+        region_jobs = regions[(state, city)]
+        count = len(region_jobs)
+        region_url = f"{BASE_URL}/regions/{slug}.html"
+
+        index_rows += f'<li><a href="{region_url}">{city}</a> ({count} Stelle(n))<ul>\n'
+        for j in region_jobs:
+            index_rows += f'  <li>{j.get("date_posted","")[:10]} – {j.get("title","")}</li>\n'
+        index_rows += f'</ul></li>\n'
+
+    if current_state is not None:
+        index_rows += "</ul>\n"
+
+    index_html = f"""<!DOCTYPE html>
+<html lang="de">
+<head><meta charset="UTF-8"><title>BASF Jobs Deutschland – Übersicht</title></head>
+<body>
+<h1>BASF Stellenangebote Deutschland</h1>
+<p>Stand: {timestamp} | Gesamt: {len(jobs)} Stellen | {len(sorted_regions)} Standorte</p>
+{index_rows}
+</body>
+</html>"""
+
+    with open("index.html", "w", encoding="utf-8") as f:
+        f.write(index_html)
+
+    print(f"✅ index.html gespeichert!")
+
+asyncio.run(scrape_jobs())
