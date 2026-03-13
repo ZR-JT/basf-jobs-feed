@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-13T08:24:12Z",
-  "total_active": 203,
+  "last_updated": "2026-03-13T09:24:28Z",
+  "total_active": 202,
   "jobs": [
     {
       "job_id": "134568",
@@ -155,32 +155,6 @@
         "name": "Bekim Krasniqi",
         "email": "bekim.krasniqi@basf.com",
         "phone": "+49 30 2005-56136"
-      },
-      "valid": true
-    },
-    {
-      "job_id": "129676",
-      "title": "Praktikum & Abschlussarbeit Verfahrens- und Umwelttechnik/Chemieingenieurwesen (m/w/d)",
-      "url": "https://basf.jobs/job-invite/129676/?locale=en_US",
-      "city": "Schwarzheide",
-      "state": "Brandenburg",
-      "country": "Germany",
-      "postal_code": "93085",
-      "company": "BASF Battery Materials and Recycling Schwarzheide GmbH",
-      "business_unit": "EMEA",
-      "department": "BMO/XZ Technology Management",
-      "job_field": "Engineering",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-03-12T08:17:43Z",
-      "start_date": "2026-01-01T00:00:00Z",
-      "language": "en_US",
-      "description": "WILLKOMMEN BEI UNS &#13; Der Lausitzer Produktionsstandort ist auf Wachstum ausgerichtet. Mit dem Bau der Anlage für Batteriematerialien legt die BASF in Schwarzheide den Grundstein für eine europäische Wertschöpfungskette der Elektromobilität. Um unseren CO2-Fußabdruck zu verbessern, setzen wir auf effiziente Produktionsverfahren, innovatives Kreislaufmanagement und eine nachhaltige Energiestrategie. Dazu zählt auch die Rückgewinnung der Rohstoffe durch Recycling um damit den Kreislauf zu schli",
-      "recruiter": {
-        "name": "Nina Schülzke",
-        "email": "nina.schuelzke@basf.com",
-        "phone": "030200558790"
       },
       "valid": true
     },
@@ -4450,32 +4424,6 @@
       "valid": true
     },
     {
-      "job_id": "129257",
-      "title": "SAP Consultant für  Customer Care & Service (m/w/d)",
-      "url": "https://basf.jobs/job-invite/129257/?locale=en_US",
-      "city": "Frankfurt am Main",
-      "state": "Hessen",
-      "country": "Germany",
-      "postal_code": "92487",
-      "company": "Chemetall GmbH",
-      "business_unit": "EMEA",
-      "department": "EC/XDT Appl. Mgmt Plan/Prod, QM, EHS, Sales ECT",
-      "job_field": "Digitalization",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-01-28T09:07:27Z",
-      "start_date": "2026-01-01T00:00:00Z",
-      "language": "en_US",
-      "description": "WILLKOMMEN BEI UNS &#13; Die globale Geschäftseinheit Oberflächentechnik des Unternehmensbereichs Coatings der BASF, die unter der Marke Chemetall operiert, ist ein führender Lieferant angewandter Oberflächentechnik für Metall-, Kunststoff- und Glassubstrate. Diese Spezialchemikalien werden in vielen Industrien und Märkten genutzt, wie zum Beispiel Automobil, Luftfahrt, Aluminiumveredelung, Coil oder in der metallverarbeitenden Industrie – unterstützt von einem großen Netzwerk technischer Expert",
-      "recruiter": {
-        "name": "Thomas Glatz",
-        "email": "thomas.a.glatz@basf.com",
-        "phone": "+49697165-3277"
-      },
-      "valid": true
-    },
-    {
       "job_id": "115498",
       "title": "Future Leaders Summit 2026 - Event for TOP START International Business Leadership Program (m/f/d)",
       "url": "https://basf.jobs/job-invite/115498/?locale=en_US",
@@ -4855,6 +4803,32 @@
         "name": "Romy Marie Gründel",
         "email": "romy.gruendel@basf.com",
         "phone": "+49 30 2005-56730"
+      },
+      "valid": true
+    },
+    {
+      "job_id": "129257",
+      "title": "SAP Consultant für  Customer Care & Service (m/w/d)",
+      "url": "https://basf.jobs/job-invite/129257/?locale=en_US",
+      "city": "Frankfurt am Main",
+      "state": "Hessen",
+      "country": "Germany",
+      "postal_code": "92487",
+      "company": "Chemetall GmbH",
+      "business_unit": "EMEA",
+      "department": "EC/XDT Appl. Mgmt Plan/Prod, QM, EHS, Sales ECT",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-01-28T09:07:27Z",
+      "start_date": "2026-01-01T00:00:00Z",
+      "language": "en_US",
+      "description": "WILLKOMMEN BEI UNS &#13; Die globale Geschäftseinheit Oberflächentechnik des Unternehmensbereichs Coatings der BASF, die unter der Marke Chemetall operiert, ist ein führender Lieferant angewandter Oberflächentechnik für Metall-, Kunststoff- und Glassubstrate. Diese Spezialchemikalien werden in vielen Industrien und Märkten genutzt, wie zum Beispiel Automobil, Luftfahrt, Aluminiumveredelung, Coil oder in der metallverarbeitenden Industrie – unterstützt von einem großen Netzwerk technischer Expert",
+      "recruiter": {
+        "name": "Thomas Glatz",
+        "email": "thomas.a.glatz@basf.com",
+        "phone": "+49697165-3277"
       },
       "valid": true
     },
