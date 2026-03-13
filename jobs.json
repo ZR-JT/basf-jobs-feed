@@ -1,7 +1,33 @@
 {
-  "last_updated": "2026-03-13T05:05:16Z",
-  "total_active": 204,
+  "last_updated": "2026-03-13T08:24:12Z",
+  "total_active": 203,
   "jobs": [
+    {
+      "job_id": "134568",
+      "title": "Chief Internal Audit Executive (m/f/d)",
+      "url": "https://basf.jobs/job-invite/134568/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "postal_code": "97112",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "AP AP Finance",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-03-13T07:16:26Z",
+      "start_date": "2026-04-01T00:00:00Z",
+      "language": "en_US",
+      "description": "WELCOME TO BASF &#13; We are BASF in Agriculture and everything we do, we do for the love of farming, the biggest job on Earth. We are an internationally successful company of the BASF Group. Our solutions are purpose-designed for different crop systems. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. With teams in the lab, field, o",
+      "recruiter": {
+        "name": "Isabel Maisack",
+        "email": "isabel.maisack@basf.com",
+        "phone": "+49 30 2005-56683"
+      },
+      "valid": true
+    },
     {
       "job_id": "134069",
       "title": "Senior Specialist Executive Compensation and Benefits (m/f/d)",
@@ -2841,31 +2867,6 @@
       "valid": true
     },
     {
-      "job_id": "124767",
-      "title": "Ausbildung Werkfeuerwehrmann:frau (m/w/d)",
-      "url": "https://basf.jobs/job-invite/124767/?locale=en_US",
-      "city": "Schwarzheide",
-      "state": "Brandenburg",
-      "country": "Germany",
-      "postal_code": "88342",
-      "company": "BASF InfraService & Solutions Lausitz GmbH",
-      "department": "ESS/CPV Feuerwehr",
-      "job_field": "Environment, Health & Safety",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-07-08T13:52:52Z",
-      "start_date": "2026-09-01T00:00:00Z",
-      "language": "en_US",
-      "description": "Über UNS &#13; Es ist Zeit fürs nächste Level. Zeit für deinen Start in die Praxis. Unsere Ausbildung im Industriepark Lausitz macht dich fit für die Zukunft! Denn hier hast du an einem Standort viele Möglichkeiten und lernst von Profis, die ihr Know-how in verschiedenen Bereichen und Unternehmen einbringen. Bei BASF im Industriepark Lausitz arbeitest du mit moderner Technik, bist mittendrin statt nur dabei und lernst Skills, die dir wirklich was bringen. Keine trockene Theorie – echte Praxis, e",
-      "recruiter": {
-        "name": "Paula Seez",
-        "email": "paula.seez@basf.com",
-        "phone": "+49 30 2005-56641"
-      },
-      "valid": true
-    },
-    {
       "job_id": "88074",
       "title": "START IN - Traineeprogramm Produktion und Digitalisierung für Ingenieure:innen (m/w/d)",
       "url": "https://basf.jobs/job-invite/88074/?locale=en_US",
@@ -3659,32 +3660,6 @@
       "valid": true
     },
     {
-      "job_id": "131930",
-      "title": "Senior Expert vorbeugender Brandschutz (m/w/d)",
-      "url": "https://basf.jobs/job-invite/131930/?locale=en_US",
-      "city": "Schwarzheide",
-      "state": "Brandenburg",
-      "country": "Germany",
-      "postal_code": "95601",
-      "company": "BASF InfraService & Solutions Lausitz GmbH",
-      "business_unit": "EMEA",
-      "department": "ESS/TW Fire Prevention",
-      "job_field": "Environment, Health & Safety",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-01-30T12:59:09Z",
-      "start_date": "2026-07-01T00:00:00Z",
-      "language": "en_US",
-      "description": "WILLKOMMEN BEI UNS &#13; Die BASF InfraService Solutions Lausitz GmbH gestaltet aktiv die Strukturen und Abläufe im Industriepark Lausitz. Über 900 engagierte Mitarbeitende arbeiten hier täglich daran, Technik zu verstehen, Prozesse effizient zu gestalten und gemeinsam mit starken Partnern neue Maßstäbe zu setzen. Als Standortbetreibergesellschaft legen wir großen Wert auf kundenorientierte Services und maßgeschneiderte Lösungen – mit dem Ziel, nicht nur den Erfolg unserer Kunden zu sichern, son",
-      "recruiter": {
-        "name": "Julia Schubert",
-        "email": "julia.schubert@basf.com",
-        "phone": "+49 30 2005-59076"
-      },
-      "valid": true
-    },
-    {
       "job_id": "132031",
       "title": "Seed Science Operations Agronomist (m/f/d)",
       "url": "https://basf.jobs/job-invite/132031/?locale=en_US",
@@ -4293,6 +4268,32 @@
         "name": "Julia Kilias",
         "email": "julia.kilias@basf.com",
         "phone": "+49 30 2005-59139"
+      },
+      "valid": true
+    },
+    {
+      "job_id": "131930",
+      "title": "Senior Expert vorbeugender Brandschutz (m/w/d)",
+      "url": "https://basf.jobs/job-invite/131930/?locale=en_US",
+      "city": "Schwarzheide",
+      "state": "Brandenburg",
+      "country": "Germany",
+      "postal_code": "95601",
+      "company": "BASF InfraService & Solutions Lausitz GmbH",
+      "business_unit": "EMEA",
+      "department": "ESS/TW Fire Prevention",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-01-30T12:59:09Z",
+      "start_date": "2026-07-01T00:00:00Z",
+      "language": "en_US",
+      "description": "WILLKOMMEN BEI UNS &#13; Die BASF InfraService Solutions Lausitz GmbH gestaltet aktiv die Strukturen und Abläufe im Industriepark Lausitz. Über 900 engagierte Mitarbeitende arbeiten hier täglich daran, Technik zu verstehen, Prozesse effizient zu gestalten und gemeinsam mit starken Partnern neue Maßstäbe zu setzen. Als Standortbetreibergesellschaft legen wir großen Wert auf kundenorientierte Services und maßgeschneiderte Lösungen – mit dem Ziel, nicht nur den Erfolg unserer Kunden zu sichern, son",
+      "recruiter": {
+        "name": "Julia Schubert",
+        "email": "julia.schubert@basf.com",
+        "phone": "+49 30 2005-59076"
       },
       "valid": true
     },
@@ -5111,32 +5112,6 @@
         "name": "Paula Männecke",
         "email": "paula.maennecke@basf.com",
         "phone": "+4930200556093"
-      },
-      "valid": true
-    },
-    {
-      "job_id": "132235",
-      "title": "Lagerist:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/132235/?locale=en_US",
-      "city": "Burgbernheim",
-      "state": "Bayern",
-      "country": "Germany",
-      "postal_code": "95159",
-      "company": "BTC Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "RES03/DOW Site Logistics BBH",
-      "job_field": "Logistics & Supply Chain Management",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-01-19T10:52:34Z",
-      "start_date": "2026-02-01T00:00:00Z",
-      "language": "en_US",
-      "description": "WILLKOMMEN BEI UNS &#13; Als europäische Vertriebsorganisation der BASF-Gruppe vertreibt BTC Europe hochveredelte Spezial- und Feinchemikalien an internationale Kunden in zahlreichen Branchen. Wir profitieren von unserer Kundennähe, unserer Flexibilität, unserer langjährigen Erfahrung und dem gesammelten Know-how des BASF-Verbunds. WAS SIE ERWARTET &#13; Unterstützen Sie unsere Einheit ab sofort als Lagerist:in! Wir arbeiten von Montag bis Freitag mit Gleitzeit und haben keinen Schichtbetrieb. D",
-      "recruiter": {
-        "name": "Svenja Sollmann",
-        "email": "svenja.sollmann@basf.com",
-        "phone": "+49 30 2005-59355"
       },
       "valid": true
     },
