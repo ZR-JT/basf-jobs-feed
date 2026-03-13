@@ -1,36 +1,3 @@
-
-name: Scrape BASF Jobs
-
-on:
-  schedule:
-    - cron: '0 */4 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  scrape:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Python Setup
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Abhaengigkeiten installieren
-        run: |
-          pip install playwright aiohttp
-          playwright install chromium
-          playwright install-deps chromium
-
-      - name: Scraper ausfuehren
-        run: python scraper.py
-
-
 name: Scrape BASF Jobs
 
 on:
@@ -66,7 +33,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add jobs.json jobs.html
+          git add jobs.json index.html regions/
           git diff --staged --quiet || git commit -m "Update jobs $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
-
