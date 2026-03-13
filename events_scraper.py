@@ -41,41 +41,39 @@ async def scrape_events():
 
         await page.wait_for_timeout(6000)
 
-        # ── "Mehr anzeigen" klicken ───────────────────────────────────────────
+        # ── "Mehr anzeigen" per JavaScript klicken ───────────────────────────
         clicks = 0
         for _ in range(20):
-            try:
-                btn = None
-                for selector in [
-                    "button:has-text('Mehr anzeigen')",
-                    "button:has-text('mehr anzeigen')",
-                    "button:has-text('Load more')",
-                    "button:has-text('Weitere')",
-                    "[class*='load-more']",
-                    "[class*='loadmore']",
-                    "[data-action*='load']",
-                    "a:has-text('Mehr anzeigen')",
-                ]:
-                    el = page.locator(selector).first
-                    if await el.count() > 0 and await el.is_visible():
-                        btn = el
-                        break
+            await page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
+            await page.wait_for_timeout(2000)
 
-                if btn is None:
-                    print(f"  ✅ Kein Button mehr — {clicks} Klicks gesamt")
-                    break
+            # Alle Buttons auf der Seite finden und nach Text filtern
+            clicked = await page.evaluate("""
+                () => {
+                    const buttons = Array.from(document.querySelectorAll('button, a'));
+                    const btn = buttons.find(b => 
+                        b.innerText && (
+                            b.innerText.trim().includes('Mehr anzeigen') ||
+                            b.innerText.trim().includes('mehr anzeigen') ||
+                            b.innerText.trim().includes('Load more') ||
+                            b.innerText.trim().includes('Weitere')
+                        )
+                    );
+                    if (btn) {
+                        btn.click();
+                        return btn.innerText.trim();
+                    }
+                    return null;
+                }
+            """)
 
-                await btn.scroll_into_view_if_needed()
-                await btn.click()
+            if clicked:
                 clicks += 1
-                print(f"  🖱 Klick {clicks}")
+                print(f"  🖱 Klick {clicks} — Button: '{clicked}'")
                 await page.wait_for_timeout(3000)
-
-            except Exception as e:
-                print(f"  ⚠ Klick-Fehler: {e}")
+            else:
+                print(f"  ✅ Kein Button mehr — {clicks} Klicks gesamt")
                 break
-
-        await page.wait_for_timeout(2000)
 
         # ── Seiten-HTML für Debugging speichern ───────────────────────────────
         html_content = await page.content()
