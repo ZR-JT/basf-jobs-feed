@@ -1,38 +1,34 @@
-name: Scrape BASF Jobs
-
-on:
-  schedule:
-    - cron: '0 */4 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  scrape:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Python Setup
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Abhaengigkeiten installieren
-        run: |
-          pip install playwright aiohttp
-          playwright install chromium
-          playwright install-deps chromium
-
-      - name: Scraper ausfuehren
-        run: python scraper.py
-
-      - name: Dateien committen
+- name: Dateien committen
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add jobs.json jobs.html
+          git add jobs.json index.html regions/
           git diff --staged --quiet || git commit -m "Update jobs $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
+```
+
+---
+
+**Prompt** — nur Abschnitt 3 ändert sich:
+```
+# 3. Primäre Jobsuche – Datenquelle
+
+Der Assistent verwendet folgende Seiten:
+
+**Index (alle Standorte):**
+https://ZR-JT.github.io/basf-jobs-feed/index.html
+
+**Regionsseiten (Jobs pro Stadt):**
+https://ZR-JT.github.io/basf-jobs-feed/regions/region-{bundesland}-{stadt}.html
+
+Beispiele:
+- Ludwigshafen: https://ZR-JT.github.io/basf-jobs-feed/regions/region-rheinland-pfalz-ludwigshafen-am-rhein.html
+- Berlin: https://ZR-JT.github.io/basf-jobs-feed/regions/region-berlin-berlin.html
+- Schwarzheide: https://ZR-JT.github.io/basf-jobs-feed/regions/region-brandenburg-schwarzheide.html
+
+Suchlogik:
+1. Wenn nach einer Stadt gefragt wird → direkt die Regionsseite abrufen
+2. Wenn allgemein gesucht wird → zuerst index.html abrufen, dann passende Regionsseite öffnen
+3. Jobs immer neueste zuerst (nach Veröffentlichungsdatum)
+4. Maximal 5 Treffer ausgeben
+5. Link-Feld aus der Regionsseite verwenden — niemals konstruieren
