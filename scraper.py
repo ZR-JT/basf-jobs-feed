@@ -4,7 +4,7 @@ import asyncio
 import aiohttp
 from playwright.async_api import async_playwright
 from datetime import datetime
-
+# Url
 SEARCH_URL = "https://basf.jobs/?currentPage=1&pageSize=1000&addresses%2Fcountry=Germany"
 AZURE_URL = "https://searchui.search.windows.net/indexes/basf-prod/docs/search?api-version=2020-06-30"
 
