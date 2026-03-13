@@ -183,9 +183,11 @@ async def scrape_jobs():
             r = j["recruiter"]
             recruiter_info = f'<p class="recruiter">Ansprechpartner: {r.get("name","")} | {r.get("email","")} | {r.get("phone","")}</p>'
 
+        job_url = j.get('url', '')
         html_jobs += f"""
 <div class="job">
-  <h2><a href="{j.get('url','')}">{j.get('title','')}</a></h2>
+  <h2><a href="{job_url}">{j.get('title','')}</a></h2>
+  <p><strong>Link:</strong> {job_url}</p>
   <p><strong>Ort:</strong> {j.get('city','')}, {j.get('state','')}</p>
   <p><strong>Unternehmen:</strong> {j.get('company','')}</p>
   <p><strong>Bereich:</strong> {j.get('job_field','')}</p>
