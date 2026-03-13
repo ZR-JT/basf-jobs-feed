@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-03-13T14:28:49Z",
-  "total_active": 201,
+  "last_updated": "2026-03-13T15:08:58Z",
+  "total_active": 202,
   "jobs": [
+    {
+      "job_id": "134421",
+      "title": "Process Manager Kathodenmaterialien (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134421/?locale=en_US",
+      "city": "Schwarzheide",
+      "state": "Brandenburg",
+      "country": "Germany",
+      "company": "BASF Battery Materials and Recycling Schwarzheide GmbH",
+      "business_unit": "EMEA",
+      "department": "BMO/WS CAM Operations",
+      "job_field": "Engineering",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-03-13T14:45:42Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Der Lausitzer Produktionsstandort ist auf Wachstum ausgerichtet. Mit dem Bau der Anlage für Batteriematerialien legt die BASF in Schwarzheide den Grundstein für eine europäische Wertschöpfungskette der Elektromobilität. Um unseren CO2-Fußabdruck zu verbessern setzen wir auf effiziente Produktionsverfahren, innovatives Kreislaufmanagement und eine nachhaltige Energiestrategie. Dazu zählt auch die Rückgewinnung der Rohstoffe durch Recycling um damit den Kreislauf zu schlie",
+      "recruiter": {
+        "name": "Nils Giernoth",
+        "email": "nils.giernoth@basf.com",
+        "phone": "+49 30 2005-59141"
+      }
+    },
+    {
+      "job_id": "133745",
+      "title": "Head of Customs Governance (m/w/d)",
+      "url": "https://basf.jobs/job-invite/133745/?locale=en_US",
+      "city": "Lampertheim",
+      "state": "Hessen",
+      "country": "Germany",
+      "company": "BASF Lampertheim GmbH",
+      "business_unit": "EMEA",
+      "department": "COT/TC Customs Governance",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-03-13T14:25:37Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir in Taxes Duties @BASF verantworten die Steuerposition der BASF-Gruppe, unterstützen bei der Erreichung operativer und strategischer Ziele und stellen Compliance sicher. Mit weltweit hoher Fachkompetenz und einem tiefen Verständnis der BASF und ihrer Geschäfte sind wir strategischer Partner der Unternehmensbereiche, Corporate Center, Service und Forschungseinheiten innerhalb der BASF-Gruppe. Dabei bauen wir auf effiziente Steuerprozesse, unter Nutzung der Digitalisier",
+      "recruiter": {
+        "name": "Jenny König",
+        "email": "jenny.koenig@basf.com",
+        "phone": "+49 30 2005-56012"
+      }
+    },
     {
       "job_id": "90573",
       "title": "Lagermitarbeiter:in (m/w/d)",
@@ -88,28 +132,6 @@
         "name": "Isabel Maisack",
         "email": "isabel.maisack@basf.com",
         "phone": "+49 30 2005-56683"
-      }
-    },
-    {
-      "job_id": "133745",
-      "title": "Head of Customs Governance (m/w/d)",
-      "url": "https://basf.jobs/job-invite/133745/?locale=en_US",
-      "city": "Lampertheim",
-      "state": "Hessen",
-      "country": "Germany",
-      "company": "BASF Lampertheim GmbH",
-      "business_unit": "EMEA",
-      "department": "COT/TC Customs Governance",
-      "job_field": "Legal, Tax & Insurance",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-03-12T12:35:24Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Das ist der Text: Wir in Taxes Duties @BASF verantworten die Steuerposition der BASF-Gruppe, unterstützen bei der Erreichung operativer und strategischer Ziele und stellen Compliance sicher. Mit weltweit hoher Fachkompetenz und einem tiefen Verständnis der BASF und ihrer Geschäfte sind wir strategischer Partner der Unternehmensbereiche, Corporate Center, Service und Forschungseinheiten innerhalb der BASF-Gruppe. Dabei bauen wir auf effiziente Steuerprozesse, unter Nutzun",
-      "recruiter": {
-        "name": "Jenny König",
-        "email": "jenny.koenig@basf.com",
-        "phone": "+49 30 2005-56012"
       }
     },
     {
