@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-16T10:02:16Z",
-  "total_active": 201,
+  "last_updated": "2026-03-16T11:13:46Z",
+  "total_active": 200,
   "jobs": [
     {
       "job_id": "134183",
@@ -704,28 +704,6 @@
         "name": "Michael Wiesenack-Flick",
         "email": "michael.wiesenack-flick@basf.com",
         "phone": "+49 30 2005-58564"
-      }
-    },
-    {
-      "job_id": "134107",
-      "title": "Agronomic Modeller - Machine Learning Engineer (m/f/d)",
-      "url": "https://basf.jobs/job-invite/134107/?locale=en_US",
-      "city": "Köln",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Digital Farming GmbH",
-      "business_unit": "EMEA",
-      "department": "APM/DT Weed Management",
-      "job_field": "Information Technology & Services",
-      "job_level": "Graduate",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-03-04T12:59:00Z",
-      "description": "WELCOME TO BASF &#13; We are BASF in agriculture and everything we do, we do for the love of farming. Our solutions are purpose-designed for different crop systems, connecting seeds and traits, crop protection, digital tools and sustainability approaches. We strive to deliver the best possible outcomes for farmers, growers and other stakeholders along the value chain. We do everything in our power to build a sustainable future for agriculture by connecting innovation, customers and society. #For",
-      "recruiter": {
-        "name": "Lea Sophie Günther",
-        "email": "lea-sophie.guenther@basf.com",
-        "phone": "+49 30 2005-56150"
       }
     },
     {
