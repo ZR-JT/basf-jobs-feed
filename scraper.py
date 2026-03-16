@@ -206,7 +206,7 @@ async def scrape_jobs():
                 recruiter_str = f'{r.get("name","")} | {r.get("email","")} | {r.get("phone","")}'
 
             rows += f"""<div class="job">
-  <h2><a href="{j.get('url','')}">{j.get('title','')}</a></h2>
+  <h2><a href="{j.get('url','')}'">{j.get('title','')}</a></h2>
   <p><strong>Link:</strong> {j.get('url','')}</p>
   <p><strong>Unternehmen:</strong> {j.get('company','')}</p>
   <p><strong>Bereich:</strong> {j.get('job_field','')}</p>
@@ -224,7 +224,7 @@ async def scrape_jobs():
 <html lang="de">
 <head><meta charset="UTF-8"><title>BASF Jobs – {city}, {state}</title></head>
 <body>
-<p><a href="{BASE_URL}/index.html">← Zurück zur Übersicht</a></p>
+<p><a href="{BASE_URL}/index_lite.html">← Zurück zur Übersicht</a></p>
 <h1>BASF Jobs – {city}, {state}</h1>
 <p>Stand: {timestamp} | {len(region_jobs)} Stelle(n)</p>
 {rows}
@@ -236,7 +236,7 @@ async def scrape_jobs():
 
     print(f"✅ {len(sorted_regions)} Regionsseiten generiert!")
 
-    # ── Index-Seite generieren ───────────────────────────────────────────────
+    # ── index.html generieren (vollständig, mit allen Jobtiteln) ────────────
     index_rows = ""
     current_state = None
 
@@ -274,5 +274,39 @@ async def scrape_jobs():
         f.write(index_html)
 
     print(f"✅ index.html gespeichert!")
+
+    # ── index_lite.html generieren (nur Standorte + Anzahl, für den Agenten) ─
+    lite_rows = ""
+    current_state = None
+
+    for (state, city) in sorted_regions:
+        if state != current_state:
+            if current_state is not None:
+                lite_rows += "</ul>\n"
+            lite_rows += f"<h2>{state}</h2>\n<ul>\n"
+            current_state = state
+
+        slug = region_slugs[(state, city)]
+        count = len(regions[(state, city)])
+        region_url = f"{BASE_URL}/regions/{slug}.html"
+        lite_rows += f'<li><a href="{region_url}">{city}</a> ({count} Stellen)</li>\n'
+
+    if current_state is not None:
+        lite_rows += "</ul>\n"
+
+    lite_index_html = f"""<!DOCTYPE html>
+<html lang="de">
+<head><meta charset="UTF-8"><title>BASF Jobs – Standortübersicht</title></head>
+<body>
+<h1>BASF Stellenangebote Deutschland</h1>
+<p>Stand: {timestamp} | Gesamt: {len(jobs)} Stellen | {len(sorted_regions)} Standorte</p>
+{lite_rows}
+</body>
+</html>"""
+
+    with open("index_lite.html", "w", encoding="utf-8") as f:
+        f.write(lite_index_html)
+
+    print(f"✅ index_lite.html gespeichert!")
 
 asyncio.run(scrape_jobs())
