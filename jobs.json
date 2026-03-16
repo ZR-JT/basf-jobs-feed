@@ -1,7 +1,95 @@
 {
-  "last_updated": "2026-03-16T06:00:04Z",
-  "total_active": 202,
+  "last_updated": "2026-03-16T10:02:16Z",
+  "total_active": 201,
   "jobs": [
+    {
+      "job_id": "134183",
+      "title": "(Junior) Specialist Treasury EMEA - Middle/Front Office (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/134183/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/ET Treasury & Master Data",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-03-16T08:32:56Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Within our unit Treasury Master Data , we offer you the opportunity to gain insights into corporate banking contact as well as support other fr",
+      "recruiter": {
+        "name": "Katarina Borisov",
+        "email": "katarina.borisov@basf.com",
+        "phone": "+49 30 2005-59269"
+      }
+    },
+    {
+      "job_id": "132871",
+      "title": "Internship Business Reporting (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/132871/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/WB2-SU Business Reporting Service Units",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-03-16T07:56:20Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Are you looking to gain hands-on experience during your studies as part of your mandatory 6‑month internship? Do you want to contribute to the ",
+      "recruiter": {
+        "name": "Katarina Borisov",
+        "email": "katarina.borisov@basf.com",
+        "phone": "+49 30 2005-59269"
+      }
+    },
+    {
+      "job_id": "131314",
+      "title": "Power Platform Developer - Microsoft 365 (m/w/d)",
+      "url": "https://basf.jobs/job-invite/131314/?locale=en_US",
+      "city": "Frankfurt am Main",
+      "state": "Hessen",
+      "country": "Germany",
+      "company": "Chemetall GmbH",
+      "business_unit": "EMEA",
+      "department": "G-ECT/OMI Global Digitalization",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-03-16T07:38:11Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Die globale Geschäftseinheit Oberflächentechnik des Unternehmensbereichs Coatings der BASF, die unter der Marke Chemetall operiert, ist ein führender Lieferant angewandter Oberflächentechnik für Metall-, Kunststoff- und Glassubstrate. Diese Spezialchemikalien werden in vielen Industrien und Märkten genutzt, wie zum Beispiel Automobil, Luftfahrt, Aluminiumveredelung, Coil oder in der metallverarbeitenden Industrie – unterstützt von einem großen Netzwerk technischer Expert",
+      "recruiter": {
+        "name": "Thomas Glatz",
+        "email": "thomas.a.glatz@basf.com",
+        "phone": "+49697165-3277"
+      }
+    },
+    {
+      "job_id": "132943",
+      "title": "Junior Controller (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/132943/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/WB1 Business Reporting l",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-03-16T07:20:40Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Are you a passionate and motivated person? Then join our Business Reporting team as a Junior Controller. This position offers you the opportuni",
+      "recruiter": {
+        "name": "Katarina Borisov",
+        "email": "katarina.borisov@basf.com",
+        "phone": "+49 30 2005-59269"
+      }
+    },
     {
       "job_id": "134421",
       "title": "Process Manager Kathodenmaterialien (m/w/d)",
@@ -794,27 +882,6 @@
       }
     },
     {
-      "job_id": "133748",
-      "title": "Senior Specialist Purchase to Pay (m/f/d)",
-      "url": "https://basf.jobs/job-invite/133748/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "G-EVC/SE3 BEx OTC EVC",
-      "job_field": "Logistics & Supply Chain Management",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-03T14:20:32Z",
-      "description": "WELCOME TO BASF &#13; Welcome to BASF Chemical Catalysts and Adsorbents. Today’s chemical industry provides the building blocks for a wide range of materials. As the global leader in catalysis, BASF provides a strong foundation of product and process innovations across the chemical value chain. The result is a broad catalyst portfolio backed by dedicated customer technical service. At BASF, we create chemistry for a sustainable future. WHAT YOU CAN EXPECT &#13; In our unit Supply Chain Managemen",
-      "recruiter": {
-        "name": "Maximilian Mette",
-        "email": "maximilian.mette@basf.com"
-      }
-    },
-    {
       "job_id": "132972",
       "title": "Working Student Corporate Compliance (m/f/d)",
       "url": "https://basf.jobs/job-invite/132972/?locale=en_US",
@@ -1337,28 +1404,6 @@
         "name": "Michael Wiesenack-Flick",
         "email": "michael.wiesenack-flick@basf.com",
         "phone": "+49 30 2005-58564"
-      }
-    },
-    {
-      "job_id": "133199",
-      "title": "Financial Reporting Compliance Specialist (m/w/d)",
-      "url": "https://basf.jobs/job-invite/133199/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "EC/C Strategy & Controlling",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-02-10T07:56:22Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den ",
-      "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
       }
     },
     {
@@ -2173,28 +2218,6 @@
       }
     },
     {
-      "job_id": "132067",
-      "title": "IFRS Specialist (m/f/d)",
-      "url": "https://basf.jobs/job-invite/132067/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "EC/C Strategy & Controlling",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-01-12T12:24:11Z",
-      "description": "WELCOME TO BASF &#13; In the Coatings division, we offer far more than just paints and coatings. Our approach is to put the needs of our customers at the center and always think one step ahead. Our motto ‘We always go beyond the surface’ makes it clear that we are not only focused on the products themselves, but also on the reasons why we develop them. We are interested in creating innovative solutions that promote future growth and fulfil the requirements of the market. With our extensive knowl",
-      "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
-      }
-    },
-    {
       "job_id": "88428",
       "title": "Internship / Thesis Automation and Information Technology  (m/f/d)",
       "url": "https://basf.jobs/job-invite/88428/?locale=en_US",
@@ -2236,50 +2259,6 @@
         "name": "Isabel Maisack",
         "email": "isabel.maisack@basf.com",
         "phone": "+49 30 2005-56683"
-      }
-    },
-    {
-      "job_id": "93999",
-      "title": "TOP START International Business Leader Program (m/f/d)",
-      "url": "https://basf.jobs/job-invite/93999/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "COH/DL TOP START Business Program",
-      "job_field": "General Management",
-      "job_level": "Graduate",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-01-05T07:28:23Z",
-      "description": "WELCOME TO BASF &#13; With TOP START , our exclusive three-year program for future leaders, we will prepare you for a leading position in general management. Contribute your creativity, passion and entrepreneurial drive at BASF and start your successful career with us! Learn more about TOP START here . WHAT YOU CAN EXPECT &#13; Would you like to experience BASF from different perspectives and different regions? Is working on international, mission-critical projects your preference? You value div",
-      "recruiter": {
-        "name": "Anna Remberg",
-        "email": "anna.remberg@basf.com",
-        "phone": "+49 30 2005-56448"
-      }
-    },
-    {
-      "job_id": "115498",
-      "title": "Future Leaders Summit 2026 - Event for TOP START International Business Leadership Program (m/f/d)",
-      "url": "https://basf.jobs/job-invite/115498/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "COH/DL TOP START Business Program",
-      "job_field": "General Management",
-      "job_level": "Graduate",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-01-05T07:27:36Z",
-      "description": "WELCOME TO BASF &#13; Within the TOP START International Business Leadership Program – our advanced and well-established graduate program – you will be on the right track towards a challenging and promising career in international leadership at BASF. During your TOP START experience, you will take on demanding positions and drive transformation by empowering and inspiring others. Bring your creativity, empathy, passion, and pioneering spirit, and join our Future Leaders Summit from May 5th to 6t",
-      "recruiter": {
-        "name": "Anna Remberg",
-        "email": "anna.remberg@basf.com",
-        "phone": "+49 30 2005-56448"
       }
     },
     {
