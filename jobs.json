@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-03-17T10:37:05Z",
+  "last_updated": "2026-03-17T15:44:19Z",
   "total_active": 202,
   "jobs": [
+    {
+      "job_id": "132988",
+      "title": "Junior Controller CSA SCA (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/132988/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/WB2-CB Corporate & BU Controlling",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-03-17T13:48:10Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative,efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our team as a Junior Controller and help shape how the BASF Group allocates costs for centrally provided activities and services. We manage",
+      "recruiter": {
+        "name": "Katarina Borisov",
+        "email": "katarina.borisov@basf.com",
+        "phone": "+49 30 2005-59269"
+      }
+    },
+    {
+      "job_id": "134484",
+      "title": "Werkstudent:in Early Fungicide Biology - Screening (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134484/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Jobmarkt GmbH",
+      "business_unit": "EMEA",
+      "department": "APR/FE Screening",
+      "job_field": "Research & Development",
+      "job_level": "Student",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-03-17T10:31:30Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft. Wir verbinden Saatgut und Traits, Pflanzenschutzprodukte, digitale Werkzeuge und Nachhaltigkeitsansätze, um Landwirten und anderen Stakeholdern entlang der Wertschöpfungskette die bestmöglichen Ergebnisse zu liefern. Wir tun alles in unserer Macht Stehende, um eine nachhaltige Zukunft für die Landwirtschaft zu schaffen, indem wir Innovationen, Kunden und die Gesellschaft mit",
+      "recruiter": {
+        "name": "Lea Sophie Günther",
+        "email": "lea-sophie.guenther@basf.com",
+        "phone": "+49 30 2005-56150"
+      }
+    },
     {
       "job_id": "134206",
       "title": "Risk Management System (RMS) & Internal Control System (ICS)  Team Lead (m/f/d)",
@@ -1538,28 +1582,6 @@
       }
     },
     {
-      "job_id": "132424",
-      "title": "Senior Expert Digitalisierung - Datenanalyse & Software (m/w/d)",
-      "url": "https://basf.jobs/job-invite/132424/?locale=en_US",
-      "city": "Schwarzheide",
-      "state": "Brandenburg",
-      "country": "Germany",
-      "company": "BASF InfraService & Solutions Lausitz GmbH",
-      "business_unit": "EMEA",
-      "department": "ESS/SRI Data Analytics & AI",
-      "job_field": "Digitalization",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-02-06T11:24:39Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Die BASF InfraService Solutions Lausitz GmbH gestaltet aktiv die Strukturen und Abläufe im Industriepark Lausitz. Über 900 engagierte Mitarbeitende arbeiten hier täglich daran, Technik zu verstehen, Prozesse effizient zu gestalten und gemeinsam mit starken Partnern neue Maßstäbe zu setzen. Als Standortbetreibergesellschaft legen wir großen Wert auf kundenorientierte Services und maßgeschneiderte Lösungen – mit dem Ziel, nicht nur den Erfolg unserer Kunden zu sichern, son",
-      "recruiter": {
-        "name": "Nina Schülzke",
-        "email": "nina.schuelzke@basf.com",
-        "phone": "030200558790"
-      }
-    },
-    {
       "job_id": "130013",
       "title": "Internship Marketing & Sales - Digital Learning Development (m/f/d)",
       "url": "https://basf.jobs/job-invite/130013/?locale=en_US",
@@ -1711,28 +1733,6 @@
         "name": "Julia Schubert",
         "email": "julia.schubert@basf.com",
         "phone": "+49 30 2005-59076"
-      }
-    },
-    {
-      "job_id": "132874",
-      "title": "Sachbearbeiter:in im Auftragsmanagement (m/w/d)",
-      "url": "https://basf.jobs/job-invite/132874/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "G-ECR/OSEM Customer Order Management Muenster",
-      "job_field": "Logistics & Supply Chain Management",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-01-30T12:28:59Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den ",
-      "recruiter": {
-        "name": "Melissa Amina Rahmani",
-        "email": "melissa.rahmani@basf.com",
-        "phone": "+49 30 2005-58073"
       }
     },
     {
