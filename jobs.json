@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-03-18T10:38:17Z",
-  "total_active": 200,
+  "last_updated": "2026-03-18T15:33:36Z",
+  "total_active": 201,
   "jobs": [
+    {
+      "job_id": "134687",
+      "title": "Packaging Waste Data Specialist - Parental Leave Substitution (m/f/d)",
+      "url": "https://basf.jobs/job-invite/134687/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/UQ EHSQ Services EMEA",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-03-18T10:57:47Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit, we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; As a Packaging Waste Specialist, you are part of our EHSQ Services Team based in Berlin, and the Packaging Waste Community for EMEA. You ensur",
+      "recruiter": {
+        "name": "Maximilian Mette",
+        "email": "maximilian.mette@basf.com"
+      }
+    },
     {
       "job_id": "132988",
       "title": "Junior Controller CSA SCA (m/f/d) - Hybrid Option GER",
