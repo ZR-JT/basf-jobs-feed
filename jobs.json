@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-03-19T05:15:56Z",
-  "total_active": 201,
+  "last_updated": "2026-03-19T10:06:41Z",
+  "total_active": 200,
   "jobs": [
+    {
+      "job_id": "134440",
+      "title": "Working Student Communications (m/f/d)",
+      "url": "https://basf.jobs/job-invite/134440/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Jobmarkt GmbH",
+      "business_unit": "EMEA",
+      "department": "G-EDJ/RE Resins Sales EMEA",
+      "job_field": "Marketing & Sales",
+      "job_level": "Student",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-03-19T07:52:54Z",
+      "description": "WELCOME TO BASF &#13; In our Dispersions Resins division we offer a broad portfolio of resins, additives and polymer dispersions. These raw materials are used in formulations in the coatings, construction, adhesives, printing and packaging, electronics and paper industries, among others. We develop innovative and sustainable solutions for our customers and help them advance their formulations. WHAT YOU CAN EXPECT &#13; As a working student in the Communications Resins team, you will support our ",
+      "recruiter": {
+        "name": "Julia Looß",
+        "email": "julia.looss@basf.com",
+        "phone": "+49 30 2005-56261"
+      }
+    },
+    {
+      "job_id": "133333",
+      "title": "Werkstudent:in Circular Economy (m/w/d)",
+      "url": "https://basf.jobs/job-invite/133333/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Jobmarkt GmbH",
+      "business_unit": "EMEA",
+      "department": "CD/NE Circular Economy",
+      "job_field": "General Management",
+      "job_level": "Student",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-03-19T06:14:34Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir gestalten die Zukunft der BASF, in dem wir den strategischen Rahmen definieren. Als Teil des Corporate Centers unterstützen wir unseren Vorstand in allen Portfolio- und Ressourcenallokationsentscheidungen. Wir entwickeln Strategien, identifizieren Chancen und Risiken und analysieren Trends in Nachhaltigkeit und Technologie. Gemeinsam mit den Unternehmensbereichen erarbeiten wir Strategien für die Geschäftsbereiche und begleiten deren Umsetzung. WAS SIE ERWARTET &#13;",
+      "recruiter": {
+        "name": "Laura Rebecca Beltempo",
+        "email": "laura-rebecca.beltempo@basf.com",
+        "phone": "+49 30 2005-59842"
+      }
+    },
     {
       "job_id": "134687",
       "title": "Packaging Waste Data Specialist - Parental Leave Substitution (m/f/d)",
@@ -1340,28 +1384,6 @@
       }
     },
     {
-      "job_id": "133333",
-      "title": "Werkstudent:in Circular Economy (m/w/d)",
-      "url": "https://basf.jobs/job-invite/133333/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Jobmarkt GmbH",
-      "business_unit": "EMEA",
-      "department": "CD/NE Circular Economy",
-      "job_field": "General Management",
-      "job_level": "Student",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-02-19T13:39:16Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir gestalten die Zukunft der BASF, in dem wir den strategischen Rahmen definieren. Als Teil des Corporate Centers unterstützen wir unseren Vorstand in allen Portfolio- und Ressourcenallokationsentscheidungen. Wir entwickeln Strategien, identifizieren Chancen und Risiken und analysieren Trends in Nachhaltigkeit und Technologie. Gemeinsam mit den Unternehmensbereichen erarbeiten wir Strategien für die Geschäftsbereiche und begleiten deren Umsetzung. WAS SIE ERWARTET &#13;",
-      "recruiter": {
-        "name": "Laura Rebecca Beltempo",
-        "email": "laura-rebecca.beltempo@basf.com",
-        "phone": "+49 30 2005-59842"
-      }
-    },
-    {
       "job_id": "133499",
       "title": "Mitarbeiter:in Lager und Transport (m/w/d)",
       "url": "https://basf.jobs/job-invite/133499/?locale=en_US",
@@ -1622,28 +1644,6 @@
         "name": "Isabelle Kert",
         "email": "isabelle.kert@basf.com",
         "phone": "+49 30 2005-59773"
-      }
-    },
-    {
-      "job_id": "132934",
-      "title": "Praktikum chemische Produktion (m/w/d)",
-      "url": "https://basf.jobs/job-invite/132934/?locale=en_US",
-      "city": "Grenzach-Wyhlen",
-      "state": "Baden-Württemberg",
-      "country": "Germany",
-      "company": "BASF Grenzach GmbH",
-      "business_unit": "EMEA",
-      "department": "EMX/EG Operations Excellence Management",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Graduate",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-02-05T15:23:15Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Pflegende Hautcremes, milde Shampoos, Sonnenschutzmittel, schonende und umweltfreundliche Waschmittel und leistungsstarke Reiniger für Haushalt und Industrie - all diese Produkte nutzen Inhaltsstoffe aus unserem Bereich Care Chemicals. Darüber hinaus bieten wir beispielsweise Lösungen auf dem Gebiet des Pflanzenschutzes, für technische Anwendungen in der Bauchemie oder Rohstoffe für die Lackindustrie. Weltweit arbeiten wir gemeinsam mit unseren Kunden an innovativen Lösu",
-      "recruiter": {
-        "name": "Romy Marie Gründel",
-        "email": "romy.gruendel@basf.com",
-        "phone": "+49 30 2005-56730"
       }
     },
     {
@@ -3697,27 +3697,6 @@
         "name": "Mariya Budkevych",
         "email": "mariya.budkevych@basf.com",
         "phone": "+49 30 2005-56363"
-      }
-    },
-    {
-      "job_id": "119229",
-      "title": "Bachelor of Science - International Business Administration (m/w/d)",
-      "url": "https://basf.jobs/job-invite/119229/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
-      "job_field": "General Management",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert? Auch die Praxis findest du spannend? Dann ist dieses Studium genau richtig f r dich! Durch die Verbindung von Theorie und Praxis wirst du zum wahren Allrounder. Du durchl ufst verschiedene Abteilungen, wie zum Beispiel Marketing, Vertrieb, Personal und Controlling. Dabei lernst du, wie man ein Unternehmen f hrt, organisiert und steuert. Wesentliche Bestandteile dabei sind die Digitalisierung von Gesch fts",
-      "recruiter": {
-        "name": "Laura Juliane Mierke",
-        "email": "juliane.mierke@basf.com",
-        "phone": "+49 30 2005-58922"
       }
     },
     {
