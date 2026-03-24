@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-03-24T15:46:35Z",
-  "total_active": 196,
+  "last_updated": "2026-03-24T19:37:11Z",
+  "total_active": 197,
   "jobs": [
+    {
+      "job_id": "134980",
+      "title": "Aerospace Application Technologies Manager (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134980/?locale=en_US",
+      "city": "Frankfurt am Main",
+      "state": "Hessen",
+      "country": "Germany",
+      "company": "Chemetall GmbH",
+      "business_unit": "EMEA",
+      "department": "G-ECT/OMA GSM Aerospace",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-03-24T15:35:44Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Die globale Geschäftseinheit Oberflächentechnik des Unternehmensbereichs Coatings der BASF, die unter der Marke Chemetall operiert, ist ein führender Lieferant angewandter Oberflächentechnik für Metall-, Kunststoff- und Glassubstrate. Diese Spezialchemikalien werden in vielen Industrien und Märkten genutzt, wie zum Beispiel Automobil, Luftfahrt, Aluminiumveredelung, Coil oder in der metallverarbeitenden Industrie – unterstützt von einem großen Netzwerk technischer Expert",
+      "recruiter": {
+        "name": "Thomas Glatz",
+        "email": "thomas.a.glatz@basf.com",
+        "phone": "+49697165-3277"
+      }
+    },
     {
       "job_id": "134334",
       "title": "HR Business Partner (m/w/d)",
