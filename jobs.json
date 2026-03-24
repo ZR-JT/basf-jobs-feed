@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-03-24T10:37:28Z",
-  "total_active": 198,
+  "last_updated": "2026-03-24T15:46:35Z",
+  "total_active": 196,
   "jobs": [
+    {
+      "job_id": "134334",
+      "title": "HR Business Partner (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134334/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Renewable Energy GmbH",
+      "business_unit": "EMEA",
+      "department": "GP/B BASF Renewable Energy",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-03-24T14:55:36Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Die Zukunft der BASF ist klimaneutral – und wir gestalten den Weg dorthin! Wir ermöglichen BASF den Zugang zu erneuerbarem Strom als auch weiteren Energieträgern mit geringen Vorkettenemissionen. Wir beteiligen uns an der Produktion, schließen langfristige Lieferverträge ab, handeln an Großhandelsmärkten und versorgen so die europäischen BASF-Standorte kompetitiv mit wesentlichen Energieträgern. WAS SIE ERWARTET &#13; In unserer Personalabteilung beraten und unterstützen",
+      "recruiter": {
+        "name": "Bonnie Gardt",
+        "email": "bonnie.gardt@basf.com",
+        "phone": "+49 30 2005-59672"
+      }
+    },
     {
       "job_id": "134605",
       "title": "Sales Financing Specialist (m/f/d)",
@@ -260,28 +282,6 @@
       "hybrid": false,
       "date_posted": "2026-03-23T07:03:30Z",
       "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Within our team Back Office of Regional Treasury EMEA, you learn about Treasury and Cash Management activities in a global corporation and supp",
-      "recruiter": {
-        "name": "Katarina Borisov",
-        "email": "katarina.borisov@basf.com",
-        "phone": "+49 30 2005-59269"
-      }
-    },
-    {
-      "job_id": "134183",
-      "title": "(Junior) Specialist Treasury EMEA - Middle/Front Office (m/f/d) - Hybrid Option GER",
-      "url": "https://basf.jobs/job-invite/134183/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/ET Treasury & Master Data",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-23T07:03:18Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Within our unit Treasury Master Data , we offer you the opportunity to gain insights into corporate banking contact as well as support other fr",
       "recruiter": {
         "name": "Katarina Borisov",
         "email": "katarina.borisov@basf.com",
@@ -2042,28 +2042,6 @@
       }
     },
     {
-      "job_id": "132252",
-      "title": "Planer:in für technische Gebäudeausrüstung (m/w/d)",
-      "url": "https://basf.jobs/job-invite/132252/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "EC/BSSTH Heizung, Lüftung, Klima, Sanitär",
-      "job_field": "Construction & Skilled Trades",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-01-23T11:01:12Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den ",
-      "recruiter": {
-        "name": "Julia Kilias",
-        "email": "julia.kilias@basf.com",
-        "phone": "+49 30 2005-59139"
-      }
-    },
-    {
       "job_id": "127478",
       "title": "Rechtsanwältin / Rechtsanwalt IP Legal - Agricultural Solutions (m/w/d)",
       "url": "https://basf.jobs/job-invite/127478/?locale=en_US",
@@ -2105,28 +2083,6 @@
         "name": "Lennart Boudgoust",
         "email": "lennart.boudgoust@basf.com",
         "phone": "+49 30 2005-56521"
-      }
-    },
-    {
-      "job_id": "132142",
-      "title": "Bilanzkreismanager Gas/ Strom (m/f/d)",
-      "url": "https://basf.jobs/job-invite/132142/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Renewable Energy GmbH",
-      "business_unit": "EMEA",
-      "department": "GP/BI Operations",
-      "job_field": "Procurement",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-01-20T14:23:03Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Die Zukunft der BASF ist klimaneutral – und wir gestalten den Weg dorthin! Wir ermöglichen BASF den Zugang zu erneuerbarem Strom und weiteren Energieträgern. Wir investieren in Produktionsanlagen, schließen langfristige Lieferverträge ab, handeln an Großhandelsmärkten und versorgen so die BASF-Standorte mit Energie zu wettbewerbsfähigen Preisen. WAS SIE ERWARTET &#13; Im Rahmen Ihrer Tätigkeit als Bilanzkreismanager übernehmen Sie Verantwortung für die operativen Prozess",
-      "recruiter": {
-        "name": "Bonnie Gardt",
-        "email": "bonnie.gardt@basf.com",
-        "phone": "+49 30 2005-59672"
       }
     },
     {
