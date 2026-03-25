@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-03-25T05:16:42Z",
+  "last_updated": "2026-03-25T10:35:03Z",
   "total_active": 197,
   "jobs": [
+    {
+      "job_id": "134663",
+      "title": "(Senior) Specialist External Reporting (m/f/d)",
+      "url": "https://basf.jobs/job-invite/134663/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "APB/C IPO Readiness Project",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-03-25T09:57:33Z",
+      "description": "WELCOME TO BASF &#13; We are BASF in Agriculture and everything we do, we do for the love of farming, and the biggest job on Earth. We are an internationally successful company of the BASF Group. Our solutions are purpose-designed for different crop systems. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. With teams in the lab, fiel",
+      "recruiter": {
+        "name": "Isabel Maisack",
+        "email": "isabel.maisack@basf.com",
+        "phone": "+49 30 2005-56683"
+      }
+    },
     {
       "job_id": "134980",
       "title": "Aerospace Application Technologies Manager (m/w/d)",
@@ -637,28 +659,6 @@
         "name": "Jenny König",
         "email": "jenny.koenig@basf.com",
         "phone": "+49 30 2005-56012"
-      }
-    },
-    {
-      "job_id": "90573",
-      "title": "Lagermitarbeiter:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/90573/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "ECP/OGL Finished Goods Logistics Münster",
-      "job_field": "Logistics & Supply Chain Management",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-13T11:51:17Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings setzen wir auf die Entwicklung, Produktion und Vermarktung verschiedenster Beschichtungslösungen - von der angewandten Oberflächentechnik bis zur Fahrzeuglackierung. Wir fördern Innovation, Design und neue Anwendungsmöglichkeiten, um in global agierenden Teams die Bedürfnisse unserer Partner weltweit zu erfüllen. Ergänzt wird dieses Portfolio durch \"Beyond Paint Solutions\", welche mit innovativen Oberflächen neue Anwendungen ermöglicht. WAS SIE ERWART",
-      "recruiter": {
-        "name": "Julia Kilias",
-        "email": "julia.kilias@basf.com",
-        "phone": "+49 30 2005-59139"
       }
     },
     {
@@ -1322,7 +1322,7 @@
     },
     {
       "job_id": "121038",
-      "title": "Officer/ Specialist Payroll and HR administration Specialist with French",
+      "title": "Officer/ Specialist Payroll and HR administration Specialist with French (m/f/d)",
       "url": "https://basf.jobs/job-invite/121038/?locale=en_US",
       "city": "Berlin",
       "state": "Berlin",
