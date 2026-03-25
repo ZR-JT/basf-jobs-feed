@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-03-25T15:50:23Z",
-  "total_active": 198,
+  "last_updated": "2026-03-25T18:38:50Z",
+  "total_active": 200,
   "jobs": [
+    {
+      "job_id": "133638",
+      "title": "Global Website Manager IPO (m/f/d)",
+      "url": "https://basf.jobs/job-invite/133638/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Jobmarkt GmbH",
+      "business_unit": "EMEA",
+      "department": "APB/KB Online Comms",
+      "job_field": "Public Relations / Communications",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-03-25T16:07:07Z",
+      "description": "WELCOME TO BASF &#13; We are BASF in agriculture and everything we do, we do for the love of farming. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. We do everything in our power to build a sustainable future for agriculture by connecting innovation, customers and society. #ForTheLoveOfFarming #TheBiggestJobOnEarth Take a look at o",
+      "recruiter": {
+        "name": "Lea Sophie Günther",
+        "email": "lea-sophie.guenther@basf.com",
+        "phone": "+49 30 2005-56150"
+      }
+    },
+    {
+      "job_id": "133634",
+      "title": "Global Social Media Manager (m/f/d)",
+      "url": "https://basf.jobs/job-invite/133634/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Jobmarkt GmbH",
+      "business_unit": "EMEA",
+      "department": "APB/KB Online Comms",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-03-25T16:05:01Z",
+      "description": "WELCOME TO BASF &#13; We are BASF in agriculture and everything we do, we do for the love of farming. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. We do everything in our power to build a sustainable future for agriculture by connecting innovation, customers and society. #ForTheLoveOfFarming #TheBiggestJobOnEarth Take a look at o",
+      "recruiter": {
+        "name": "Lea Sophie Günther",
+        "email": "lea-sophie.guenther@basf.com",
+        "phone": "+49 30 2005-56150"
+      }
+    },
     {
       "job_id": "134661",
       "title": "Specialist External Reporting (m/f/d)",
