@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-03-25T10:35:03Z",
-  "total_active": 197,
+  "last_updated": "2026-03-25T15:50:23Z",
+  "total_active": 198,
   "jobs": [
+    {
+      "job_id": "134661",
+      "title": "Specialist External Reporting (m/f/d)",
+      "url": "https://basf.jobs/job-invite/134661/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "APB/C IPO Readiness Project",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-03-25T15:20:34Z",
+      "description": "WELCOME TO BASF &#13; We are BASF in Agriculture and everything we do, we do for the love of farming, and the biggest job on Earth. We are an internationally successful company of the BASF Group. Our solutions are purpose-designed for different crop systems. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. With teams in the lab, fiel",
+      "recruiter": {
+        "name": "Isabel Maisack",
+        "email": "isabel.maisack@basf.com",
+        "phone": "+49 30 2005-56683"
+      }
+    },
     {
       "job_id": "134663",
       "title": "(Senior) Specialist External Reporting (m/f/d)",
