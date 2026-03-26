@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-03-26T10:39:47Z",
-  "total_active": 199,
+  "last_updated": "2026-03-26T15:58:29Z",
+  "total_active": 198,
   "jobs": [
+    {
+      "job_id": "134848",
+      "title": "Werkstudent:in Grafikdesign (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134848/?locale=en_US",
+      "city": "Trostberg",
+      "state": "Bayern",
+      "country": "Germany",
+      "company": "BASF Construction Additives GmbH",
+      "business_unit": "EMEA",
+      "department": "ED/BM Marketing",
+      "job_field": "Marketing & Sales",
+      "job_level": "Student",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-03-26T12:45:24Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Die BASF Construction Additives GmbH ist ein führender Hersteller von Zusatzstoffen für die Bauindustrie und Anwendungen im Ölfeld. Unsere Produkte werden in vielfältigen Formulierungen der bauchemischen Industrie wie zum Beispiel Fliesenkleber und Spachtelmassen eingesetzt. Am Standort Trostberg erforschen, entwickeln und produzieren wir innovative Lösungen für unsere globalen Kunden, um ihnen die Herstellung maßgeschneiderter Anwendungen zu ermöglichen. Gemeinsam mit u",
+      "recruiter": {
+        "name": "Jenny König",
+        "email": "jenny.koenig@basf.com",
+        "phone": "+49 30 2005-56012"
+      }
+    },
+    {
+      "job_id": "134853",
+      "title": "Manager Technical Material Management - Planning & Control (TMAT MPC) (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134853/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Logistics GmbH",
+      "business_unit": "EMEA",
+      "department": "ESL/WM Operations Technische Materialversorgung",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-03-26T12:33:16Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Die BASF Logistics GmbH ist eine junge, wachsende BASF-Gruppengesellschaft mit Standorten in Ludwigshafen und Schwarzheide. Beauftragt von den jeweils für die Standortlogistik verantwortlichen Einheiten, tragen wir mit unseren Dienstleistungen wesentlich zur Wettbewerbsfähigkeit der Logistik an deutschen BASF-Standorten bei. WAS SIE ERWARTET &#13; Ihre Aufgaben umfassen die fachliche Leitung des Technical Materials Planning Control Teams (TMAT MPC) am Standort Ludwigshaf",
+      "recruiter": {
+        "name": "Lina Wehr",
+        "email": "lina.wehr@basf.com",
+        "phone": "+49 30 2005-56745"
+      }
+    },
     {
       "job_id": "133638",
       "title": "Global Website Manager IPO (m/f/d)",
@@ -506,28 +550,6 @@
         "name": "Julia Looß",
         "email": "julia.looss@basf.com",
         "phone": "+49 30 2005-56261"
-      }
-    },
-    {
-      "job_id": "133333",
-      "title": "Werkstudent:in Circular Economy (m/w/d)",
-      "url": "https://basf.jobs/job-invite/133333/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Jobmarkt GmbH",
-      "business_unit": "EMEA",
-      "department": "CD/NE Circular Economy",
-      "job_field": "General Management",
-      "job_level": "Student",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-19T06:14:34Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir gestalten die Zukunft der BASF, in dem wir den strategischen Rahmen definieren. Als Teil des Corporate Centers unterstützen wir unseren Vorstand in allen Portfolio- und Ressourcenallokationsentscheidungen. Wir entwickeln Strategien, identifizieren Chancen und Risiken und analysieren Trends in Nachhaltigkeit und Technologie. Gemeinsam mit den Unternehmensbereichen erarbeiten wir Strategien für die Geschäftsbereiche und begleiten deren Umsetzung. WAS SIE ERWARTET &#13;",
-      "recruiter": {
-        "name": "Laura Rebecca Beltempo",
-        "email": "laura-rebecca.beltempo@basf.com",
-        "phone": "+49 30 2005-59842"
       }
     },
     {
@@ -2431,28 +2453,6 @@
       }
     },
     {
-      "job_id": "131310",
-      "title": "EHS Spezialist:in Arbeitssicherheit (m/w/d)",
-      "url": "https://basf.jobs/job-invite/131310/?locale=en_US",
-      "city": "Grenzach-Wyhlen",
-      "state": "Baden-Württemberg",
-      "country": "Germany",
-      "company": "BASF Grenzach GmbH",
-      "business_unit": "EMEA",
-      "department": "EMX/QE EHSQ",
-      "job_field": "Quality Management",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2025-12-18T14:24:23Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir bei Care Chemicals handeln aus Leidenschaft. Unsere Mitarbeiter:innen sind unser wertvollstes Gut und wir pflegen eine Kultur der Empathie, der Unterstützung und des Wachstums. Auf diese Weise befähigen wir unser Team, sich persönlich und beruflich weiterzuentwickeln. Mit vereinten Kräften engagieren wir uns für die Entwicklung nachhaltiger, digitaler und innovativer Lösungen für eine bessere Zukunft. Pflegende Hautcremes, milde Shampoos, Sonnenschutzmittel, schonend",
-      "recruiter": {
-        "name": "Romy Marie Gründel",
-        "email": "romy.gruendel@basf.com",
-        "phone": "+49 30 2005-56730"
-      }
-    },
-    {
       "job_id": "131547",
       "title": "Chemikant:in / Produktionsmitarbeiter:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/131547/?locale=en_US",
@@ -3906,27 +3906,6 @@
         "name": "Katrin Statnick",
         "email": "katrin.statnick@basf.com",
         "phone": "+49 30 2005-58118"
-      }
-    },
-    {
-      "job_id": "119231",
-      "title": "Bachelor of Science - International Business Administration & Information Technology (m/w/d)",
-      "url": "https://basf.jobs/job-invite/119231/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
-      "job_field": "Information Technology & Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Digitalisierung spannend und m chtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spa an Mathematik, Englisch und wirtschaftlichen Zusammenh ngen hast und du dich zudem f r fremde Kulturen interessierst, dann bist du in der internationalen Wirtschaftsinformatik richtig! Denn so vielf ltig und anspruchsvoll wie deine Interessen sind, so ist auch dein Studium. Du erlernst die wichtigsten Grundlagen in Wirtschaf",
-      "recruiter": {
-        "name": "Laura Juliane Mierke",
-        "email": "juliane.mierke@basf.com",
-        "phone": "+49 30 2005-58922"
       }
     },
     {
