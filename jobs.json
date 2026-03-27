@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-03-27T10:34:22Z",
-  "total_active": 196,
+  "last_updated": "2026-03-27T14:44:52Z",
+  "total_active": 192,
   "jobs": [
+    {
+      "job_id": "88396",
+      "title": "Do not apply - Admin Test Requisition Global Apprentice 1",
+      "url": "https://basf.jobs/job-invite/88396/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "department": "GBE/SHV-TGS1 General Service",
+      "job_field": "Digitalization",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-03-27T12:25:27Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast Lust deine Ausbildung in einem innovativen Unternehmen zu absolvieren? Kunststoff fasziniert dich? Dann ist diese Ausbildung genau das Richtige für dich! Wähle diesen Ausbildungsberuf und lerne bei uns die Welt des Kunstoffs im 3D Druck genauestens kennen. Kunststoff und auch Kautschuk sind auf Grund ihrer sehr guten chemischen Beständigkeit vielseitig einsetzbar und damit für uns Gold wert. Genau wie Du! Komm in unser Team und arbeite in einem der vielse",
+      "recruiter": {
+        "name": "Ahmet Alkan",
+        "email": "ahmet.alkan@basf.com"
+      }
+    },
     {
       "job_id": "134848",
       "title": "Werkstudent:in Grafikdesign (m/w/d)",
@@ -575,7 +595,7 @@
     },
     {
       "job_id": "134484",
-      "title": "Werkstudent:in Early Fungicide Biology - Screening (m/w/d)",
+      "title": "Werkstudent:in - Gewächshaus - Fungicide Biology (m/w/d)",
       "url": "https://basf.jobs/job-invite/134484/?locale=en_US",
       "city": "Limburgerhof",
       "state": "Rheinland-Pfalz",
@@ -882,28 +902,6 @@
       }
     },
     {
-      "job_id": "133876",
-      "title": "Laborant:in Analytik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/133876/?locale=en_US",
-      "city": "Schwarzheide",
-      "state": "Brandenburg",
-      "country": "Germany",
-      "company": "BASF Battery Materials and Recycling Schwarzheide GmbH",
-      "business_unit": "EMEA",
-      "department": "BMO/WS Analytical Services CAM",
-      "job_field": "Research & Development",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-11T11:43:22Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Der Lausitzer Produktionsstandort ist auf Wachstum ausgerichtet. Mit dem Bau der Anlage für Batteriematerialien legt die BASF in Schwarzheide den Grundstein für eine europäische Wertschöpfungskette der Elektromobilität. Um unseren CO2-Fußabdruck zu verbessern setzen wir auf effiziente Produktionsverfahren, innovatives Kreislaufmanagement und eine nachhaltige Energiestrategie. Dazu zählt auch die Rückgewinnung der Rohstoffe durch Recycling um damit den Kreislauf zu schlie",
-      "recruiter": {
-        "name": "Nils Giernoth",
-        "email": "nils.giernoth@basf.com",
-        "phone": "+49 30 2005-59141"
-      }
-    },
-    {
       "job_id": "134194",
       "title": "Praktikum Instrumentelle Analytik (m/w/d)",
       "url": "https://basf.jobs/job-invite/134194/?locale=en_US",
@@ -923,28 +921,6 @@
         "name": "Silke Pudicke",
         "email": "silke.pudicke@basf.com",
         "phone": "+49 30 2005-58449"
-      }
-    },
-    {
-      "job_id": "133076",
-      "title": "Werkstudent:in Future-oriented Trade Compliance Data Platform (m/w/d)",
-      "url": "https://basf.jobs/job-invite/133076/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Jobmarkt GmbH",
-      "business_unit": "EMEA",
-      "department": "CLC/TC Corporate Trade Compliance",
-      "job_field": "Legal, Tax & Insurance",
-      "job_level": "Student",
-      "job_type": "Other",
-      "hybrid": false,
-      "date_posted": "2026-03-10T09:23:24Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Unsere Einheit Corporate Legal, Compliance Insurance berät zu Rechtsfragen und Versicherungen und betreut das Compliance Integrity Programm der BASF-Gruppe. Mit unserer Expertise auf diesen Gebieten stehen wir unseren Kolleg:innen als aktiv gestaltender Partner zur Seite. Durch unser globales Team stellen wir sicher, dass unsere Beratung stets nah am Kunden erfolgt. WAS SIE ERWARTET &#13; Innerhalb der Einheit wirkt das Team Trade Compliance als Business Enabler an der S",
-      "recruiter": {
-        "name": "Laura Juliane Mierke",
-        "email": "juliane.mierke@basf.com",
-        "phone": "+49 30 2005-58922"
       }
     },
     {
@@ -1274,28 +1250,6 @@
       "recruiter": {
         "name": "Maximilian Mette",
         "email": "maximilian.mette@basf.com"
-      }
-    },
-    {
-      "job_id": "132972",
-      "title": "Working Student Corporate Compliance (m/f/d)",
-      "url": "https://basf.jobs/job-invite/132972/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Jobmarkt GmbH",
-      "business_unit": "EMEA",
-      "department": "CLC/RA Awareness, Risk & Controls",
-      "job_field": "Legal, Tax & Insurance",
-      "job_level": "Student",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-03T09:43:28Z",
-      "description": "WELCOME TO BASF &#13; In our Corporate Legal, Compliance Insurance unit we advise on legal issues and insurance and support the BASF Group's Compliance Integrity Program. With our expertise, we support our colleagues as an active partner. Our global team ensures that our advice is always close to the customer. WHAT YOU CAN EXPECT &#13; For our Corporate Compliance Team at BASF Group, we are looking for motivated support for up to 20 hours per week. As a Working Student, you will gain hands-on ex",
-      "recruiter": {
-        "name": "Laura Juliane Mierke",
-        "email": "juliane.mierke@basf.com",
-        "phone": "+49 30 2005-58922"
       }
     },
     {
@@ -1713,28 +1667,6 @@
       }
     },
     {
-      "job_id": "132425",
-      "title": "Expert Digitalisierung - Datenanalyse & Software (m/w/d)",
-      "url": "https://basf.jobs/job-invite/132425/?locale=en_US",
-      "city": "Schwarzheide",
-      "state": "Brandenburg",
-      "country": "Germany",
-      "company": "BASF InfraService & Solutions Lausitz GmbH",
-      "business_unit": "EMEA",
-      "department": "ESS/SRI Data Analytics & AI",
-      "job_field": "Digitalization",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-02-06T11:27:07Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Die BASF InfraService Solutions Lausitz GmbH gestaltet aktiv die Strukturen und Abläufe im Industriepark Lausitz. Über 900 engagierte Mitarbeitende arbeiten hier täglich daran, Technik zu verstehen, Prozesse effizient zu gestalten und gemeinsam mit starken Partnern neue Maßstäbe zu setzen. Als Standortbetreibergesellschaft legen wir großen Wert auf kundenorientierte Services und maßgeschneiderte Lösungen – mit dem Ziel, nicht nur den Erfolg unserer Kunden zu sichern, son",
-      "recruiter": {
-        "name": "Julia Schubert",
-        "email": "julia.schubert@basf.com",
-        "phone": "+49 30 2005-59076"
-      }
-    },
-    {
       "job_id": "130013",
       "title": "Internship Marketing & Sales - Digital Learning Development (m/f/d)",
       "url": "https://basf.jobs/job-invite/130013/?locale=en_US",
@@ -1754,28 +1686,6 @@
         "name": "Isabelle Kert",
         "email": "isabelle.kert@basf.com",
         "phone": "+49 30 2005-59773"
-      }
-    },
-    {
-      "job_id": "132332",
-      "title": "Werkstudent:in Data Protection Office (m/w/d)",
-      "url": "https://basf.jobs/job-invite/132332/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Jobmarkt GmbH",
-      "business_unit": "EMEA",
-      "department": "CLC/DP Data Protection Office BASF Group",
-      "job_field": "Legal, Tax & Insurance",
-      "job_level": "Student",
-      "job_type": "Other",
-      "hybrid": false,
-      "date_posted": "2026-02-03T13:12:11Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Unsere Einheit Corporate Legal, Compliance Insurance berät zu Rechtsfragen und Versicherungen und betreut das Compliance Integrity Programm der BASF-Gruppe. Mit unserer Expertise auf diesen Gebieten stehen wir unseren Kolleg:innen als aktiv gestaltender Partner zur Seite. Durch unser globales Team stellen wir sicher, dass unsere Beratung stets nah am Kunden erfolgt. WAS SIE ERWARTET &#13; Für unsere Fachabteilung Data Protection Office BASF Group suchen wir Sie als Unter",
-      "recruiter": {
-        "name": "Laura Juliane Mierke",
-        "email": "juliane.mierke@basf.com",
-        "phone": "+49 30 2005-58922"
       }
     },
     {
