@@ -236,7 +236,10 @@ async def scrape_jobs():
 
     print(f"✅ {len(sorted_regions)} Regionsseiten generiert!")
 
-    # ── index.html generieren (vollständig, mit allen Jobtiteln) ────────────
+    # ── index.html generieren (vollständig, mit allen Jobtiteln + Links) ────
+    # ÄNDERUNG: Jeder Jobeintrag enthält jetzt den direkten basf.jobs-Link.
+    # Das erlaubt dem KI-Agenten, Links direkt aus dem Index zu lesen,
+    # ohne eine separate Regionsseite abrufen zu müssen.
     index_rows = ""
     current_state = None
 
@@ -254,7 +257,12 @@ async def scrape_jobs():
 
         index_rows += f'<li><a href="{region_url}">{city}</a> ({count} Stelle(n))<ul>\n'
         for j in region_jobs:
-            index_rows += f'  <li>{j.get("date_posted","")[:10]} – {j.get("title","")}</li>\n'
+            # ── GEÄNDERTE ZEILE ──────────────────────────────────────────────
+            # Vorher: <li>DATUM – TITEL</li>
+            # Jetzt:  <li>DATUM – <a href="LINK">TITEL</a></li>
+            # Der Agent kann den Link jetzt direkt aus dem Index lesen.
+            index_rows += f'  <li>{j.get("date_posted","")[:10]} – <a href="{j.get("url","")}">{j.get("title","")}</a></li>\n'
+            # ────────────────────────────────────────────────────────────────
         index_rows += f'</ul></li>\n'
 
     if current_state is not None:
