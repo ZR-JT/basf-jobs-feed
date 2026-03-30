@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-03-30T06:18:00Z",
+  "last_updated": "2026-03-30T11:37:41Z",
   "total_active": 190,
   "jobs": [
+    {
+      "job_id": "132425",
+      "title": "Expert Digitalisierung - Datenanalyse & KI (m/w/d)",
+      "url": "https://basf.jobs/job-invite/132425/?locale=en_US",
+      "city": "Schwarzheide",
+      "state": "Brandenburg",
+      "country": "Germany",
+      "company": "BASF InfraService & Solutions Lausitz GmbH",
+      "business_unit": "EMEA",
+      "department": "ESS/SRI Data Analytics & AI",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-03-30T10:38:03Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Die BASF InfraService Solutions Lausitz GmbH gestaltet aktiv die Strukturen und Abläufe im Industriepark Lausitz. Über 900 engagierte Mitarbeitende arbeiten hier täglich daran, Technik zu verstehen, Prozesse effizient zu gestalten und gemeinsam mit starken Partnern neue Maßstäbe zu setzen. Als Standortbetreibergesellschaft legen wir großen Wert auf kundenorientierte Services und maßgeschneiderte Lösungen – mit dem Ziel, nicht nur den Erfolg unserer Kunden zu sichern, son",
+      "recruiter": {
+        "name": "Julia Schubert",
+        "email": "julia.schubert@basf.com",
+        "phone": "+49 30 2005-59076"
+      }
+    },
+    {
+      "job_id": "134641",
+      "title": "Working Student - Consulting Operations & Data Analytics (m/f/d)",
+      "url": "https://basf.jobs/job-invite/134641/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Jobmarkt GmbH",
+      "business_unit": "EMEA",
+      "department": "GBM Consulting Operations",
+      "job_field": "Inhouse Consulting",
+      "job_level": "Student",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-03-30T08:17:08Z",
+      "description": "WELCOME TO BASF &#13; Welcome to the global management consultancy of BASF. We focus on strategic inhouse projectsthat drive the effective transformation of our businesses. Our teams work on a broad range ofexciting projects covering topics such as marketing sales, organizational development,efficiency projects, M A as well as profitable growth through all types of innovation. If you join us, you can grow as well: We always put people first and actively support you in yourcareer development at B",
+      "recruiter": {
+        "name": "Isabelle Kert",
+        "email": "isabelle.kert@basf.com",
+        "phone": "+49 30 2005-59773"
+      }
+    },
+    {
+      "job_id": "132988",
+      "title": "Junior Controller CSA SCA (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/132988/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/WB2-CB Corporate & BU Controlling",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-03-30T06:12:38Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative,efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our team as a Junior Controller and help shape how the BASF Group allocates costs for centrally provided activities and services. We manage",
+      "recruiter": {
+        "name": "Katarina Borisov",
+        "email": "katarina.borisov@basf.com",
+        "phone": "+49 30 2005-59269"
+      }
+    },
     {
       "job_id": "134848",
       "title": "Werkstudent:in Grafikdesign (m/w/d)",
@@ -308,28 +374,6 @@
         "name": "Silke Pudicke",
         "email": "silke.pudicke@basf.com",
         "phone": "+49 30 2005-58449"
-      }
-    },
-    {
-      "job_id": "132520",
-      "title": "Internship Management Consulting - (Digital) Innovation & Circular Economy (m/f/d)",
-      "url": "https://basf.jobs/job-invite/132520/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "GBM/M Innovation Excellence",
-      "job_field": "Inhouse Consulting",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-03-23T12:00:42Z",
-      "description": "WELCOME TO BASF &#13; Welcome to the global management consultancy of BASF. We focus on strategic inhouse projects that drive the effective transformation of our businesses. Our teams work on a broad range of exciting projects covering topics such as marketing sales, organizational development, efficiency projects, M A as well as profitable growth through all types of innovation. If you join us, you can grow as well: We always put people first and actively support you in your career development ",
-      "recruiter": {
-        "name": "Isabelle Kert",
-        "email": "isabelle.kert@basf.com",
-        "phone": "+49 30 2005-59773"
       }
     },
     {
@@ -1143,28 +1187,6 @@
         "name": "Michael Wiesenack-Flick",
         "email": "michael.wiesenack-flick@basf.com",
         "phone": "+49 30 2005-58564"
-      }
-    },
-    {
-      "job_id": "133582",
-      "title": "Data Protection Support Specialist (m/f/d)",
-      "url": "https://basf.jobs/job-invite/133582/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "CLS/DB Legal & Compliance Services Hub Berlin",
-      "job_field": "Legal, Tax & Insurance",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-03-04T10:32:20Z",
-      "description": "WELCOME TO BASF &#13; In our Corporate Legal, Compliance Insurance unit we advise on legal issues and insurance and support the BASF Group's Compliance Integrity Program. With our expertise, we support our colleagues as an active partner. Our global team ensures that our advice is always close to the customer. WHAT YOU CAN EXPECT &#13; As a Data Protection Support Specialist, you play a key role in providing end‑to‑end operational support for our data protection program, with a strong focus on D",
-      "recruiter": {
-        "name": "Bonnie Gardt",
-        "email": "bonnie.gardt@basf.com",
-        "phone": "+49 30 2005-59672"
       }
     },
     {
@@ -2168,27 +2190,6 @@
         "name": "Tina Süß-du Bois",
         "email": "tina.suess-du-bois@basf.com",
         "phone": "+49 30 2005-58142"
-      }
-    },
-    {
-      "job_id": "130657",
-      "title": "Ausbildung Biologielaborant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/130657/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VL Voc. Training Laboratory Assistants",
-      "job_field": "Research & Development",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-12-22T08:36:00Z",
-      "description": "WILLKOMMEN BEI BASF &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Die BASF Agricultural Solutions Deutschland GmbH ist ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, ",
-      "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
       }
     },
     {
