@@ -1,7 +1,72 @@
 {
-  "last_updated": "2026-03-30T11:37:41Z",
-  "total_active": 190,
+  "last_updated": "2026-03-30T15:56:06Z",
+  "total_active": 193,
   "jobs": [
+    {
+      "job_id": "88390",
+      "title": "EMEA (Berlin Hub)",
+      "url": "https://basf.jobs/job-invite/88390/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/SHV-TGS1 General Service",
+      "job_field": "Procurement",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-05-06T22:00:00Z",
+      "description": "WELCOME TO BASF &#13; WHAT YOU CAN EXPECT &#13; WHAT YOU OFFER &#13; WHAT WE OFFER &#13; HOW TO REACH US &#13; ABOUT US &#13; Diversity is our greatest strength! &#13; Become a part of our winning formula for success and develop the future with us - in a global team that embraces inclusion and equal opportunities irrespective of gender, age, origin, sexual orientation, disability or belief.",
+      "recruiter": {
+        "name": "Ahmet Alkan",
+        "email": "ahmet.alkan@basf.com"
+      }
+    },
+    {
+      "job_id": "132490",
+      "title": "Controller (m/w/d) - Global Controlling -",
+      "url": "https://basf.jobs/job-invite/132490/?locale=en_US",
+      "city": "Frankfurt am Main",
+      "state": "Hessen",
+      "country": "Germany",
+      "company": "Chemetall GmbH",
+      "business_unit": "EMEA",
+      "department": "G-ECT/OC Global Controlling",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-03-30T14:08:50Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Die globale Geschäftseinheit Oberflächentechnik des Unternehmensbereichs Coatings der BASF, die unter der Marke Chemetall operiert, ist ein führender Lieferant angewandter Oberflächentechnik für Metall-, Kunststoff- und Glassubstrate. Diese Spezialchemikalien werden in vielen Industrien und Märkten genutzt, wie zum Beispiel Automobil, Luftfahrt, Aluminiumveredelung, Coil oder in der metallverarbeitenden Industrie – unterstützt von einem großen Netzwerk technischer Expert",
+      "recruiter": {
+        "name": "Thomas Glatz",
+        "email": "thomas.a.glatz@basf.com",
+        "phone": "+49697165-3277"
+      }
+    },
+    {
+      "job_id": "135127",
+      "title": "Mitarbeiter:in Lager und Transport (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135127/?locale=en_US",
+      "city": "Grenzach-Wyhlen",
+      "state": "Baden-Württemberg",
+      "country": "Germany",
+      "company": "BASF Grenzach GmbH",
+      "business_unit": "EMEA",
+      "department": "EMX/EG Site Logistics Operations",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-03-30T11:39:34Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Pflegende Hautcremes, milde Shampoos, Sonnenschutzmittel, schonende und umweltfreundliche Waschmittel und leistungsstarke Reiniger für Haushalt und Industrie - all diese Produkte nutzen Inhaltsstoffe aus unserem Bereich Care Chemicals. Darüber hinaus bieten wir beispielsweise Lösungen auf dem Gebiet des Pflanzenschutzes, für technische Anwendungen in der Bauchemie oder Rohstoffe für die Lackindustrie. Weltweit arbeiten wir gemeinsam mit unseren Kunden an innovativen Lösu",
+      "recruiter": {
+        "name": "Romy Marie Gründel",
+        "email": "romy.gruendel@basf.com",
+        "phone": "+49 30 2005-56730"
+      }
+    },
     {
       "job_id": "132425",
       "title": "Expert Digitalisierung - Datenanalyse & KI (m/w/d)",
