@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-03-31T05:56:40Z",
+  "last_updated": "2026-03-31T11:13:21Z",
   "total_active": 192,
   "jobs": [
+    {
+      "job_id": "133882",
+      "title": "Senior Expert Game Theory (m/w/d)",
+      "url": "https://basf.jobs/job-invite/133882/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "GPD/OX Game Theory & Auctioning",
+      "job_field": "Other",
+      "job_level": "Other",
+      "job_type": "Other",
+      "hybrid": false,
+      "date_posted": "2026-03-31T07:16:06Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Der Bereich Global Procurement ist weltweit für Einkaufsaktivitäten der BASF zuständig. Wir verhandeln Verträge, die BASF einen spürbaren Mehrwert verschaffen. Unsere Schwerpunkte umfassen die Beschaffung von Rohstoffen, technischen Gütern und Dienstleistungen sowie Logistiklösungen. Mit unserem umfassenden Markt-Know-How sowie tiefem Verständnis der Wertschöpfungsketten sind wir ein wertvoller Partner der Unternehmensbereiche. WAS SIE ERWARTET &#13; Als Senior Expert Ga",
+      "recruiter": {
+        "name": "Katarina Borisov",
+        "email": "katarina.borisov@basf.com",
+        "phone": "+49 30 2005-59269"
+      }
+    },
     {
       "job_id": "133270",
       "title": "Werkstudent:in Corporate Content und Channel Management (m/w/d)",
@@ -813,28 +835,6 @@
         "name": "Jenny König",
         "email": "jenny.koenig@basf.com",
         "phone": "+49 30 2005-56012"
-      }
-    },
-    {
-      "job_id": "133572",
-      "title": "Werkstudent:in Kommunikation und Intranet (m/w/d)",
-      "url": "https://basf.jobs/job-invite/133572/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Jobmarkt GmbH",
-      "business_unit": "EMEA",
-      "department": "ESE/S Kommunikation und Veranstaltungen",
-      "job_field": "Public Relations / Communications",
-      "job_level": "Student",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-13T10:32:32Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an den Standorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices und Logistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche, die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allen Belangen rund um Umwelts",
-      "recruiter": {
-        "name": "Laura Deland",
-        "email": "laura.deland@basf.com",
-        "phone": "+49 30 2005-58168"
       }
     },
     {
