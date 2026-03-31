@@ -1,26 +1,27 @@
 {
-  "last_updated": "2026-03-30T22:01:07Z",
-  "total_active": 193,
+  "last_updated": "2026-03-31T05:56:40Z",
+  "total_active": 192,
   "jobs": [
     {
-      "job_id": "88390",
-      "title": "EMEA (Berlin Hub)",
-      "url": "https://basf.jobs/job-invite/88390/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
+      "job_id": "133270",
+      "title": "Werkstudent:in Corporate Content und Channel Management (m/w/d)",
+      "url": "https://basf.jobs/job-invite/133270/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
       "country": "Germany",
-      "company": "BASF Services Europe GmbH",
+      "company": "BASF Jobmarkt GmbH",
       "business_unit": "EMEA",
-      "department": "GBE/SHV-TGS1 General Service",
-      "job_field": "Procurement",
-      "job_level": "Professional",
+      "department": "COM/EE Corporate Employee Engagement",
+      "job_field": "Public Relations / Communications",
+      "job_level": "Student",
       "job_type": "Temporary",
       "hybrid": false,
-      "date_posted": "2026-05-06T22:00:00Z",
-      "description": "WELCOME TO BASF &#13; WHAT YOU CAN EXPECT &#13; WHAT YOU OFFER &#13; WHAT WE OFFER &#13; HOW TO REACH US &#13; ABOUT US &#13; Diversity is our greatest strength! &#13; Become a part of our winning formula for success and develop the future with us - in a global team that embraces inclusion and equal opportunities irrespective of gender, age, origin, sexual orientation, disability or belief.",
+      "date_posted": "2026-03-31T05:40:24Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Chemie und Kommunikation haben eines gemeinsam: Sie verbinden. Als Einheit Communications Government Relations schaffen wir Verbindungen zwischen Menschen, sei es durch interne und externe Unternehmenskommunikation oder politische Interessensvertretung. Unser Ziel: eine authentische und positive Wahrnehmung der BASF in Einklang mit der Unternehmensstrategie. Für uns arbeiten heißt wirkungsvoll kommunizieren - für Chemie, die verbindet. WAS SIE ERWARTET &#13; Die Facheinh",
       "recruiter": {
-        "name": "Ahmet Alkan",
-        "email": "ahmet.alkan@basf.com"
+        "name": "Silke Pudicke",
+        "email": "silke.pudicke@basf.com",
+        "phone": "+49 30 2005-58449"
       }
     },
     {
@@ -417,28 +418,6 @@
         "name": "Isabel Maisack",
         "email": "isabel.maisack@basf.com",
         "phone": "+49 30 2005-56683"
-      }
-    },
-    {
-      "job_id": "133270",
-      "title": "Werkstudent:in Corporate Content und Channel Management (m/w/d)",
-      "url": "https://basf.jobs/job-invite/133270/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Jobmarkt GmbH",
-      "business_unit": "EMEA",
-      "department": "COM/EE Corporate Employee Engagement",
-      "job_field": "Public Relations / Communications",
-      "job_level": "Student",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-24T06:24:46Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Chemie und Kommunikation haben eines gemeinsam: Sie verbinden. Als Einheit Communications Government Relations schaffen wir Verbindungen zwischen Menschen, sei es durch interne und externe Unternehmenskommunikation oder politische Interessensvertretung. Unser Ziel: eine authentische und positive Wahrnehmung der BASF in Einklang mit der Unternehmensstrategie. Für uns arbeiten heißt wirkungsvoll kommunizieren - für Chemie, die verbindet. WAS SIE ERWARTET &#13; Die Facheinh",
-      "recruiter": {
-        "name": "Silke Pudicke",
-        "email": "silke.pudicke@basf.com",
-        "phone": "+49 30 2005-58449"
       }
     },
     {
