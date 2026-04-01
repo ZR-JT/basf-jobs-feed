@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-04-01T11:17:25Z",
+  "last_updated": "2026-04-01T15:58:29Z",
   "total_active": 192,
   "jobs": [
+    {
+      "job_id": "135091",
+      "title": "Werkstudent:in Global Automation (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135091/?locale=en_US",
+      "city": "Münster",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "company": "BASF Coatings GmbH",
+      "business_unit": "EMEA",
+      "department": "ECP/OOA Global Automation",
+      "job_field": "Digitalization",
+      "job_level": "Student",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-01T15:21:49Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innoavative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den",
+      "recruiter": {
+        "name": "Bekim Krasniqi",
+        "email": "bekim.krasniqi@basf.com",
+        "phone": "+49 30 2005-56136"
+      }
+    },
+    {
+      "job_id": "134190",
+      "title": "Working Student Project Management & Data Analytics (m/f/d)",
+      "url": "https://basf.jobs/job-invite/134190/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "G-CI/BS CIB Strategic Marketing",
+      "job_field": "Digitalization",
+      "job_level": "Student",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-01T11:51:02Z",
+      "description": "WELCOME TO BASF &#13; The Intermediates Division develops, produces and markets a comprehensive range of intermediate products, such as amines, diols, polyalcohols, acids and specialties. The intermediate products are used, for example, as raw materials for fuels, pharmaceuticals, textiles, cleaning agents and pesticides. Our innovative products contribute to improving the properties of the end products and the efficiency of the manufacturing processes. WHAT YOU CAN EXPECT &#13; The Strategic Ma",
+      "recruiter": {
+        "name": "Julia Kunzelmann",
+        "email": "julia.kunzelmann@basf.com",
+        "phone": "+49 30 2005-56508"
+      }
+    },
+    {
+      "job_id": "131896",
+      "title": "Accountant Financial Reporting (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/131896/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/WR1-CN Fin. Rep. Central, Nordic & Baltic",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-04-01T11:13:47Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our international financial reporting team as a Financial Accountant. In this role, you are responsible for the general ledger and act as ",
+      "recruiter": {
+        "name": "Jennifer Weiz",
+        "email": "jennifer.weiz@basf.com",
+        "phone": "+49 30 2005-56454"
+      }
+    },
     {
       "job_id": "135113",
       "title": "Werkstudent:in Future Workforce Office (m/w/d)",
@@ -616,28 +682,6 @@
         "name": "Paula Männecke",
         "email": "paula.maennecke@basf.com",
         "phone": "+4930200556093"
-      }
-    },
-    {
-      "job_id": "134328",
-      "title": "Junior Specialist Treasury Back Office (m/f/d) - Hybrid Option GER",
-      "url": "https://basf.jobs/job-invite/134328/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/ET Treasury & Master Data",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-23T07:03:30Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Within our team Back Office of Regional Treasury EMEA, you learn about Treasury and Cash Management activities in a global corporation and supp",
-      "recruiter": {
-        "name": "Katarina Borisov",
-        "email": "katarina.borisov@basf.com",
-        "phone": "+49 30 2005-59269"
       }
     },
     {
@@ -1645,28 +1689,6 @@
         "name": "Katja Emich",
         "email": "katja.emich@basf.com",
         "phone": "+49 30 2005-58810"
-      }
-    },
-    {
-      "job_id": "133234",
-      "title": "Head of Metal Management (m/f/d)",
-      "url": "https://basf.jobs/job-invite/133234/?locale=en_US",
-      "city": "Mannheim",
-      "state": "Baden-Württemberg",
-      "country": "Germany",
-      "company": "BASF Battery Materials & Recycling GmbH",
-      "business_unit": "EMEA",
-      "department": "G-BM/B Business Mgmt. Battery Materials",
-      "job_field": "General Management",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-02-13T08:07:51Z",
-      "description": "WELCOME TO BASF &#13; Welcome to the new era of mobility! Our Battery Materials and Recycling team is passionate about making electromobility a reality. We are convinced that the future of mobility lies in more than just products, and we truly care about a sustainable value chain. Our contributions include the development and production of high performance cathode active materials for batteries, and we are also committed to closing the loop with our recycling activities to enable a true circular",
-      "recruiter": {
-        "name": "Bekim Krasniqi",
-        "email": "bekim.krasniqi@basf.com",
-        "phone": "+49 30 2005-56136"
       }
     },
     {
@@ -3860,27 +3882,6 @@
         "name": "Julia Kilias",
         "email": "julia.kilias@basf.com",
         "phone": "+49 30 2005-59139"
-      }
-    },
-    {
-      "job_id": "119921",
-      "title": "Ausbildung Industriekaufmann:frau (m/w/d)",
-      "url": "https://basf.jobs/job-invite/119921/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "department": "GBE/SHQ2 Apprentices",
-      "job_field": "Human Resources",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-03-26T09:26:04Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast dich schon oft gefragt, wie Unternehmen eigentlich funktionieren? Excel ist für Dich kein Vorname und dass man die Buchhaltung nicht in der Bücherei abwickelt, ist Dir schon lange klar? Während Deiner Ausbildung zum:r Industriekaufmann:frau lernst Du unsere wichtigsten Abteilungen - vom Einkauf, der Buchhaltung, bis hin zum Personalbereich kennen und erhältst vielfältige und abwechslungsreiche Einblicke in die Prozesse eines modernen und international agi",
-      "recruiter": {
-        "name": "Svenja Martens",
-        "email": "svenja.martens@basf.com",
-        "phone": "+49 30 2005-59831"
       }
     },
     {
