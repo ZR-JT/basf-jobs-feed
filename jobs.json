@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-04-01T06:13:16Z",
+  "last_updated": "2026-04-01T11:17:25Z",
   "total_active": 192,
   "jobs": [
+    {
+      "job_id": "135113",
+      "title": "Werkstudent:in Future Workforce Office (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135113/?locale=en_US",
+      "city": "Münster",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "company": "BASF Coatings GmbH",
+      "business_unit": "EMEA",
+      "department": "EC/XTF Future Workforce",
+      "job_field": "Digitalization",
+      "job_level": "Student",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-01T07:21:53Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den ",
+      "recruiter": {
+        "name": "Melissa Amina Rahmani",
+        "email": "melissa.rahmani@basf.com",
+        "phone": "+49 30 2005-58073"
+      }
+    },
+    {
+      "job_id": "134194",
+      "title": "Praktikum Instrumentelle Analytik (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134194/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "ESG/CB Human Biomonitoring",
+      "job_field": "Occupational Medicine",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-04-01T07:12:33Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an denStandorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices undLogistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche,die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allenBelangen rund um Umweltschut",
+      "recruiter": {
+        "name": "Silke Pudicke",
+        "email": "silke.pudicke@basf.com",
+        "phone": "+49 30 2005-58449"
+      }
+    },
+    {
+      "job_id": "127235",
+      "title": "Notfallsanitäter:in Werkrettungsdienst für Wechselschicht oder Tagdienststelle (m/w/d)",
+      "url": "https://basf.jobs/job-invite/127235/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Jobmarkt GmbH",
+      "business_unit": "EMEA",
+      "department": "ESG/DNA Emergency Services - Tagdienst",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-01T07:03:46Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an den Standorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices und Logistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche, die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allen Belangen rund um Umwelts",
+      "recruiter": {
+        "name": "Silke Pudicke",
+        "email": "silke.pudicke@basf.com",
+        "phone": "+49 30 2005-58449"
+      }
+    },
     {
       "job_id": "133643",
       "title": "Werkstudent:in Datenmanagement im Bereich Nachhaltigkeit (m/w/d)",
@@ -970,50 +1036,6 @@
       }
     },
     {
-      "job_id": "134194",
-      "title": "Praktikum Instrumentelle Analytik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134194/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "ESG/CB Human Biomonitoring",
-      "job_field": "Occupational Medicine",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-03-10T09:52:19Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an denStandorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices undLogistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche,die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allenBelangen rund um Umweltschut",
-      "recruiter": {
-        "name": "Silke Pudicke",
-        "email": "silke.pudicke@basf.com",
-        "phone": "+49 30 2005-58449"
-      }
-    },
-    {
-      "job_id": "127235",
-      "title": "Notfallsanitäter:in Werkrettungsdienst für Wechselschicht oder Tagdienststelle (m/w/d)",
-      "url": "https://basf.jobs/job-invite/127235/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Jobmarkt GmbH",
-      "business_unit": "EMEA",
-      "department": "ESG/DNA Emergency Services - Tagdienst",
-      "job_field": "Environment, Health & Safety",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-10T06:35:22Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an den Standorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices und Logistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche, die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allen Belangen rund um Umwelts",
-      "recruiter": {
-        "name": "Silke Pudicke",
-        "email": "silke.pudicke@basf.com",
-        "phone": "+49 30 2005-58449"
-      }
-    },
-    {
       "job_id": "127477",
       "title": "Jurist:in Mehrwertsteuer (m/w/d)",
       "url": "https://basf.jobs/job-invite/127477/?locale=en_US",
@@ -1066,7 +1088,7 @@
       "country": "Germany",
       "company": "BASF SE",
       "business_unit": "EMEA",
-      "department": "ESE/EAA Grundausbildung",
+      "department": "ESU/EAA Grundausbildung",
       "job_field": "Environment, Health & Safety",
       "job_level": "Graduate",
       "job_type": "Permanent",
@@ -2669,28 +2691,6 @@
         "name": "Laura Rebecca Beltempo",
         "email": "laura-rebecca.beltempo@basf.com",
         "phone": "+49 30 2005-59842"
-      }
-    },
-    {
-      "job_id": "124017",
-      "title": "Produktionsmitarbeiter:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/124017/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "ECP/OGP GX4 & Clearcoat Process Management",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-09-17T07:24:38Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den ",
-      "recruiter": {
-        "name": "Julia Kilias",
-        "email": "julia.kilias@basf.com",
-        "phone": "+49 30 2005-59139"
       }
     },
     {
