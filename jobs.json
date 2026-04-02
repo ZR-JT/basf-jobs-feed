@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-04-02T05:50:52Z",
-  "total_active": 192,
+  "last_updated": "2026-04-02T10:39:27Z",
+  "total_active": 191,
   "jobs": [
+    {
+      "job_id": "134692",
+      "title": "Chemikant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134692/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "APT/ELN Schicht A - Thiuram-/Netzschwefel-Fabrik",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-04-06T22:00:00Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft. Wir verbinden Saatgut und Traits, Pflanzenschutzprodukte, digitale Werkzeuge und Nachhaltigkeitsansätze, um Landwirten und anderen Stakeholdern entlang der Wertschöpfungskette die bestmöglichen Ergebnisse zu liefern. Wir tun alles in unserer Macht Stehende, um eine nachhaltige Zukunft für die Landwirtschaft zu schaffen, indem wir Innovationen, Kunden und die Gesellschaft mit",
+      "recruiter": {
+        "name": "Valeria Illera Benjumea",
+        "email": "valeria.illera-benjumea@basf.com",
+        "phone": "0302005-58110"
+      }
+    },
+    {
+      "job_id": "135244",
+      "title": "Internship Procurement Services with French or Dutch (m/f/d)",
+      "url": "https://basf.jobs/job-invite/135244/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/VP Procurement Services",
+      "job_field": "Procurement",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": true,
+      "date_posted": "2026-04-02T09:09:33Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; You would like to gain practical experience as part of your mandatory internship for 6 months in the unit Procurement Services of a global play",
+      "recruiter": {
+        "name": "Jennifer Weiz",
+        "email": "jennifer.weiz@basf.com",
+        "phone": "+49 30 2005-56454"
+      }
+    },
     {
       "job_id": "135091",
       "title": "Werkstudent:in Global Automation (m/w/d)",
@@ -286,28 +330,6 @@
         "name": "Isabelle Kert",
         "email": "isabelle.kert@basf.com",
         "phone": "+49 30 2005-59773"
-      }
-    },
-    {
-      "job_id": "132988",
-      "title": "Junior Controller CSA SCA (m/f/d) - Hybrid Option GER",
-      "url": "https://basf.jobs/job-invite/132988/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/WB2-CB Corporate & BU Controlling",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": true,
-      "date_posted": "2026-03-30T06:12:38Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative,efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our team as a Junior Controller and help shape how the BASF Group allocates costs for centrally provided activities and services. We manage",
-      "recruiter": {
-        "name": "Katarina Borisov",
-        "email": "katarina.borisov@basf.com",
-        "phone": "+49 30 2005-59269"
       }
     },
     {
@@ -682,28 +704,6 @@
         "name": "Paula Männecke",
         "email": "paula.maennecke@basf.com",
         "phone": "+4930200556093"
-      }
-    },
-    {
-      "job_id": "132871",
-      "title": "Internship Business Reporting (m/f/d) - Hybrid Option GER",
-      "url": "https://basf.jobs/job-invite/132871/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/WB2-SU Business Reporting Service Units",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-03-23T07:03:02Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Are you looking to gain hands-on experience during your studies as part of your mandatory 6‑month internship? Do you want to contribute to the ",
-      "recruiter": {
-        "name": "Katarina Borisov",
-        "email": "katarina.borisov@basf.com",
-        "phone": "+49 30 2005-59269"
       }
     },
     {
@@ -1209,28 +1209,6 @@
         "name": "Julia Kilias",
         "email": "julia.kilias@basf.com",
         "phone": "+49 30 2005-59139"
-      }
-    },
-    {
-      "job_id": "133570",
-      "title": "(Senior) Specialist Master Data (m/f/d) - Hybrid Option GER",
-      "url": "https://basf.jobs/job-invite/133570/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/ET-OA Master Data EMEA 2",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-06T10:24:51Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Within our Master Data team, we maintain the customer and supplier master data of BASF Group companies in EMEA and develop workflow solutions t",
-      "recruiter": {
-        "name": "Katarina Borisov",
-        "email": "katarina.borisov@basf.com",
-        "phone": "+49 30 2005-59269"
       }
     },
     {
@@ -2542,14 +2520,14 @@
     },
     {
       "job_id": "126368",
-      "title": "Specialist Emergency Response C-Dienst (m/w/d)",
+      "title": "Ingenieur:in zur Fortbildung zum/r Brandinspektor:in Feuerwehr (m/w/d)",
       "url": "https://basf.jobs/job-invite/126368/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
       "business_unit": "EMEA",
-      "department": "ESE/EAA Brandinspektorenausbildung",
+      "department": "ESU/EAA Brandinspektorenausbildung",
       "job_field": "Environment, Health & Safety",
       "job_level": "Professional",
       "job_type": "Permanent",
@@ -2874,7 +2852,7 @@
       "country": "Germany",
       "company": "BASF SE",
       "business_unit": "EMEA",
-      "department": "ESE/EAA Grundausbildung",
+      "department": "ESU/EAA Grundausbildung",
       "job_field": "Environment, Health & Safety",
       "job_level": "Professional",
       "job_type": "Permanent",
@@ -3365,7 +3343,7 @@
       "country": "Germany",
       "company": "BASF SE",
       "business_unit": "EMEA",
-      "department": "ESE/EAA Grundausbildung",
+      "department": "ESU/EAA Grundausbildung",
       "job_field": "Environment, Health & Safety",
       "job_level": "Professional",
       "job_type": "Permanent",
