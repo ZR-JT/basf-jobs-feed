@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-02T10:39:27Z",
+  "last_updated": "2026-04-02T15:38:20Z",
   "total_active": 191,
   "jobs": [
     {
@@ -22,6 +22,28 @@
         "name": "Valeria Illera Benjumea",
         "email": "valeria.illera-benjumea@basf.com",
         "phone": "0302005-58110"
+      }
+    },
+    {
+      "job_id": "134998",
+      "title": "Praktikum Carbon Steering (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134998/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "CD/NC Carbon Steering",
+      "job_field": "General Management",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-04-02T10:27:01Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir gestalten die Zukunft der BASF, in dem wir den strategischen Rahmen definieren. Als Teil des Corporate Centers unterstützen wir unseren Vorstand in allen Portfolio- und Ressourcenallokationsentscheidungen. Wir entwickeln Strategien, identifizieren Chancen und Risiken und analysieren Trends in Nachhaltigkeit und Technologie. Gemeinsam mit den Unternehmensbereichen erarbeiten wir Strategien für die Geschäftsbereiche und begleiten deren Umsetzung. WAS SIE ERWARTET &#13;",
+      "recruiter": {
+        "name": "Laura Rebecca Beltempo",
+        "email": "laura-rebecca.beltempo@basf.com",
+        "phone": "+49 30 2005-59842"
       }
     },
     {
@@ -305,9 +327,9 @@
       "date_posted": "2026-03-30T10:38:03Z",
       "description": "WILLKOMMEN BEI UNS &#13; Die BASF InfraService Solutions Lausitz GmbH gestaltet aktiv die Strukturen und Abläufe im Industriepark Lausitz. Über 900 engagierte Mitarbeitende arbeiten hier täglich daran, Technik zu verstehen, Prozesse effizient zu gestalten und gemeinsam mit starken Partnern neue Maßstäbe zu setzen. Als Standortbetreibergesellschaft legen wir großen Wert auf kundenorientierte Services und maßgeschneiderte Lösungen – mit dem Ziel, nicht nur den Erfolg unserer Kunden zu sichern, son",
       "recruiter": {
-        "name": "Julia Schubert",
-        "email": "julia.schubert@basf.com",
-        "phone": "+49 30 2005-59076"
+        "name": "Nina Schülzke",
+        "email": "nina.schuelzke@basf.com",
+        "phone": "030200558790"
       }
     },
     {
@@ -770,27 +792,6 @@
         "name": "Julia Looß",
         "email": "julia.looss@basf.com",
         "phone": "+49 30 2005-56261"
-      }
-    },
-    {
-      "job_id": "134687",
-      "title": "Packaging Waste Data Specialist - Parental Leave Substitution (m/f/d)",
-      "url": "https://basf.jobs/job-invite/134687/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/UQ EHSQ Services EMEA",
-      "job_field": "Logistics & Supply Chain Management",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-18T10:57:47Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit, we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; As a Packaging Waste Specialist, you are part of our EHSQ Services Team based in Berlin, and the Packaging Waste Community for EMEA. You ensur",
-      "recruiter": {
-        "name": "Maximilian Mette",
-        "email": "maximilian.mette@basf.com"
       }
     },
     {
