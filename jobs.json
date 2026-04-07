@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-04-07T11:17:11Z",
+  "last_updated": "2026-04-07T16:15:23Z",
   "total_active": 188,
   "jobs": [
+    {
+      "job_id": "134602",
+      "title": "Chemikant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134602/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "APT/ELV Xemium-Fabrik - Schicht A",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-04-07T14:26:27Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft. Wir verbinden Saatgut und Traits, Pflanzenschutzprodukte, digitale Werkzeuge und Nachhaltigkeitsansätze, um Landwirten und anderen Stakeholdern entlang der Wertschöpfungskette die bestmöglichen Ergebnisse zu liefern. Wir tun alles in unserer Macht Stehende, um eine nachhaltige Zukunft für die Landwirtschaft zu schaffen, indem wir Innovationen, Kunden und die Gesellschaft mit",
+      "recruiter": {
+        "name": "Romy Marie Gründel",
+        "email": "romy.gruendel@basf.com",
+        "phone": "+49 30 2005-56730"
+      }
+    },
     {
       "job_id": "134692",
       "title": "Chemikant:in (m/w/d)",
@@ -2040,28 +2062,6 @@
         "name": "Lennart Boudgoust",
         "email": "lennart.boudgoust@basf.com",
         "phone": "+49 30 2005-56521"
-      }
-    },
-    {
-      "job_id": "132444",
-      "title": "Sachbearbeiter:in im Einkauf (m/w/d) - Hybrid Option DE",
-      "url": "https://basf.jobs/job-invite/132444/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/VP Procurement Services",
-      "job_field": "Procurement",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": true,
-      "date_posted": "2026-01-20T14:16:41Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Die Einheit Global Business Services unterstützt die Geschäftsbereiche der BASF mit einem funktionsübergreifenden Netzwerk und bietet dafür moderne und bedarfsgerechte Lösungen. Als spezialisierte Serviceeinheit stehen wir für eine hohe Kundenorientierung und gestalten unsere Dienstleistungen partnerschaftlich, effizient und zukunftsweisend. WAS SIE ERWARTET &#13; Bringen Sie in unserer Abteilung Procurement Services ihre eigenen Ideen ein, um unsere Prozesse zu gestalte",
-      "recruiter": {
-        "name": "Jennifer Weiz",
-        "email": "jennifer.weiz@basf.com",
-        "phone": "+49 30 2005-56454"
       }
     },
     {
