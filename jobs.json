@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-08T11:17:40Z",
-  "total_active": 186,
+  "last_updated": "2026-04-08T16:21:01Z",
+  "total_active": 184,
   "jobs": [
     {
       "job_id": "134602",
@@ -707,28 +707,6 @@
       }
     },
     {
-      "job_id": "132943",
-      "title": "Junior Controller (m/f/d) - Hybrid Option GER",
-      "url": "https://basf.jobs/job-invite/132943/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/WB1 Business Reporting l",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": true,
-      "date_posted": "2026-03-23T07:01:45Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Are you a passionate and motivated person? Then join our Business Reporting team as a Junior Controller. This position offers you the opportuni",
-      "recruiter": {
-        "name": "Katarina Borisov",
-        "email": "katarina.borisov@basf.com",
-        "phone": "+49 30 2005-59269"
-      }
-    },
-    {
       "job_id": "131937",
       "title": "Spezialist:in Feuerwehr und Gefahrenabwehr (m/w/d)",
       "url": "https://basf.jobs/job-invite/131937/?locale=en_US",
@@ -748,28 +726,6 @@
         "name": "Julia Schubert",
         "email": "julia.schubert@basf.com",
         "phone": "+49 30 2005-59076"
-      }
-    },
-    {
-      "job_id": "134440",
-      "title": "Working Student Communications (m/f/d)",
-      "url": "https://basf.jobs/job-invite/134440/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Jobmarkt GmbH",
-      "business_unit": "EMEA",
-      "department": "G-EDJ/RE Resins Sales EMEA",
-      "job_field": "Marketing & Sales",
-      "job_level": "Student",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-19T07:52:54Z",
-      "description": "WELCOME TO BASF &#13; In our Dispersions Resins division we offer a broad portfolio of resins, additives and polymer dispersions. These raw materials are used in formulations in the coatings, construction, adhesives, printing and packaging, electronics and paper industries, among others. We develop innovative and sustainable solutions for our customers and help them advance their formulations. WHAT YOU CAN EXPECT &#13; As a working student in the Communications Resins team, you will support our ",
-      "recruiter": {
-        "name": "Julia Looß",
-        "email": "julia.looss@basf.com",
-        "phone": "+49 30 2005-56261"
       }
     },
     {
