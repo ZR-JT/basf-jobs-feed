@@ -1,7 +1,95 @@
 {
-  "last_updated": "2026-04-09T05:59:54Z",
-  "total_active": 184,
+  "last_updated": "2026-04-09T11:33:09Z",
+  "total_active": 186,
   "jobs": [
+    {
+      "job_id": "135133",
+      "title": "Praktikum Labor - Digitalisierung & Datenanalyse (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135133/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "CPM/MDD Automation & Digitaliz. Superabsorber",
+      "job_field": "Digitalization",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-04-09T10:59:32Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Der Unternehmensbereich Petrochemicals ist der Ausgangspunkt der petrochemischen Wertschöpfung der BASF weltweit. Mit sechs Verbundstandorten und weiteren Produktionsstandorten sind wir in den größten Chemiemärkten der Welt vertreten. Wir versorgen diverse Wertschöpfungsketten im Unternehmen und eine Vielzahl an externen Kunden mit hochwertigen Chemikalien, die beispielsweise in PET-Flaschen, Frostschutzmitteln, Hygieneartikeln und Dämmstoffen zum Einsatz kommen. Wenn Si",
+      "recruiter": {
+        "name": "Nils Giernoth",
+        "email": "nils.giernoth@basf.com",
+        "phone": "+49 30 2005-59141"
+      }
+    },
+    {
+      "job_id": "132142",
+      "title": "Bilanzkreismanager Gas/ Strom (m/f/d)",
+      "url": "https://basf.jobs/job-invite/132142/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Renewable Energy GmbH",
+      "business_unit": "EMEA",
+      "department": "GP/BI Operations",
+      "job_field": "Procurement",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-04-09T09:37:47Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Die Zukunft der BASF ist klimaneutral – und wir gestalten den Weg dorthin! Wir ermöglichen BASF den Zugang zu erneuerbarem Strom und weiteren Energieträgern. Wir investieren in Produktionsanlagen, schließen langfristige Lieferverträge ab, handeln an Großhandelsmärkten und versorgen so die BASF-Standorte mit Energie zu wettbewerbsfähigen Preisen. WAS SIE ERWARTET &#13; Im Rahmen Ihrer Tätigkeit als Bilanzkreismanager übernehmen Sie Verantwortung für die operativen Prozess",
+      "recruiter": {
+        "name": "Bonnie Gardt",
+        "email": "bonnie.gardt@basf.com",
+        "phone": "+49 30 2005-59672"
+      }
+    },
+    {
+      "job_id": "134437",
+      "title": "Account Manager (m/f/d)",
+      "url": "https://basf.jobs/job-invite/134437/?locale=en_US",
+      "city": "Monheim am Rhein",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "company": "BTC Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "RES03/DIA-S Sales Automotive & Industrial Fluid Sol.",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": true,
+      "date_posted": "2026-04-09T07:01:09Z",
+      "description": "WELCOME TO BASF &#13; As a European distribution organization of the BASF Group, BTC Europe sells highly-refined specialty and fine chemicals to international customers in numerous industries. We capitalize on our proximity to our customers, agility, many years of expertise and the accumulated know-how of the BASF Verbund. WHAT YOU CAN EXPECT &#13; We are looking for a field account manager for the DACH sales region to start as soon as possible, with a 100% remote work arrangement. A company car",
+      "recruiter": {
+        "name": "Svenja Sollmann",
+        "email": "svenja.sollmann@basf.com",
+        "phone": "+49 30 2005-59355"
+      }
+    },
+    {
+      "job_id": "132103",
+      "title": "Account Manager Glysantin DACH (m/f/d)",
+      "url": "https://basf.jobs/job-invite/132103/?locale=en_US",
+      "city": "Monheim am Rhein",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "company": "BTC Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "EU/DM Material Management",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": true,
+      "date_posted": "2026-04-09T06:49:46Z",
+      "description": "WELCOME TO BASF &#13; As a European distribution organization of the BASF Group, BTC Europe sells highly-refined specialty and fine chemicals to international customers in numerous industries. We capitalize on our proximity to our customers, agility, many years of expertise and the accumulated know-how of the BASF Verbund. WHAT YOU CAN EXPECT &#13; We are looking for a field account manager for the DACH sales region to start as soon as possible, with a 100% remote work arrangement. A company car",
+      "recruiter": {
+        "name": "Svenja Sollmann",
+        "email": "svenja.sollmann@basf.com",
+        "phone": "+49 30 2005-59355"
+      }
+    },
     {
       "job_id": "134602",
       "title": "Chemikant:in (m/w/d)",
@@ -1670,28 +1758,6 @@
       }
     },
     {
-      "job_id": "132103",
-      "title": "Account Manager Glysantin DACH (m/f/d)",
-      "url": "https://basf.jobs/job-invite/132103/?locale=en_US",
-      "city": "Monheim am Rhein",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BTC Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "EU/DM Material Management",
-      "job_field": "Marketing & Sales",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": true,
-      "date_posted": "2026-02-03T12:31:52Z",
-      "description": "WELCOME TO BASF &#13; As a European distribution organization of the BASF Group, BTC Europe sells highly-refined specialty and fine chemicals to international customers in numerous industries. We capitalize on our proximity to our customers, agility, many years of expertise and the accumulated know-how of the BASF Verbund. WHAT YOU CAN EXPECT &#13; In your new position, you manage and grow customer relationships in the Automotive Fluids Independent Aftermarket, focusing on coolant/antifreeze and",
-      "recruiter": {
-        "name": "Svenja Sollmann",
-        "email": "svenja.sollmann@basf.com",
-        "phone": "+49 30 2005-59355"
-      }
-    },
-    {
       "job_id": "132815",
       "title": "Officer Accounts Payable - Team Benelux (m/f/d) - Hybrid Option GER",
       "url": "https://basf.jobs/job-invite/132815/?locale=en_US",
@@ -1908,28 +1974,6 @@
         "name": "Bekim Krasniqi",
         "email": "bekim.krasniqi@basf.com",
         "phone": "+49 30 2005-56136"
-      }
-    },
-    {
-      "job_id": "132566",
-      "title": "Accountant Financial Reporting with French (m/f/d) - Hybrid Option GER",
-      "url": "https://basf.jobs/job-invite/132566/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/WR2-FR Financial Reporting France",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": true,
-      "date_posted": "2026-01-23T14:55:35Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our international financial reporting team as a Financial Accountant. In this role, you are responsible for the general ledger and act as ",
-      "recruiter": {
-        "name": "Jennifer Weiz",
-        "email": "jennifer.weiz@basf.com",
-        "phone": "+49 30 2005-56454"
       }
     },
     {
