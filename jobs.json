@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-09T11:33:09Z",
-  "total_active": 186,
+  "last_updated": "2026-04-09T16:48:32Z",
+  "total_active": 183,
   "jobs": [
     {
       "job_id": "135133",
@@ -1469,9 +1469,9 @@
       "date_posted": "2026-02-27T09:24:30Z",
       "description": "WILLKOMMEN BEI UNS &#13; Wir sind die globale Inhouse Managementberatung der BASF. Unser Schwerpunkt liegt auf strategischen Projekten, mit denen wir wirkungsvoll Veränderungsprozesse vorantreiben. Dabei reicht unser Themenspektrum von Wachstums-, Organisationsentwicklungs- und Effizienzprojekten bis hin zu Akquisitionen und Devestitionen. Wir leben einen starken Teamspirit und fördern aktiv die Karriereentwicklung innerhalb der BASF. WAS SIE ERWARTET &#13; Ab August 2026 haben Sie die Möglichke",
       "recruiter": {
-        "name": "Isabelle Kert",
-        "email": "isabelle.kert@basf.com",
-        "phone": "+49 30 2005-59773"
+        "name": "Annika Emmerich",
+        "email": "annika.emmerich@basf.com",
+        "phone": "+49 30 2005-58420"
       }
     },
     {
@@ -3309,69 +3309,6 @@
         "name": "Lina Wehr",
         "email": "lina.wehr@basf.com",
         "phone": "+49 30 2005-56745"
-      }
-    },
-    {
-      "job_id": "118970",
-      "title": "Duales Studium (B.Sc.) - Data Science und Künstliche Intelligenz (m/w/d)",
-      "url": "https://basf.jobs/job-invite/118970/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Digital Solutions GmbH",
-      "department": "GD/HP HR Planning & Vocational Training",
-      "job_field": "Information Technology & Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-02T10:19:46Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Artificial Intelligence spannend und m chtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spa an Informatik, Mathematik und wirtschaftlichen Zusammenh ngen hast dann bist du bei Data Science und K nstliche Intelligenz richtig! Bewirb dich bei einem Unternehmen, das Zugang zu neuesten Technologien, Expertise und Inspirationen bietet. Du arbeitest in einem modernen Arbeitsumfeld und bist vom ersten Tag an Teil ",
-      "recruiter": {
-        "name": "Yulia Elke Haars",
-        "email": "yulia.haars@basf.com",
-        "phone": "+49 30-200556107"
-      }
-    },
-    {
-      "job_id": "118971",
-      "title": "Duales Studium (B.Sc.) - Informatik mit Ausrichtung Künstliche Intelligenz (m/w/d)",
-      "url": "https://basf.jobs/job-invite/118971/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Digital Solutions GmbH",
-      "department": "GD/HP HR Planning & Vocational Training",
-      "job_field": "Information Technology & Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-02T10:17:07Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du bist von Artificial Intelligence fasziniert, hast schon selbstst ndig etwas programmiert und auch das Thema Programmiersprachen ist kein Neuland f r dich? Zudem hast du in der Schule Spa an Informatik und Mathematik? Du bist neugierig stets aktuelle Technologien zu erlernen und einzusetzen? Dann bist du in der Informatik mit Ausrichtung K nstliche Intelligenz richtig! Bewirb dich bei einem Unternehmen, das Zugang zu neuesten Technologien, Expertise und In",
-      "recruiter": {
-        "name": "Yulia Elke Haars",
-        "email": "yulia.haars@basf.com",
-        "phone": "+49 30-200556107"
-      }
-    },
-    {
-      "job_id": "119054",
-      "title": "Duales Studium (B.Sc.) - Angewandte Informatik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/119054/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Digital Solutions GmbH",
-      "department": "GD/HP HR Planning & Vocational Training",
-      "job_field": "Information Technology & Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-02T10:01:22Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du bist von der Digitalisierung fasziniert, hast schon selbstst ndig etwas programmiert und auch das Thema Betriebssysteme ist kein Neuland f r dich? Zudem hast du in der Schule Spa an Informatik und Mathematik? Dann bist du in der Angewandten Informatik richtig! Bewirb dich bei einem Unternehmen, das Zugang zu neuesten Technologien, Expertise und Inspirationen bietet und werde Teil eines kreativen Teams. Du arbeitest in einem modernen Arbeitsumfeld und bist",
-      "recruiter": {
-        "name": "Iris Christiane Kappeler",
-        "email": "iris-christiane.kappeler@basf.com",
-        "phone": "+49 30-20055403"
       }
     },
     {
