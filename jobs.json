@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-04-10T11:13:52Z",
-  "total_active": 179,
+  "last_updated": "2026-04-10T14:41:02Z",
+  "total_active": 180,
   "jobs": [
+    {
+      "job_id": "134983",
+      "title": "Werkstudent:in Pension Asset Management (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134983/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Jobmarkt GmbH",
+      "business_unit": "EMEA",
+      "department": "CFT/AP Strat. Portfolio Mgmt. & Intern. Plans",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Student",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-10T11:56:49Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Bei Corporate Finance sehen wir nicht nur Zahlen, sondern vor allem Lösungen. Wir denken strategisch und innovativ, packen an und setzen um. Dabei haben wir immer unsere Geschäftspartner vor Augen und Trends in Nachhaltigkeit und Digitalisierung im Blick. Unsere Aufgaben sind vielfältig: Mergers Acquisitions, Finanzierung, das Aufbereiten von Finanzdaten, das Management von Finanzrisiken oder die Beratung des Vorstandes bei wirtschaftlichen Entscheidungen sind für uns da",
+      "recruiter": {
+        "name": "Laura Deland",
+        "email": "laura.deland@basf.com",
+        "phone": "+49 30 2005-58168"
+      }
+    },
     {
       "job_id": "135380",
       "title": "Praktikum Prozessoptimierung mit anschließender Abschlussarbeit (m/w/d)",
@@ -1985,7 +2007,7 @@
       "country": "Germany",
       "company": "BASF Gastronomie GmbH",
       "business_unit": "EMEA",
-      "department": "ESM/GR Studienhaus St. Johann",
+      "department": "ES/RR Studienhaus St. Johann",
       "job_field": "Catering",
       "job_level": "Graduate",
       "job_type": "Permanent",
