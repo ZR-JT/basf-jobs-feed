@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-04-09T22:01:28Z",
-  "total_active": 183,
+  "last_updated": "2026-04-10T06:19:16Z",
+  "total_active": 182,
   "jobs": [
+    {
+      "job_id": "132815",
+      "title": "Officer Accounts Payable - Team Benelux (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/132815/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/VA-BB North Europe",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-10T05:45:16Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; The Accounts Payable and Freight Cost Management Department provides professional invoice management for all affiliated European BASF Group com",
+      "recruiter": {
+        "name": "Viktoria Pohl",
+        "email": "viktoria.pohl@basf.com",
+        "phone": "+49 30 2005-58390"
+      }
+    },
     {
       "job_id": "135133",
       "title": "Praktikum Labor - Digitalisierung & Datenanalyse (m/w/d)",
@@ -462,28 +484,6 @@
         "name": "Jenny König",
         "email": "jenny.koenig@basf.com",
         "phone": "+49 30 2005-56012"
-      }
-    },
-    {
-      "job_id": "134853",
-      "title": "Manager Technical Material Management - Planning & Control (TMAT MPC) (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134853/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Logistics GmbH",
-      "business_unit": "EMEA",
-      "department": "ESL/WM Operations Technische Materialversorgung",
-      "job_field": "Logistics & Supply Chain Management",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-03-26T12:33:16Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Die BASF Logistics GmbH ist eine junge, wachsende BASF-Gruppengesellschaft mit Standorten in Ludwigshafen und Schwarzheide. Beauftragt von den jeweils für die Standortlogistik verantwortlichen Einheiten, tragen wir mit unseren Dienstleistungen wesentlich zur Wettbewerbsfähigkeit der Logistik an deutschen BASF-Standorten bei. WAS SIE ERWARTET &#13; Ihre Aufgaben umfassen die fachliche Leitung des Technical Materials Planning Control Teams (TMAT MPC) am Standort Ludwigshaf",
-      "recruiter": {
-        "name": "Lina Wehr",
-        "email": "lina.wehr@basf.com",
-        "phone": "+49 30 2005-56745"
       }
     },
     {
@@ -1755,28 +1755,6 @@
         "name": "Isabelle Kert",
         "email": "isabelle.kert@basf.com",
         "phone": "+49 30 2005-59773"
-      }
-    },
-    {
-      "job_id": "132815",
-      "title": "Officer Accounts Payable - Team Benelux (m/f/d) - Hybrid Option GER",
-      "url": "https://basf.jobs/job-invite/132815/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/VA-BB North Europe",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-02-03T09:02:18Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; The Accounts Payable and Freight Cost Management Department provides professional invoice management for all affiliated European BASF Group com",
-      "recruiter": {
-        "name": "Viktoria Pohl",
-        "email": "viktoria.pohl@basf.com",
-        "phone": "+49 30 2005-58390"
       }
     },
     {
