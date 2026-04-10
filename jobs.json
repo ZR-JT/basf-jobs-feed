@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-04-10T06:19:16Z",
-  "total_active": 182,
+  "last_updated": "2026-04-10T11:13:52Z",
+  "total_active": 179,
   "jobs": [
+    {
+      "job_id": "135380",
+      "title": "Praktikum Prozessoptimierung mit anschließender Abschlussarbeit (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135380/?locale=en_US",
+      "city": "Lemförde",
+      "state": "Niedersachsen",
+      "country": "Germany",
+      "company": "BASF Polyurethanes GmbH",
+      "business_unit": "EMEA",
+      "department": "RGR/BC Process Development Polyurethanes",
+      "job_field": "Engineering",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-04-10T08:45:53Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind eine weltweit führende Forschungsorganisation mit über 3000 Mitarbeiter:innen, die in den Bereichen Materialwissenschaften, Analytik, chemische Synthese, Prozessentwicklung, Biowissenschaften, Katalyse und Digitalisierung arbeiten. Mit unseren kreativen und diversen Teams sowie unserer Spitzenforschung tragen wir dazu bei, unsere Kunden erfolgreicher zu machen und die Nachhaltigkeitstransformation voranzutreiben. WAS SIE ERWARTET &#13; Das Process Development TP",
+      "recruiter": {
+        "name": "Michael Wiesenack-Flick",
+        "email": "michael.wiesenack-flick@basf.com",
+        "phone": "+49 30 2005-58564"
+      }
+    },
     {
       "job_id": "132815",
       "title": "Officer Accounts Payable - Team Benelux (m/f/d) - Hybrid Option GER",
@@ -597,28 +619,6 @@
       }
     },
     {
-      "job_id": "134605",
-      "title": "Sales Financing Specialist (m/f/d)",
-      "url": "https://basf.jobs/job-invite/134605/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "APB/C IPO Readiness Project",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-03-24T10:04:41Z",
-      "description": "WELCOME TO BASF &#13; We are BASF in Agriculture and everything we do, we do for the love of farming, and the biggest job on Earth. We are an internationally successful company of the BASF Group. Our solutions are purpose-designed for different crop systems. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. With teams in the lab, fiel",
-      "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
-      }
-    },
-    {
       "job_id": "128068",
       "title": "Global Marketing Communications Specialist (m/w/d)",
       "url": "https://basf.jobs/job-invite/128068/?locale=en_US",
@@ -638,72 +638,6 @@
         "name": "Thomas Glatz",
         "email": "thomas.a.glatz@basf.com",
         "phone": "+49697165-3277"
-      }
-    },
-    {
-      "job_id": "134597",
-      "title": "FX & Trading Specialist (m/f/d)",
-      "url": "https://basf.jobs/job-invite/134597/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "APB/C IPO Readiness Project",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-03-24T09:59:21Z",
-      "description": "WELCOME TO BASF &#13; We are BASF in Agriculture and everything we do, we do for the love of farming, and the biggest job on Earth. We are an internationally successful company of the BASF Group. Our solutions are purpose-designed for different crop systems. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. With teams in the lab, fiel",
-      "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
-      }
-    },
-    {
-      "job_id": "134554",
-      "title": "Financial Planning Specialist (m/f/d)",
-      "url": "https://basf.jobs/job-invite/134554/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "APB/C IPO Readiness Project",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-03-24T09:56:54Z",
-      "description": "WELCOME TO BASF &#13; We are BASF in Agriculture and everything we do, we do for the love of farming, and the biggest job on Earth. We are an internationally successful company of the BASF Group. Our solutions are purpose-designed for different crop systems. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. With teams in the lab, fiel",
-      "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
-      }
-    },
-    {
-      "job_id": "134552",
-      "title": "Credit Risk Management Specialist (m/f/d)",
-      "url": "https://basf.jobs/job-invite/134552/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "APB/C IPO Readiness Project",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-03-24T09:48:43Z",
-      "description": "WELCOME TO BASF &#13; We are BASF in Agriculture and everything we do, we do for the love of farming, and the biggest job on Earth. We are an internationally successful company of the BASF Group. Our solutions are purpose-designed for different crop systems. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. With teams in the lab, fiel",
-      "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
       }
     },
     {
@@ -913,7 +847,7 @@
       "country": "Germany",
       "company": "BASF Gastronomie GmbH",
       "business_unit": "EMEA",
-      "department": "ESM/GR Feierabendhaus",
+      "department": "ES/RR Feierabendhaus",
       "job_field": "Catering",
       "job_level": "Professional",
       "job_type": "Permanent",
@@ -2029,7 +1963,7 @@
       "country": "Germany",
       "company": "BASF Gastronomie GmbH",
       "business_unit": "EMEA",
-      "department": "ESM/GR Haus Breitnau",
+      "department": "ES/RR Haus Breitnau",
       "job_field": "Catering",
       "job_level": "Professional",
       "job_type": "Permanent",
@@ -2484,7 +2418,7 @@
       "country": "Germany",
       "company": "BASF Gastronomie GmbH",
       "business_unit": "EMEA",
-      "department": "ESM/GR Studienhaus St. Johann",
+      "department": "ES/RR Studienhaus St. Johann",
       "job_field": "Catering",
       "job_level": "Graduate",
       "job_type": "Temporary",
@@ -3169,7 +3103,7 @@
       "country": "Germany",
       "company": "BASF Gastronomie GmbH",
       "business_unit": "EMEA",
-      "department": "ESM/GR Haus Breitnau",
+      "department": "ES/RR Haus Breitnau",
       "job_field": "Catering",
       "job_level": "Graduate",
       "job_type": "Temporary",
