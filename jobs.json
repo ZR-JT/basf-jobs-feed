@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-13T09:26:42Z",
-  "total_active": 185,
+  "last_updated": "2026-04-13T12:59:47Z",
+  "total_active": 191,
   "jobs": [
     {
       "job_id": "135233",
@@ -21,6 +21,69 @@
         "name": "Laura Juliane Mierke",
         "email": "juliane.mierke@basf.com",
         "phone": "+49 30 2005-58922"
+      }
+    },
+    {
+      "job_id": "135209",
+      "title": "Ausbildung Mechatroniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135209/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung Mechatroniker",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
+      "recruiter": {
+        "name": "Isabel Maisack",
+        "email": "isabel.maisack@basf.com",
+        "phone": "+49 30 2005-56683"
+      }
+    },
+    {
+      "job_id": "135205",
+      "title": "Ausbildung Chemielaborant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135205/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VL Voc. Training Laboratory Assistants",
+      "job_field": "Research & Development",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
+      "recruiter": {
+        "name": "Isabel Maisack",
+        "email": "isabel.maisack@basf.com",
+        "phone": "+49 30 2005-56683"
+      }
+    },
+    {
+      "job_id": "135206",
+      "title": "Ausbildung Biologielaborant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135206/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VL Voc. Training Laboratory Assistants",
+      "job_field": "Research & Development",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "WILLKOMMEN BEI BASF &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entla",
+      "recruiter": {
+        "name": "Isabel Maisack",
+        "email": "isabel.maisack@basf.com",
+        "phone": "+49 30 2005-56683"
       }
     },
     {
@@ -87,6 +150,48 @@
       }
     },
     {
+      "job_id": "135051",
+      "title": "Noch keinen Plan? Wir schon! Ausbildung im Bereich Technik oder Produktion (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135051/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung Splitterberufe",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du arbeitest gerne praktisch und möchtest die Ergebnisse deiner Arbeit sehen? Du findest Technik oder Produktion spannend und interessierst dich für den Bereich Metall, Elektro oder Produktion? Deine Lieblingsfächer in der Schule sind Technik, Mathematik, Physik, Chemie oder IT? Schwere Maschinen, Werkzeuge und laute Motoren faszinieren dich? Aber auch Produktion oder Technik im Detail und mit Fingerspitzengefühl könnte das richtige für dich sein? Oder Beides? We",
+      "recruiter": {
+        "name": "Lisa Nabra",
+        "email": "lisa.nabra@basf.com",
+        "phone": "+49 30 2005-58195"
+      }
+    },
+    {
+      "job_id": "135208",
+      "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
+      "url": "https://basf.jobs/job-invite/135208/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung EAUT",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
+      "recruiter": {
+        "name": "Isabel Maisack",
+        "email": "isabel.maisack@basf.com",
+        "phone": "+49 30 2005-56683"
+      }
+    },
+    {
       "job_id": "135043",
       "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
       "url": "https://basf.jobs/job-invite/135043/?locale=en_US",
@@ -105,6 +210,48 @@
         "name": "Lisa Nabra",
         "email": "lisa.nabra@basf.com",
         "phone": "+49 30 2005-58195"
+      }
+    },
+    {
+      "job_id": "135210",
+      "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135210/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Anlagenmechaniker",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
+      "recruiter": {
+        "name": "Isabel Maisack",
+        "email": "isabel.maisack@basf.com",
+        "phone": "+49 30 2005-56683"
+      }
+    },
+    {
+      "job_id": "135204",
+      "title": "Ausbildung Chemikant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135204/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VO Produktionstechnik",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
+      "recruiter": {
+        "name": "Isabel Maisack",
+        "email": "isabel.maisack@basf.com",
+        "phone": "+49 30 2005-56683"
       }
     },
     {
@@ -562,7 +709,7 @@
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2026-03-30T11:39:34Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Pflegende Hautcremes, milde Shampoos, Sonnenschutzmittel, schonende und umweltfreundliche Waschmittel und leistungsstarke Reiniger für Haushalt und Industrie - all diese Produkte nutzen Inhaltsstoffe aus unserem Bereich Care Chemicals. Darüber hinaus bieten wir beispielsweise Lösungen auf dem Gebiet des Pflanzenschutzes, für technische Anwendungen in der Bauchemie oder Rohstoffe für die Lackindustrie. Weltweit arbeiten wir gemeinsam mit unseren Kunden an innovativen Lösu",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir bei Care Chemicals handeln aus Leidenschaft. Unsere Mitarbeiter:innen sind unser wertvollstes Gut und wir pflegen eine Kultur der Empathie, der Unterstützung und des Wachstums. Auf diese Weise befähigen wir unser Team, sich persönlich und beruflich weiterzuentwickeln. Mit vereinten Kräften engagieren wir uns für die Entwicklung nachhaltiger, digitaler und innovativer Lösungen für eine bessere Zukunft. Pflegende Hautcremes, milde Shampoos, Sonnenschutzmittel, schonend",
       "recruiter": {
         "name": "Corinna Granterath",
         "email": "corinna.granterath@basf.com",
@@ -738,28 +885,6 @@
       "job_type": "Permanent",
       "hybrid": false,
       "date_posted": "2026-03-24T15:35:44Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Die globale Geschäftseinheit Oberflächentechnik des Unternehmensbereichs Coatings der BASF, die unter der Marke Chemetall operiert, ist ein führender Lieferant angewandter Oberflächentechnik für Metall-, Kunststoff- und Glassubstrate. Diese Spezialchemikalien werden in vielen Industrien und Märkten genutzt, wie zum Beispiel Automobil, Luftfahrt, Aluminiumveredelung, Coil oder in der metallverarbeitenden Industrie – unterstützt von einem großen Netzwerk technischer Expert",
-      "recruiter": {
-        "name": "Thomas Glatz",
-        "email": "thomas.a.glatz@basf.com",
-        "phone": "+49697165-3277"
-      }
-    },
-    {
-      "job_id": "128068",
-      "title": "Global Marketing Communications Specialist (m/w/d)",
-      "url": "https://basf.jobs/job-invite/128068/?locale=en_US",
-      "city": "Frankfurt am Main",
-      "state": "Hessen",
-      "country": "Germany",
-      "company": "Chemetall GmbH",
-      "business_unit": "EMEA",
-      "department": "G-ECT/OM Global Marketing & Segment Management",
-      "job_field": "Marketing & Sales",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-03-24T09:59:22Z",
       "description": "WILLKOMMEN BEI UNS &#13; Die globale Geschäftseinheit Oberflächentechnik des Unternehmensbereichs Coatings der BASF, die unter der Marke Chemetall operiert, ist ein führender Lieferant angewandter Oberflächentechnik für Metall-, Kunststoff- und Glassubstrate. Diese Spezialchemikalien werden in vielen Industrien und Märkten genutzt, wie zum Beispiel Automobil, Luftfahrt, Aluminiumveredelung, Coil oder in der metallverarbeitenden Industrie – unterstützt von einem großen Netzwerk technischer Expert",
       "recruiter": {
         "name": "Thomas Glatz",
@@ -3414,27 +3539,6 @@
       }
     },
     {
-      "job_id": "119404",
-      "title": "Ausbildung Hotelfachmann:frau (m/w/d) mit Zusatzqualifikation Hotelmanagement",
-      "url": "https://basf.jobs/job-invite/119404/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "department": "ESM/GR Business-Hotel René Bohn",
-      "job_field": "Catering",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast eine Leidenschaft f r den Service und m chtest in einem internationalen Umfeld arbeiten? Du bist ein Kommunikationstalent und hast Spa daran, Menschen einen unvergesslichen Aufenthalt zu bereiten? Du bist engagiert und hast Lust, in einem einzigartigen Team zu arbeiten? Dann starte deine Ausbildung als Hotelfachmann:frau in unserem Hotel und erlebe, wie vielseitig und spannend der Beruf in der Hotellerie sein kann! Du hast die Fachhochschulreife oder die ",
-      "recruiter": {
-        "name": "Lina Wehr",
-        "email": "lina.wehr@basf.com",
-        "phone": "+49 30 2005-56745"
-      }
-    },
-    {
       "job_id": "119398",
       "title": "Ausbildung Chemikant:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/119398/?locale=en_US",
@@ -3516,6 +3620,27 @@
         "name": "Lisa Nabra",
         "email": "lisa.nabra@basf.com",
         "phone": "+49 30 2005-58195"
+      }
+    },
+    {
+      "job_id": "119404",
+      "title": "Ausbildung Hotelfachmann:frau (m/w/d) mit Zusatzqualifikation Hotelmanagement",
+      "url": "https://basf.jobs/job-invite/119404/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "department": "ESM/GR Business-Hotel René Bohn",
+      "job_field": "Catering",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast eine Leidenschaft für den Service und möchtest in einem internationalen Umfeld arbeiten? Du bist ein Kommunikationstalent und hast Spaß daran, Menschen einen unvergesslichen Aufenthalt zu bereiten? Du bist engagiert und hast Lust, in einem einzigartigen Team zu arbeiten? Dann starte deine Ausbildung als Hotelfachmann:frau in unserem Hotel und erlebe, wie vielseitig und spannend der Beruf in der Hotellerie sein kann! Du hast die Fachhochschulreife oder die",
+      "recruiter": {
+        "name": "Lina Wehr",
+        "email": "lina.wehr@basf.com",
+        "phone": "+49 30 2005-56745"
       }
     },
     {
