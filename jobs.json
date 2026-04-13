@@ -1,7 +1,112 @@
 {
-  "last_updated": "2026-04-13T06:08:50Z",
-  "total_active": 180,
+  "last_updated": "2026-04-13T09:26:42Z",
+  "total_active": 185,
   "jobs": [
+    {
+      "job_id": "135233",
+      "title": "Bachelor of Science - International Business Administration & Information Technology (m/w/d) 1",
+      "url": "https://basf.jobs/job-invite/135233/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
+      "job_field": "Information Technology & Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Digitalisierung spannend und möchtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spaß an Mathematik, Englisch und wirtschaftlichen Zusammenhängen hast und du dich zudem für fremde Kulturen interessierst, dann bist du in der internationalen Wirtschaftsinformatik richtig! Denn so vielfältig und anspruchsvoll wie deine Interessen sind, so ist auch dein Studium. Du erlernst die wichtigsten Grundlagen in Wirtscha",
+      "recruiter": {
+        "name": "Laura Juliane Mierke",
+        "email": "juliane.mierke@basf.com",
+        "phone": "+49 30 2005-58922"
+      }
+    },
+    {
+      "job_id": "135284",
+      "title": "Bachelor of Arts Betriebswirtschaftslehre - Risk and Insurance Management (m/w/d) 1",
+      "url": "https://basf.jobs/job-invite/135284/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert und auch das Thema Risikomanagement klingt für dich spannend? Was muss ein großer Konzern versichern und warum hat er eigene Versicherungsunternehmen? Wenn dich das interessiert, dann ist dieses praxisnahe Studium genau richtig für dich! Neben den theoretischen Grundlagen in BWL, VWL und Recht bis hin zum Marketing-Management, lernst du in verschiedenen Praxisphasen auch unterschiedliche Versicherungsspart",
+      "recruiter": {
+        "name": "Laura Juliane Mierke",
+        "email": "juliane.mierke@basf.com",
+        "phone": "+49 30 2005-58922"
+      }
+    },
+    {
+      "job_id": "135229",
+      "title": "Bachelor of Science - International Business Administration (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135229/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
+      "job_field": "General Management",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert? Auch die Praxis findest du spannend? Dann ist dieses Studium genau richtig für dich! Durch die Verbindung von Theorie und Praxis wirst du zum wahren Allrounder. Du durchläufst verschiedene Abteilungen, wie zum Beispiel Marketing, Vertrieb, Personal und Controlling. Dabei lernst du, wie man ein Unternehmen führt, organisiert und steuert. Wesentliche Bestandteile dabei sind die Digitalisierung von Geschäfts",
+      "recruiter": {
+        "name": "Laura Juliane Mierke",
+        "email": "juliane.mierke@basf.com",
+        "phone": "+49 30 2005-58922"
+      }
+    },
+    {
+      "job_id": "135018",
+      "title": "Ausbildung Chemikant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135018/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VO Produktionstechnik",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Produktion läuft nicht von allein – Verantwortung im Herzen der BASF Chemische Produkte sind die Grundlage für nahezu alles in unserem Alltag – von Mobilität über Ernährung bis hin zu Digitalisierung. Als Chemikant:in sorgst du dafür, dass diese Produkte entstehen. Am Standort Ludwigshafen – einem der größten Chemieareale der Welt – sorgst du dafür, dass Produktionsanlagen sicher laufen und wichtige Produkte für die Region und die Zukunft entstehen. Hier siehst d",
+      "recruiter": {
+        "name": "Lisa Nabra",
+        "email": "lisa.nabra@basf.com",
+        "phone": "+49 30 2005-58195"
+      }
+    },
+    {
+      "job_id": "135043",
+      "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135043/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Anlagenmechaniker",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Mit dem “plus“ bieten wir dir die einmalige Chance die Inhalte aus zwei Berufen zu erlernen. In deiner Ausbildung als Anlagenmechaniker:in erhältst du bei uns on top auch alle wichtigen Inhalte der Industriemechanik. Du hast dich schon immer gerne mit Werkzeugen beschäftigt und interessierst dich für Technik? Hast du Spaß daran dich aktiv einzubringen, Produktionsanlagen und Maschinen faszinieren dich? Dann werden dir spannende Aufgaben, wie das Bearbeiten von me",
+      "recruiter": {
+        "name": "Lisa Nabra",
+        "email": "lisa.nabra@basf.com",
+        "phone": "+49 30 2005-58195"
+      }
+    },
     {
       "job_id": "134983",
       "title": "Werkstudent:in Pension Asset Management (m/w/d)",
