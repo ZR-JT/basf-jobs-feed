@@ -1,43 +1,22 @@
 {
-  "last_updated": "2026-04-14T01:24:55Z",
-  "total_active": 190,
+  "last_updated": "2026-04-14T05:54:50Z",
+  "total_active": 192,
   "jobs": [
     {
-      "job_id": "135233",
-      "title": "Bachelor of Science - International Business Administration & Information Technology (m/w/d) 1",
-      "url": "https://basf.jobs/job-invite/135233/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
-      "job_field": "Information Technology & Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Digitalisierung spannend und möchtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spaß an Mathematik, Englisch und wirtschaftlichen Zusammenhängen hast und du dich zudem für fremde Kulturen interessierst, dann bist du in der internationalen Wirtschaftsinformatik richtig! Denn so vielfältig und anspruchsvoll wie deine Interessen sind, so ist auch dein Studium. Du erlernst die wichtigsten Grundlagen in Wirtscha",
-      "recruiter": {
-        "name": "Laura Juliane Mierke",
-        "email": "juliane.mierke@basf.com",
-        "phone": "+49 30 2005-58922"
-      }
-    },
-    {
-      "job_id": "135209",
-      "title": "Ausbildung Mechatroniker:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135209/?locale=en_US",
+      "job_id": "135206",
+      "title": "Ausbildung Biologielaborant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135206/?locale=en_US",
       "city": "Limburgerhof",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung Mechatroniker",
-      "job_field": "Production, Maintenance & Technical Services",
+      "department": "ESH/VL Voc. Training Laboratory Assistants",
+      "job_field": "Research & Development",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2026-04-14T22:00:00Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
+      "description": "WILLKOMMEN BEI BASF &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entla",
       "recruiter": {
         "name": "Isabel Maisack",
         "email": "isabel.maisack@basf.com",
@@ -66,20 +45,20 @@
       }
     },
     {
-      "job_id": "135206",
-      "title": "Ausbildung Biologielaborant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135206/?locale=en_US",
+      "job_id": "135209",
+      "title": "Ausbildung Mechatroniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135209/?locale=en_US",
       "city": "Limburgerhof",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
-      "department": "ESH/VL Voc. Training Laboratory Assistants",
-      "job_field": "Research & Development",
+      "department": "ESH/VT Technikausbildung Mechatroniker",
+      "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2026-04-14T22:00:00Z",
-      "description": "WILLKOMMEN BEI BASF &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entla",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
       "recruiter": {
         "name": "Isabel Maisack",
         "email": "isabel.maisack@basf.com",
@@ -87,20 +66,20 @@
       }
     },
     {
-      "job_id": "135284",
-      "title": "Bachelor of Arts Betriebswirtschaftslehre - Risk and Insurance Management (m/w/d) 1",
-      "url": "https://basf.jobs/job-invite/135284/?locale=en_US",
+      "job_id": "135233",
+      "title": "Bachelor of Science - International Business Administration & Information Technology (m/w/d) 1",
+      "url": "https://basf.jobs/job-invite/135233/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
       "department": "ESH/VC Kaufmännische und IT-Ausbildung",
-      "job_field": "Legal, Tax & Insurance",
+      "job_field": "Information Technology & Services",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert und auch das Thema Risikomanagement klingt für dich spannend? Was muss ein großer Konzern versichern und warum hat er eigene Versicherungsunternehmen? Wenn dich das interessiert, dann ist dieses praxisnahe Studium genau richtig für dich! Neben den theoretischen Grundlagen in BWL, VWL und Recht bis hin zum Marketing-Management, lernst du in verschiedenen Praxisphasen auch unterschiedliche Versicherungsspart",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Digitalisierung spannend und möchtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spaß an Mathematik, Englisch und wirtschaftlichen Zusammenhängen hast und du dich zudem für fremde Kulturen interessierst, dann bist du in der internationalen Wirtschaftsinformatik richtig! Denn so vielfältig und anspruchsvoll wie deine Interessen sind, so ist auch dein Studium. Du erlernst die wichtigsten Grundlagen in Wirtscha",
       "recruiter": {
         "name": "Laura Juliane Mierke",
         "email": "juliane.mierke@basf.com",
@@ -108,24 +87,24 @@
       }
     },
     {
-      "job_id": "135229",
-      "title": "Bachelor of Science - International Business Administration (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135229/?locale=en_US",
+      "job_id": "135214",
+      "title": "Ausbildung zur Fachkraft für Schutz und Sicherheit (m/w/d) 1",
+      "url": "https://basf.jobs/job-invite/135214/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
-      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
-      "job_field": "General Management",
+      "department": "ESH/VT Ausbildungsstätten Betrieb",
+      "job_field": "Environment, Health & Safety",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert? Auch die Praxis findest du spannend? Dann ist dieses Studium genau richtig für dich! Durch die Verbindung von Theorie und Praxis wirst du zum wahren Allrounder. Du durchläufst verschiedene Abteilungen, wie zum Beispiel Marketing, Vertrieb, Personal und Controlling. Dabei lernst du, wie man ein Unternehmen führt, organisiert und steuert. Wesentliche Bestandteile dabei sind die Digitalisierung von Geschäfts",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du behältst den Überblick - auch wenn’s stressig wird? Bei uns sorgst du dafür, dass das Werksgelände sicher bleibt: Du kontrollierst Personen und Fahrzeuge, gibst Auskünfte und bist Ansprechperson vor Ort. Dabei sind Fingerspitzengefühl und Durchsetzungsvermögen gefragt, um auch in anspruchsvollen Situationen souverän zu bleiben. Teamwork ist Standard! Du arbeitest eng mit weiteren Gefahrenabwehreinheiten zusammen - insbesondere der Werkfeuerwehr. In der Leitste",
       "recruiter": {
-        "name": "Laura Juliane Mierke",
-        "email": "juliane.mierke@basf.com",
-        "phone": "+49 30 2005-58922"
+        "name": "Antje Pfeifer",
+        "email": "antje.pfeifer@basf.com",
+        "phone": "+49 30 2005-58153"
       }
     },
     {
@@ -189,6 +168,69 @@
         "name": "Isabel Maisack",
         "email": "isabel.maisack@basf.com",
         "phone": "+49 30 2005-56683"
+      }
+    },
+    {
+      "job_id": "135229",
+      "title": "Bachelor of Science - International Business Administration (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135229/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
+      "job_field": "General Management",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert? Auch die Praxis findest du spannend? Dann ist dieses Studium genau richtig für dich! Durch die Verbindung von Theorie und Praxis wirst du zum wahren Allrounder. Du durchläufst verschiedene Abteilungen, wie zum Beispiel Marketing, Vertrieb, Personal und Controlling. Dabei lernst du, wie man ein Unternehmen führt, organisiert und steuert. Wesentliche Bestandteile dabei sind die Digitalisierung von Geschäfts",
+      "recruiter": {
+        "name": "Laura Juliane Mierke",
+        "email": "juliane.mierke@basf.com",
+        "phone": "+49 30 2005-58922"
+      }
+    },
+    {
+      "job_id": "135284",
+      "title": "Bachelor of Arts Betriebswirtschaftslehre - Risk and Insurance Management (m/w/d) 1",
+      "url": "https://basf.jobs/job-invite/135284/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert und auch das Thema Risikomanagement klingt für dich spannend? Was muss ein großer Konzern versichern und warum hat er eigene Versicherungsunternehmen? Wenn dich das interessiert, dann ist dieses praxisnahe Studium genau richtig für dich! Neben den theoretischen Grundlagen in BWL, VWL und Recht bis hin zum Marketing-Management, lernst du in verschiedenen Praxisphasen auch unterschiedliche Versicherungsspart",
+      "recruiter": {
+        "name": "Laura Juliane Mierke",
+        "email": "juliane.mierke@basf.com",
+        "phone": "+49 30 2005-58922"
+      }
+    },
+    {
+      "job_id": "135235",
+      "title": "Ausbildung Eisenbahner im Betriebsdienst Lokführer und Transport - Fachrichtung Güterverkehr (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135235/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Ausbildungsstätten Betrieb",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; War es auch dein Kindheitstraum Lokomotivführer:in zu werden? Jetzt kann dein Traum Wirklichkeit werden! Spring auf unseren Zug auf und bewirb dich. In Deutschland sind jeden Tag Tausende Züge unterwegs. Allein durch das Werk der BASF SE in Ludwigshafen laufen 230 Kilometer Schienen. Das ist ungefähr so weit wie von Ludwigshafen nach Bonn. Nun bist du am Zug: Löse bei uns den Fahrschein für deine Ausbildung und steige ein. DAS LERNST DU WÄHREND DEINER AUSBILDUNG ",
+      "recruiter": {
+        "name": "Antje Pfeifer",
+        "email": "antje.pfeifer@basf.com",
+        "phone": "+49 30 2005-58153"
       }
     },
     {
