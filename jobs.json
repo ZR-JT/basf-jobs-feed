@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-14T05:54:50Z",
-  "total_active": 192,
+  "last_updated": "2026-04-14T09:08:35Z",
+  "total_active": 197,
   "jobs": [
     {
       "job_id": "135206",
@@ -105,6 +105,132 @@
         "name": "Antje Pfeifer",
         "email": "antje.pfeifer@basf.com",
         "phone": "+49 30 2005-58153"
+      }
+    },
+    {
+      "job_id": "135048",
+      "title": "Duales Studium (B.Sc.) - Data Science und Künstliche Intelligenz (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135048/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Digital Solutions GmbH",
+      "department": "GD/HP HR Planning & Vocational Training",
+      "job_field": "Information Technology & Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Artificial Intelligence spannend und möchtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spaß an Informatik, Mathematik und wirtschaftlichen Zusammenhängen hast dann bist du bei Data Science und Künstliche Intelligenz richtig! Bewirb dich bei einem Unternehmen, das Zugang zu neuesten Technologien, Expertise und Inspirationen bietet. Du arbeitest in einem modernen Arbeitsumfeld und bist vom ersten Tag an Teil",
+      "recruiter": {
+        "name": "Yulia Elke Haars",
+        "email": "yulia.haars@basf.com",
+        "phone": "+49 30-200556107"
+      }
+    },
+    {
+      "job_id": "135047",
+      "title": "Duales Studium (B.Sc.) - Informatik mit Ausrichtung Künstliche Intelligenz (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135047/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Digital Solutions GmbH",
+      "department": "GD/HP HR Planning & Vocational Training",
+      "job_field": "Information Technology & Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du bist von Artificial Intelligence fasziniert, hast schon selbstständig etwas programmiert und auch das Thema Programmiersprachen ist kein Neuland für dich? Zudem hast du in der Schule Spaß an Informatik und Mathematik? Du bist neugierig stets aktuelle Technologien zu erlernen und einzusetzen? Dann bist du in der Informatik mit Ausrichtung Künstliche Intelligenz richtig! Bewirb dich bei einem Unternehmen, das Zugang zu neuesten Technologien, Expertise und I",
+      "recruiter": {
+        "name": "Yulia Elke Haars",
+        "email": "yulia.haars@basf.com",
+        "phone": "+49 30-200556107"
+      }
+    },
+    {
+      "job_id": "135108",
+      "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
+      "url": "https://basf.jobs/job-invite/135108/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung EAUT",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kein elektrisches Gerät ist vor dir sicher. Erst wenn du weißt, wie es funktioniert, bist du zufrieden. Du tüftelst für dein Leben gern und hast Spaß an Mathe und Physik. Dass unser Leben ohne die Elektrotechnik heute nicht mehr vorstellbar wäre, weißt du ganz genau. In modernen Anlagen werden chemische Produkte hergestellt, die in vielen Dingen unseres Alltags verwendet werden, wie zum Beispiel in Handys oder in Turnschuhen. Elektroniker:innen für Automatisierun",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
+      }
+    },
+    {
+      "job_id": "134966",
+      "title": "Ausbildung Mechatroniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134966/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung Mechatroniker",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Gerät den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du tüftelst für dein Leben gerne? Deine Lieblingsfächer sind Mathe und Physik, aber noch viel lieber hättest du öfter die Fächer Mechanik, Elektrotechnik und IT? Das klingt ganz so, als wäre ein Beruf in diesem Bereich perfekt für dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu kümmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich für eine A",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
+      }
+    },
+    {
+      "job_id": "135109",
+      "title": "Ausbildung Elektroniker:in (m/w/d) für Betriebstechnik",
+      "url": "https://basf.jobs/job-invite/135109/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung EBET",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kabelsalat steht regelmäßig auf deinem Speiseplan? Wie der Strom in die Steckdose kommt, weist du genau. Das reicht dir aber noch nicht. Du willst ein Elektrotechnik-Profi werden? Dann bist du bei uns richtig, denn unsere Anlagen laufen erst, wenn du diese mit Energie versorgst. Dazu gehört die Installation, das Einrichten und die Programmierung. Sollte dann doch mal etwas nicht funktionieren, bringst du die Elektronik wieder in die richtige Bahn. Kurz gesagt - d",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
+      }
+    },
+    {
+      "job_id": "135111",
+      "title": "Bachelor of Engineering - Elektrotechnik - Schwerpunkt Automatisierungstechnik (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135111/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Ausbildungsstätten Betrieb",
+      "job_field": "Engineering",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du funktionierst auch unter Druck, stehst dabei aber selten auf der Leitung? Dann kurbel mit uns deine Entwicklung an! Erwirb bei uns das nötige Know-How der Automatisierungs-, Elektro- sowie Steuerungstechnik. Du hilfst uns, Anlagen zu planen, elektronisch zu steuern und zu erhalten, nachdem du ihre Funktionsweise studiert hast. Du verstehst die Signale eines Stromkreises wie kein:e andere:r und kitzelst das volle Potenzial aus unseren Anlagen heraus. Wenn ",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
       }
     },
     {
@@ -231,6 +357,27 @@
         "name": "Antje Pfeifer",
         "email": "antje.pfeifer@basf.com",
         "phone": "+49 30 2005-58153"
+      }
+    },
+    {
+      "job_id": "135134",
+      "title": "Ausbildung Biologielaborant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135134/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VL Voc. Training Laboratory Assistants",
+      "job_field": "Research & Development",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn du \"Plasma\" hörst, denkst du nicht zuerst an deinen Fernseher. Dass \"Fotosynthese\" kein Bildbearbeitungsprogramm ist, war dir schon immer klar. Kurzum: Biologie fasziniert dich und du willst sie zu deinem Beruf machen! Arbeite mit unseren Forschern an der Gewinnung neuer Erkenntnisse und führe Versuche in den Bereichen der Grundlagenforschung, des Pflanzenschutzes und der Diagnostik durch. Hier zeigen wir dir auch, wie du toxikologische Untersuchungen an Tie",
+      "recruiter": {
+        "name": "Mariya Budkevych",
+        "email": "mariya.budkevych@basf.com",
+        "phone": "+49 30 2005-56363"
       }
     },
     {
@@ -1023,28 +1170,6 @@
       }
     },
     {
-      "job_id": "134754",
-      "title": "Praktikum Digitalisierung Projektcontrolling Power BI (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134754/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "GEM/ES Project Analytics",
-      "job_field": "Engineering",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-03-23T07:28:42Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Die Serviceeinheit Global Engineering Services trägt mit herausragender technischer Expertise dazu bei, eine nachhaltige Zukunft zu gestalten. Mit unseren engagierten, interdisziplinären Teams unterstützen wir die BASF-Unternehmensbereiche dabei, gemeinsam mit unseren Kunden und Märkten zu wachsen. Wir setzen Investitionen wettbewerbsfähig um. Rund um den Globus, sorgen wir für sichere und zuverlässige Lösungen, damit die Produktionsanlagen exzellente Leistung erbringen.",
-      "recruiter": {
-        "name": "Paula Männecke",
-        "email": "paula.maennecke@basf.com",
-        "phone": "+4930200556093"
-      }
-    },
-    {
       "job_id": "131937",
       "title": "Spezialist:in Feuerwehr und Gefahrenabwehr (m/w/d)",
       "url": "https://basf.jobs/job-invite/131937/?locale=en_US",
@@ -1174,28 +1299,6 @@
         "name": "Susanne Reddmann",
         "email": "susanne.reddmann@basf.com",
         "phone": "+49 30 2005-56097"
-      }
-    },
-    {
-      "job_id": "131314",
-      "title": "Power Platform Developer - Microsoft 365 (m/w/d)",
-      "url": "https://basf.jobs/job-invite/131314/?locale=en_US",
-      "city": "Frankfurt am Main",
-      "state": "Hessen",
-      "country": "Germany",
-      "company": "Chemetall GmbH",
-      "business_unit": "EMEA",
-      "department": "G-ECT/OMI Global Digitalization",
-      "job_field": "Digitalization",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-03-16T07:38:11Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Die globale Geschäftseinheit Oberflächentechnik des Unternehmensbereichs Coatings der BASF, die unter der Marke Chemetall operiert, ist ein führender Lieferant angewandter Oberflächentechnik für Metall-, Kunststoff- und Glassubstrate. Diese Spezialchemikalien werden in vielen Industrien und Märkten genutzt, wie zum Beispiel Automobil, Luftfahrt, Aluminiumveredelung, Coil oder in der metallverarbeitenden Industrie – unterstützt von einem großen Netzwerk technischer Expert",
-      "recruiter": {
-        "name": "Thomas Glatz",
-        "email": "thomas.a.glatz@basf.com",
-        "phone": "+49697165-3277"
       }
     },
     {
