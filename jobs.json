@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-15T01:21:31Z",
+  "last_updated": "2026-04-15T05:54:45Z",
   "total_active": 203,
   "jobs": [
     {
@@ -87,45 +87,45 @@
       }
     },
     {
-      "job_id": "135214",
-      "title": "Ausbildung zur Fachkraft für Schutz und Sicherheit (m/w/d) 1",
-      "url": "https://basf.jobs/job-invite/135214/?locale=en_US",
+      "job_id": "135237",
+      "title": "Ausbildung Hotelfachmann:frau (m/w/d) mit Zusatzqualifikation Hotelmanagement",
+      "url": "https://basf.jobs/job-invite/135237/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "department": "ESM/GR Business-Hotel René Bohn",
+      "job_field": "Catering",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast eine Leidenschaft für den Service und möchtest in einem internationalen Umfeld arbeiten? Du bist ein Kommunikationstalent und hast Spaß daran, Menschen einen unvergesslichen Aufenthalt zu bereiten? Du bist engagiert und hast Lust, in einem einzigartigen Team zu arbeiten? Dann starte deine Ausbildung als Hotelfachmann:frau mit Zusatzqualifikation Hotelmanagement in unserem Hotel und erlebe wie vielseitig und spannend der Beruf in der Hotellerie sein kann! ",
+      "recruiter": {
+        "name": "Lina Wehr",
+        "email": "lina.wehr@basf.com",
+        "phone": "+49 30 2005-56745"
+      }
+    },
+    {
+      "job_id": "134966",
+      "title": "Ausbildung Mechatroniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134966/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
-      "department": "ESH/VT Ausbildungsstätten Betrieb",
-      "job_field": "Environment, Health & Safety",
+      "department": "ESH/VT Technikausbildung Mechatroniker",
+      "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du behältst den Überblick - auch wenn’s stressig wird? Bei uns sorgst du dafür, dass das Werksgelände sicher bleibt: Du kontrollierst Personen und Fahrzeuge, gibst Auskünfte und bist Ansprechperson vor Ort. Dabei sind Fingerspitzengefühl und Durchsetzungsvermögen gefragt, um auch in anspruchsvollen Situationen souverän zu bleiben. Teamwork ist Standard! Du arbeitest eng mit weiteren Gefahrenabwehreinheiten zusammen - insbesondere der Werkfeuerwehr. In der Leitste",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Gerät den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du tüftelst für dein Leben gerne? Deine Lieblingsfächer sind Mathe und Physik, aber noch viel lieber hättest du öfter die Fächer Mechanik, Elektrotechnik und IT? Das klingt ganz so, als wäre ein Beruf in diesem Bereich perfekt für dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu kümmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich für eine A",
       "recruiter": {
-        "name": "Antje Pfeifer",
-        "email": "antje.pfeifer@basf.com",
-        "phone": "+49 30 2005-58153"
-      }
-    },
-    {
-      "job_id": "135048",
-      "title": "Duales Studium (B.Sc.) - Data Science und Künstliche Intelligenz (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135048/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Digital Solutions GmbH",
-      "department": "GD/HP HR Planning & Vocational Training",
-      "job_field": "Information Technology & Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Artificial Intelligence spannend und möchtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spaß an Informatik, Mathematik und wirtschaftlichen Zusammenhängen hast dann bist du bei Data Science und Künstliche Intelligenz richtig! Bewirb dich bei einem Unternehmen, das Zugang zu neuesten Technologien, Expertise und Inspirationen bietet. Du arbeitest in einem modernen Arbeitsumfeld und bist vom ersten Tag an Teil",
-      "recruiter": {
-        "name": "Yulia Elke Haars",
-        "email": "yulia.haars@basf.com",
-        "phone": "+49 30-200556107"
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
       }
     },
     {
@@ -150,6 +150,48 @@
       }
     },
     {
+      "job_id": "135048",
+      "title": "Duales Studium (B.Sc.) - Data Science und Künstliche Intelligenz (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135048/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Digital Solutions GmbH",
+      "department": "GD/HP HR Planning & Vocational Training",
+      "job_field": "Information Technology & Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Artificial Intelligence spannend und möchtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spaß an Informatik, Mathematik und wirtschaftlichen Zusammenhängen hast dann bist du bei Data Science und Künstliche Intelligenz richtig! Bewirb dich bei einem Unternehmen, das Zugang zu neuesten Technologien, Expertise und Inspirationen bietet. Du arbeitest in einem modernen Arbeitsumfeld und bist vom ersten Tag an Teil",
+      "recruiter": {
+        "name": "Yulia Elke Haars",
+        "email": "yulia.haars@basf.com",
+        "phone": "+49 30-200556107"
+      }
+    },
+    {
+      "job_id": "135111",
+      "title": "Bachelor of Engineering - Elektrotechnik - Schwerpunkt Automatisierungstechnik (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135111/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Ausbildungsstätten Betrieb",
+      "job_field": "Engineering",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du funktionierst auch unter Druck, stehst dabei aber selten auf der Leitung? Dann kurbel mit uns deine Entwicklung an! Erwirb bei uns das nötige Know-How der Automatisierungs-, Elektro- sowie Steuerungstechnik. Du hilfst uns, Anlagen zu planen, elektronisch zu steuern und zu erhalten, nachdem du ihre Funktionsweise studiert hast. Du verstehst die Signale eines Stromkreises wie kein:e andere:r und kitzelst das volle Potenzial aus unseren Anlagen heraus. Wenn ",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
+      }
+    },
+    {
       "job_id": "135108",
       "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
       "url": "https://basf.jobs/job-invite/135108/?locale=en_US",
@@ -164,27 +206,6 @@
       "hybrid": false,
       "date_posted": "2026-04-14T22:00:00Z",
       "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kein elektrisches Gerät ist vor dir sicher. Erst wenn du weißt, wie es funktioniert, bist du zufrieden. Du tüftelst für dein Leben gern und hast Spaß an Mathe und Physik. Dass unser Leben ohne die Elektrotechnik heute nicht mehr vorstellbar wäre, weißt du ganz genau. In modernen Anlagen werden chemische Produkte hergestellt, die in vielen Dingen unseres Alltags verwendet werden, wie zum Beispiel in Handys oder in Turnschuhen. Elektroniker:innen für Automatisierun",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
-      }
-    },
-    {
-      "job_id": "134966",
-      "title": "Ausbildung Mechatroniker:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134966/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung Mechatroniker",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Gerät den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du tüftelst für dein Leben gerne? Deine Lieblingsfächer sind Mathe und Physik, aber noch viel lieber hättest du öfter die Fächer Mechanik, Elektrotechnik und IT? Das klingt ganz so, als wäre ein Beruf in diesem Bereich perfekt für dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu kümmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich für eine A",
       "recruiter": {
         "name": "Katrin Statnick",
         "email": "katrin.statnick@basf.com",
@@ -213,45 +234,24 @@
       }
     },
     {
-      "job_id": "135111",
-      "title": "Bachelor of Engineering - Elektrotechnik - Schwerpunkt Automatisierungstechnik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135111/?locale=en_US",
+      "job_id": "135214",
+      "title": "Ausbildung zur Fachkraft für Schutz und Sicherheit (m/w/d) 1",
+      "url": "https://basf.jobs/job-invite/135214/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
       "department": "ESH/VT Ausbildungsstätten Betrieb",
-      "job_field": "Engineering",
+      "job_field": "Environment, Health & Safety",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du funktionierst auch unter Druck, stehst dabei aber selten auf der Leitung? Dann kurbel mit uns deine Entwicklung an! Erwirb bei uns das nötige Know-How der Automatisierungs-, Elektro- sowie Steuerungstechnik. Du hilfst uns, Anlagen zu planen, elektronisch zu steuern und zu erhalten, nachdem du ihre Funktionsweise studiert hast. Du verstehst die Signale eines Stromkreises wie kein:e andere:r und kitzelst das volle Potenzial aus unseren Anlagen heraus. Wenn ",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du behältst den Überblick - auch wenn’s stressig wird? Bei uns sorgst du dafür, dass das Werksgelände sicher bleibt: Du kontrollierst Personen und Fahrzeuge, gibst Auskünfte und bist Ansprechperson vor Ort. Dabei sind Fingerspitzengefühl und Durchsetzungsvermögen gefragt, um auch in anspruchsvollen Situationen souverän zu bleiben. Teamwork ist Standard! Du arbeitest eng mit weiteren Gefahrenabwehreinheiten zusammen - insbesondere der Werkfeuerwehr. In der Leitste",
       "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
-      }
-    },
-    {
-      "job_id": "135237",
-      "title": "Ausbildung Hotelfachmann:frau (m/w/d) mit Zusatzqualifikation Hotelmanagement",
-      "url": "https://basf.jobs/job-invite/135237/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "department": "ESM/GR Business-Hotel René Bohn",
-      "job_field": "Catering",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast eine Leidenschaft für den Service und möchtest in einem internationalen Umfeld arbeiten? Du bist ein Kommunikationstalent und hast Spaß daran, Menschen einen unvergesslichen Aufenthalt zu bereiten? Du bist engagiert und hast Lust, in einem einzigartigen Team zu arbeiten? Dann starte deine Ausbildung als Hotelfachmann:frau mit Zusatzqualifikation Hotelmanagement in unserem Hotel und erlebe wie vielseitig und spannend der Beruf in der Hotellerie sein kann! ",
-      "recruiter": {
-        "name": "Lina Wehr",
-        "email": "lina.wehr@basf.com",
-        "phone": "+49 30 2005-56745"
+        "name": "Antje Pfeifer",
+        "email": "antje.pfeifer@basf.com",
+        "phone": "+49 30 2005-58153"
       }
     },
     {
