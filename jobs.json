@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-15T12:58:36Z",
-  "total_active": 206,
+  "last_updated": "2026-04-15T16:53:03Z",
+  "total_active": 207,
   "jobs": [
     {
       "job_id": "135138",
@@ -22,6 +22,49 @@
         "name": "Jennifer Weiz",
         "email": "jennifer.weiz@basf.com",
         "phone": "+49 30 2005-56454"
+      }
+    },
+    {
+      "job_id": "135370",
+      "title": "EMEA (Berlin Hub)",
+      "url": "https://basf.jobs/job-invite/135370/?locale=en_US",
+      "city": "Münster",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "company": "BASF Coatings GmbH",
+      "business_unit": "EMEA",
+      "department": "EC/XDT Appl. Mgmt Plan/Prod, QM, EHS, Sales ECT",
+      "job_field": "Digitalization",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-04-15T16:03:02Z",
+      "description": "WELCOME TO BASF &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den Anf",
+      "recruiter": {
+        "name": "Melissa Amina Rahmani",
+        "email": "melissa.rahmani@basf.com",
+        "phone": "+49 30 2005-58073"
+      }
+    },
+    {
+      "job_id": "121038",
+      "title": "Officer/ Specialist Payroll and HR administration Specialist with French (m/f/d)",
+      "url": "https://basf.jobs/job-invite/121038/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/PH-FA Personnel Administration&Payroll France",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-15T13:46:08Z",
+      "description": "WELCOME TO BASF &#13; The HR Services Team France is a diverse and inclusive team of experts and young professionals. Together, we are committed to deliver the highest quality of service to our BASF partners in France. To complete our Payroll Workforce management team, we are looking for an Officer/Specialist Payroll and HR administration (m/f/d) with a strong enthusiasm for Payroll, HR processes and customer relations. From day one, you will be responsible, with your subteam, for your area of r",
+      "recruiter": {
+        "name": "Liliana Marcela Quiroga Duarte",
+        "email": "liliana-marcela.quiroga-duarte@basf.com"
       }
     },
     {
@@ -239,48 +282,6 @@
       }
     },
     {
-      "job_id": "135047",
-      "title": "Duales Studium (B.Sc.) - Informatik mit Ausrichtung Künstliche Intelligenz (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135047/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Digital Solutions GmbH",
-      "department": "GD/HP HR Planning & Vocational Training",
-      "job_field": "Information Technology & Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du bist von Artificial Intelligence fasziniert, hast schon selbstständig etwas programmiert und auch das Thema Programmiersprachen ist kein Neuland für dich? Zudem hast du in der Schule Spaß an Informatik und Mathematik? Du bist neugierig stets aktuelle Technologien zu erlernen und einzusetzen? Dann bist du in der Informatik mit Ausrichtung Künstliche Intelligenz richtig! Bewirb dich bei einem Unternehmen, das Zugang zu neuesten Technologien, Expertise und I",
-      "recruiter": {
-        "name": "Yulia Elke Haars",
-        "email": "yulia.haars@basf.com",
-        "phone": "+49 30-200556107"
-      }
-    },
-    {
-      "job_id": "135048",
-      "title": "Duales Studium (B.Sc.) - Data Science und Künstliche Intelligenz (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135048/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Digital Solutions GmbH",
-      "department": "GD/HP HR Planning & Vocational Training",
-      "job_field": "Information Technology & Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Artificial Intelligence spannend und möchtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spaß an Informatik, Mathematik und wirtschaftlichen Zusammenhängen hast dann bist du bei Data Science und Künstliche Intelligenz richtig! Bewirb dich bei einem Unternehmen, das Zugang zu neuesten Technologien, Expertise und Inspirationen bietet. Du arbeitest in einem modernen Arbeitsumfeld und bist vom ersten Tag an Teil",
-      "recruiter": {
-        "name": "Yulia Elke Haars",
-        "email": "yulia.haars@basf.com",
-        "phone": "+49 30-200556107"
-      }
-    },
-    {
       "job_id": "135111",
       "title": "Bachelor of Engineering - Elektrotechnik - Schwerpunkt Automatisierungstechnik (m/w/d)",
       "url": "https://basf.jobs/job-invite/135111/?locale=en_US",
@@ -446,6 +447,48 @@
         "name": "Antje Pfeifer",
         "email": "antje.pfeifer@basf.com",
         "phone": "+49 30 2005-58153"
+      }
+    },
+    {
+      "job_id": "135047",
+      "title": "Duales Studium (B.Sc.) - Informatik mit Ausrichtung Künstliche Intelligenz (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135047/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Digital Solutions GmbH",
+      "department": "GD/HP HR Planning & Vocational Training",
+      "job_field": "Information Technology & Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du bist von Artificial Intelligence fasziniert, hast schon selbstständig etwas programmiert und auch das Thema Programmiersprachen ist kein Neuland für dich? Zudem hast du in der Schule Spaß an Informatik und Mathematik? Du bist neugierig stets aktuelle Technologien zu erlernen und einzusetzen? Dann bist du in der Informatik mit Ausrichtung Künstliche Intelligenz richtig! Bewirb dich bei einem Unternehmen, das Zugang zu neuesten Technologien, Expertise und I",
+      "recruiter": {
+        "name": "Yulia Elke Haars",
+        "email": "yulia.haars@basf.com",
+        "phone": "+49 30-200556107"
+      }
+    },
+    {
+      "job_id": "135048",
+      "title": "Duales Studium (B.Sc.) - Data Science und Künstliche Intelligenz (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135048/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Digital Solutions GmbH",
+      "department": "GD/HP HR Planning & Vocational Training",
+      "job_field": "Information Technology & Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Artificial Intelligence spannend und möchtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spaß an Informatik, Mathematik und wirtschaftlichen Zusammenhängen hast dann bist du bei Data Science und Künstliche Intelligenz richtig! Bewirb dich bei einem Unternehmen, das Zugang zu neuesten Technologien, Expertise und Inspirationen bietet. Du arbeitest in einem modernen Arbeitsumfeld und bist vom ersten Tag an Teil",
+      "recruiter": {
+        "name": "Yulia Elke Haars",
+        "email": "yulia.haars@basf.com",
+        "phone": "+49 30-200556107"
       }
     },
     {
@@ -1993,27 +2036,6 @@
         "name": "Yasemin Koparan",
         "email": "yasemin.koparan@basf.com",
         "phone": "+49 30 2005-58540"
-      }
-    },
-    {
-      "job_id": "121038",
-      "title": "Officer/ Specialist Payroll and HR administration Specialist with French (m/f/d)",
-      "url": "https://basf.jobs/job-invite/121038/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/PH-FA Personnel Administration&Payroll France",
-      "job_field": "Human Resources",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-02-27T14:36:57Z",
-      "description": "WELCOME TO BASF &#13; The HR Services Team France is a diverse and inclusive team of experts and young professionals. Together, we are committed to deliver the highest quality of service to our BASF partners in France. To complete our Payroll Workforce management team, we are looking for an Officer/Specialist Payroll and HR administration (m/f/d) with a strong enthusiasm for Payroll, HR processes and customer relations. From day one, you will be responsible, with your subteam, for your area of r",
-      "recruiter": {
-        "name": "Liliana Marcela Quiroga Duarte",
-        "email": "liliana-marcela.quiroga-duarte@basf.com"
       }
     },
     {
