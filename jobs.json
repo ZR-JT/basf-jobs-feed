@@ -1,7 +1,95 @@
 {
-  "last_updated": "2026-04-15T09:09:46Z",
-  "total_active": 204,
+  "last_updated": "2026-04-15T12:58:36Z",
+  "total_active": 206,
   "jobs": [
+    {
+      "job_id": "135138",
+      "title": "(Senior) Project Manager Supply Chain Consulting (m/f/d)",
+      "url": "https://basf.jobs/job-invite/135138/?locale=en_US",
+      "city": "Düsseldorf",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "company": "BASF Personal Care and Nutrition GmbH",
+      "business_unit": "EMEA",
+      "department": "GBM/S Supply Chain Improvement",
+      "job_field": "Inhouse Consulting",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-04-15T22:00:00Z",
+      "description": "WELCOME TO BASF &#13; Welcome to the global management consultancy of BASF! We focus on strategic projects that drive the effective transformation of our businesses. Our teams work on a broad range of topics such as sustainability, organizational development, efficiency projects, M A, and profitable growth through all types of innovation. We put people first: We are proud of our strong team spirit, and we cherish diversity. Become part of a great international team where your hands-on approach a",
+      "recruiter": {
+        "name": "Jennifer Weiz",
+        "email": "jennifer.weiz@basf.com",
+        "phone": "+49 30 2005-56454"
+      }
+    },
+    {
+      "job_id": "135426",
+      "title": "Internship Process Development for Syngas Plants (m/f/d)",
+      "url": "https://basf.jobs/job-invite/135426/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "RGR/AC Process Development Petrochemicals",
+      "job_field": "Research & Development",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-04-15T12:20:55Z",
+      "description": "WELCOME TO BASF &#13; We are a leading global research organization with over 3000 employees working in the field of material and analytical science, chemical synthesis, process development, bioscience, catalysis and digitalization. With our creative and diverse teams as well as our cutting-edge research, we help to make our customers more successful and drive the sustainability transformation. WHAT YOU CAN EXPECT &#13; During your internship in Process Development Petrochemicals, you will colla",
+      "recruiter": {
+        "name": "Tina Le",
+        "email": "tina.le@basf.com",
+        "phone": "+49 30 2005-56367"
+      }
+    },
+    {
+      "job_id": "135597",
+      "title": "Accountant Trade Invoicing Services (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/135597/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/EA-M Trade Invoicing Services",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-04-15T11:57:26Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our Trade Invoicing Team as soon as possible and ensure together with us high-quality invoicing services! You serve as a point for contact",
+      "recruiter": {
+        "name": "Jennifer Weiz",
+        "email": "jennifer.weiz@basf.com",
+        "phone": "+49 30 2005-56454"
+      }
+    },
+    {
+      "job_id": "112559",
+      "title": "Servicekraft Gemeinschaftsverpflegung in Teilzeit  (m/w/d)",
+      "url": "https://basf.jobs/job-invite/112559/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "business_unit": "EMEA",
+      "department": "ES/RC Canteens",
+      "job_field": "Catering",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-04-15T08:54:20Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Ob Mittagspause, Event oder einfach guter Geschmack – wir machen Ludwigshafen lecker! In unseren Kantinen und Locations sorgen wir für Vielfalt, Qualität und echte Genussmomente. Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Alles im Blick – Sie bereiten Speisen vor, regenerieren diese und sorgen dafür, dass das Mittagsgeschäft reibungslos läuft. Service mit Herz – Sie kassieren, behalten den Überblick über den Verbrauch und kümmern sich um Nachschub. Sauberkeit Tech",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
+      }
+    },
     {
       "job_id": "135037",
       "title": "Development Manager Biocides (m/w/d)",
@@ -256,48 +344,6 @@
       }
     },
     {
-      "job_id": "135214",
-      "title": "Ausbildung zur Fachkraft für Schutz und Sicherheit (m/w/d) 1",
-      "url": "https://basf.jobs/job-invite/135214/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Ausbildungsstätten Betrieb",
-      "job_field": "Environment, Health & Safety",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du behältst den Überblick - auch wenn’s stressig wird? Bei uns sorgst du dafür, dass das Werksgelände sicher bleibt: Du kontrollierst Personen und Fahrzeuge, gibst Auskünfte und bist Ansprechperson vor Ort. Dabei sind Fingerspitzengefühl und Durchsetzungsvermögen gefragt, um auch in anspruchsvollen Situationen souverän zu bleiben. Teamwork ist Standard! Du arbeitest eng mit weiteren Gefahrenabwehreinheiten zusammen - insbesondere der Werkfeuerwehr. In der Leitste",
-      "recruiter": {
-        "name": "Antje Pfeifer",
-        "email": "antje.pfeifer@basf.com",
-        "phone": "+49 30 2005-58153"
-      }
-    },
-    {
-      "job_id": "135236",
-      "title": "Ausbildung Fachmann:frau für Restaurants und Veranstaltungsgastronomie (m/w/d) 1",
-      "url": "https://basf.jobs/job-invite/135236/?locale=en_US",
-      "city": "Albersweiler",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "department": "ESM/GR Studienhaus St. Johann",
-      "job_field": "Catering",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du liebst es, Events und Veranstaltungen zu organisieren, hast ein Auge für Details und möchtest lernen, wie man sowohl in Restaurants als auch bei großen Veranstaltungen einen erstklassigen Service bietet? Dann bist du bei uns genau richtig! Als Fachmann:frau für Restaurants und Veranstaltungsgastronomie wirst du in deiner Ausbildung nicht nur alle relevanten Bereiche der Gastronomie kennenlernen, sondern auch wertvolle Erfahrungen im Bereich Eventmanagement sam",
-      "recruiter": {
-        "name": "Lina Wehr",
-        "email": "lina.wehr@basf.com",
-        "phone": "+49 30 2005-56745"
-      }
-    },
-    {
       "job_id": "135233",
       "title": "Bachelor of Science - International Business Administration & Information Technology (m/w/d)",
       "url": "https://basf.jobs/job-invite/135233/?locale=en_US",
@@ -358,6 +404,48 @@
         "name": "Lina Wehr",
         "email": "lina.wehr@basf.com",
         "phone": "+49 30 2005-56745"
+      }
+    },
+    {
+      "job_id": "135236",
+      "title": "Ausbildung Fachmann:frau für Restaurants und Veranstaltungsgastronomie (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135236/?locale=en_US",
+      "city": "Albersweiler",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "department": "ESM/GR Studienhaus St. Johann",
+      "job_field": "Catering",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du liebst es, Events und Veranstaltungen zu organisieren, hast ein Auge für Details und möchtest lernen, wie man sowohl in Restaurants als auch bei großen Veranstaltungen einen erstklassigen Service bietet? Dann bist du bei uns genau richtig! Als Fachmann:frau für Restaurants und Veranstaltungsgastronomie wirst du in deiner Ausbildung nicht nur alle relevanten Bereiche der Gastronomie kennenlernen, sondern auch wertvolle Erfahrungen im Bereich Eventmanagement sam",
+      "recruiter": {
+        "name": "Lina Wehr",
+        "email": "lina.wehr@basf.com",
+        "phone": "+49 30 2005-56745"
+      }
+    },
+    {
+      "job_id": "135214",
+      "title": "Ausbildung zur Fachkraft für Schutz und Sicherheit (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135214/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Ausbildungsstätten Betrieb",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du behältst den Überblick - auch wenn’s stressig wird? Bei uns sorgst du dafür, dass das Werksgelände sicher bleibt: Du kontrollierst Personen und Fahrzeuge, gibst Auskünfte und bist Ansprechperson vor Ort. Dabei sind Fingerspitzengefühl und Durchsetzungsvermögen gefragt, um auch in anspruchsvollen Situationen souverän zu bleiben. Teamwork ist Standard! Du arbeitest eng mit weiteren Gefahrenabwehreinheiten zusammen - insbesondere der Werkfeuerwehr. In der Leitste",
+      "recruiter": {
+        "name": "Antje Pfeifer",
+        "email": "antje.pfeifer@basf.com",
+        "phone": "+49 30 2005-58153"
       }
     },
     {
@@ -1425,28 +1513,6 @@
       }
     },
     {
-      "job_id": "134259",
-      "title": "Internal Control System (ICS) Specialist (m/f/d)",
-      "url": "https://basf.jobs/job-invite/134259/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "APB/C IPO Readiness Project",
-      "job_field": "Digitalization",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": true,
-      "date_posted": "2026-03-16T14:56:22Z",
-      "description": "WELCOME TO BASF &#13; We are BASF in Agriculture and everything we do, we do for the love of farming, and the biggest job on Earth. We are an internationally successful company of the BASF Group. Our solutions are purpose-designed for different crop systems. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. With teams in the lab, fiel",
-      "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
-      }
-    },
-    {
       "job_id": "134211",
       "title": "Risk Management System (RMS) & Internal Control System (ICS) Specialist (m/f/d)",
       "url": "https://basf.jobs/job-invite/134211/?locale=en_US",
@@ -1488,28 +1554,6 @@
         "name": "Susanne Reddmann",
         "email": "susanne.reddmann@basf.com",
         "phone": "+49 30 2005-56097"
-      }
-    },
-    {
-      "job_id": "134421",
-      "title": "Process Manager Kathodenmaterialien (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134421/?locale=en_US",
-      "city": "Schwarzheide",
-      "state": "Brandenburg",
-      "country": "Germany",
-      "company": "BASF Battery Materials and Recycling Schwarzheide GmbH",
-      "business_unit": "EMEA",
-      "department": "BMO/WS CAM Operations",
-      "job_field": "Engineering",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-03-13T14:45:42Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Der Lausitzer Produktionsstandort ist auf Wachstum ausgerichtet. Mit dem Bau der Anlage für Batteriematerialien legt die BASF in Schwarzheide den Grundstein für eine europäische Wertschöpfungskette der Elektromobilität. Um unseren CO2-Fußabdruck zu verbessern setzen wir auf effiziente Produktionsverfahren, innovatives Kreislaufmanagement und eine nachhaltige Energiestrategie. Dazu zählt auch die Rückgewinnung der Rohstoffe durch Recycling um damit den Kreislauf zu schlie",
-      "recruiter": {
-        "name": "Nils Giernoth",
-        "email": "nils.giernoth@basf.com",
-        "phone": "+49 30 2005-59141"
       }
     },
     {
