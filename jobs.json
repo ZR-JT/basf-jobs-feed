@@ -1,7 +1,50 @@
 {
-  "last_updated": "2026-04-15T05:54:45Z",
-  "total_active": 203,
+  "last_updated": "2026-04-15T09:09:46Z",
+  "total_active": 204,
   "jobs": [
+    {
+      "job_id": "135037",
+      "title": "Development Manager Biocides (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135037/?locale=en_US",
+      "city": "Grenzach-Wyhlen",
+      "state": "Baden-Württemberg",
+      "country": "Germany",
+      "company": "BASF Grenzach GmbH",
+      "business_unit": "EMEA",
+      "department": "G-EMH/RM Development & AT Microbial Control",
+      "job_field": "Research & Development",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-04-15T07:26:43Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir bei Care Chemicals handeln aus Leidenschaft. Unsere Mitarbeiter:innen sind unser wertvollstes Gut und wir pflegen eine Kultur der Empathie, der Unterstützung und des Wachstums. Auf diese Weise befähigen wir unser Team, sich persönlich und beruflich weiterzuentwickeln. Mit vereinten Kräften engagieren wir uns für die Entwicklung nachhaltiger, digitaler und innovativer Lösungen für eine bessere Zukunft. Pflegende Hautcremes, milde Shampoos, Sonnenschutzmittel, schonend",
+      "recruiter": {
+        "name": "Corinna Granterath",
+        "email": "corinna.granterath@basf.com",
+        "phone": "+49 30 2005-59302"
+      }
+    },
+    {
+      "job_id": "135044",
+      "title": "Duales Studium (B.Sc.) - Angewandte Informatik (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135044/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Digital Solutions GmbH",
+      "department": "GD/HP HR Planning & Vocational Training",
+      "job_field": "Information Technology & Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-15T06:07:11Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du bist von der Digitalisierung fasziniert, hast schon selbstständig etwas programmiert und auch das Thema Betriebssysteme ist kein Neuland für dich? Zudem hast du in der Schule Spaß an Informatik und Mathematik? Dann bist du in der Angewandten Informatik richtig! Bewirb dich bei einem Unternehmen, das Zugang zu neuesten Technologien, Expertise und Inspirationen bietet und werde Teil eines kreativen Teams. Du arbeitest in einem modernen Arbeitsumfeld und bis",
+      "recruiter": {
+        "name": "Iris Christiane Kappeler",
+        "email": "iris-christiane.kappeler@basf.com",
+        "phone": "+49 30-20055403"
+      }
+    },
     {
       "job_id": "135206",
       "title": "Ausbildung Biologielaborant:in (m/w/d)",
@@ -63,27 +106,6 @@
         "name": "Isabel Maisack",
         "email": "isabel.maisack@basf.com",
         "phone": "+49 30 2005-56683"
-      }
-    },
-    {
-      "job_id": "135233",
-      "title": "Bachelor of Science - International Business Administration & Information Technology (m/w/d) 1",
-      "url": "https://basf.jobs/job-invite/135233/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
-      "job_field": "Information Technology & Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Digitalisierung spannend und möchtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spaß an Mathematik, Englisch und wirtschaftlichen Zusammenhängen hast und du dich zudem für fremde Kulturen interessierst, dann bist du in der internationalen Wirtschaftsinformatik richtig! Denn so vielfältig und anspruchsvoll wie deine Interessen sind, so ist auch dein Studium. Du erlernst die wichtigsten Grundlagen in Wirtscha",
-      "recruiter": {
-        "name": "Laura Juliane Mierke",
-        "email": "juliane.mierke@basf.com",
-        "phone": "+49 30 2005-58922"
       }
     },
     {
@@ -255,27 +277,6 @@
       }
     },
     {
-      "job_id": "135227",
-      "title": "Ausbildung Fachmann:frau (m/w/d) für Systemgastronomie 1",
-      "url": "https://basf.jobs/job-invite/135227/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "department": "ESM/G Catering",
-      "job_field": "Catering",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du bist organisiert, kommunikativ und hast Interesse an effizienten Abläufen in der Gastronomie? Dann ist die Ausbildung als Fachmann:frau für Systemgastronomie genau das Richtige für dich! In diesem vielseitigen Beruf lernst du alles, was du über die Prozesse und das Management in modernen Systemgastronomiebetrieben wissen musst. Gemeinsam mit dem Team sorgst du für ein ebenso leckeres wie ausgewogenes Angebot. Neben der Kundenbetreuung und dem Anrichten der Spe",
-      "recruiter": {
-        "name": "Lina Wehr",
-        "email": "lina.wehr@basf.com",
-        "phone": "+49 30 2005-56745"
-      }
-    },
-    {
       "job_id": "135236",
       "title": "Ausbildung Fachmann:frau für Restaurants und Veranstaltungsgastronomie (m/w/d) 1",
       "url": "https://basf.jobs/job-invite/135236/?locale=en_US",
@@ -297,8 +298,50 @@
       }
     },
     {
+      "job_id": "135233",
+      "title": "Bachelor of Science - International Business Administration & Information Technology (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135233/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
+      "job_field": "Information Technology & Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Digitalisierung spannend und möchtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spaß an Mathematik, Englisch und wirtschaftlichen Zusammenhängen hast und du dich zudem für fremde Kulturen interessierst, dann bist du in der internationalen Wirtschaftsinformatik richtig! Denn so vielfältig und anspruchsvoll wie deine Interessen sind, so ist auch dein Studium. Du erlernst die wichtigsten Grundlagen in Wirtscha",
+      "recruiter": {
+        "name": "Laura Juliane Mierke",
+        "email": "juliane.mierke@basf.com",
+        "phone": "+49 30 2005-58922"
+      }
+    },
+    {
+      "job_id": "135227",
+      "title": "Ausbildung Fachmann:frau (m/w/d) für Systemgastronomie",
+      "url": "https://basf.jobs/job-invite/135227/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "department": "ESM/G Catering",
+      "job_field": "Catering",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du bist organisiert, kommunikativ und hast Interesse an effizienten Abläufen in der Gastronomie? Dann ist die Ausbildung als Fachmann:frau für Systemgastronomie genau das Richtige für dich! In diesem vielseitigen Beruf lernst du alles, was du über die Prozesse und das Management in modernen Systemgastronomiebetrieben wissen musst. Gemeinsam mit dem Team sorgst du für ein ebenso leckeres wie ausgewogenes Angebot. Neben der Kundenbetreuung und dem Anrichten der Spe",
+      "recruiter": {
+        "name": "Lina Wehr",
+        "email": "lina.wehr@basf.com",
+        "phone": "+49 30 2005-56745"
+      }
+    },
+    {
       "job_id": "135283",
-      "title": "Ausbildung Koch:Köchin (m/w/d) 1",
+      "title": "Ausbildung Koch:Köchin (m/w/d)",
       "url": "https://basf.jobs/job-invite/135283/?locale=en_US",
       "city": "Breitnau",
       "state": "Baden-Württemberg",
@@ -402,27 +445,6 @@
       }
     },
     {
-      "job_id": "135284",
-      "title": "Bachelor of Arts Betriebswirtschaftslehre - Risk and Insurance Management (m/w/d) 1",
-      "url": "https://basf.jobs/job-invite/135284/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
-      "job_field": "Legal, Tax & Insurance",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert und auch das Thema Risikomanagement klingt für dich spannend? Was muss ein großer Konzern versichern und warum hat er eigene Versicherungsunternehmen? Wenn dich das interessiert, dann ist dieses praxisnahe Studium genau richtig für dich! Neben den theoretischen Grundlagen in BWL, VWL und Recht bis hin zum Marketing-Management, lernst du in verschiedenen Praxisphasen auch unterschiedliche Versicherungsspart",
-      "recruiter": {
-        "name": "Laura Juliane Mierke",
-        "email": "juliane.mierke@basf.com",
-        "phone": "+49 30 2005-58922"
-      }
-    },
-    {
       "job_id": "135235",
       "title": "Ausbildung Eisenbahner im Betriebsdienst Lokführer und Transport - Fachrichtung Güterverkehr (m/w/d)",
       "url": "https://basf.jobs/job-invite/135235/?locale=en_US",
@@ -441,6 +463,27 @@
         "name": "Antje Pfeifer",
         "email": "antje.pfeifer@basf.com",
         "phone": "+49 30 2005-58153"
+      }
+    },
+    {
+      "job_id": "135284",
+      "title": "Bachelor of Arts Betriebswirtschaftslehre - Risk and Insurance Management (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135284/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert und auch das Thema Risikomanagement klingt für dich spannend? Was muss ein großer Konzern versichern und warum hat er eigene Versicherungsunternehmen? Wenn dich das interessiert, dann ist dieses praxisnahe Studium genau richtig für dich! Neben den theoretischen Grundlagen in BWL, VWL und Recht bis hin zum Marketing-Management, lernst du in verschiedenen Praxisphasen auch unterschiedliche Versicherungsspart",
+      "recruiter": {
+        "name": "Laura Juliane Mierke",
+        "email": "juliane.mierke@basf.com",
+        "phone": "+49 30 2005-58922"
       }
     },
     {
@@ -465,29 +508,8 @@
       }
     },
     {
-      "job_id": "135231",
-      "title": "Ausbildung Koch:Köchin (m/w/d) 1",
-      "url": "https://basf.jobs/job-invite/135231/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "department": "ESM/GR Business-Hotel René Bohn",
-      "job_field": "Catering",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast eine Leidenschaft für gutes Essen, arbeitest gerne mit frischen Zutaten und möchtest dein kulinarisches Talent in einem professionellen Umfeld ausbauen? Dann starte deine Ausbildung bei uns! Als Koch lernst du alle wichtigen Aspekte der Gastronomie kennen und entwickelst dich zu einem echten Profi in der Küche. Während deiner Ausbildung wirst du in einem motivierten Team arbeiten und die Grundlagen der Zubereitung, Präsentation und Planung von Gerichten e",
-      "recruiter": {
-        "name": "Lina Wehr",
-        "email": "lina.wehr@basf.com",
-        "phone": "+49 30 2005-56745"
-      }
-    },
-    {
       "job_id": "135234",
-      "title": "Ausbildung Hotelfachmann:frau (m/w/d) 1",
+      "title": "Ausbildung Hotelfachmann:frau (m/w/d)",
       "url": "https://basf.jobs/job-invite/135234/?locale=en_US",
       "city": "Breitnau",
       "state": "Baden-Württemberg",
@@ -500,6 +522,27 @@
       "hybrid": false,
       "date_posted": "2026-04-14T22:00:00Z",
       "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast eine Leidenschaft für den Service und möchtest in einem internationalen Umfeld arbeiten? Du bist ein Kommunikationstalent und hast Spaß daran, Menschen einen unvergesslichen Aufenthalt zu bereiten? Du bist engagiert und hast Lust, in einem einzigartigen Team zu arbeiten? Dann starte deine Ausbildung als Hotelfachmann:frau in unserem Hotel und erlebe, wie vielseitig und spannend der Beruf in der Hotellerie sein kann! DAS LERNST DU WÄHREND DEINER AUSBILDUNG",
+      "recruiter": {
+        "name": "Lina Wehr",
+        "email": "lina.wehr@basf.com",
+        "phone": "+49 30 2005-56745"
+      }
+    },
+    {
+      "job_id": "135231",
+      "title": "Ausbildung Koch:Köchin (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135231/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "department": "ESM/GR Business-Hotel René Bohn",
+      "job_field": "Catering",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast eine Leidenschaft für gutes Essen, arbeitest gerne mit frischen Zutaten und möchtest dein kulinarisches Talent in einem professionellen Umfeld ausbauen? Dann starte deine Ausbildung bei uns! Als Koch lernst du alle wichtigen Aspekte der Gastronomie kennen und entwickelst dich zu einem echten Profi in der Küche. Während deiner Ausbildung wirst du in einem motivierten Team arbeiten und die Grundlagen der Zubereitung, Präsentation und Planung von Gerichten e",
       "recruiter": {
         "name": "Lina Wehr",
         "email": "lina.wehr@basf.com",
@@ -550,7 +593,7 @@
     },
     {
       "job_id": "135282",
-      "title": "Ausbildung Fachmann:frau für Restaurants und Veranstaltungsgastronomie (m/w/d) 1",
+      "title": "Ausbildung Fachmann:frau für Restaurants und Veranstaltungsgastronomie (m/w/d)",
       "url": "https://basf.jobs/job-invite/135282/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
@@ -613,7 +656,7 @@
     },
     {
       "job_id": "135378",
-      "title": "Werkstudent:in Controlling (m/w/d)",
+      "title": "Working Student Controlling (m/f/d)",
       "url": "https://basf.jobs/job-invite/135378/?locale=en_US",
       "city": "Münster",
       "state": "Nordrhein-Westfalen",
@@ -626,7 +669,7 @@
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2026-04-14T13:54:03Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den ",
+      "description": "WELCOME TO BASF &#13; In the Coatings division, we offer far more than just paints and coatings. Our approach is to put the needs of our customers at the centre and always think one step ahead. Our motto ‘We always go beyond the surface’ makes it clear that we are not only focussed on the products themselves, but also on the reasons why we develop them. We are interested in creating innovative solutions that promote future growth and fulfil the requirements of the market. With our extensive know",
       "recruiter": {
         "name": "Julia Kilias",
         "email": "julia.kilias@basf.com",
@@ -1052,28 +1095,6 @@
       }
     },
     {
-      "job_id": "132490",
-      "title": "Controller (m/w/d) - Global Controlling -",
-      "url": "https://basf.jobs/job-invite/132490/?locale=en_US",
-      "city": "Frankfurt am Main",
-      "state": "Hessen",
-      "country": "Germany",
-      "company": "Chemetall GmbH",
-      "business_unit": "EMEA",
-      "department": "G-ECT/OC Global Controlling",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-03-30T14:08:50Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Die globale Geschäftseinheit Oberflächentechnik des Unternehmensbereichs Coatings der BASF, die unter der Marke Chemetall operiert, ist ein führender Lieferant angewandter Oberflächentechnik für Metall-, Kunststoff- und Glassubstrate. Diese Spezialchemikalien werden in vielen Industrien und Märkten genutzt, wie zum Beispiel Automobil, Luftfahrt, Aluminiumveredelung, Coil oder in der metallverarbeitenden Industrie – unterstützt von einem großen Netzwerk technischer Expert",
-      "recruiter": {
-        "name": "Thomas Glatz",
-        "email": "thomas.a.glatz@basf.com",
-        "phone": "+49697165-3277"
-      }
-    },
-    {
       "job_id": "135127",
       "title": "Mitarbeiter:in Lager und Transport (m/w/d)",
       "url": "https://basf.jobs/job-invite/135127/?locale=en_US",
@@ -1134,9 +1155,9 @@
       "date_posted": "2026-03-30T08:17:08Z",
       "description": "WELCOME TO BASF &#13; Welcome to the global management consultancy of BASF. We focus on strategic inhouse projectsthat drive the effective transformation of our businesses. Our teams work on a broad range ofexciting projects covering topics such as marketing sales, organizational development,efficiency projects, M A as well as profitable growth through all types of innovation. If you join us, you can grow as well: We always put people first and actively support you in yourcareer development at B",
       "recruiter": {
-        "name": "Isabelle Kert",
-        "email": "isabelle.kert@basf.com",
-        "phone": "+49 30 2005-59773"
+        "name": "Annika Emmerich",
+        "email": "annika.emmerich@basf.com",
+        "phone": "+49 30 2005-58420"
       }
     },
     {
