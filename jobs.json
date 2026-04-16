@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-04-16T09:09:19Z",
-  "total_active": 203,
+  "last_updated": "2026-04-16T20:39:04Z",
+  "total_active": 204,
   "jobs": [
+    {
+      "job_id": "134254",
+      "title": "Ingenieur:in/ Techniker:in Elektrotechnik (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134254/?locale=en_US",
+      "city": "Würzburg",
+      "state": "Bayern",
+      "country": "Germany",
+      "company": "BASF Coatings GmbH",
+      "business_unit": "EMEA",
+      "department": "ECP/OPM Engineering & Infrastructure",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-04-16T14:45:41Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den ",
+      "recruiter": {
+        "name": "Julia Kilias",
+        "email": "julia.kilias@basf.com",
+        "phone": "+49 30 2005-59139"
+      }
+    },
     {
       "job_id": "135600",
       "title": "Accountant Financial Reporting with Turkish (m/f/d) - Hybrid Option GER",
@@ -640,27 +662,6 @@
       }
     },
     {
-      "job_id": "135134",
-      "title": "Ausbildung Biologielaborant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135134/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VL Voc. Training Laboratory Assistants",
-      "job_field": "Research & Development",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn du \"Plasma\" hörst, denkst du nicht zuerst an deinen Fernseher. Dass \"Fotosynthese\" kein Bildbearbeitungsprogramm ist, war dir schon immer klar. Kurzum: Biologie fasziniert dich und du willst sie zu deinem Beruf machen! Arbeite mit unseren Forschern an der Gewinnung neuer Erkenntnisse und führe Versuche in den Bereichen der Grundlagenforschung, des Pflanzenschutzes und der Diagnostik durch. Hier zeigen wir dir auch, wie du toxikologische Untersuchungen an Tie",
-      "recruiter": {
-        "name": "Mariya Budkevych",
-        "email": "mariya.budkevych@basf.com",
-        "phone": "+49 30 2005-56363"
-      }
-    },
-    {
       "job_id": "135234",
       "title": "Ausbildung Hotelfachmann:frau (m/w/d)",
       "url": "https://basf.jobs/job-invite/135234/?locale=en_US",
@@ -700,6 +701,27 @@
         "name": "Lina Wehr",
         "email": "lina.wehr@basf.com",
         "phone": "+49 30 2005-56745"
+      }
+    },
+    {
+      "job_id": "135134",
+      "title": "Ausbildung Biologielaborant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135134/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VL Voc. Training Laboratory Assistants",
+      "job_field": "Research & Development",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn du \"Plasma\" hörst, denkst du nicht zuerst an deinen Fernseher. Dass \"Fotosynthese\" kein Bildbearbeitungsprogramm ist, war dir schon immer klar. Kurzum: Biologie fasziniert dich und du willst sie zu deinem Beruf machen! Arbeite mit unseren Forschern an der Gewinnung neuer Erkenntnisse und führe Versuche in den Bereichen der Grundlagenforschung, des Pflanzenschutzes und der Diagnostik durch. Hier zeigen wir dir auch, wie du toxikologische Untersuchungen an Tie",
+      "recruiter": {
+        "name": "Mariya Budkevych",
+        "email": "mariya.budkevych@basf.com",
+        "phone": "+49 30 2005-56363"
       }
     },
     {
@@ -3849,27 +3871,6 @@
       }
     },
     {
-      "job_id": "119238",
-      "title": "Noch keinen Plan? Wir schon! Ausbildung im Bereich Technik oder Produktion (m/w/d)",
-      "url": "https://basf.jobs/job-invite/119238/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung Splitterberufe",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du arbeitest gerne praktisch und m chtest die Ergebnisse deiner Arbeit sehen? Du findest Technik oder Produktion spannend und interessierst dich f r den Bereich Metall, Elektro oder Produktion? Deine Lieblingsf cher in der Schule sind Technik, Mathematik, Physik, Chemie oder IT? Schwere Maschinen, Werkzeuge und laute Motoren faszinieren dich? Aber auch Produktion oder Technik im Detail und mit Fingerspitzengef hl k nnte das richtige f r dich sein? Oder Beides? We",
-      "recruiter": {
-        "name": "Lisa Nabra",
-        "email": "lisa.nabra@basf.com",
-        "phone": "+49 30 2005-58195"
-      }
-    },
-    {
       "job_id": "119404",
       "title": "Ausbildung Hotelfachmann:frau (m/w/d) mit Zusatzqualifikation Hotelmanagement",
       "url": "https://basf.jobs/job-invite/119404/?locale=en_US",
@@ -3888,6 +3889,27 @@
         "name": "Lina Wehr",
         "email": "lina.wehr@basf.com",
         "phone": "+49 30 2005-56745"
+      }
+    },
+    {
+      "job_id": "119238",
+      "title": "Ausbildung im Bereich Technik oder Produktion: Jetzt bewerben - später entscheiden! (m/w/d)",
+      "url": "https://basf.jobs/job-invite/119238/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung Splitterberufe",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du arbeitest gerne praktisch und m chtest die Ergebnisse deiner Arbeit sehen? Du findest Technik oder Produktion spannend und interessierst dich f r den Bereich Metall, Elektro oder Produktion? Deine Lieblingsf cher in der Schule sind Technik, Mathematik, Physik, Chemie oder IT? Schwere Maschinen, Werkzeuge und laute Motoren faszinieren dich? Aber auch Produktion oder Technik im Detail und mit Fingerspitzengef hl k nnte das richtige f r dich sein? Oder Beides? We",
+      "recruiter": {
+        "name": "Lisa Nabra",
+        "email": "lisa.nabra@basf.com",
+        "phone": "+49 30 2005-58195"
       }
     },
     {
