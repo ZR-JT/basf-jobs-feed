@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-04-16T05:55:36Z",
-  "total_active": 207,
+  "last_updated": "2026-04-16T09:09:19Z",
+  "total_active": 203,
   "jobs": [
+    {
+      "job_id": "135600",
+      "title": "Accountant Financial Reporting with Turkish (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/135600/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/WR1-EM2 Fin.Rep. Turkey, Middle East",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-04-16T06:46:51Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our international Financial Reporting team and start your career as an Accountant. In this position you are responsible for the general le",
+      "recruiter": {
+        "name": "Jennifer Weiz",
+        "email": "jennifer.weiz@basf.com",
+        "phone": "+49 30 2005-56454"
+      }
+    },
     {
       "job_id": "135138",
       "title": "(Senior) Project Manager Supply Chain Consulting (m/f/d)",
@@ -303,27 +325,6 @@
       }
     },
     {
-      "job_id": "135108",
-      "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
-      "url": "https://basf.jobs/job-invite/135108/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung EAUT",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kein elektrisches Gerät ist vor dir sicher. Erst wenn du weißt, wie es funktioniert, bist du zufrieden. Du tüftelst für dein Leben gern und hast Spaß an Mathe und Physik. Dass unser Leben ohne die Elektrotechnik heute nicht mehr vorstellbar wäre, weißt du ganz genau. In modernen Anlagen werden chemische Produkte hergestellt, die in vielen Dingen unseres Alltags verwendet werden, wie zum Beispiel in Handys oder in Turnschuhen. Elektroniker:innen für Automatisierun",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
-      }
-    },
-    {
       "job_id": "135109",
       "title": "Ausbildung Elektroniker:in (m/w/d) für Betriebstechnik",
       "url": "https://basf.jobs/job-invite/135109/?locale=en_US",
@@ -450,24 +451,24 @@
       }
     },
     {
-      "job_id": "135047",
-      "title": "Duales Studium (B.Sc.) - Informatik mit Ausrichtung Künstliche Intelligenz (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135047/?locale=en_US",
+      "job_id": "135108",
+      "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
+      "url": "https://basf.jobs/job-invite/135108/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
-      "company": "BASF Digital Solutions GmbH",
-      "department": "GD/HP HR Planning & Vocational Training",
-      "job_field": "Information Technology & Services",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung EAUT",
+      "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du bist von Artificial Intelligence fasziniert, hast schon selbstständig etwas programmiert und auch das Thema Programmiersprachen ist kein Neuland für dich? Zudem hast du in der Schule Spaß an Informatik und Mathematik? Du bist neugierig stets aktuelle Technologien zu erlernen und einzusetzen? Dann bist du in der Informatik mit Ausrichtung Künstliche Intelligenz richtig! Bewirb dich bei einem Unternehmen, das Zugang zu neuesten Technologien, Expertise und I",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kein elektrisches Gerät ist vor dir sicher. Erst wenn du weißt, wie es funktioniert, bist du zufrieden. Du tüftelst für dein Leben gern und hast Spaß an Mathe und Physik. Dass unser Leben ohne die Elektrotechnik heute nicht mehr vorstellbar wäre, weißt du ganz genau. In modernen Anlagen werden chemische Produkte hergestellt, die in vielen Dingen unseres Alltags verwendet werden, wie zum Beispiel in Handys oder in Turnschuhen. Elektroniker:innen für Automatisierun",
       "recruiter": {
-        "name": "Yulia Elke Haars",
-        "email": "yulia.haars@basf.com",
-        "phone": "+49 30-200556107"
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
       }
     },
     {
@@ -492,6 +493,27 @@
       }
     },
     {
+      "job_id": "135047",
+      "title": "Duales Studium (B.Sc.) - Informatik mit Ausrichtung Künstliche Intelligenz (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135047/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Digital Solutions GmbH",
+      "department": "GD/HP HR Planning & Vocational Training",
+      "job_field": "Information Technology & Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du bist von Artificial Intelligence fasziniert, hast schon selbstständig etwas programmiert und auch das Thema Programmiersprachen ist kein Neuland für dich? Zudem hast du in der Schule Spaß an Informatik und Mathematik? Du bist neugierig stets aktuelle Technologien zu erlernen und einzusetzen? Dann bist du in der Informatik mit Ausrichtung Künstliche Intelligenz richtig! Bewirb dich bei einem Unternehmen, das Zugang zu neuesten Technologien, Expertise und I",
+      "recruiter": {
+        "name": "Yulia Elke Haars",
+        "email": "yulia.haars@basf.com",
+        "phone": "+49 30-200556107"
+      }
+    },
+    {
       "job_id": "135018",
       "title": "Ausbildung Chemikant:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/135018/?locale=en_US",
@@ -506,27 +528,6 @@
       "hybrid": false,
       "date_posted": "2026-04-14T22:00:00Z",
       "description": "ELEMENTE DEINER AUSBILDUNG &#13; Produktion läuft nicht von allein – Verantwortung im Herzen der BASF Chemische Produkte sind die Grundlage für nahezu alles in unserem Alltag – von Mobilität über Ernährung bis hin zu Digitalisierung. Als Chemikant:in sorgst du dafür, dass diese Produkte entstehen. Am Standort Ludwigshafen – einem der größten Chemieareale der Welt – sorgst du dafür, dass Produktionsanlagen sicher laufen und wichtige Produkte für die Region und die Zukunft entstehen. Hier siehst d",
-      "recruiter": {
-        "name": "Lisa Nabra",
-        "email": "lisa.nabra@basf.com",
-        "phone": "+49 30 2005-58195"
-      }
-    },
-    {
-      "job_id": "135051",
-      "title": "Noch keinen Plan? Wir schon! Ausbildung im Bereich Technik oder Produktion (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135051/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung Splitterberufe",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du arbeitest gerne praktisch und möchtest die Ergebnisse deiner Arbeit sehen? Du findest Technik oder Produktion spannend und interessierst dich für den Bereich Metall, Elektro oder Produktion? Deine Lieblingsfächer in der Schule sind Technik, Mathematik, Physik, Chemie oder IT? Schwere Maschinen, Werkzeuge und laute Motoren faszinieren dich? Aber auch Produktion oder Technik im Detail und mit Fingerspitzengefühl könnte das richtige für dich sein? Oder Beides? We",
       "recruiter": {
         "name": "Lisa Nabra",
         "email": "lisa.nabra@basf.com",
@@ -615,6 +616,27 @@
         "name": "Laura Juliane Mierke",
         "email": "juliane.mierke@basf.com",
         "phone": "+49 30 2005-58922"
+      }
+    },
+    {
+      "job_id": "135051",
+      "title": "Ausbildung im Bereich Technik oder Produktion: Jetzt bewerben - später entscheiden! (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135051/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung Splitterberufe",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du arbeitest gerne praktisch und möchtest die Ergebnisse deiner Arbeit sehen? Du findest Technik oder Produktion spannend und interessierst dich für den Bereich Metall, Elektro oder Produktion? Deine Lieblingsfächer in der Schule sind Technik, Mathematik, Physik, Chemie oder IT? Schwere Maschinen, Werkzeuge und laute Motoren faszinieren dich? Aber auch Produktion oder Technik im Detail und mit Fingerspitzengefühl könnte das richtige für dich sein? Oder Beides? We",
+      "recruiter": {
+        "name": "Lisa Nabra",
+        "email": "lisa.nabra@basf.com",
+        "phone": "+49 30 2005-58195"
       }
     },
     {
@@ -1135,28 +1157,6 @@
         "name": "Bekim Krasniqi",
         "email": "bekim.krasniqi@basf.com",
         "phone": "+49 30 2005-56136"
-      }
-    },
-    {
-      "job_id": "131896",
-      "title": "Accountant Financial Reporting (m/f/d) - Hybrid Option GER",
-      "url": "https://basf.jobs/job-invite/131896/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/WR1-CN Fin. Rep. Central, Nordic & Baltic",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": true,
-      "date_posted": "2026-04-01T11:13:47Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our international financial reporting team as a Financial Accountant. In this role, you are responsible for the general ledger and act as ",
-      "recruiter": {
-        "name": "Jennifer Weiz",
-        "email": "jennifer.weiz@basf.com",
-        "phone": "+49 30 2005-56454"
       }
     },
     {
@@ -1817,28 +1817,6 @@
         "name": "Mariya Budkevych",
         "email": "mariya.budkevych@basf.com",
         "phone": "+49 30 2005-56363"
-      }
-    },
-    {
-      "job_id": "134254",
-      "title": "Ingenieur:in/ Techniker:in Elektrotechnik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134254/?locale=en_US",
-      "city": "Würzburg",
-      "state": "Bayern",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "ECP/OPM Engineering & Infrastructure",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-03-06T10:31:07Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den ",
-      "recruiter": {
-        "name": "Julia Kilias",
-        "email": "julia.kilias@basf.com",
-        "phone": "+49 30 2005-59139"
       }
     },
     {
@@ -2843,49 +2821,6 @@
       }
     },
     {
-      "job_id": "131246",
-      "title": "Ausbildung Fachkraft für Lagerlogistik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/131246/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Logistics GmbH",
-      "department": "ESL/WD Auszubildende",
-      "job_field": "Logistics & Supply Chain Management",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-12-11T15:33:04Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Die BASF Logistics GmbH ist eine junge, wachsende BASF-Gruppengesellschaft mit Standorten in Ludwigshafen und Schwarzheide. Beauftragt von den jeweils für die Standortlogistik verantwortlichen Einheiten, tragen wir mit unseren Dienstleistungen wesentlich zur Wettbewerbsfähigkeit der Logistik an deutschen BASF-Standorten bei. Du behältst immer den Überblick und weißt morgen noch, wo du gestern etwas hingestellt hast? Du interessierst Dich für Transport, Lagerhaltu",
-      "recruiter": {
-        "name": "Mariya Budkevych",
-        "email": "mariya.budkevych@basf.com",
-        "phone": "+49 30 2005-56363"
-      }
-    },
-    {
-      "job_id": "130825",
-      "title": "Traineeprogramm START IN Coatings - People & Culture (HR) (m/w/d)",
-      "url": "https://basf.jobs/job-invite/130825/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "EC/BHCS Talent Development Program - Start In",
-      "job_field": "Human Resources",
-      "job_level": "Graduate",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2025-12-10T14:05:04Z",
-      "description": "WELCOME TO BASF &#13; Are you planning your perfect career start and want to find the best way to enter the professional world? Then you've come to the right place. WHAT YOU CAN EXPECT &#13; We offer you the ultimate opportunity to familiarise yourself with diverse HR activities of the People Culture department at BASF Coatings over a period of 18 to 24 months. Would you like to become part of a global team? Then apply for our START IN Coatings trainee program! Together with you, we design an ex",
-      "recruiter": {
-        "name": "Romy Marie Gründel",
-        "email": "romy.gruendel@basf.com",
-        "phone": "+49 30 2005-56730"
-      }
-    },
-    {
       "job_id": "130305",
       "title": "Senior Processmanager (m/w/d)",
       "url": "https://basf.jobs/job-invite/130305/?locale=en_US",
@@ -2949,28 +2884,6 @@
         "name": "Antje Pfeifer",
         "email": "antje.pfeifer@basf.com",
         "phone": "+49 30 2005-58153"
-      }
-    },
-    {
-      "job_id": "129530",
-      "title": "Trainee program START IN Coatings - IT (m/f/d)",
-      "url": "https://basf.jobs/job-invite/129530/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "EC/BHCS Talent Development Program - Start In",
-      "job_field": "Digitalization",
-      "job_level": "Graduate",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2025-10-29T15:35:17Z",
-      "description": "WELCOME TO BASF &#13; Are you passionate about digitalization in business and eager to launch your career in a dynamic, innovative environment? Join our START IN Coatings Trainee Program – IT and become part of our international trainee community. And we offer you the unique opportunity to go abroad with us! WHAT YOU CAN EXPECT &#13; As a trainee, you’ll embark on an exciting 18- to 24-month journey, gaining hands-on experience and insights across various business, manufacturing, and functional ",
-      "recruiter": {
-        "name": "Romy Marie Gründel",
-        "email": "romy.gruendel@basf.com",
-        "phone": "+49 30 2005-56730"
       }
     },
     {
