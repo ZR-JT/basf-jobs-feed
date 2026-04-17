@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-04-17T05:58:19Z",
+  "last_updated": "2026-04-17T09:07:59Z",
   "total_active": 204,
   "jobs": [
+    {
+      "job_id": "127235",
+      "title": "Notfallsanitäter:in Werkrettungsdienst für Wechselschicht oder Tagdienststelle (m/w/d)",
+      "url": "https://basf.jobs/job-invite/127235/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Jobmarkt GmbH",
+      "business_unit": "EMEA",
+      "department": "ESG/DNA Emergency Services - Tagdienst",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-17T08:08:17Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an den Standorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices und Logistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche, die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allen Belangen rund um Umwelts",
+      "recruiter": {
+        "name": "Silke Pudicke",
+        "email": "silke.pudicke@basf.com",
+        "phone": "+49 30 2005-58449"
+      }
+    },
+    {
+      "job_id": "135655",
+      "title": "Officer Accounts Receivable - Intercompany (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/135655/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/EA-IC Intercompany",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-04-17T07:52:47Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our department Accounts Receivable - Intercompany GBE/EA-IA as soon as possible and ensure together with us high-quality customer accounti",
+      "recruiter": {
+        "name": "Jennifer Weiz",
+        "email": "jennifer.weiz@basf.com",
+        "phone": "+49 30 2005-56454"
+      }
+    },
     {
       "job_id": "134254",
       "title": "Ingenieur:in/ Techniker:in Elektrotechnik (m/w/d)",
@@ -1226,28 +1270,6 @@
       }
     },
     {
-      "job_id": "127235",
-      "title": "Notfallsanitäter:in Werkrettungsdienst für Wechselschicht oder Tagdienststelle (m/w/d)",
-      "url": "https://basf.jobs/job-invite/127235/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Jobmarkt GmbH",
-      "business_unit": "EMEA",
-      "department": "ESG/DNA Emergency Services - Tagdienst",
-      "job_field": "Environment, Health & Safety",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-01T07:03:46Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an den Standorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices und Logistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche, die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allen Belangen rund um Umwelts",
-      "recruiter": {
-        "name": "Silke Pudicke",
-        "email": "silke.pudicke@basf.com",
-        "phone": "+49 30 2005-58449"
-      }
-    },
-    {
       "job_id": "135127",
       "title": "Mitarbeiter:in Lager und Transport (m/w/d)",
       "url": "https://basf.jobs/job-invite/135127/?locale=en_US",
@@ -1970,28 +1992,6 @@
         "name": "Julia Kilias",
         "email": "julia.kilias@basf.com",
         "phone": "+49 30 2005-59139"
-      }
-    },
-    {
-      "job_id": "128271",
-      "title": "Cyber Security Specialist - Regulatory Compliance Management (m/f/d)",
-      "url": "https://basf.jobs/job-invite/128271/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "EC/XY Cyber Security",
-      "job_field": "Digitalization",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-03-02T12:48:23Z",
-      "description": "WELCOME TO BASF &#13; In the coatings sector, we offer far more than just paints and coatings. Our approach is to focus on our customers' needs and always think one step ahead. Our motto, \"We always go beyond the surface,\" illustrates that we are not only focused on the products themselves, but also on the reasons why we develop them. We are interested in creating innovative solutions that drive future growth and meet market demands. With our in-depth knowledge and experience, we work to offer c",
-      "recruiter": {
-        "name": "Bekim Krasniqi",
-        "email": "bekim.krasniqi@basf.com",
-        "phone": "+49 30 2005-56136"
       }
     },
     {
