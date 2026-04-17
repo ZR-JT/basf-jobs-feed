@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-04-17T09:07:59Z",
-  "total_active": 204,
+  "last_updated": "2026-04-17T12:54:27Z",
+  "total_active": 205,
   "jobs": [
+    {
+      "job_id": "135649",
+      "title": "Officer IP Contract Services & Accounting (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/135649/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/EA-IB IP Contract Services & Accounting",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-04-17T09:25:15Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our department Accounts Receivable Team IP Contract Services Accounting as soon as possible and ensure together with us high-quality custo",
+      "recruiter": {
+        "name": "Jennifer Weiz",
+        "email": "jennifer.weiz@basf.com",
+        "phone": "+49 30 2005-56454"
+      }
+    },
     {
       "job_id": "127235",
       "title": "Notfallsanitäter:in Werkrettungsdienst für Wechselschicht oder Tagdienststelle (m/w/d)",
@@ -391,27 +413,6 @@
       }
     },
     {
-      "job_id": "135109",
-      "title": "Ausbildung Elektroniker:in (m/w/d) für Betriebstechnik",
-      "url": "https://basf.jobs/job-invite/135109/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung EBET",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kabelsalat steht regelmäßig auf deinem Speiseplan? Wie der Strom in die Steckdose kommt, weist du genau. Das reicht dir aber noch nicht. Du willst ein Elektrotechnik-Profi werden? Dann bist du bei uns richtig, denn unsere Anlagen laufen erst, wenn du diese mit Energie versorgst. Dazu gehört die Installation, das Einrichten und die Programmierung. Sollte dann doch mal etwas nicht funktionieren, bringst du die Elektronik wieder in die richtige Bahn. Kurz gesagt - d",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
-      }
-    },
-    {
       "job_id": "135233",
       "title": "Bachelor of Science - International Business Administration & Information Technology (m/w/d)",
       "url": "https://basf.jobs/job-invite/135233/?locale=en_US",
@@ -517,27 +518,6 @@
       }
     },
     {
-      "job_id": "135108",
-      "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
-      "url": "https://basf.jobs/job-invite/135108/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung EAUT",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kein elektrisches Gerät ist vor dir sicher. Erst wenn du weißt, wie es funktioniert, bist du zufrieden. Du tüftelst für dein Leben gern und hast Spaß an Mathe und Physik. Dass unser Leben ohne die Elektrotechnik heute nicht mehr vorstellbar wäre, weißt du ganz genau. In modernen Anlagen werden chemische Produkte hergestellt, die in vielen Dingen unseres Alltags verwendet werden, wie zum Beispiel in Handys oder in Turnschuhen. Elektroniker:innen für Automatisierun",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
-      }
-    },
-    {
       "job_id": "135048",
       "title": "Duales Studium (B.Sc.) - Data Science und Künstliche Intelligenz (m/w/d)",
       "url": "https://basf.jobs/job-invite/135048/?locale=en_US",
@@ -577,6 +557,48 @@
         "name": "Yulia Elke Haars",
         "email": "yulia.haars@basf.com",
         "phone": "+49 30-200556107"
+      }
+    },
+    {
+      "job_id": "135108",
+      "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
+      "url": "https://basf.jobs/job-invite/135108/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung EAUT",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kein elektrisches Gerät ist vor dir sicher. Erst wenn du weißt, wie es funktioniert, bist du zufrieden. Du tüftelst für dein Leben gern und hast Spaß an Mathe und Physik. Dass unser Leben ohne die Elektrotechnik heute nicht mehr vorstellbar wäre, weißt du ganz genau. In modernen Anlagen werden chemische Produkte hergestellt, die in vielen Dingen unseres Alltags verwendet werden, wie zum Beispiel in Handys oder in Turnschuhen. Elektroniker:innen für Automatisierun",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
+      }
+    },
+    {
+      "job_id": "135109",
+      "title": "Ausbildung Elektroniker:in (m/w/d) für Betriebstechnik",
+      "url": "https://basf.jobs/job-invite/135109/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung EBET",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kabelsalat steht regelmäßig auf deinem Speiseplan? Wie der Strom in die Steckdose kommt, weist du genau. Das reicht dir aber noch nicht. Du willst ein Elektrotechnik-Profi werden? Dann bist du bei uns richtig, denn unsere Anlagen laufen erst, wenn du diese mit Energie versorgst. Dazu gehört die Installation, das Einrichten und die Programmierung. Sollte dann doch mal etwas nicht funktionieren, bringst du die Elektronik wieder in die richtige Bahn. Kurz gesagt - d",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
       }
     },
     {
