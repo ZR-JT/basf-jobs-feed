@@ -1,7 +1,72 @@
 {
-  "last_updated": "2026-04-20T09:51:35Z",
-  "total_active": 205,
+  "last_updated": "2026-04-20T13:04:03Z",
+  "total_active": 208,
   "jobs": [
+    {
+      "job_id": "135674",
+      "title": "Industriemechaniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135674/?locale=en_US",
+      "city": "Lampertheim",
+      "state": "Hessen",
+      "country": "Germany",
+      "company": "BASF Lampertheim GmbH",
+      "business_unit": "EMEA",
+      "department": "EVM/ELT Engineering & Maintenance",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-04-20T11:38:37Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Bei unserem Bereich Performance Chemicals geht es um maßgeschneiderte Produkte. Das Portfolio des Bereichs umfasst Plastic Additives, Fuel and Lubricant Solutions sowie Oilfield Chemicals and Mining Solutions. Kunden aus den unterschiedlichsten Industrien, einschließlich Chemie, Kunststoffe, Konsumgüter, Energie Ressourcen sowie der Automobil- Transportmittelindustrie, profitieren von unseren innovativen Lösungen. WAS SIE ERWARTET &#13; Unsere Mechanik-Teams am Standort ",
+      "recruiter": {
+        "name": "Michael Wiesenack-Flick",
+        "email": "michael.wiesenack-flick@basf.com",
+        "phone": "+49 30 2005-58564"
+      }
+    },
+    {
+      "job_id": "135675",
+      "title": "Elektroniker:in für Automatisierungstechnik (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135675/?locale=en_US",
+      "city": "Lampertheim",
+      "state": "Hessen",
+      "country": "Germany",
+      "company": "BASF Lampertheim GmbH",
+      "business_unit": "EMEA",
+      "department": "EVM/ELT Engineering & Maintenance",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-04-20T11:38:17Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Bei unserem Bereich Performance Chemicals geht es um maßgeschneiderte Produkte. Das Portfolio des Bereichs umfasst Plastic Additives, Fuel and Lubricant Solutions sowie Oilfield Chemicals and Mining Solutions. Kunden aus den unterschiedlichsten Industrien, einschließlich Chemie, Kunststoffe, Konsumgüter, Energie Ressourcen sowie der Automobil- Transportmittelindustrie, profitieren von unseren innovativen Lösungen. WAS SIE ERWARTET &#13; Unser Elektrotechnik‑ und Instrume",
+      "recruiter": {
+        "name": "Michael Wiesenack-Flick",
+        "email": "michael.wiesenack-flick@basf.com",
+        "phone": "+49 30 2005-58564"
+      }
+    },
+    {
+      "job_id": "124231",
+      "title": "Bachelor of Arts Betriebswirt:in VWA (m/w/d)",
+      "url": "https://basf.jobs/job-invite/124231/?locale=en_US",
+      "city": "Münster",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "company": "BASF Coatings GmbH",
+      "department": "BASF Coatings",
+      "job_field": "Administration & Office Support",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-20T10:15:10Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; BWL, VWL und Recht haben Dich schon immer interessiert? Auch die Praxis findest Du spannend? Dann ist dieses duale Studium genau richtig für Dich! Bei uns heißt es Lernen im Betrieb – Studieren an der IHK-Akademie: Die betriebliche Ausbildung zum/zur Industriekauf­mann/-frau wird kombiniert mit einem betriebs­wirtschaft­lichen Studium. Deine Aufgaben erstrecken sich über alle Funktionen des Unternehmens – von der Materialbeschaffung über die Produktion bis h",
+      "recruiter": {
+        "name": "Melissa Amina Rahmani",
+        "email": "melissa.rahmani@basf.com",
+        "phone": "+49 30 2005-58073"
+      }
+    },
     {
       "job_id": "135649",
       "title": "Officer IP Contract Services & Accounting (m/f/d) - Hybrid Option GER",
