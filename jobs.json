@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-04-21T09:17:17Z",
-  "total_active": 207,
+  "last_updated": "2026-04-21T12:58:36Z",
+  "total_active": 205,
   "jobs": [
+    {
+      "job_id": "135802",
+      "title": "(Junior) Procurement Specialist with French (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/135802/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/VP Procurement Services",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-04-21T11:39:55Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join us with your ideas and actively contribute to the continuous improvement of our procurement services! As Officer Procurement Services, you",
+      "recruiter": {
+        "name": "Jennifer Weiz",
+        "email": "jennifer.weiz@basf.com",
+        "phone": "+49 30 2005-56454"
+      }
+    },
+    {
+      "job_id": "134745",
+      "title": "Abschlussarbeit Klimatechnik (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134745/?locale=en_US",
+      "city": "Rudolstadt",
+      "state": "Thüringen",
+      "country": "Germany",
+      "company": "BASF Performance Polymers GmbH",
+      "business_unit": "EMEA",
+      "department": "E-PME/ONM Engineering, Maintenance & Asset Mgmt RU",
+      "job_field": "Engineering",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-04-21T09:47:50Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Ob Einbauteile für Smartphones, Hochleistungsanwendungen für E-Mobilität oder Hightech Sportequipment in unterschiedlichen Farben: Technische Kunststoffe sind aus unserem Leben heute nicht mehr wegzudenken. In zentraler Lage Deutschlands, in Rudolstadt (Thüringen), entwickeln und produzieren wir als BASF-Tochtergesellschaft nachhaltige hochleistungs-Polyamid-Compounds, die sich in vielen Bereichen des täglichen Lebens wiederfinden. WAS SIE ERWARTET &#13; Mit einem Team v",
+      "recruiter": {
+        "name": "Sophie Maria Meyer",
+        "email": "sophie-maria.meyer@basf.com",
+        "phone": "+49 30 2005-58071"
+      }
+    },
     {
       "job_id": "135674",
       "title": "Industriemechaniker:in (m/w/d)",
@@ -17,7 +61,7 @@
       "job_type": "Permanent",
       "hybrid": false,
       "date_posted": "2026-04-20T11:38:37Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Bei unserem Bereich Performance Chemicals geht es um maßgeschneiderte Produkte. Das Portfolio des Bereichs umfasst Plastic Additives, Fuel and Lubricant Solutions sowie Oilfield Chemicals and Mining Solutions. Kunden aus den unterschiedlichsten Industrien, einschließlich Chemie, Kunststoffe, Konsumgüter, Energie Ressourcen sowie der Automobil- Transportmittelindustrie, profitieren von unseren innovativen Lösungen. WAS SIE ERWARTET &#13; Unsere Mechanik-Teams am Standort ",
+      "description": "WILLKOMMEN BEI UNS &#13; Bei unserem Bereich Performance Chemicals geht es um maßgeschneiderte Produkte. Das Portfolio des Bereiches umfasst Kunststoff-Additive, Lösungen für Kraftstoffe und Schmierstoffe, Chemikalien und Lösungen für die Ölfeld- und Bergbauindustrie sowie Chemische- und Raffineriekatalysatoren. Kunden aus den unterschiedlichsten Industrien, einschließlich Chemie, Kunststoffe, Konsumgüter, Energie Ressourcen sowie der Automobil- Transportmittelindustrie, profitieren von unseren ",
       "recruiter": {
         "name": "Michael Wiesenack-Flick",
         "email": "michael.wiesenack-flick@basf.com",
@@ -39,7 +83,7 @@
       "job_type": "Permanent",
       "hybrid": false,
       "date_posted": "2026-04-20T11:38:17Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Bei unserem Bereich Performance Chemicals geht es um maßgeschneiderte Produkte. Das Portfolio des Bereichs umfasst Plastic Additives, Fuel and Lubricant Solutions sowie Oilfield Chemicals and Mining Solutions. Kunden aus den unterschiedlichsten Industrien, einschließlich Chemie, Kunststoffe, Konsumgüter, Energie Ressourcen sowie der Automobil- Transportmittelindustrie, profitieren von unseren innovativen Lösungen. WAS SIE ERWARTET &#13; Unser Elektrotechnik‑ und Instrume",
+      "description": "WILLKOMMEN BEI UNS &#13; Bei unserem Bereich Performance Chemicals geht es um maßgeschneiderte Produkte. Das Portfolio des Bereiches umfasst Kunststoff-Additive, Lösungen für Kraftstoffe und Schmierstoffe, Chemikalien und Lösungen für die Ölfeld- und Bergbauindustrie sowie Chemische- und Raffineriekatalysatoren. Kunden aus den unterschiedlichsten Industrien, einschließlich Chemie, Kunststoffe, Konsumgüter, Energie Ressourcen sowie der Automobil- Transportmittelindustrie, profitieren von unseren ",
       "recruiter": {
         "name": "Michael Wiesenack-Flick",
         "email": "michael.wiesenack-flick@basf.com",
@@ -2039,27 +2083,6 @@
       }
     },
     {
-      "job_id": "133743",
-      "title": "Senior Specialist Master Data and Authorization (m/f/d)",
-      "url": "https://basf.jobs/job-invite/133743/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "G-EVC/SE3 BEx OTC EVC",
-      "job_field": "Logistics & Supply Chain Management",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-03T14:21:25Z",
-      "description": "WELCOME TO BASF &#13; Welcome to BASF Chemical Catalysts and Adsorbents. Today’s chemical industry provides the building blocks for a wide range of materials. As the global leader in catalysis, BASF provides a strong foundation of product and process innovations across the chemical value chain. The result is a broad catalyst portfolio backed by dedicated customer technical service. At BASF, we create chemistry for a sustainable future. WHAT YOU CAN EXPECT &#13; In our team Supply Chain Managemen",
-      "recruiter": {
-        "name": "Maximilian Mette",
-        "email": "maximilian.mette@basf.com"
-      }
-    },
-    {
       "job_id": "133989",
       "title": "Industrielackierer:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/133989/?locale=en_US",
@@ -2406,28 +2429,6 @@
         "name": "Antje Pfeifer",
         "email": "antje.pfeifer@basf.com",
         "phone": "+49 30 2005-58153"
-      }
-    },
-    {
-      "job_id": "130013",
-      "title": "Internship Marketing & Sales - Digital Learning Development (m/f/d)",
-      "url": "https://basf.jobs/job-invite/130013/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "GBM/M Marketing & Sales Academy",
-      "job_field": "Inhouse Consulting",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-02-06T10:56:25Z",
-      "description": "WELCOME TO BASF &#13; Welcome to the global management consultancy of BASF. We focus on strategic inhouse projects that drive the effective transformation of our businesses. Our teams work on a broad range of exciting projects covering topics such as marketing sales, organizational development, efficiency projects, M A as well as profitable growth through all types of innovation. If you join us, you can grow as well: We always put people first and actively support you in your career development ",
-      "recruiter": {
-        "name": "Isabelle Kert",
-        "email": "isabelle.kert@basf.com",
-        "phone": "+49 30 2005-59773"
       }
     },
     {
@@ -2952,28 +2953,6 @@
       }
     },
     {
-      "job_id": "129737",
-      "title": "Lawyer/Expert Insurance Office (m/f/d)",
-      "url": "https://basf.jobs/job-invite/129737/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "EC/OL Legal & Compliance Coatings",
-      "job_field": "Legal, Tax & Insurance",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2025-11-06T14:37:48Z",
-      "description": "WELCOME TO BASF &#13; In the Coatings division, we offer far more than just paints and coatings. Our approach is to put the needs of our customers at the centre and always think one step ahead. Our motto ‘We always go beyond the surface’ makes it clear that we are not only focussed on the products themselves, but also on the reasons why we develop them. We are interested in creating innovative solutions that promote future growth and fulfil the requirements of the market. With our extensive know",
-      "recruiter": {
-        "name": "Romy Marie Gründel",
-        "email": "romy.gruendel@basf.com",
-        "phone": "+49 30 2005-56730"
-      }
-    },
-    {
       "job_id": "86661",
       "title": "Produktionsmitarbeiter:in mit berufsbegleitender Qualifizierung zum \"Chemikant:in\"(m/w/d)",
       "url": "https://basf.jobs/job-invite/86661/?locale=en_US",
@@ -3080,28 +3059,6 @@
         "name": "Laura Rebecca Beltempo",
         "email": "laura-rebecca.beltempo@basf.com",
         "phone": "+49 30 2005-59842"
-      }
-    },
-    {
-      "job_id": "124851",
-      "title": "Lab Manager Coil - Development & Adaptation (m/w/d)",
-      "url": "https://basf.jobs/job-invite/124851/?locale=en_US",
-      "city": "Frankfurt am Main",
-      "state": "Hessen",
-      "country": "Germany",
-      "company": "Chemetall GmbH",
-      "business_unit": "EMEA",
-      "department": "G-ECT/ODS Global Specialty Technologies",
-      "job_field": "Research & Development",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2025-09-08T12:26:58Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Die globale Geschäftseinheit Oberflächentechnik des Unternehmensbereichs Coatings der BASF, die unter der Marke Chemetall operiert, ist ein führender Lieferant angewandter Oberflächentechnik für Metall-, Kunststoff- und Glassubstrate. Diese Spezialchemikalien werden in vielen Industrien und Märkten genutzt, wie zum Beispiel Automobil, Luftfahrt, Aluminiumveredelung, Coil oder in der metallverarbeitenden Industrie – unterstützt von einem großen Netzwerk technischer Expert",
-      "recruiter": {
-        "name": "Michael Jungnitsch",
-        "email": "michael.jungnitsch@basf.com",
-        "phone": "+49 69 7165-2892"
       }
     },
     {
