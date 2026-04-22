@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-04-22T09:11:21Z",
-  "total_active": 206,
+  "last_updated": "2026-04-22T16:48:52Z",
+  "total_active": 204,
   "jobs": [
+    {
+      "job_id": "135008",
+      "title": "Corporate Compliance Support Coatings (m/f/d)",
+      "url": "https://basf.jobs/job-invite/135008/?locale=en_US",
+      "city": "Münster",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "company": "BASF Coatings GmbH",
+      "business_unit": "EMEA",
+      "department": "EC/OL Legal & Compliance Coatings",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-04-22T14:00:10Z",
+      "description": "WELCOME TO BASF &#13; In the Coatings division, we offer far more than just paints and coatings. Our approach is to put the needs of our customers at the center and always think one step ahead. Our motto ‘We always go beyond the surface’ makes it clear that we are not only focused on the products themselves, but also on the reasons why we develop them. We are interested in creating innovative solutions that promote future growth and fulfil the requirements of the market. With our extensive knowl",
+      "recruiter": {
+        "name": "Romy Marie Gründel",
+        "email": "romy.gruendel@basf.com",
+        "phone": "+49 30 2005-56730"
+      }
+    },
     {
       "job_id": "135730",
       "title": "Praktikum Rohstoffanalytik mit anschließender Masterarbeit (m/w/d)",
@@ -328,28 +350,6 @@
         "name": "Tina Le",
         "email": "tina.le@basf.com",
         "phone": "+49 30 2005-56367"
-      }
-    },
-    {
-      "job_id": "135597",
-      "title": "Accountant Trade Invoicing Services (m/f/d) - Hybrid Option GER",
-      "url": "https://basf.jobs/job-invite/135597/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/EA-M Trade Invoicing Services",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": true,
-      "date_posted": "2026-04-15T11:57:26Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our Trade Invoicing Team as soon as possible and ensure together with us high-quality invoicing services! You serve as a point for contact",
-      "recruiter": {
-        "name": "Jennifer Weiz",
-        "email": "jennifer.weiz@basf.com",
-        "phone": "+49 30 2005-56454"
       }
     },
     {
@@ -1178,28 +1178,6 @@
         "name": "Viktoria Pohl",
         "email": "viktoria.pohl@basf.com",
         "phone": "+49 30 2005-58390"
-      }
-    },
-    {
-      "job_id": "135133",
-      "title": "Praktikum Labor - Digitalisierung & Datenanalyse (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135133/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "CPM/MDD Automation & Digitaliz. Superabsorber",
-      "job_field": "Digitalization",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-04-09T10:59:32Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Der Unternehmensbereich Petrochemicals ist der Ausgangspunkt der petrochemischen Wertschöpfung der BASF weltweit. Mit sechs Verbundstandorten und weiteren Produktionsstandorten sind wir in den größten Chemiemärkten der Welt vertreten. Wir versorgen diverse Wertschöpfungsketten im Unternehmen und eine Vielzahl an externen Kunden mit hochwertigen Chemikalien, die beispielsweise in PET-Flaschen, Frostschutzmitteln, Hygieneartikeln und Dämmstoffen zum Einsatz kommen. Wenn Si",
-      "recruiter": {
-        "name": "Nils Giernoth",
-        "email": "nils.giernoth@basf.com",
-        "phone": "+49 30 2005-59141"
       }
     },
     {
@@ -3038,28 +3016,6 @@
         "name": "Susanne Reddmann",
         "email": "susanne.reddmann@basf.com",
         "phone": "+49 30 2005-56097"
-      }
-    },
-    {
-      "job_id": "128698",
-      "title": "Anwendungstechniker:in für Tesla in Grünheide/Berlin (m/w/d)",
-      "url": "https://basf.jobs/job-invite/128698/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "G-ECO/NT TSM EMEA",
-      "job_field": "Marketing & Sales",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2025-10-21T07:11:04Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den ",
-      "recruiter": {
-        "name": "Julia Kilias",
-        "email": "julia.kilias@basf.com",
-        "phone": "+49 30 2005-59139"
       }
     },
     {
