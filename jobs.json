@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23T09:18:06Z",
+  "last_updated": "2026-04-23T12:58:48Z",
   "total_active": 203,
   "jobs": [
     {
@@ -324,7 +324,7 @@
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2026-04-15T13:46:08Z",
-      "description": "WELCOME TO BASF &#13; The HR Services Team France is a diverse and inclusive team of experts and young professionals. Together, we are committed to deliver the highest quality of service to our BASF partners in France. To complete our Payroll Workforce management team, we are looking for an Officer/Specialist Payroll and HR administration (m/f/d) with a strong enthusiasm for Payroll, HR processes and customer relations. From day one, you will be responsible, with your subteam, for your area of r",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Within the HR Services Team France, we are a diverse and inclusive team of experts and young professionals. Together, we are committed to deliv",
       "recruiter": {
         "name": "Liliana Marcela Quiroga Duarte",
         "email": "liliana-marcela.quiroga-duarte@basf.com"
@@ -502,48 +502,6 @@
       }
     },
     {
-      "job_id": "134966",
-      "title": "Ausbildung Mechatroniker:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134966/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung Mechatroniker",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Gerät den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du tüftelst für dein Leben gerne? Deine Lieblingsfächer sind Mathe und Physik, aber noch viel lieber hättest du öfter die Fächer Mechanik, Elektrotechnik und IT? Das klingt ganz so, als wäre ein Beruf in diesem Bereich perfekt für dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu kümmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich für eine A",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
-      }
-    },
-    {
-      "job_id": "135111",
-      "title": "Bachelor of Engineering - Elektrotechnik - Schwerpunkt Automatisierungstechnik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135111/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Ausbildungsstätten Betrieb",
-      "job_field": "Engineering",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du funktionierst auch unter Druck, stehst dabei aber selten auf der Leitung? Dann kurbel mit uns deine Entwicklung an! Erwirb bei uns das nötige Know-How der Automatisierungs-, Elektro- sowie Steuerungstechnik. Du hilfst uns, Anlagen zu planen, elektronisch zu steuern und zu erhalten, nachdem du ihre Funktionsweise studiert hast. Du verstehst die Signale eines Stromkreises wie kein:e andere:r und kitzelst das volle Potenzial aus unseren Anlagen heraus. Wenn ",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
-      }
-    },
-    {
       "job_id": "135227",
       "title": "Ausbildung Fachmann:frau (m/w/d) für Systemgastronomie",
       "url": "https://basf.jobs/job-invite/135227/?locale=en_US",
@@ -670,6 +628,48 @@
       }
     },
     {
+      "job_id": "134966",
+      "title": "Ausbildung Mechatroniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134966/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung Mechatroniker",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Gerät den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du tüftelst für dein Leben gerne? Deine Lieblingsfächer sind Mathe und Physik, aber noch viel lieber hättest du öfter die Fächer Mechanik, Elektrotechnik und IT? Das klingt ganz so, als wäre ein Beruf in diesem Bereich perfekt für dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu kümmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich für eine A",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
+      }
+    },
+    {
+      "job_id": "135233",
+      "title": "Bachelor of Science - International Business Administration & Information Technology (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135233/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
+      "job_field": "Information Technology & Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Digitalisierung spannend und möchtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spaß an Mathematik, Englisch und wirtschaftlichen Zusammenhängen hast und du dich zudem für fremde Kulturen interessierst, dann bist du in der internationalen Wirtschaftsinformatik richtig! Denn so vielfältig und anspruchsvoll wie deine Interessen sind, so ist auch dein Studium. Du erlernst die wichtigsten Grundlagen in Wirtscha",
+      "recruiter": {
+        "name": "Laura Juliane Mierke",
+        "email": "juliane.mierke@basf.com",
+        "phone": "+49 30 2005-58922"
+      }
+    },
+    {
       "job_id": "135108",
       "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
       "url": "https://basf.jobs/job-invite/135108/?locale=en_US",
@@ -712,24 +712,24 @@
       }
     },
     {
-      "job_id": "135233",
-      "title": "Bachelor of Science - International Business Administration & Information Technology (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135233/?locale=en_US",
+      "job_id": "135111",
+      "title": "Bachelor of Engineering - Elektrotechnik - Schwerpunkt Automatisierungstechnik (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135111/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
-      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
-      "job_field": "Information Technology & Services",
+      "department": "ESH/VT Ausbildungsstätten Betrieb",
+      "job_field": "Engineering",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Digitalisierung spannend und möchtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spaß an Mathematik, Englisch und wirtschaftlichen Zusammenhängen hast und du dich zudem für fremde Kulturen interessierst, dann bist du in der internationalen Wirtschaftsinformatik richtig! Denn so vielfältig und anspruchsvoll wie deine Interessen sind, so ist auch dein Studium. Du erlernst die wichtigsten Grundlagen in Wirtscha",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du funktionierst auch unter Druck, stehst dabei aber selten auf der Leitung? Dann kurbel mit uns deine Entwicklung an! Erwirb bei uns das nötige Know-How der Automatisierungs-, Elektro- sowie Steuerungstechnik. Du hilfst uns, Anlagen zu planen, elektronisch zu steuern und zu erhalten, nachdem du ihre Funktionsweise studiert hast. Du verstehst die Signale eines Stromkreises wie kein:e andere:r und kitzelst das volle Potenzial aus unseren Anlagen heraus. Wenn ",
       "recruiter": {
-        "name": "Laura Juliane Mierke",
-        "email": "juliane.mierke@basf.com",
-        "phone": "+49 30 2005-58922"
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
       }
     },
     {
@@ -817,27 +817,6 @@
       }
     },
     {
-      "job_id": "135284",
-      "title": "Bachelor of Arts Betriebswirtschaftslehre - Risk and Insurance Management (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135284/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
-      "job_field": "Legal, Tax & Insurance",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert und auch das Thema Risikomanagement klingt für dich spannend? Was muss ein großer Konzern versichern und warum hat er eigene Versicherungsunternehmen? Wenn dich das interessiert, dann ist dieses praxisnahe Studium genau richtig für dich! Neben den theoretischen Grundlagen in BWL, VWL und Recht bis hin zum Marketing-Management, lernst du in verschiedenen Praxisphasen auch unterschiedliche Versicherungsspart",
-      "recruiter": {
-        "name": "Laura Juliane Mierke",
-        "email": "juliane.mierke@basf.com",
-        "phone": "+49 30 2005-58922"
-      }
-    },
-    {
       "job_id": "135229",
       "title": "Bachelor of Science - International Business Administration (m/w/d)",
       "url": "https://basf.jobs/job-invite/135229/?locale=en_US",
@@ -852,6 +831,27 @@
       "hybrid": false,
       "date_posted": "2026-04-14T22:00:00Z",
       "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert? Auch die Praxis findest du spannend? Dann ist dieses Studium genau richtig für dich! Durch die Verbindung von Theorie und Praxis wirst du zum wahren Allrounder. Du durchläufst verschiedene Abteilungen, wie zum Beispiel Marketing, Vertrieb, Personal und Controlling. Dabei lernst du, wie man ein Unternehmen führt, organisiert und steuert. Wesentliche Bestandteile dabei sind die Digitalisierung von Geschäfts",
+      "recruiter": {
+        "name": "Laura Juliane Mierke",
+        "email": "juliane.mierke@basf.com",
+        "phone": "+49 30 2005-58922"
+      }
+    },
+    {
+      "job_id": "135284",
+      "title": "Bachelor of Arts Betriebswirtschaftslehre - Risk and Insurance Management (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135284/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert und auch das Thema Risikomanagement klingt für dich spannend? Was muss ein großer Konzern versichern und warum hat er eigene Versicherungsunternehmen? Wenn dich das interessiert, dann ist dieses praxisnahe Studium genau richtig für dich! Neben den theoretischen Grundlagen in BWL, VWL und Recht bis hin zum Marketing-Management, lernst du in verschiedenen Praxisphasen auch unterschiedliche Versicherungsspart",
       "recruiter": {
         "name": "Laura Juliane Mierke",
         "email": "juliane.mierke@basf.com",
@@ -3765,27 +3765,6 @@
       }
     },
     {
-      "job_id": "118966",
-      "title": "Ausbildung Mechatroniker:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/118966/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung Mechatroniker",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Ger t den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du t ftelst f r dein Leben gerne? Deine Lieblingsf cher sind Mathe und Physik, aber noch viel lieber h ttest du fter die F cher Mechanik, Elektrotechnik und IT? Das klingt ganz so, als w re ein Beruf in diesem Bereich perfekt f r dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu k mmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich f r eine Au",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
-      }
-    },
-    {
       "job_id": "119398",
       "title": "Ausbildung Chemikant:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/119398/?locale=en_US",
@@ -3891,41 +3870,20 @@
       }
     },
     {
-      "job_id": "119236",
-      "title": "Ausbildung Elektroniker:in (m/w/d) für Betriebstechnik",
-      "url": "https://basf.jobs/job-invite/119236/?locale=en_US",
+      "job_id": "118966",
+      "title": "Ausbildung Mechatroniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/118966/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung EBET",
+      "department": "ESH/VT Technikausbildung Mechatroniker",
       "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kabelsalat steht regelm ig auf deinem Speiseplan? Wie der Strom in die Steckdose kommt, weist du genau. Das reicht dir aber noch nicht. Du willst ein Elektrotechnik-Profi werden? Dann bist du bei uns richtig, denn unsere Anlagen laufen erst, wenn du diese mit Energie versorgst. Dazu geh rt die Installation, das Einrichten und die Programmierung. Sollte dann doch mal etwas nicht funktionieren, bringst du die Elektronik wieder in die richtige Bahn. Kurz gesagt - du",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
-      }
-    },
-    {
-      "job_id": "119243",
-      "title": "Bachelor of Engineering - Elektrotechnik - Schwerpunkt Energietechnik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/119243/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung Duale Studenten",
-      "job_field": "Engineering",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du kannst die n chste Mathe- und Physikstunde kaum erwarten? Wenn es um technische Probleme geht, rufen Freunde und Familie bei dir an? Bei Pumpen denkst du nicht nur an einen platten Reifen und das Jonglieren mit Zahlen ist f r dich kein Zirkusprojekt? Dann ist dieses Studium genau das Richtige f r dich. Bei uns lernst du deine Kreativit t in technische Pl ne umzusetzen. Die notwendigen Werkzeuge zum Berechnen, Entwickeln und Projektieren geben wir dir an d",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Ger t den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du t ftelst f r dein Leben gerne? Deine Lieblingsf cher sind Mathe und Physik, aber noch viel lieber h ttest du fter die F cher Mechanik, Elektrotechnik und IT? Das klingt ganz so, als w re ein Beruf in diesem Bereich perfekt f r dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu k mmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich f r eine Au",
       "recruiter": {
         "name": "Katrin Statnick",
         "email": "katrin.statnick@basf.com",
@@ -3975,20 +3933,20 @@
       }
     },
     {
-      "job_id": "119235",
-      "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
-      "url": "https://basf.jobs/job-invite/119235/?locale=en_US",
+      "job_id": "119236",
+      "title": "Ausbildung Elektroniker:in (m/w/d) für Betriebstechnik",
+      "url": "https://basf.jobs/job-invite/119236/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung EAUT",
+      "department": "ESH/VT Technikausbildung EBET",
       "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kein elektrisches Ger t ist vor dir sicher. Erst wenn du wei t, wie es funktioniert, bist du zufrieden. Du t ftelst f r dein Leben gern und hast Spa an Mathe und Physik. Dass unser Leben ohne die Elektrotechnik heute nicht mehr vorstellbar w re, wei t du ganz genau. In modernen Anlagen werden chemische Produkte hergestellt, die in vielen Dingen unseres Alltags verwendet werden, wie zum Beispiel in Handys oder in Turnschuhen. Elektroniker:innen f r Automatisierung",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kabelsalat steht regelm ig auf deinem Speiseplan? Wie der Strom in die Steckdose kommt, weist du genau. Das reicht dir aber noch nicht. Du willst ein Elektrotechnik-Profi werden? Dann bist du bei uns richtig, denn unsere Anlagen laufen erst, wenn du diese mit Energie versorgst. Dazu geh rt die Installation, das Einrichten und die Programmierung. Sollte dann doch mal etwas nicht funktionieren, bringst du die Elektronik wieder in die richtige Bahn. Kurz gesagt - du",
       "recruiter": {
         "name": "Katrin Statnick",
         "email": "katrin.statnick@basf.com",
@@ -3996,20 +3954,20 @@
       }
     },
     {
-      "job_id": "119240",
-      "title": "Bachelor of Engineering - Elektrotechnik - Schwerpunkt Automatisierungstechnik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/119240/?locale=en_US",
+      "job_id": "119243",
+      "title": "Bachelor of Engineering - Elektrotechnik - Schwerpunkt Energietechnik (m/w/d)",
+      "url": "https://basf.jobs/job-invite/119243/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
-      "department": "ESH/VT Ausbildungsstätten Betrieb",
+      "department": "ESH/VT Technikausbildung Duale Studenten",
       "job_field": "Engineering",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du funktionierst auch unter Druck, stehst dabei aber selten auf der Leitung? Dann kurbel mit uns deine Entwicklung an! Erwirb bei uns das n tige Know-How der Automatisierungs-, Elektro- sowie Steuerungstechnik. Du hilfst uns, Anlagen zu planen, elektronisch zu steuern und zu erhalten, nachdem du ihre Funktionsweise studiert hast. Du verstehst die Signale eines Stromkreises wie kein:e andere:r und kitzelst das volle Potenzial aus unseren Anlagen heraus. Wenn ",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du kannst die n chste Mathe- und Physikstunde kaum erwarten? Wenn es um technische Probleme geht, rufen Freunde und Familie bei dir an? Bei Pumpen denkst du nicht nur an einen platten Reifen und das Jonglieren mit Zahlen ist f r dich kein Zirkusprojekt? Dann ist dieses Studium genau das Richtige f r dich. Bei uns lernst du deine Kreativit t in technische Pl ne umzusetzen. Die notwendigen Werkzeuge zum Berechnen, Entwickeln und Projektieren geben wir dir an d",
       "recruiter": {
         "name": "Katrin Statnick",
         "email": "katrin.statnick@basf.com",
@@ -4077,6 +4035,48 @@
         "name": "Susanne Reddmann",
         "email": "susanne.reddmann@basf.com",
         "phone": "+49 30 2005-56097"
+      }
+    },
+    {
+      "job_id": "119235",
+      "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
+      "url": "https://basf.jobs/job-invite/119235/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung EAUT",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kein elektrisches Ger t ist vor dir sicher. Erst wenn du wei t, wie es funktioniert, bist du zufrieden. Du t ftelst f r dein Leben gern und hast Spa an Mathe und Physik. Dass unser Leben ohne die Elektrotechnik heute nicht mehr vorstellbar w re, wei t du ganz genau. In modernen Anlagen werden chemische Produkte hergestellt, die in vielen Dingen unseres Alltags verwendet werden, wie zum Beispiel in Handys oder in Turnschuhen. Elektroniker:innen f r Automatisierung",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
+      }
+    },
+    {
+      "job_id": "119240",
+      "title": "Bachelor of Engineering - Elektrotechnik - Schwerpunkt Automatisierungstechnik (m/w/d)",
+      "url": "https://basf.jobs/job-invite/119240/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Ausbildungsstätten Betrieb",
+      "job_field": "Engineering",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du funktionierst auch unter Druck, stehst dabei aber selten auf der Leitung? Dann kurbel mit uns deine Entwicklung an! Erwirb bei uns das n tige Know-How der Automatisierungs-, Elektro- sowie Steuerungstechnik. Du hilfst uns, Anlagen zu planen, elektronisch zu steuern und zu erhalten, nachdem du ihre Funktionsweise studiert hast. Du verstehst die Signale eines Stromkreises wie kein:e andere:r und kitzelst das volle Potenzial aus unseren Anlagen heraus. Wenn ",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
       }
     },
     {
