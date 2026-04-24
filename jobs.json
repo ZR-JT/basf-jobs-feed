@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-04-24T12:57:20Z",
-  "total_active": 201,
+  "last_updated": "2026-04-24T16:44:09Z",
+  "total_active": 202,
   "jobs": [
+    {
+      "job_id": "135516",
+      "title": "GBE/PH-SB - Payroll Specialist with Spanish (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/135516/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/PH-SB Payroll & Workforce Management Spain",
+      "job_field": "Human Resources",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-27T22:00:00Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; In our team HR Services EMEA Spain, we perform the monthly payroll and workforce management processes for our BASF companies in Spain. In an op",
+      "recruiter": {
+        "name": "Liliana Marcela Quiroga Duarte",
+        "email": "liliana-marcela.quiroga-duarte@basf.com"
+      }
+    },
     {
       "job_id": "135847",
       "title": "Mitarbeiter:in Facility Management (m/w/d)",
