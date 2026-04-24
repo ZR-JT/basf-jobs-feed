@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-24T09:22:14Z",
-  "total_active": 203,
+  "last_updated": "2026-04-24T12:57:20Z",
+  "total_active": 201,
   "jobs": [
     {
       "job_id": "135847",
@@ -244,50 +244,6 @@
       }
     },
     {
-      "job_id": "134254",
-      "title": "Ingenieur:in/ Techniker:in Elektrotechnik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134254/?locale=en_US",
-      "city": "Würzburg",
-      "state": "Bayern",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "ECP/OPM Engineering & Infrastructure",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-04-16T14:45:41Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den ",
-      "recruiter": {
-        "name": "Julia Kilias",
-        "email": "julia.kilias@basf.com",
-        "phone": "+49 30 2005-59139"
-      }
-    },
-    {
-      "job_id": "135600",
-      "title": "Accountant Financial Reporting with Turkish (m/f/d) - Hybrid Option GER",
-      "url": "https://basf.jobs/job-invite/135600/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/WR1-EM2 Fin.Rep. Turkey, Middle East",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": true,
-      "date_posted": "2026-04-16T06:46:51Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our international Financial Reporting team and start your career as an Accountant. In this position you are responsible for the general le",
-      "recruiter": {
-        "name": "Jennifer Weiz",
-        "email": "jennifer.weiz@basf.com",
-        "phone": "+49 30 2005-56454"
-      }
-    },
-    {
       "job_id": "135138",
       "title": "(Senior) Project Manager Supply Chain Consulting (m/f/d)",
       "url": "https://basf.jobs/job-invite/135138/?locale=en_US",
@@ -479,27 +435,6 @@
         "name": "Isabel Maisack",
         "email": "isabel.maisack@basf.com",
         "phone": "+49 30 2005-56683"
-      }
-    },
-    {
-      "job_id": "135237",
-      "title": "Ausbildung Hotelfachmann:frau (m/w/d) mit Zusatzqualifikation Hotelmanagement",
-      "url": "https://basf.jobs/job-invite/135237/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "department": "ESM/GR Business-Hotel René Bohn",
-      "job_field": "Catering",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast eine Leidenschaft für den Service und möchtest in einem internationalen Umfeld arbeiten? Du bist ein Kommunikationstalent und hast Spaß daran, Menschen einen unvergesslichen Aufenthalt zu bereiten? Du bist engagiert und hast Lust, in einem einzigartigen Team zu arbeiten? Dann starte deine Ausbildung als Hotelfachmann:frau mit Zusatzqualifikation Hotelmanagement in unserem Hotel und erlebe wie vielseitig und spannend der Beruf in der Hotellerie sein kann! ",
-      "recruiter": {
-        "name": "Lina Wehr",
-        "email": "lina.wehr@basf.com",
-        "phone": "+49 30 2005-56745"
       }
     },
     {
@@ -752,6 +687,27 @@
         "name": "Isabel Maisack",
         "email": "isabel.maisack@basf.com",
         "phone": "+49 30 2005-56683"
+      }
+    },
+    {
+      "job_id": "135237",
+      "title": "Ausbildung Hotelfachmann:frau (m/w/d) mit Zusatzqualifikation Hotelmanagement",
+      "url": "https://basf.jobs/job-invite/135237/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "department": "ESM/GR Business-Hotel René Bohn",
+      "job_field": "Catering",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast eine Leidenschaft für den Service und möchtest in einem internationalen Umfeld arbeiten? Du bist ein Kommunikationstalent und hast Spaß daran, Menschen einen unvergesslichen Aufenthalt zu bereiten? Du bist engagiert und hast Lust, in einem einzigartigen Team zu arbeiten? Dann starte deine Ausbildung als Hotelfachmann:frau mit Zusatzqualifikation Hotelmanagement in unserem Hotel und erlebe wie vielseitig und spannend der Beruf in der Hotellerie sein kann! ",
+      "recruiter": {
+        "name": "Lina Wehr",
+        "email": "lina.wehr@basf.com",
+        "phone": "+49 30 2005-56745"
       }
     },
     {
@@ -3715,7 +3671,7 @@
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2025-04-03T13:47:33Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast eine Leidenschaft f r den Service und m chtest in einem internationalen Umfeld arbeiten? Du bist ein Kommunikationstalent und hast Spa daran, Menschen einen unvergesslichen Aufenthalt zu bereiten? Du bist engagiert und hast Lust, in einem einzigartigen Team zu arbeiten? Dann starte deine Ausbildung als Hotelfachmann:frau in unserem Hotel und erlebe, wie vielseitig und spannend der Beruf in der Hotellerie sein kann! DAS LERNST DU WÄHREND DEINER AUSBILDUNG ",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast eine Leidenschaft für den Service und möchtest in einem internationalen Umfeld arbeiten? Du bist ein Kommunikationstalent und hast Spaß daran, Menschen einen unvergesslichen Aufenthalt zu bereiten? Du bist engagiert und hast Lust, in einem einzigartigen Team zu arbeiten? Dann starte deine Ausbildung als Hotelfachmann:frau in unserem Hotel und erlebe, wie vielseitig und spannend der Beruf in der Hotellerie sein kann! DAS LERNST DU WÄHREND DEINER AUSBILDUNG",
       "recruiter": {
         "name": "Lina Wehr",
         "email": "lina.wehr@basf.com",
@@ -3828,27 +3784,6 @@
       }
     },
     {
-      "job_id": "119404",
-      "title": "Ausbildung Hotelfachmann:frau (m/w/d) mit Zusatzqualifikation Hotelmanagement",
-      "url": "https://basf.jobs/job-invite/119404/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "department": "ESM/GR Business-Hotel René Bohn",
-      "job_field": "Catering",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast eine Leidenschaft für den Service und möchtest in einem internationalen Umfeld arbeiten? Du bist ein Kommunikationstalent und hast Spaß daran, Menschen einen unvergesslichen Aufenthalt zu bereiten? Du bist engagiert und hast Lust, in einem einzigartigen Team zu arbeiten? Dann starte deine Ausbildung als Hotelfachmann:frau in unserem Hotel und erlebe, wie vielseitig und spannend der Beruf in der Hotellerie sein kann! Du hast die Fachhochschulreife oder die",
-      "recruiter": {
-        "name": "Lina Wehr",
-        "email": "lina.wehr@basf.com",
-        "phone": "+49 30 2005-56745"
-      }
-    },
-    {
       "job_id": "119238",
       "title": "Ausbildung im Bereich Technik oder Produktion: Jetzt bewerben - später entscheiden! (m/w/d)",
       "url": "https://basf.jobs/job-invite/119238/?locale=en_US",
@@ -3888,6 +3823,27 @@
         "name": "Katrin Statnick",
         "email": "katrin.statnick@basf.com",
         "phone": "+49 30 2005-58118"
+      }
+    },
+    {
+      "job_id": "119404",
+      "title": "Ausbildung Hotelfachmann:frau (m/w/d) mit Zusatzqualifikation Hotelmanagement",
+      "url": "https://basf.jobs/job-invite/119404/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "department": "ESM/GR Business-Hotel René Bohn",
+      "job_field": "Catering",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast eine Leidenschaft für den Service und möchtest in einem internationalen Umfeld arbeiten? Du bist ein Kommunikationstalent und hast Spaß daran, Menschen einen unvergesslichen Aufenthalt zu bereiten? Du bist engagiert und hast Lust, in einem einzigartigen Team zu arbeiten? Dann starte deine Ausbildung als Hotelfachmann:frau in unserem Hotel und erlebe, wie vielseitig und spannend der Beruf in der Hotellerie sein kann! Du hast die Fachhochschulreife oder die",
+      "recruiter": {
+        "name": "Lina Wehr",
+        "email": "lina.wehr@basf.com",
+        "phone": "+49 30 2005-56745"
       }
     },
     {
