@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-04-24T06:02:39Z",
-  "total_active": 204,
+  "last_updated": "2026-04-24T09:22:14Z",
+  "total_active": 203,
   "jobs": [
+    {
+      "job_id": "135847",
+      "title": "Mitarbeiter:in Facility Management (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135847/?locale=en_US",
+      "city": "Lampertheim",
+      "state": "Hessen",
+      "country": "Germany",
+      "company": "BASF Lampertheim GmbH",
+      "business_unit": "EMEA",
+      "department": "EVM/ELT Civil Engineering & Facility Mgmt",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-04-24T08:07:24Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Bei unserem Bereich Performance Chemicals geht es um maßgeschneiderte Produkte. Das Portfolio des Bereiches umfasst Kunststoff-Additive, Lösungen für Kraftstoffe und Schmierstoffe, Chemikalien und Lösungen für die Ölfeld- und Bergbauindustrie sowie Chemische- und Raffineriekatalysatoren. Kunden aus den unterschiedlichsten Industrien, einschließlich Chemie, Kunststoffe, Konsumgüter, Energie Ressourcen sowie der Automobil- Transportmittelindustrie, profitieren von unseren ",
+      "recruiter": {
+        "name": "Michael Wiesenack-Flick",
+        "email": "michael.wiesenack-flick@basf.com",
+        "phone": "+49 30 2005-58564"
+      }
+    },
     {
       "job_id": "135215",
       "title": "Umweltingenieur:in (m/w/d)",
@@ -219,28 +241,6 @@
         "name": "Silke Pudicke",
         "email": "silke.pudicke@basf.com",
         "phone": "+49 30 2005-58449"
-      }
-    },
-    {
-      "job_id": "135655",
-      "title": "Officer Accounts Receivable - Intercompany (m/f/d) - Hybrid Option GER",
-      "url": "https://basf.jobs/job-invite/135655/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/EA-IC Intercompany",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": true,
-      "date_posted": "2026-04-17T07:52:47Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our department Accounts Receivable - Intercompany GBE/EA-IA as soon as possible and ensure together with us high-quality customer accounti",
-      "recruiter": {
-        "name": "Jennifer Weiz",
-        "email": "jennifer.weiz@basf.com",
-        "phone": "+49 30 2005-56454"
       }
     },
     {
@@ -470,27 +470,6 @@
       "company": "BASF SE",
       "department": "ESH/VL Voc. Training Laboratory Assistants",
       "job_field": "Research & Development",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
-      "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
-      }
-    },
-    {
-      "job_id": "135209",
-      "title": "Ausbildung Mechatroniker:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135209/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung Mechatroniker",
-      "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
@@ -752,6 +731,27 @@
         "name": "Katrin Statnick",
         "email": "katrin.statnick@basf.com",
         "phone": "+49 30 2005-58118"
+      }
+    },
+    {
+      "job_id": "135209",
+      "title": "Ausbildung Mechatroniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135209/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung Mechatroniker",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
+      "recruiter": {
+        "name": "Isabel Maisack",
+        "email": "isabel.maisack@basf.com",
+        "phone": "+49 30 2005-56683"
       }
     },
     {
@@ -2124,28 +2124,6 @@
         "name": "Antje Pfeifer",
         "email": "antje.pfeifer@basf.com",
         "phone": "+49 30 2005-58153"
-      }
-    },
-    {
-      "job_id": "111402",
-      "title": "Internship Leadership Development and Strategic People Development (m/f/d)",
-      "url": "https://basf.jobs/job-invite/111402/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "COH/DL Corporate HR Leadership & Development",
-      "job_field": "Human Resources",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-03-02T10:02:02Z",
-      "description": "WELCOME TO BASF &#13; In the Corporate Human Resources unit, we are responsible for managing HR activities within the BASF Group. By developing focused personnel policies, we implement the company's strategy on employee-related issues. As part of Corporate Human Resources, we design tools for the development and retention of Senior Executives, provide operational support in their personnel matters, and are responsible for their strategic succession planning. WHAT YOU CAN EXPECT &#13; We offer yo",
-      "recruiter": {
-        "name": "Yasemin Koparan",
-        "email": "yasemin.koparan@basf.com",
-        "phone": "+49 30 2005-58540"
       }
     },
     {
