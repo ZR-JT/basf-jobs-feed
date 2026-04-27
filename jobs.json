@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-27T06:22:27Z",
-  "total_active": 202,
+  "last_updated": "2026-04-27T10:05:36Z",
+  "total_active": 198,
   "jobs": [
     {
       "job_id": "135516",
@@ -21,6 +21,28 @@
       "recruiter": {
         "name": "Liliana Marcela Quiroga Duarte",
         "email": "liliana-marcela.quiroga-duarte@basf.com"
+      }
+    },
+    {
+      "job_id": "134194",
+      "title": "Praktikum Instrumentelle Analytik (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134194/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "ESG/CB Human Biomonitoring",
+      "job_field": "Occupational Medicine",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-04-27T07:18:41Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an denStandorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices undLogistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche,die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allenBelangen rund um Umweltschut",
+      "recruiter": {
+        "name": "Silke Pudicke",
+        "email": "silke.pudicke@basf.com",
+        "phone": "+49 30 2005-58449"
       }
     },
     {
@@ -128,9 +150,8 @@
       "date_posted": "2026-04-21T11:39:55Z",
       "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join us with your ideas and actively contribute to the continuous improvement of our procurement services! As Officer Procurement Services, you",
       "recruiter": {
-        "name": "Jennifer Weiz",
-        "email": "jennifer.weiz@basf.com",
-        "phone": "+49 30 2005-56454"
+        "name": "Maximilian Mette",
+        "email": "maximilian.mette@basf.com"
       }
     },
     {
@@ -153,50 +174,6 @@
         "name": "Sophie Maria Meyer",
         "email": "sophie-maria.meyer@basf.com",
         "phone": "+49 30 2005-58071"
-      }
-    },
-    {
-      "job_id": "135674",
-      "title": "Industriemechaniker:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135674/?locale=en_US",
-      "city": "Lampertheim",
-      "state": "Hessen",
-      "country": "Germany",
-      "company": "BASF Lampertheim GmbH",
-      "business_unit": "EMEA",
-      "department": "EVM/ELT Engineering & Maintenance",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-04-20T11:38:37Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Bei unserem Bereich Performance Chemicals geht es um maßgeschneiderte Produkte. Das Portfolio des Bereiches umfasst Kunststoff-Additive, Lösungen für Kraftstoffe und Schmierstoffe, Chemikalien und Lösungen für die Ölfeld- und Bergbauindustrie sowie Chemische- und Raffineriekatalysatoren. Kunden aus den unterschiedlichsten Industrien, einschließlich Chemie, Kunststoffe, Konsumgüter, Energie Ressourcen sowie der Automobil- Transportmittelindustrie, profitieren von unseren ",
-      "recruiter": {
-        "name": "Michael Wiesenack-Flick",
-        "email": "michael.wiesenack-flick@basf.com",
-        "phone": "+49 30 2005-58564"
-      }
-    },
-    {
-      "job_id": "135675",
-      "title": "Elektroniker:in für Automatisierungstechnik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135675/?locale=en_US",
-      "city": "Lampertheim",
-      "state": "Hessen",
-      "country": "Germany",
-      "company": "BASF Lampertheim GmbH",
-      "business_unit": "EMEA",
-      "department": "EVM/ELT Engineering & Maintenance",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-04-20T11:38:17Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Bei unserem Bereich Performance Chemicals geht es um maßgeschneiderte Produkte. Das Portfolio des Bereiches umfasst Kunststoff-Additive, Lösungen für Kraftstoffe und Schmierstoffe, Chemikalien und Lösungen für die Ölfeld- und Bergbauindustrie sowie Chemische- und Raffineriekatalysatoren. Kunden aus den unterschiedlichsten Industrien, einschließlich Chemie, Kunststoffe, Konsumgüter, Energie Ressourcen sowie der Automobil- Transportmittelindustrie, profitieren von unseren ",
-      "recruiter": {
-        "name": "Michael Wiesenack-Flick",
-        "email": "michael.wiesenack-flick@basf.com",
-        "phone": "+49 30 2005-58564"
       }
     },
     {
@@ -1328,31 +1305,8 @@
       "date_posted": "2026-04-02T09:09:33Z",
       "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; You would like to gain practical experience as part of your mandatory internship for 6 months in the unit Procurement Services of a global play",
       "recruiter": {
-        "name": "Jennifer Weiz",
-        "email": "jennifer.weiz@basf.com",
-        "phone": "+49 30 2005-56454"
-      }
-    },
-    {
-      "job_id": "135091",
-      "title": "Werkstudent:in Global Automation (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135091/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "ECP/OOA Global Automation",
-      "job_field": "Digitalization",
-      "job_level": "Student",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-01T15:21:49Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innoavative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den",
-      "recruiter": {
-        "name": "Bekim Krasniqi",
-        "email": "bekim.krasniqi@basf.com",
-        "phone": "+49 30 2005-56136"
+        "name": "Maximilian Mette",
+        "email": "maximilian.mette@basf.com"
       }
     },
     {
@@ -1375,28 +1329,6 @@
         "name": "Melissa Amina Rahmani",
         "email": "melissa.rahmani@basf.com",
         "phone": "+49 30 2005-58073"
-      }
-    },
-    {
-      "job_id": "134194",
-      "title": "Praktikum Instrumentelle Analytik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134194/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "ESG/CB Human Biomonitoring",
-      "job_field": "Occupational Medicine",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-04-01T07:12:33Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an denStandorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices undLogistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche,die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allenBelangen rund um Umweltschut",
-      "recruiter": {
-        "name": "Silke Pudicke",
-        "email": "silke.pudicke@basf.com",
-        "phone": "+49 30 2005-58449"
       }
     },
     {
@@ -1812,9 +1744,8 @@
       "date_posted": "2026-03-12T09:59:39Z",
       "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; As a Team Assistant in our Procurement Services team, you will be responsible for all administrative and organizational matters, as well as the",
       "recruiter": {
-        "name": "Jennifer Weiz",
-        "email": "jennifer.weiz@basf.com",
-        "phone": "+49 30 2005-56454"
+        "name": "Maximilian Mette",
+        "email": "maximilian.mette@basf.com"
       }
     },
     {
@@ -2231,28 +2162,6 @@
         "name": "Bekim Krasniqi",
         "email": "bekim.krasniqi@basf.com",
         "phone": "+49 30 2005-56136"
-      }
-    },
-    {
-      "job_id": "133642",
-      "title": "Internship Financing Subsidiaries & Joint Ventures (m/f/d)",
-      "url": "https://basf.jobs/job-invite/133642/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "CFT/FS Financing Subsidiaries & JVs",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-02-20T12:59:20Z",
-      "description": "WELCOME TO BASF &#13; At Corporate Finance@BASF, we do not just focus on figures, but solutions. Our approach is strategic and innovative, we get things done. Doing so, the needs of our business partners are priority and we have the finger on the pulse when it comes to sustainability and digitalization. Topics such as evaluation of mergers acquisitions and major investments, financing, the preparation of published statements, the management of financial risks and advising the board of directors ",
-      "recruiter": {
-        "name": "Laura Deland",
-        "email": "laura.deland@basf.com",
-        "phone": "+49 30 2005-58168"
       }
     },
     {
@@ -3652,9 +3561,8 @@
       "date_posted": "2025-04-10T08:21:03Z",
       "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join us with your own ideas and help us shape our processes as well as further development of our services! As (Junior) Procurement Specialist ",
       "recruiter": {
-        "name": "Jennifer Weiz",
-        "email": "jennifer.weiz@basf.com",
-        "phone": "+49 30 2005-56454"
+        "name": "Maximilian Mette",
+        "email": "maximilian.mette@basf.com"
       }
     },
     {
