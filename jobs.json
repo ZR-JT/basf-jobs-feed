@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-04-28T06:24:01Z",
-  "total_active": 197,
+  "last_updated": "2026-04-28T10:05:38Z",
+  "total_active": 200,
   "jobs": [
+    {
+      "job_id": "135997",
+      "title": "Accountant Financial Reporting with Polish (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/135997/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/WR1-CN Fin. Rep. Central, Nordic & Baltic",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-04-28T09:34:28Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our international financial reporting team as a Financial Accountant. In this role, you are responsible for the general ledger and act as ",
+      "recruiter": {
+        "name": "Jennifer Weiz",
+        "email": "jennifer.weiz@basf.com",
+        "phone": "+49 30 2005-56454"
+      }
+    },
+    {
+      "job_id": "135833",
+      "title": "Praktikum Zweiphasige Druckentlastungssysteme in Python (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135833/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "RGR/BE Complex Overpressure Protection",
+      "job_field": "Other",
+      "job_level": "Other",
+      "job_type": "Other",
+      "hybrid": false,
+      "date_posted": "2026-04-28T07:23:49Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind eine weltweit führende Forschungsorganisation mit über 3000 Mitarbeiter:innen, die in den Bereichen Materialwissenschaften, Analytik, chemische Synthese, Prozessentwicklung, Biowissenschaften, Katalyse und Digitalisierung arbeiten. Mit unseren kreativen und diversen Teams sowie unserer Spitzenforschung tragen wir dazu bei, unsere Kunden erfolgreicher zu machen und die Nachhaltigkeitstransformation voranzutreiben. WAS SIE ERWARTET &#13; Unsere Forschungsgruppe be",
+      "recruiter": {
+        "name": "Yulia Elke Haars",
+        "email": "yulia.haars@basf.com",
+        "phone": "+49 30-200556107"
+      }
+    },
+    {
+      "job_id": "114834",
+      "title": "Commis de Cuisine (m/w/d)",
+      "url": "https://basf.jobs/job-invite/114834/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "business_unit": "EMEA",
+      "department": "ES/RR Bankett/Catering",
+      "job_field": "Catering",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-04-28T07:11:02Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Ob Mittagspause, Event oder einfach guter Geschmack - wir machen Ludwigshafen lecker! In unseren Häusern (Gesellschaftshaus, Feierabendhaus, Hotel René Bohn, Studienhaus St. Johann, Aktivhotel Haus Breitnau) sorgen wir für Vielfalt, Qualität und echte Genussmomente. Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Vorbereitung meistern – Mise en Place für hochwertige Gerichte Teamarbeit leben – Unterstützung des Chef de Partie bei der Zubereitung von Speisen Qualität si",
+      "recruiter": {
+        "name": "Susanne Reddmann",
+        "email": "susanne.reddmann@basf.com",
+        "phone": "+49 30 2005-56097"
+      }
+    },
     {
       "job_id": "135516",
       "title": "Payroll Specialist with Spanish (m/f/d) - Hybrid Option GER",
@@ -2774,7 +2840,7 @@
     },
     {
       "job_id": "131547",
-      "title": "Produktionsmitarbeiter:in (m/w/d)",
+      "title": "Produktionsmitarbeiter:in im 4-Schicht-Betrieb (m/w/d) (m/w/d)",
       "url": "https://basf.jobs/job-invite/131547/?locale=en_US",
       "city": "Freiburg im Breisgau",
       "state": "Baden-Württemberg",
