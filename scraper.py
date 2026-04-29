@@ -9,6 +9,9 @@ SEARCH_URL = "https://basf.jobs/?currentPage=1&pageSize=1000&addresses%2Fcountry
 AZURE_URL = "https://searchui.search.windows.net/indexes/basf-prod/docs/search?api-version=2020-06-30"
 BASE_URL = "https://ZR-JT.github.io/basf-jobs-feed"
 
+# Events-URL (Quelle für den Events-Feed)
+EVENTS_URL = "https://www.basf.com/global/de/careers/events.html"
+
 def strip_html(text):
     if not text:
         return ""
@@ -26,6 +29,71 @@ def slugify(text):
     text = re.sub(r'[^a-z0-9]+', '-', text)
     text = text.strip('-')
     return text
+
+async def scrape_events(session):
+    """Versucht Events von der BASF-Karriereseite zu laden."""
+    try:
+        async with session.get(EVENTS_URL, timeout=aiohttp.ClientTimeout(total=15)) as resp:
+            if resp.status != 200:
+                print(f"⚠️ Events-Seite nicht erreichbar (Status {resp.status})")
+                return []
+            html = await resp.text()
+
+        # Einfache Extraktion von Event-Blöcken
+        # BASF nutzt strukturierte Karten – wir suchen nach Titel, Datum, Ort, Link
+        events = []
+        # Suche nach JSON-LD structured data (häufig bei BASF-Events)
+        ld_matches = re.findall(r'<script[^>]*type="application/ld\+json"[^>]*>(.*?)</script>', html, re.DOTALL)
+        for ld in ld_matches:
+            try:
+                data = json.loads(ld)
+                if isinstance(data, list):
+                    items = data
+                elif isinstance(data, dict):
+                    items = [data]
+                else:
+                    continue
+                for item in items:
+                    if item.get("@type") in ("Event", "EducationEvent", "BusinessEvent"):
+                        events.append({
+                            "title": item.get("name", ""),
+                            "date": item.get("startDate", "")[:10] if item.get("startDate") else "",
+                            "time": item.get("startDate", "")[11:16] if item.get("startDate") and "T" in item.get("startDate","") else "",
+                            "location": item.get("location", {}).get("name", "") if isinstance(item.get("location"), dict) else str(item.get("location", "")),
+                            "category": item.get("@type", "Event"),
+                            "description": strip_html(item.get("description", ""))[:200],
+                            "url": item.get("url", EVENTS_URL),
+                        })
+            except (json.JSONDecodeError, AttributeError):
+                continue
+
+        # Fallback: HTML-Pattern für BASF-Event-Karten
+        if not events:
+            card_pattern = re.findall(
+                r'<[^>]*class="[^"]*event[^"]*"[^>]*>(.*?)</[^>]+>',
+                html, re.DOTALL | re.IGNORECASE
+            )
+            for card in card_pattern[:20]:
+                title_m = re.search(r'<h[2-4][^>]*>(.*?)</h[2-4]>', card, re.DOTALL)
+                date_m = re.search(r'(\d{1,2}\.\d{1,2}\.\d{4})', card)
+                link_m = re.search(r'href="([^"]+)"', card)
+                if title_m:
+                    events.append({
+                        "title": strip_html(title_m.group(1)),
+                        "date": date_m.group(1) if date_m else "",
+                        "time": "",
+                        "location": "",
+                        "category": "Event",
+                        "description": "",
+                        "url": link_m.group(1) if link_m else EVENTS_URL,
+                    })
+
+        print(f"✅ {len(events)} Events gefunden")
+        return events
+
+    except Exception as e:
+        print(f"⚠️ Events konnten nicht geladen werden: {e}")
+        return []
 
 async def scrape_jobs():
     api_key = None
@@ -64,6 +132,11 @@ async def scrape_jobs():
     skip = 0
 
     async with aiohttp.ClientSession() as session:
+
+        # ── Events parallel scrapen ──────────────────────────────────────────
+        events_task = asyncio.create_task(scrape_events(session))
+
+        # ── Jobs scrapen ─────────────────────────────────────────────────────
         while True:
             search_body = {
                 "search": "*",
@@ -96,9 +169,11 @@ async def scrape_jobs():
                 break
             skip += PAGE_SIZE
 
+        events = await events_task
+
     print(f"Rohdaten: {len(all_raw_jobs)} (inkl. alle Locales)")
 
-    # Deduplizieren
+    # ── Deduplizieren ────────────────────────────────────────────────────────
     job_map = {}
     for job in all_raw_jobs:
         full_id = str(job.get("jobId", ""))
@@ -164,7 +239,7 @@ async def scrape_jobs():
 
     timestamp = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    # jobs.json speichern
+    # ── jobs.json speichern ──────────────────────────────────────────────────
     output = {
         "last_updated": timestamp,
         "total_active": len(jobs),
@@ -174,8 +249,18 @@ async def scrape_jobs():
         json.dump(output, f, ensure_ascii=False, indent=2)
     print(f"✅ jobs.json gespeichert — {len(jobs)} Jobs!")
 
-    # ── Nach Bundesland + Stadt gruppieren ──────────────────────────────────
-    regions = {}  # key: (state, city) → list of jobs
+    # ── events.json speichern ────────────────────────────────────────────────
+    events_output = {
+        "last_updated": timestamp,
+        "total_events": len(events),
+        "events": events
+    }
+    with open("events.json", "w", encoding="utf-8") as f:
+        json.dump(events_output, f, ensure_ascii=False, indent=2)
+    print(f"✅ events.json gespeichert — {len(events)} Events!")
+
+    # ── Nach Bundesland + Stadt gruppieren ───────────────────────────────────
+    regions = {}
     for j in jobs:
         state = j.get("state", "Unbekannt")
         city = j.get("city", "Unbekannt")
@@ -184,14 +269,13 @@ async def scrape_jobs():
             regions[key] = []
         regions[key].append(j)
 
-    # Regionen sortieren: Bundesland alphabetisch, dann Stadt alphabetisch
     sorted_regions = sorted(regions.keys(), key=lambda k: (k[0].lower(), k[1].lower()))
 
     # ── Regionsseiten generieren ─────────────────────────────────────────────
     import os
     os.makedirs("regions", exist_ok=True)
 
-    region_slugs = {}  # (state, city) → slug
+    region_slugs = {}
 
     for (state, city) in sorted_regions:
         slug = f"region-{slugify(state)}-{slugify(city)}"
@@ -226,7 +310,7 @@ async def scrape_jobs():
 <body>
 <p><a href="{BASE_URL}/index_lite.html">← Zurück zur Übersicht</a></p>
 <h1>BASF Jobs – {city}, {state}</h1>
-<p>Stand: {timestamp} | {len(region_jobs)} Stelle(n)</p>
+<p>{len(region_jobs)} Stelle(n)</p>
 {rows}
 </body>
 </html>"""
@@ -236,10 +320,10 @@ async def scrape_jobs():
 
     print(f"✅ {len(sorted_regions)} Regionsseiten generiert!")
 
-    # ── index.html generieren (vollständig, mit allen Jobtiteln + Links) ────
-    # ÄNDERUNG: Jeder Jobeintrag enthält jetzt den direkten basf.jobs-Link.
-    # Das erlaubt dem KI-Agenten, Links direkt aus dem Index zu lesen,
-    # ohne eine separate Regionsseite abrufen zu müssen.
+    # ── index.html generieren ────────────────────────────────────────────────
+    # ÄNDERUNG: job_field und job_level als [Tags] vor jedem Jobtitel.
+    # Der Agent kann damit direkt im Index nach Funktion filtern,
+    # ohne jede Regionsseite einzeln aufzurufen.
     index_rows = ""
     current_state = None
 
@@ -257,12 +341,17 @@ async def scrape_jobs():
 
         index_rows += f'<li><a href="{region_url}">{city}</a> ({count} Stelle(n))<ul>\n'
         for j in region_jobs:
-            # ── GEÄNDERTE ZEILE ──────────────────────────────────────────────
-            # Vorher: <li>DATUM – TITEL</li>
-            # Jetzt:  <li>DATUM – <a href="LINK">TITEL</a></li>
-            # Der Agent kann den Link jetzt direkt aus dem Index lesen.
-            index_rows += f'  <li>{j.get("date_posted","")[:10]} – <a href="{j.get("url","")}">{j.get("title","")}</a></li>\n'
-            # ────────────────────────────────────────────────────────────────
+            # ── ÄNDERUNG: [job_field] [job_level] Tags vor dem Titel ──────────
+            job_field = j.get("job_field", "")
+            field_tag = f"[{job_field}] " if job_field else ""
+            job_level = j.get("job_level", "")
+            level_tag = f"[{job_level}] " if job_level else ""
+            # ─────────────────────────────────────────────────────────────────
+            index_rows += (
+                f'  <li>{j.get("date_posted","")[:10]} – '
+                f'{field_tag}{level_tag}'
+                f'<a href="{j.get("url","")}">{j.get("title","")}</a></li>\n'
+            )
         index_rows += f'</ul></li>\n'
 
     if current_state is not None:
@@ -273,17 +362,16 @@ async def scrape_jobs():
 <head><meta charset="UTF-8"><title>BASF Jobs Deutschland – Übersicht</title></head>
 <body>
 <h1>BASF Stellenangebote Deutschland</h1>
-<p>Stand: {timestamp} | Gesamt: {len(jobs)} Stellen | {len(sorted_regions)} Standorte</p>
+<p>Gesamt: {len(jobs)} Stellen | {len(sorted_regions)} Standorte</p>
 {index_rows}
 </body>
 </html>"""
 
     with open("index.html", "w", encoding="utf-8") as f:
         f.write(index_html)
-
     print(f"✅ index.html gespeichert!")
 
-    # ── index_lite.html generieren (nur Standorte + Anzahl, für den Agenten) ─
+    # ── index_lite.html generieren ───────────────────────────────────────────
     lite_rows = ""
     current_state = None
 
@@ -307,14 +395,52 @@ async def scrape_jobs():
 <head><meta charset="UTF-8"><title>BASF Jobs – Standortübersicht</title></head>
 <body>
 <h1>BASF Stellenangebote Deutschland</h1>
-<p>Stand: {timestamp} | Gesamt: {len(jobs)} Stellen | {len(sorted_regions)} Standorte</p>
+<p>Gesamt: {len(jobs)} Stellen | {len(sorted_regions)} Standorte</p>
 {lite_rows}
 </body>
 </html>"""
 
     with open("index_lite.html", "w", encoding="utf-8") as f:
         f.write(lite_index_html)
-
     print(f"✅ index_lite.html gespeichert!")
+
+    # ── events.html generieren ───────────────────────────────────────────────
+    if events:
+        event_rows = ""
+        for e in sorted(events, key=lambda x: x.get("date", ""), reverse=True):
+            url = e.get("url", EVENTS_URL)
+            title = e.get("title", "")
+            date = e.get("date", "")
+            time = e.get("time", "")
+            location = e.get("location", "")
+            category = e.get("category", "")
+            description = e.get("description", "")
+
+            time_str = f" | {time} Uhr" if time else ""
+            loc_str = f" | {location}" if location else ""
+            cat_str = f" | {category}" if category else ""
+
+            event_rows += f"""<div class="event">
+  <h2><a href="{url}">{title}</a></h2>
+  <p><strong>Datum:</strong> {date}{time_str}{loc_str}{cat_str}</p>
+  {f'<p>{description}</p>' if description else ''}
+</div>
+"""
+    else:
+        event_rows = "<p>Aktuell sind keine Events verfügbar.</p>"
+
+    events_html = f"""<!DOCTYPE html>
+<html lang="de">
+<head><meta charset="UTF-8"><title>BASF Karriere-Events</title></head>
+<body>
+<h1>BASF Karriere-Events</h1>
+<p>Stand: {timestamp} | {len(events)} Event(s)</p>
+{event_rows}
+</body>
+</html>"""
+
+    with open("events.html", "w", encoding="utf-8") as f:
+        f.write(events_html)
+    print(f"✅ events.html gespeichert!")
 
 asyncio.run(scrape_jobs())
