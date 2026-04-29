@@ -8,8 +8,6 @@ from datetime import datetime
 SEARCH_URL = "https://basf.jobs/?currentPage=1&pageSize=1000&addresses%2Fcountry=Germany"
 AZURE_URL = "https://searchui.search.windows.net/indexes/basf-prod/docs/search?api-version=2020-06-30"
 BASE_URL = "https://ZR-JT.github.io/basf-jobs-feed"
-
-# Events-URL (Quelle für den Events-Feed)
 EVENTS_URL = "https://www.basf.com/global/de/careers/events.html"
 
 def strip_html(text):
@@ -27,32 +25,21 @@ def slugify(text):
     text = re.sub(r'[üÜ]', 'ue', text)
     text = re.sub(r'[ß]', 'ss', text)
     text = re.sub(r'[^a-z0-9]+', '-', text)
-    text = text.strip('-')
-    return text
+    return text.strip('-')
 
 async def scrape_events(session):
-    """Versucht Events von der BASF-Karriereseite zu laden."""
     try:
         async with session.get(EVENTS_URL, timeout=aiohttp.ClientTimeout(total=15)) as resp:
             if resp.status != 200:
-                print(f"⚠️ Events-Seite nicht erreichbar (Status {resp.status})")
+                print(f"⚠️ Events nicht erreichbar (Status {resp.status})")
                 return []
             html = await resp.text()
-
-        # Einfache Extraktion von Event-Blöcken
-        # BASF nutzt strukturierte Karten – wir suchen nach Titel, Datum, Ort, Link
         events = []
-        # Suche nach JSON-LD structured data (häufig bei BASF-Events)
         ld_matches = re.findall(r'<script[^>]*type="application/ld\+json"[^>]*>(.*?)</script>', html, re.DOTALL)
         for ld in ld_matches:
             try:
                 data = json.loads(ld)
-                if isinstance(data, list):
-                    items = data
-                elif isinstance(data, dict):
-                    items = [data]
-                else:
-                    continue
+                items = data if isinstance(data, list) else [data]
                 for item in items:
                     if item.get("@type") in ("Event", "EducationEvent", "BusinessEvent"):
                         events.append({
@@ -66,33 +53,10 @@ async def scrape_events(session):
                         })
             except (json.JSONDecodeError, AttributeError):
                 continue
-
-        # Fallback: HTML-Pattern für BASF-Event-Karten
-        if not events:
-            card_pattern = re.findall(
-                r'<[^>]*class="[^"]*event[^"]*"[^>]*>(.*?)</[^>]+>',
-                html, re.DOTALL | re.IGNORECASE
-            )
-            for card in card_pattern[:20]:
-                title_m = re.search(r'<h[2-4][^>]*>(.*?)</h[2-4]>', card, re.DOTALL)
-                date_m = re.search(r'(\d{1,2}\.\d{1,2}\.\d{4})', card)
-                link_m = re.search(r'href="([^"]+)"', card)
-                if title_m:
-                    events.append({
-                        "title": strip_html(title_m.group(1)),
-                        "date": date_m.group(1) if date_m else "",
-                        "time": "",
-                        "location": "",
-                        "category": "Event",
-                        "description": "",
-                        "url": link_m.group(1) if link_m else EVENTS_URL,
-                    })
-
         print(f"✅ {len(events)} Events gefunden")
         return events
-
     except Exception as e:
-        print(f"⚠️ Events konnten nicht geladen werden: {e}")
+        print(f"⚠️ Events nicht ladbar: {e}")
         return []
 
 async def scrape_jobs():
@@ -107,11 +71,8 @@ async def scrape_jobs():
             nonlocal api_key
             if "searchui.search.windows.net" in request.url:
                 headers = dict(request.headers)
-                found_key = (
-                    headers.get("api-key") or
-                    headers.get("Api-Key") or
-                    headers.get("authorization") or ""
-                )
+                found_key = (headers.get("api-key") or headers.get("Api-Key") or
+                             headers.get("authorization") or "")
                 if found_key:
                     api_key = found_key
 
@@ -132,11 +93,8 @@ async def scrape_jobs():
     skip = 0
 
     async with aiohttp.ClientSession() as session:
-
-        # ── Events parallel scrapen ──────────────────────────────────────────
         events_task = asyncio.create_task(scrape_events(session))
 
-        # ── Jobs scrapen ─────────────────────────────────────────────────────
         while True:
             search_body = {
                 "search": "*",
@@ -171,9 +129,7 @@ async def scrape_jobs():
 
         events = await events_task
 
-    print(f"Rohdaten: {len(all_raw_jobs)} (inkl. alle Locales)")
-
-    # ── Deduplizieren ────────────────────────────────────────────────────────
+    # Deduplizieren
     job_map = {}
     for job in all_raw_jobs:
         full_id = str(job.get("jobId", ""))
@@ -234,177 +190,40 @@ async def scrape_jobs():
         entry = {k: v for k, v in entry.items() if v is not None and v != "" and v != {}}
         jobs.append(entry)
 
-    # Nach Datum sortieren (neueste zuerst)
     jobs.sort(key=lambda j: j.get("date_posted", ""), reverse=True)
-
     timestamp = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    # ── jobs.json speichern ──────────────────────────────────────────────────
-    output = {
-        "last_updated": timestamp,
-        "total_active": len(jobs),
-        "jobs": jobs
-    }
+    # ── jobs.json (vollständig, für Detailansicht) ───────────────────────────
+    output = {"last_updated": timestamp, "total_active": len(jobs), "jobs": jobs}
     with open("jobs.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     print(f"✅ jobs.json gespeichert — {len(jobs)} Jobs!")
 
-    # ── events.json speichern ────────────────────────────────────────────────
-    events_output = {
-        "last_updated": timestamp,
-        "total_events": len(events),
-        "events": events
-    }
+    # ── NEU: jobs_mini.json (ultra-kompakt, für Primärsuche) ─────────────────
+    # Nur 5 Felder: job_id, title, city, job_field, url
+    # ~16 Tokens pro Eintrag → 197 Jobs ≈ 3.150 Tokens (passt ins Token-Budget)
+    mini_jobs = []
+    for j in jobs:
+        mini_jobs.append({
+            "i": j["job_id"],
+            "t": j["title"],
+            "c": j.get("city", ""),
+            "s": j.get("state", ""),
+            "f": j.get("job_field", ""),
+            "l": j.get("job_level", ""),
+            "u": j["url"],
+            "d": j.get("date_posted", "")[:10],
+        })
+    mini_output = {"updated": timestamp, "total": len(mini_jobs), "jobs": mini_jobs}
+    with open("jobs_mini.json", "w", encoding="utf-8") as f:
+        json.dump(mini_output, f, ensure_ascii=False, separators=(',', ':'))
+    print(f"✅ jobs_mini.json gespeichert — {len(mini_jobs)} Jobs (kompakt)!")
+
+    # ── events.json + events.html ────────────────────────────────────────────
+    events_output = {"last_updated": timestamp, "total_events": len(events), "events": events}
     with open("events.json", "w", encoding="utf-8") as f:
         json.dump(events_output, f, ensure_ascii=False, indent=2)
-    print(f"✅ events.json gespeichert — {len(events)} Events!")
 
-    # ── Nach Bundesland + Stadt gruppieren ───────────────────────────────────
-    regions = {}
-    for j in jobs:
-        state = j.get("state", "Unbekannt")
-        city = j.get("city", "Unbekannt")
-        key = (state, city)
-        if key not in regions:
-            regions[key] = []
-        regions[key].append(j)
-
-    sorted_regions = sorted(regions.keys(), key=lambda k: (k[0].lower(), k[1].lower()))
-
-    # ── Regionsseiten generieren ─────────────────────────────────────────────
-    import os
-    os.makedirs("regions", exist_ok=True)
-
-    region_slugs = {}
-
-    for (state, city) in sorted_regions:
-        slug = f"region-{slugify(state)}-{slugify(city)}"
-        region_slugs[(state, city)] = slug
-        region_jobs = regions[(state, city)]
-
-        rows = ""
-        for j in region_jobs:
-            recruiter_str = ""
-            if j.get("recruiter"):
-                r = j["recruiter"]
-                recruiter_str = f'{r.get("name","")} | {r.get("email","")} | {r.get("phone","")}'
-
-            rows += f"""<div class="job">
-  <h2><a href="{j.get('url','')}'">{j.get('title','')}</a></h2>
-  <p><strong>Link:</strong> {j.get('url','')}</p>
-  <p><strong>Unternehmen:</strong> {j.get('company','')}</p>
-  <p><strong>Bereich:</strong> {j.get('job_field','')}</p>
-  <p><strong>Abteilung:</strong> {j.get('department','')}</p>
-  <p><strong>Level:</strong> {j.get('job_level','')}</p>
-  <p><strong>Typ:</strong> {j.get('job_type','')}</p>
-  <p><strong>Hybrid:</strong> {'Ja' if j.get('hybrid') else 'Nein'}</p>
-  <p><strong>Veröffentlicht:</strong> {j.get('date_posted','')[:10]}</p>
-  <p><strong>Beschreibung:</strong> {j.get('description','')}</p>
-  {f'<p><strong>Ansprechpartner:</strong> {recruiter_str}</p>' if recruiter_str else ''}
-</div>
-"""
-
-        html = f"""<!DOCTYPE html>
-<html lang="de">
-<head><meta charset="UTF-8"><title>BASF Jobs – {city}, {state}</title></head>
-<body>
-<p><a href="{BASE_URL}/index_lite.html">← Zurück zur Übersicht</a></p>
-<h1>BASF Jobs – {city}, {state}</h1>
-<p>{len(region_jobs)} Stelle(n)</p>
-{rows}
-</body>
-</html>"""
-
-        with open(f"regions/{slug}.html", "w", encoding="utf-8") as f:
-            f.write(html)
-
-    print(f"✅ {len(sorted_regions)} Regionsseiten generiert!")
-
-    # ── index.html generieren ────────────────────────────────────────────────
-    # ÄNDERUNG: job_field und job_level als [Tags] vor jedem Jobtitel.
-    # Der Agent kann damit direkt im Index nach Funktion filtern,
-    # ohne jede Regionsseite einzeln aufzurufen.
-    index_rows = ""
-    current_state = None
-
-    for (state, city) in sorted_regions:
-        if state != current_state:
-            if current_state is not None:
-                index_rows += "</ul>\n"
-            index_rows += f"<h2>{state}</h2>\n<ul>\n"
-            current_state = state
-
-        slug = region_slugs[(state, city)]
-        region_jobs = regions[(state, city)]
-        count = len(region_jobs)
-        region_url = f"{BASE_URL}/regions/{slug}.html"
-
-        index_rows += f'<li><a href="{region_url}">{city}</a> ({count} Stelle(n))<ul>\n'
-        for j in region_jobs:
-            # ── ÄNDERUNG: [job_field] [job_level] Tags vor dem Titel ──────────
-            job_field = j.get("job_field", "")
-            field_tag = f"[{job_field}] " if job_field else ""
-            job_level = j.get("job_level", "")
-            level_tag = f"[{job_level}] " if job_level else ""
-            # ─────────────────────────────────────────────────────────────────
-            index_rows += (
-                f'  <li>{j.get("date_posted","")[:10]} – '
-                f'{field_tag}{level_tag}'
-                f'<a href="{j.get("url","")}">{j.get("title","")}</a></li>\n'
-            )
-        index_rows += f'</ul></li>\n'
-
-    if current_state is not None:
-        index_rows += "</ul>\n"
-
-    index_html = f"""<!DOCTYPE html>
-<html lang="de">
-<head><meta charset="UTF-8"><title>BASF Jobs Deutschland – Übersicht</title></head>
-<body>
-<h1>BASF Stellenangebote Deutschland</h1>
-<p>Gesamt: {len(jobs)} Stellen | {len(sorted_regions)} Standorte</p>
-{index_rows}
-</body>
-</html>"""
-
-    with open("index.html", "w", encoding="utf-8") as f:
-        f.write(index_html)
-    print(f"✅ index.html gespeichert!")
-
-    # ── index_lite.html generieren ───────────────────────────────────────────
-    lite_rows = ""
-    current_state = None
-
-    for (state, city) in sorted_regions:
-        if state != current_state:
-            if current_state is not None:
-                lite_rows += "</ul>\n"
-            lite_rows += f"<h2>{state}</h2>\n<ul>\n"
-            current_state = state
-
-        slug = region_slugs[(state, city)]
-        count = len(regions[(state, city)])
-        region_url = f"{BASE_URL}/regions/{slug}.html"
-        lite_rows += f'<li><a href="{region_url}">{city}</a> ({count} Stellen)</li>\n'
-
-    if current_state is not None:
-        lite_rows += "</ul>\n"
-
-    lite_index_html = f"""<!DOCTYPE html>
-<html lang="de">
-<head><meta charset="UTF-8"><title>BASF Jobs – Standortübersicht</title></head>
-<body>
-<h1>BASF Stellenangebote Deutschland</h1>
-<p>Gesamt: {len(jobs)} Stellen | {len(sorted_regions)} Standorte</p>
-{lite_rows}
-</body>
-</html>"""
-
-    with open("index_lite.html", "w", encoding="utf-8") as f:
-        f.write(lite_index_html)
-    print(f"✅ index_lite.html gespeichert!")
-
-    # ── events.html generieren ───────────────────────────────────────────────
     if events:
         event_rows = ""
         for e in sorted(events, key=lambda x: x.get("date", ""), reverse=True):
@@ -415,11 +234,9 @@ async def scrape_jobs():
             location = e.get("location", "")
             category = e.get("category", "")
             description = e.get("description", "")
-
             time_str = f" | {time} Uhr" if time else ""
             loc_str = f" | {location}" if location else ""
             cat_str = f" | {category}" if category else ""
-
             event_rows += f"""<div class="event">
   <h2><a href="{url}">{title}</a></h2>
   <p><strong>Datum:</strong> {date}{time_str}{loc_str}{cat_str}</p>
@@ -438,9 +255,132 @@ async def scrape_jobs():
 {event_rows}
 </body>
 </html>"""
-
     with open("events.html", "w", encoding="utf-8") as f:
         f.write(events_html)
-    print(f"✅ events.html gespeichert!")
+    print(f"✅ events.json + events.html gespeichert — {len(events)} Events!")
+
+    # ── Regionen + index.html ────────────────────────────────────────────────
+    import os
+    regions = {}
+    for j in jobs:
+        key = (j.get("state", "Unbekannt"), j.get("city", "Unbekannt"))
+        if key not in regions:
+            regions[key] = []
+        regions[key].append(j)
+
+    sorted_regions = sorted(regions.keys(), key=lambda k: (k[0].lower(), k[1].lower()))
+    os.makedirs("regions", exist_ok=True)
+    region_slugs = {}
+
+    for (state, city) in sorted_regions:
+        slug = f"region-{slugify(state)}-{slugify(city)}"
+        region_slugs[(state, city)] = slug
+        region_jobs = regions[(state, city)]
+
+        rows = ""
+        for j in region_jobs:
+            recruiter_str = ""
+            if j.get("recruiter"):
+                r = j["recruiter"]
+                recruiter_str = f'{r.get("name","")} | {r.get("email","")} | {r.get("phone","")}'
+            job_field = j.get("job_field", "")
+            field_tag = f"[{job_field}] " if job_field else ""
+            job_level = j.get("job_level", "")
+            level_tag = f"[{job_level}] " if job_level else ""
+
+            rows += f"""<div class="job">
+  <h2><a href="{j.get('url','')}'">{j.get('title','')}</a></h2>
+  <p><strong>Bereich:</strong> {job_field} | <strong>Level:</strong> {job_level}</p>
+  <p><strong>Typ:</strong> {j.get('job_type','')} | <strong>Hybrid:</strong> {'Ja' if j.get('hybrid') else 'Nein'}</p>
+  <p><strong>Veröffentlicht:</strong> {j.get('date_posted','')[:10]}</p>
+  <p><strong>Beschreibung:</strong> {j.get('description','')}</p>
+  {f'<p><strong>Ansprechpartner:</strong> {recruiter_str}</p>' if recruiter_str else ''}
+</div>
+"""
+
+        html = f"""<!DOCTYPE html>
+<html lang="de">
+<head><meta charset="UTF-8"><title>BASF Jobs – {city}, {state}</title></head>
+<body>
+<h1>BASF Jobs – {city}, {state}</h1>
+<p>{len(region_jobs)} Stelle(n)</p>
+{rows}
+</body>
+</html>"""
+        with open(f"regions/{slug}.html", "w", encoding="utf-8") as f:
+            f.write(html)
+
+    print(f"✅ {len(sorted_regions)} Regionsseiten generiert!")
+
+    # ── index.html (mit [job_field][job_level]-Tags) ──────────────────────────
+    index_rows = ""
+    current_state = None
+    for (state, city) in sorted_regions:
+        if state != current_state:
+            if current_state is not None:
+                index_rows += "</ul>\n"
+            index_rows += f"<h2>{state}</h2>\n<ul>\n"
+            current_state = state
+
+        slug = region_slugs[(state, city)]
+        region_jobs = regions[(state, city)]
+        count = len(region_jobs)
+        region_url = f"{BASE_URL}/regions/{slug}.html"
+        index_rows += f'<li><a href="{region_url}">{city}</a> ({count} Stelle(n))<ul>\n'
+        for j in region_jobs:
+            job_field = j.get("job_field", "")
+            field_tag = f"[{job_field}] " if job_field else ""
+            job_level = j.get("job_level", "")
+            level_tag = f"[{job_level}] " if job_level else ""
+            index_rows += (
+                f'  <li>{j.get("date_posted","")[:10]} – '
+                f'{field_tag}{level_tag}'
+                f'<a href="{j.get("url","")}">{j.get("title","")}</a></li>\n'
+            )
+        index_rows += f'</ul></li>\n'
+    if current_state is not None:
+        index_rows += "</ul>\n"
+
+    index_html = f"""<!DOCTYPE html>
+<html lang="de">
+<head><meta charset="UTF-8"><title>BASF Jobs Deutschland – Übersicht</title></head>
+<body>
+<h1>BASF Stellenangebote Deutschland</h1>
+<p>Gesamt: {len(jobs)} Stellen | {len(sorted_regions)} Standorte</p>
+{index_rows}
+</body>
+</html>"""
+    with open("index.html", "w", encoding="utf-8") as f:
+        f.write(index_html)
+    print(f"✅ index.html gespeichert!")
+
+    # ── index_lite.html ───────────────────────────────────────────────────────
+    lite_rows = ""
+    current_state = None
+    for (state, city) in sorted_regions:
+        if state != current_state:
+            if current_state is not None:
+                lite_rows += "</ul>\n"
+            lite_rows += f"<h2>{state}</h2>\n<ul>\n"
+            current_state = state
+        slug = region_slugs[(state, city)]
+        count = len(regions[(state, city)])
+        region_url = f"{BASE_URL}/regions/{slug}.html"
+        lite_rows += f'<li><a href="{region_url}">{city}</a> ({count} Stellen)</li>\n'
+    if current_state is not None:
+        lite_rows += "</ul>\n"
+
+    lite_html = f"""<!DOCTYPE html>
+<html lang="de">
+<head><meta charset="UTF-8"><title>BASF Jobs – Standortübersicht</title></head>
+<body>
+<h1>BASF Stellenangebote Deutschland</h1>
+<p>Gesamt: {len(jobs)} Stellen | {len(sorted_regions)} Standorte</p>
+{lite_rows}
+</body>
+</html>"""
+    with open("index_lite.html", "w", encoding="utf-8") as f:
+        f.write(lite_html)
+    print(f"✅ index_lite.html gespeichert!")
 
 asyncio.run(scrape_jobs())
