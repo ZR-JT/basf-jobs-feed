@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-04-29T09:57:02Z",
+  "last_updated": "2026-04-29T13:20:44Z",
   "total_active": 198,
   "jobs": [
+    {
+      "job_id": "135378",
+      "title": "Working Student Controlling (m/f/d)",
+      "url": "https://basf.jobs/job-invite/135378/?locale=en_US",
+      "city": "Münster",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "company": "BASF Coatings GmbH",
+      "business_unit": "EMEA",
+      "department": "EC/COD Digital Controlling & Processes",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Student",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-29T11:42:36Z",
+      "description": "WELCOME TO BASF &#13; In the Coatings division, we offer far more than just paints and coatings. Our approach is to put the needs of our customers at the centre and always think one step ahead. Our motto ‘We always go beyond the surface’ makes it clear that we are not only focussed on the products themselves, but also on the reasons why we develop them. We are interested in creating innovative solutions that promote future growth and fulfil the requirements of the market. With our extensive know",
+      "recruiter": {
+        "name": "Julia Kilias",
+        "email": "julia.kilias@basf.com",
+        "phone": "+49 30 2005-59139"
+      }
+    },
     {
       "job_id": "136020",
       "title": "Market and Competitor Intelligence Specialist (m/f/d)",
@@ -349,28 +371,6 @@
         "name": "Melissa Amina Rahmani",
         "email": "melissa.rahmani@basf.com",
         "phone": "+49 30 2005-58073"
-      }
-    },
-    {
-      "job_id": "135649",
-      "title": "Officer IP Contract Services & Accounting (m/f/d) - Hybrid Option GER",
-      "url": "https://basf.jobs/job-invite/135649/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/EA-IB IP Contract Services & Accounting",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": true,
-      "date_posted": "2026-04-17T09:25:15Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our department Accounts Receivable Team IP Contract Services Accounting as soon as possible and ensure together with us high-quality custo",
-      "recruiter": {
-        "name": "Jennifer Weiz",
-        "email": "jennifer.weiz@basf.com",
-        "phone": "+49 30 2005-56454"
       }
     },
     {
@@ -2942,9 +2942,9 @@
       "date_posted": "2025-09-24T22:00:00Z",
       "description": "ELEMENTE DEINES PROGRAMMJAHRES &#13; Du brauchst Unterstützung auf dem Weg zur Ausbildung? Kein Problem. Mit unseren einjährigen Start-Programmen machst du dich fit für deine Ausbildung und schaffst den Start in den Beruf. Das Programm \"Start in den Beruf\" bieten wir in vier verschiedenen Varianten an: Es gibt die Startprogramme Produktion (Zielausbildung: Chemikant:in), Metalltechnik (Zielausbildung: Anlagenmechaniker:in „plus“) oder Elektrotechnik (Zielausbildung: Elektroniker:in für Automatis",
       "recruiter": {
-        "name": "Laura Rebecca Beltempo",
-        "email": "laura-rebecca.beltempo@basf.com",
-        "phone": "+49 30 2005-59842"
+        "name": "Antje Pfeifer",
+        "email": "antje.pfeifer@basf.com",
+        "phone": "+49 30 2005-58153"
       }
     },
     {
