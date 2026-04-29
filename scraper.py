@@ -219,6 +219,47 @@ async def scrape_jobs():
         json.dump(mini_output, f, ensure_ascii=False, separators=(',', ':'))
     print(f"✅ jobs_mini.json gespeichert — {len(mini_jobs)} Jobs (kompakt)!")
 
+    # ── NEU: Pro-Stadt-Mini-JSONs in cities/ ────────────────────────────────
+    # Jede Stadt bekommt eine eigene kleine JSON-Datei mit nur ihren Jobs.
+    # Durchschnitt: ~144 Tokens pro Datei statt 3.152 für jobs_mini.json.
+    # Agent lädt nur die relevante Stadtdatei → deutlich effizienter.
+    import os
+    os.makedirs("cities", exist_ok=True)
+
+    # Gruppieren nach Stadt
+    city_groups = {}
+    for j in mini_jobs:
+        city_key = slugify(j.get("c", "unbekannt"))
+        if city_key not in city_groups:
+            city_groups[city_key] = []
+        city_groups[city_key].append(j)
+
+    city_slugs_map = {}  # slug → original city name
+    for j in mini_jobs:
+        slug_key = slugify(j.get("c", "unbekannt"))
+        city_slugs_map[slug_key] = j.get("c", "")
+
+    for city_slug, city_jobs in city_groups.items():
+        city_output = {
+            "city": city_slugs_map.get(city_slug, city_slug),
+            "total": len(city_jobs),
+            "jobs": city_jobs
+        }
+        filepath = f"cities/{city_slug}.json"
+        with open(filepath, "w", encoding="utf-8") as f:
+            json.dump(city_output, f, ensure_ascii=False, separators=(',', ':'))
+
+    print(f"✅ {len(city_groups)} Stadt-JSONs generiert in cities/")
+
+    # cities_index.json — Mapping: city name → slug (für den Agent)
+    cities_index = {
+        city_slugs_map[slug]: slug
+        for slug in city_groups
+    }
+    with open("cities/index.json", "w", encoding="utf-8") as f:
+        json.dump(cities_index, f, ensure_ascii=False, indent=2)
+    print(f"✅ cities/index.json gespeichert")
+
     # ── events.json + events.html ────────────────────────────────────────────
     events_output = {"last_updated": timestamp, "total_events": len(events), "events": events}
     with open("events.json", "w", encoding="utf-8") as f:
