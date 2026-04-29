@@ -33,6 +33,9 @@ jobs:
 
       - name: Dateien committen
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          touch .nojekyll
           git add .nojekyll jobs.json jobs_mini.json index.html index_lite.html events.html events.json regions/
           git diff --staged --quiet || git commit -m "Update jobs $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
