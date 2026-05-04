@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-05-04T06:33:28Z",
+  "last_updated": "2026-05-04T10:05:13Z",
   "total_active": 198,
   "jobs": [
+    {
+      "job_id": "134280",
+      "title": "(Senior) Compliance Manager (m/f/d)",
+      "url": "https://basf.jobs/job-invite/134280/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "business_unit": "EMEA",
+      "department": "AP/L",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": true,
+      "date_posted": "2026-05-04T09:25:16Z",
+      "description": "WELCOME TO BASF &#13; We are BASF in agriculture and everything we do, we do for the love of farming. Our solutions are purpose-designed for different crop systems, connecting seeds and traits, crop protection, digital tools and sustainability approaches. We strive to deliver the best possible outcomes for farmers, growers and other stakeholders along the value chain. We do everything in our power to build a sustainable future for agriculture by connecting innovation, customers and society. #For",
+      "recruiter": {
+        "name": "Lennart Boudgoust",
+        "email": "lennart.boudgoust@basf.com",
+        "phone": "+49 30 2005-56521"
+      }
+    },
+    {
+      "job_id": "132226",
+      "title": "Mitarbeiter:in Service - Studienhaus St. Johann (m/w/d)",
+      "url": "https://basf.jobs/job-invite/132226/?locale=en_US",
+      "city": "Albersweiler",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "business_unit": "EMEA",
+      "department": "ES/RR Studienhaus St. Johann",
+      "job_field": "Catering",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-04T08:08:14Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Ausgezeichnet speisen, stilvoll tagen und sich wohlfühlen – das Studienhaus St. Johann ist ein besonderer Ort für Seminare und Veranstaltungen. Hier sorgen wir für Gastlichkeit auf höchstem Niveau. Werden Sie Teil unseres Teams und gestalten Sie mit uns besondere Momente! WAS SIE ERWARTET &#13; Teamunterstützung - Sie weisen neue Mitarbeitende ein und gehen unseren Auszubildenden mit gutem Beispiel voraus und fördern die Zusammenarbeit. Qualität Sicherheit - Sie sorgen f",
+      "recruiter": {
+        "name": "Susanne Reddmann",
+        "email": "susanne.reddmann@basf.com",
+        "phone": "+49 30 2005-56097"
+      }
+    },
+    {
+      "job_id": "134255",
+      "title": "Küchenleiter:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134255/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "business_unit": "EMEA",
+      "department": "ES/RR Feierabendhaus",
+      "job_field": "Catering",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-04T08:06:18Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Ob Mittagspause, Event oder einfach guter Geschmack – wir machen Ludwigshafen lecker! In unseren Häusern (Gesellschaftshaus, Feierabendhaus, Hotel René Bohn, Studienhaus St. Johann, Aktivhotel Haus Breitnau) sorgen wir für Vielfalt, Qualität und echte Genussmomente. Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Operative Küchenleitung – Sie organisieren und steuern den täglichen Küchenbetrieb inklusive aller Produktionsabläufe. Produktion Speisenangebot – Sie setzen ",
+      "recruiter": {
+        "name": "Susanne Reddmann",
+        "email": "susanne.reddmann@basf.com",
+        "phone": "+49 30 2005-56097"
+      }
+    },
     {
       "job_id": "131792",
       "title": "Praktikant:in Digitalisierung im Kundenrisikomanagement (m/w/d)",
@@ -28,7 +94,7 @@
       "job_id": "135203",
       "title": "Litigation-Licensing Manager Intellectual Properties (m/f/d)",
       "url": "https://basf.jobs/job-invite/135203/?locale=en_US",
-      "city": "Düsseldorf",
+      "city": "Monheim am Rhein",
       "state": "Nordrhein-Westfalen",
       "country": "Germany",
       "company": "BASF Personal Care and Nutrition GmbH",
@@ -1486,28 +1552,6 @@
       }
     },
     {
-      "job_id": "135113",
-      "title": "Werkstudent:in Future Workforce Office (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135113/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "EC/XTF Future Workforce",
-      "job_field": "Digitalization",
-      "job_level": "Student",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-01T07:21:53Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den ",
-      "recruiter": {
-        "name": "Melissa Amina Rahmani",
-        "email": "melissa.rahmani@basf.com",
-        "phone": "+49 30 2005-58073"
-      }
-    },
-    {
       "job_id": "132425",
       "title": "Expert Digitalisierung - Datenanalyse & KI (m/w/d)",
       "url": "https://basf.jobs/job-invite/132425/?locale=en_US",
@@ -1791,28 +1835,6 @@
         "name": "Isabel Maisack",
         "email": "isabel.maisack@basf.com",
         "phone": "+49 30 2005-56683"
-      }
-    },
-    {
-      "job_id": "134255",
-      "title": "Küchenleiter:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134255/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "business_unit": "EMEA",
-      "department": "ES/RR Feierabendhaus",
-      "job_field": "Catering",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-03-16T14:52:45Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Ob Mittagspause, Event oder einfach guter Geschmack – wir machen Ludwigshafen lecker! In unseren Häusern (Gesellschaftshaus, Feierabendhaus, Hotel René Bohn, Studienhaus St. Johann, Aktivhotel Haus Breitnau) sorgen wir für Vielfalt, Qualität und echte Genussmomente. Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Operative Küchenleitung – Sie organisieren und steuern den täglichen Küchenbetrieb inklusive aller Produktionsabläufe. Produktion Speisenangebot – Sie setzen ",
-      "recruiter": {
-        "name": "Susanne Reddmann",
-        "email": "susanne.reddmann@basf.com",
-        "phone": "+49 30 2005-56097"
       }
     },
     {
@@ -2596,28 +2618,6 @@
       "hybrid": false,
       "date_posted": "2026-01-16T13:25:07Z",
       "description": "WILLKOMMEN BEI UNS &#13; Sie lieben den Schwarzwald, Gastfreundschaft und echten Genuss? Dann sind Sie bei uns genau richtig! Unser Aktivhotel liegt auf 1.000 Metern Höhe im Herzen des südwestlichen Schwarzwalds. Hier sorgen wir mit Leidenschaft, Teamgeist und moderner Gastronomie dafür, dass unsere Gäste ihre Auszeit rundum genießen können. Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Gäste willkommen heißen - Sie sorgen für einen freundlichen Empfang und eine angenehme Atmosphäre. Service",
-      "recruiter": {
-        "name": "Susanne Reddmann",
-        "email": "susanne.reddmann@basf.com",
-        "phone": "+49 30 2005-56097"
-      }
-    },
-    {
-      "job_id": "132226",
-      "title": "Mitarbeiter:in Service - Studienhaus St. Johann (m/w/d)",
-      "url": "https://basf.jobs/job-invite/132226/?locale=en_US",
-      "city": "Albersweiler",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "business_unit": "EMEA",
-      "department": "ES/RR Studienhaus St. Johann",
-      "job_field": "Catering",
-      "job_level": "Graduate",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-01-15T14:05:36Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Ausgezeichnet speisen, stilvoll tagen und sich wohlfühlen – das Studienhaus St. Johann ist ein besonderer Ort für Seminare und Veranstaltungen. Hier sorgen wir für Gastlichkeit auf höchstem Niveau. Werden Sie Teil unseres Teams und gestalten Sie mit uns besondere Momente! WAS SIE ERWARTET &#13; Teamunterstützung - Sie weisen neue Mitarbeitende ein und gehen unseren Auszubildenden mit gutem Beispiel voraus und fördern die Zusammenarbeit. Qualität Sicherheit - Sie sorgen f",
       "recruiter": {
         "name": "Susanne Reddmann",
         "email": "susanne.reddmann@basf.com",
