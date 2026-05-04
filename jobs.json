@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-05-04T01:46:01Z",
+  "last_updated": "2026-05-04T06:33:28Z",
   "total_active": 198,
   "jobs": [
+    {
+      "job_id": "131792",
+      "title": "Praktikant:in Digitalisierung im Kundenrisikomanagement (m/w/d)",
+      "url": "https://basf.jobs/job-invite/131792/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "GBT/FO-C O2C Portfolio & Tech. CustCreditRiskMgmt",
+      "job_field": "Other",
+      "job_level": "Other",
+      "job_type": "Other",
+      "hybrid": false,
+      "date_posted": "2026-05-04T06:08:00Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Die Einheit \"Global Business Services\" unterstützt die Geschäftsbereiche der BASF mit einem funktionsübergreifenden Netzwerk und bietet dafür moderne und bedarfsgerechte Lösungen. Als spezialisierte Serviceeinheit stehen wir für eine hohe Kundenorientierung und gestalten unsere Dienstleistungen partnerschaftlich, effizient und zukunftsweisend. WAS SIE ERWARTET &#13; In unserer Einheit Risk and Cash Management Systems and Processes optimieren wir globale Prozesse kontinui",
+      "recruiter": {
+        "name": "Viktoria Pohl",
+        "email": "viktoria.pohl@basf.com",
+        "phone": "+49 30 2005-58390"
+      }
+    },
     {
       "job_id": "135203",
       "title": "Litigation-Licensing Manager Intellectual Properties (m/f/d)",
@@ -2032,28 +2054,6 @@
         "name": "Michael Wiesenack-Flick",
         "email": "michael.wiesenack-flick@basf.com",
         "phone": "+49 30 2005-58564"
-      }
-    },
-    {
-      "job_id": "131792",
-      "title": "Praktikant:in Digitalisierung im Kundenrisikomanagement (m/w/d)",
-      "url": "https://basf.jobs/job-invite/131792/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "GBT/FO-C O2C Portfolio & Tech. CustCreditRiskMgmt",
-      "job_field": "Other",
-      "job_level": "Other",
-      "job_type": "Other",
-      "hybrid": false,
-      "date_posted": "2026-03-04T07:59:02Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Die Einheit \"Global Business Services\" unterstützt die Geschäftsbereiche der BASF mit einem funktionsübergreifenden Netzwerk und bietet dafür moderne und bedarfsgerechte Lösungen. Als spezialisierte Serviceeinheit stehen wir für eine hohe Kundenorientierung und gestalten unsere Dienstleistungen partnerschaftlich, effizient und zukunftsweisend. WAS SIE ERWARTET &#13; In unserer Einheit Risk and Cash Management Systems and Processes optimieren wir globale Prozesse kontinui",
-      "recruiter": {
-        "name": "Viktoria Pohl",
-        "email": "viktoria.pohl@basf.com",
-        "phone": "+49 30 2005-58390"
       }
     },
     {
