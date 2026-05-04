@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-05-04T13:19:19Z",
+  "last_updated": "2026-05-04T17:20:40Z",
   "total_active": 198,
   "jobs": [
+    {
+      "job_id": "90573",
+      "title": "Lagermitarbeiter:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/90573/?locale=en_US",
+      "city": "Münster",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "company": "BASF Coatings GmbH",
+      "business_unit": "EMEA",
+      "department": "ECP/OGL Finished Goods Logistics Münster",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-05-04T14:31:58Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings setzen wir auf die Entwicklung, Produktion und Vermarktung verschiedenster Beschichtungslösungen - von der angewandten Oberflächentechnik bis zur Fahrzeuglackierung. Wir fördern Innovation, Design und neue Anwendungsmöglichkeiten, um in global agierenden Teams die Bedürfnisse unserer Partner weltweit zu erfüllen. Ergänzt wird dieses Portfolio durch \"Beyond Paint Solutions\", welche mit innovativen Oberflächen neue Anwendungen ermöglicht. WAS SIE ERWART",
+      "recruiter": {
+        "name": "Julia Kilias",
+        "email": "julia.kilias@basf.com",
+        "phone": "+49 30 2005-59139"
+      }
+    },
     {
       "job_id": "134280",
       "title": "(Senior) Compliance Manager (m/f/d)",
@@ -4093,28 +4115,6 @@
         "name": "Antje Pfeifer",
         "email": "antje.pfeifer@basf.com",
         "phone": "+49 30 2005-58153"
-      }
-    },
-    {
-      "job_id": "89885",
-      "title": "Werkfeuerwehrmann:frau mit B1 Qualifikation (m/w/d)",
-      "url": "https://basf.jobs/job-invite/89885/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "EC/BRF Fire Brigade - Group A + B",
-      "job_field": "Environment, Health & Safety",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2024-11-13T13:59:02Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings setzen wir auf die Entwicklung, Produktion und Vermarktung verschiedenster Beschichtungsl sungen - von der angewandten Oberfl chentechnik bis zur Fahrzeuglackierung. Wir f rdern Innovation, Design und neue Anwendungsm glichkeiten, um in global agierenden Teams die Bed rfnisse unserer Partner weltweit zu erf llen. Erg nzt wird dieses Portfolio durch \"Beyond Paint Solutions\", welche mit innovativen Oberfl chen neue Anwendungen erm glicht. WAS SIE ERWART",
-      "recruiter": {
-        "name": "Julia Kilias",
-        "email": "julia.kilias@basf.com",
-        "phone": "+49 30 2005-59139"
       }
     },
     {
