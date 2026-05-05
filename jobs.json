@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-05-05T06:09:41Z",
-  "total_active": 198,
+  "last_updated": "2026-05-05T09:52:40Z",
+  "total_active": 197,
   "jobs": [
+    {
+      "job_id": "135751",
+      "title": "Counsel Legal & Compliance (m/f/d)",
+      "url": "https://basf.jobs/job-invite/135751/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "CLS/DB Legal & Compliance Services Hub Berlin",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-05T09:20:19Z",
+      "description": "WELCOME TO BASF &#13; In our Corporate Legal, Compliance Insurance unit we advise on legal issues and insurance and support the BASF Group's Compliance Integrity Program. With our expertise, we support our colleagues as an active partner. Our global team ensures that our advice is always close to the customer. WHAT YOU CAN EXPECT &#13; As part of our Legal Compliance Services Hub in Berlin, you support BASF businesses across the EMEA Region in legal and compliance matters, delivering efficient, ",
+      "recruiter": {
+        "name": "Bonnie Gardt",
+        "email": "bonnie.gardt@basf.com",
+        "phone": "+49 30 2005-59672"
+      }
+    },
+    {
+      "job_id": "132623",
+      "title": "Mitarbeiter:in Versand und Logistik (m/w/d)",
+      "url": "https://basf.jobs/job-invite/132623/?locale=en_US",
+      "city": "Düsseldorf",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "company": "BASF Personal Care and Nutrition GmbH",
+      "business_unit": "EMEA",
+      "department": "EMX/HI Cluster EMU",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-05T07:31:45Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir bei Care Chemicals handeln aus Leidenschaft. Unsere Mitarbeiter:innen sind unser wertvollstes Gut und wir pflegen eine Kultur der Empathie, der Unterstützung und des Wachstums. Auf diese Weise befähigen wir unser Team, sich persönlich und beruflich weiterzuentwickeln. Mit vereinten Kräften engagieren wir uns für die Entwicklung nachhaltiger, digitaler und innovativer Lösungen für eine bessere Zukunft. Pflegende Hautcremes, milde Shampoos, Sonnenschutzmittel, schonend",
+      "recruiter": {
+        "name": "Svenja Sollmann",
+        "email": "svenja.sollmann@basf.com",
+        "phone": "+49 30 2005-59355"
+      }
+    },
+    {
+      "job_id": "135748",
+      "title": "Arbeitsmedizinische:r Assistent:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135748/?locale=en_US",
+      "city": "Schwarzheide",
+      "state": "Brandenburg",
+      "country": "Germany",
+      "company": "BASF InfraService & Solutions Lausitz GmbH",
+      "business_unit": "EMEA",
+      "department": "ESS/COA Occupational Health",
+      "job_field": "Occupational Medicine",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-05T07:25:18Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Die BASF InfraService Solutions Lausitz GmbH gestaltet aktiv die Strukturen und Abläufe im Industriepark Lausitz. Über 900 engagierte Mitarbeitende arbeiten hier täglich daran, Technik zu verstehen, Prozesse effizient zu gestalten und gemeinsam mit starken Partnern neue Maßstäbe zu setzen. Als Standortbetreibergesellschaft legen wir großen Wert auf kundenorientierte Services und maßgeschneiderte Lösungen – mit dem Ziel, nicht nur den Erfolg unserer Kunden zu sichern, son",
+      "recruiter": {
+        "name": "Julia Schubert",
+        "email": "julia.schubert@basf.com",
+        "phone": "+49 30 2005-59076"
+      }
+    },
     {
       "job_id": "90573",
       "title": "Lagermitarbeiter:in (m/w/d)",
@@ -1903,50 +1969,6 @@
       }
     },
     {
-      "job_id": "133059",
-      "title": "Praktikum Produktion (m/w/d)",
-      "url": "https://basf.jobs/job-invite/133059/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "EMX/LP Assetmanagement Pluriol Plant",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-03-12T08:26:16Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir bei Care Chemicals handeln aus Leidenschaft. Unsere Mitarbeiter:innen sind unser wertvollstes Gut und wir pflegen eine Kultur der Empathie, der Unterstützung und des Wachstums. Auf diese Weise befähigen wir unser Team, sich persönlich und beruflich weiterzuentwickeln. Mit vereinten Kräften engagieren wir uns für die Entwicklung nachhaltiger, digitaler und innovativer Lösungen für eine bessere Zukunft. Pflegende Hautcremes, milde Shampoos, Sonnenschutzmittel, schonend",
-      "recruiter": {
-        "name": "Bekim Krasniqi",
-        "email": "bekim.krasniqi@basf.com",
-        "phone": "+49 30 2005-56136"
-      }
-    },
-    {
-      "job_id": "133515",
-      "title": "Werkstudent:in Data & Analytics (m/w/d)",
-      "url": "https://basf.jobs/job-invite/133515/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Logistics GmbH",
-      "business_unit": "EMEA",
-      "department": "ESL/WM Prozessmanagement & IT",
-      "job_field": "Logistics & Supply Chain Management",
-      "job_level": "Student",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-11T17:16:49Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Die BASF Logistics GmbH ist eine junge, wachsende BASF-Gruppengesellschaft mit Standorten in Ludwigshafen und Schwarzheide. Beauftragt von den jeweils für die Standortlogistik verantwortlichen Einheiten, tragen wir mit unseren Dienstleistungen wesentlich zur Wettbewerbsfähigkeit der Logistik an deutschen BASF-Standorten bei. WAS SIE ERWARTET &#13; Unsere Einheit Technische Materialversorgung ist verantwortlich für die bedarfs- und termingerechte Versorgung des Unternehme",
-      "recruiter": {
-        "name": "Mariya Budkevych",
-        "email": "mariya.budkevych@basf.com",
-        "phone": "+49 30 2005-56363"
-      }
-    },
-    {
       "job_id": "127477",
       "title": "Jurist:in Mehrwertsteuer (m/w/d)",
       "url": "https://basf.jobs/job-invite/127477/?locale=en_US",
@@ -2272,28 +2294,6 @@
         "name": "Bekim Krasniqi",
         "email": "bekim.krasniqi@basf.com",
         "phone": "+49 30 2005-56136"
-      }
-    },
-    {
-      "job_id": "132623",
-      "title": "Mitarbeiter:in Versand und Logistik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/132623/?locale=en_US",
-      "city": "Düsseldorf",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Personal Care and Nutrition GmbH",
-      "business_unit": "EMEA",
-      "department": "EMX/HI Cluster EMU",
-      "job_field": "Logistics & Supply Chain Management",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-02-17T14:33:07Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir bei Care Chemicals handeln aus Leidenschaft. Unsere Mitarbeiter:innen sind unser wertvollstes Gut und wir pflegen eine Kultur der Empathie, der Unterstützung und des Wachstums. Auf diese Weise befähigen wir unser Team, sich persönlich und beruflich weiterzuentwickeln. Mit vereinten Kräften engagieren wir uns für die Entwicklung nachhaltiger, digitaler und innovativer Lösungen für eine bessere Zukunft. Pflegende Hautcremes, milde Shampoos, Sonnenschutzmittel, schonend",
-      "recruiter": {
-        "name": "Svenja Sollmann",
-        "email": "svenja.sollmann@basf.com",
-        "phone": "+49 30 2005-59355"
       }
     },
     {
@@ -2626,7 +2626,7 @@
     },
     {
       "job_id": "132022",
-      "title": "Chef de Rang mit Stellvertretungsfunktion - Haus Breitnau (m/w/d)",
+      "title": "Stellv. Küchenleitung - Haus Breitnau (m/w/d)",
       "url": "https://basf.jobs/job-invite/132022/?locale=en_US",
       "city": "Breitnau",
       "state": "Baden-Württemberg",
@@ -3177,27 +3177,6 @@
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2025-07-08T13:54:30Z",
-      "description": "ÜBER UNS &#13; Es ist Zeit fürs nächste Level. Zeit für deinen Start in die Praxis. Unsere Ausbildung im Industriepark Lausitz macht dich fit für die Zukunft! Denn hier hast du an einem Standort viele Möglichkeiten und lernst von Profis, die ihr Know-how in verschiedenen Bereichen und Unternehmen einbringen. Bei BASF im Industriepark Lausitz arbeitest du mit moderner Technik, bist mittendrin statt nur dabei und lernst Skills, die dir wirklich was bringen. Keine trockene Theorie – echte Praxis, e",
-      "recruiter": {
-        "name": "Paula Seez",
-        "email": "paula.seez@basf.com",
-        "phone": "+49 30 2005-56641"
-      }
-    },
-    {
-      "job_id": "124760",
-      "title": "Ausbildung Chemielaborant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/124760/?locale=en_US",
-      "city": "Schwarzheide",
-      "state": "Brandenburg",
-      "country": "Germany",
-      "company": "BASF InfraService & Solutions Lausitz GmbH",
-      "department": "ESS/CPV Laborant",
-      "job_field": "Research & Development",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-07-08T13:54:14Z",
       "description": "ÜBER UNS &#13; Es ist Zeit fürs nächste Level. Zeit für deinen Start in die Praxis. Unsere Ausbildung im Industriepark Lausitz macht dich fit für die Zukunft! Denn hier hast du an einem Standort viele Möglichkeiten und lernst von Profis, die ihr Know-how in verschiedenen Bereichen und Unternehmen einbringen. Bei BASF im Industriepark Lausitz arbeitest du mit moderner Technik, bist mittendrin statt nur dabei und lernst Skills, die dir wirklich was bringen. Keine trockene Theorie – echte Praxis, e",
       "recruiter": {
         "name": "Paula Seez",
