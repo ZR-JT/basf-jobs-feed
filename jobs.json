@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-05-05T13:07:39Z",
-  "total_active": 199,
+  "last_updated": "2026-05-05T17:13:51Z",
+  "total_active": 198,
   "jobs": [
+    {
+      "job_id": "133741",
+      "title": "Commis de Rang - Hotel René Bohn (m/w/d)",
+      "url": "https://basf.jobs/job-invite/133741/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "business_unit": "EMEA",
+      "department": "ES/RR Business-Hotel René Bohn",
+      "job_field": "Catering",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-05T15:56:23Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Im Hotel René Bohn - mehrfach ausgezeichnet als eines der beliebtesten Business- und Konferenzhotels Deutschlands (CERTIFIED Star Award) und bekannt als Top-Ausbilder - erwartet Sie ein Arbeitsumfeld mit besonderem Flair. Wir stehen für Qualität, Vielfalt und echte Genussmomente. Ob Business-Event, Konferenz oder einfach guter Geschmack - wir machen Ludwigshafen lecker! Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Gäste begeistern - Sie beraten zu Speisen und Geträn",
+      "recruiter": {
+        "name": "Susanne Reddmann",
+        "email": "susanne.reddmann@basf.com",
+        "phone": "+49 30 2005-56097"
+      }
+    },
     {
       "job_id": "135814",
       "title": "Internship Process Development of Surfactant Systems (m/f/d)",
@@ -1750,28 +1772,6 @@
       }
     },
     {
-      "job_id": "133638",
-      "title": "Global Website Manager IPO (m/f/d)",
-      "url": "https://basf.jobs/job-invite/133638/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Jobmarkt GmbH",
-      "business_unit": "EMEA",
-      "department": "APB/KB Online Comms",
-      "job_field": "Public Relations / Communications",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-03-25T16:07:07Z",
-      "description": "WELCOME TO BASF &#13; We are BASF in agriculture and everything we do, we do for the love of farming. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. We do everything in our power to build a sustainable future for agriculture by connecting innovation, customers and society. #ForTheLoveOfFarming #TheBiggestJobOnEarth Take a look at o",
-      "recruiter": {
-        "name": "Lea Sophie Günther",
-        "email": "lea-sophie.guenther@basf.com",
-        "phone": "+49 30 2005-56150"
-      }
-    },
-    {
       "job_id": "134661",
       "title": "Specialist External Reporting (m/f/d)",
       "url": "https://basf.jobs/job-invite/134661/?locale=en_US",
@@ -2600,28 +2600,6 @@
         "name": "Bekim Krasniqi",
         "email": "bekim.krasniqi@basf.com",
         "phone": "+49 30 2005-56136"
-      }
-    },
-    {
-      "job_id": "128281",
-      "title": "Patentanwaltsfachangestellte:r - Erfindervergütung (m/w/d)",
-      "url": "https://basf.jobs/job-invite/128281/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "APM/PR Inventor Matters",
-      "job_field": "Legal, Tax & Insurance",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": true,
-      "date_posted": "2026-01-23T11:37:13Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft. Wir verbinden Saatgut und Traits, Pflanzenschutzprodukte, digitale Werkzeuge und Nachhaltigkeitsansätze, um Landwirten und anderen Stakeholdern entlang der Wertschöpfungskette die bestmöglichen Ergebnisse zu liefern. Wir tun alles in unserer Macht Stehende, um eine nachhaltige Zukunft für die Landwirtschaft zu schaffen, indem wir Innovationen, Kunden und die Gesellschaft mit",
-      "recruiter": {
-        "name": "Lea Sophie Günther",
-        "email": "lea-sophie.guenther@basf.com",
-        "phone": "+49 30 2005-56150"
       }
     },
     {
