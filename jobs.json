@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-05-06T13:26:31Z",
+  "last_updated": "2026-05-06T17:21:13Z",
   "total_active": 201,
   "jobs": [
+    {
+      "job_id": "136019",
+      "title": "Chef de Partie Saucier (m/w/d)",
+      "url": "https://basf.jobs/job-invite/136019/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "business_unit": "EMEA",
+      "department": "ES/RR Bankett Gesellschaftshaus",
+      "job_field": "Catering",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-06T13:50:24Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Ob Mittagspause, Event oder einfach guter Geschmack – wir machen Ludwigshafen lecker! In unseren Häusern (Gesellschaftshaus, Feierabendhaus, Hotel René Bohn, Studienhaus St. Johann, Aktivhotel Haus Breitnau) sorgen wir für Vielfalt, Qualität und echte Genussmomente. Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Saucen perfektionieren – Sie kreieren klassische und moderne Saucen, die jedem Gericht den letzten Schliff geben Aromen komponieren – Sie arbeiten mit Fonds, ",
+      "recruiter": {
+        "name": "Susanne Reddmann",
+        "email": "susanne.reddmann@basf.com",
+        "phone": "+49 30 2005-56097"
+      }
+    },
     {
       "job_id": "138191",
       "title": "Produktionsmitarbeiter:in (m/w/d)",
@@ -593,28 +615,6 @@
       "recruiter": {
         "name": "Liliana Marcela Quiroga Duarte",
         "email": "liliana-marcela.quiroga-duarte@basf.com"
-      }
-    },
-    {
-      "job_id": "135875",
-      "title": "Regulatory Scientist - Metabolism-Study Monitor (m/f/d)",
-      "url": "https://basf.jobs/job-invite/135875/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Agricultural Solutions Deutschland GmbH",
-      "business_unit": "EMEA",
-      "department": "APD/EC Metabolism",
-      "job_field": "Research & Development",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-04-27T16:08:08Z",
-      "description": "WELCOME TO BASF &#13; We are BASF in agriculture and everything we do, we do for the love of farming. Our solutions are purpose-designed for different crop systems, connecting seeds and traits, crop protection, digital tools and sustainability approaches. We strive to deliver the best possible outcomes for farmers, growers and other stakeholders along the value chain. We do everything in our power to build a sustainable future for agriculture by connecting innovation, customers and society. #For",
-      "recruiter": {
-        "name": "Lea Sophie Günther",
-        "email": "lea-sophie.guenther@basf.com",
-        "phone": "+49 30 2005-56150"
       }
     },
     {
@@ -2736,7 +2736,7 @@
     },
     {
       "job_id": "132022",
-      "title": "Stellv. Küchenleitung - Haus Breitnau (m/w/d)",
+      "title": "Chef de Rang mit Stellvertreterfunktion - Haus Breitnau (m/w/d)",
       "url": "https://basf.jobs/job-invite/132022/?locale=en_US",
       "city": "Breitnau",
       "state": "Baden-Württemberg",
