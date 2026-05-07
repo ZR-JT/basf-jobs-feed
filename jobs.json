@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-05-07T06:34:14Z",
-  "total_active": 201,
+  "last_updated": "2026-05-07T13:26:11Z",
+  "total_active": 203,
   "jobs": [
+    {
+      "job_id": "136083",
+      "title": "Senior Auditor (m/f/d)",
+      "url": "https://basf.jobs/job-invite/136083/?locale=en_US",
+      "city": "Münster",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "company": "BASF Coatings GmbH",
+      "business_unit": "EMEA",
+      "department": "EC/CO Operational Planning & Controlling",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-07T12:51:15Z",
+      "description": "WELCOME TO BASF &#13; In the Coatings division, we offer far more than just paints and coatings. Our approach is to put the needs of our customers at the centre and always think one step ahead. Our motto ‘We always go beyond the surface’ makes it clear that we are not only focussed on the products themselves, but also on the reasons why we develop them. We are interested in creating innovative solutions that promote future growth and fulfil the requirements of the market. With our extensive know",
+      "recruiter": {
+        "name": "Melissa Amina Rahmani",
+        "email": "melissa.rahmani@basf.com",
+        "phone": "+49 30 2005-58073"
+      }
+    },
+    {
+      "job_id": "138224",
+      "title": "Buchhalter (m/w/d)",
+      "url": "https://basf.jobs/job-invite/138224/?locale=en_US",
+      "city": "Frankfurt am Main",
+      "state": "Hessen",
+      "country": "Germany",
+      "company": "Chemetall GmbH",
+      "business_unit": "EMEA",
+      "department": "EC/CFEG Finance Germany - Chemetall GmbH",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-07T09:33:15Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Die globale Geschäftseinheit Oberflächentechnik des Unternehmensbereichs Coatings der BASF, die unter der Marke Chemetall operiert, ist ein führender Lieferant angewandter Oberflächentechnik für Metall-, Kunststoff- und Glassubstrate. Diese Spezialchemikalien werden in vielen Industrien und Märkten genutzt, wie zum Beispiel Automobil, Luftfahrt, Aluminiumveredelung, Coil oder in der metallverarbeitenden Industrie – unterstützt von einem großen Netzwerk technischer Expert",
+      "recruiter": {
+        "name": "Thomas Glatz",
+        "email": "thomas.a.glatz@basf.com",
+        "phone": "+49697165-3277"
+      }
+    },
+    {
+      "job_id": "138223",
+      "title": "Buchhalter (m/w/d)",
+      "url": "https://basf.jobs/job-invite/138223/?locale=en_US",
+      "city": "Frankfurt am Main",
+      "state": "Hessen",
+      "country": "Germany",
+      "company": "Chemetall GmbH",
+      "business_unit": "EMEA",
+      "department": "EC/CFEG Finance Germany - Chemetall GmbH",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-07T08:22:18Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Die globale Geschäftseinheit Oberflächentechnik des Unternehmensbereichs Coatings der BASF, die unter der Marke Chemetall operiert, ist ein führender Lieferant angewandter Oberflächentechnik für Metall-, Kunststoff- und Glassubstrate. Diese Spezialchemikalien werden in vielen Industrien und Märkten genutzt, wie zum Beispiel Automobil, Luftfahrt, Aluminiumveredelung, Coil oder in der metallverarbeitenden Industrie – unterstützt von einem großen Netzwerk technischer Expert",
+      "recruiter": {
+        "name": "Thomas Glatz",
+        "email": "thomas.a.glatz@basf.com",
+        "phone": "+49697165-3277"
+      }
+    },
     {
       "job_id": "136019",
       "title": "Chef de Partie Saucier (m/w/d)",
@@ -1218,27 +1284,6 @@
       }
     },
     {
-      "job_id": "135205",
-      "title": "Ausbildung Chemielaborant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135205/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Agricultural Solutions Deutschland GmbH",
-      "department": "ESH/VL Voc. Training Laboratory Assistants",
-      "job_field": "Research & Development",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
-      "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
-      }
-    },
-    {
       "job_id": "135206",
       "title": "Ausbildung Biologielaborant:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/135206/?locale=en_US",
@@ -1254,9 +1299,30 @@
       "date_posted": "2026-04-14T22:00:00Z",
       "description": "WILLKOMMEN BEI BASF &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entla",
       "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
+        "name": "Romy Marie Gründel",
+        "email": "romy.gruendel@basf.com",
+        "phone": "+49 30 2005-56730"
+      }
+    },
+    {
+      "job_id": "135205",
+      "title": "Ausbildung Chemielaborant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135205/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "department": "ESH/VL Voc. Training Laboratory Assistants",
+      "job_field": "Research & Development",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
+      "recruiter": {
+        "name": "Romy Marie Gründel",
+        "email": "romy.gruendel@basf.com",
+        "phone": "+49 30 2005-56730"
       }
     },
     {
@@ -1470,27 +1536,6 @@
       }
     },
     {
-      "job_id": "135043",
-      "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135043/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Anlagenmechaniker",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Mit dem “plus“ bieten wir dir die einmalige Chance die Inhalte aus zwei Berufen zu erlernen. In deiner Ausbildung als Anlagenmechaniker:in erhältst du bei uns on top auch alle wichtigen Inhalte der Industriemechanik. Du hast dich schon immer gerne mit Werkzeugen beschäftigt und interessierst dich für Technik? Hast du Spaß daran dich aktiv einzubringen, Produktionsanlagen und Maschinen faszinieren dich? Dann werden dir spannende Aufgaben, wie das Bearbeiten von me",
-      "recruiter": {
-        "name": "Lisa Nabra",
-        "email": "lisa.nabra@basf.com",
-        "phone": "+49 30 2005-58195"
-      }
-    },
-    {
       "job_id": "135282",
       "title": "Ausbildung Fachmann:frau für Restaurants und Veranstaltungsgastronomie (m/w/d)",
       "url": "https://basf.jobs/job-invite/135282/?locale=en_US",
@@ -1509,6 +1554,27 @@
         "name": "Lina Wehr",
         "email": "lina.wehr@basf.com",
         "phone": "+49 30 2005-56745"
+      }
+    },
+    {
+      "job_id": "135043",
+      "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135043/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Anlagenmechaniker",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Mit dem “plus“ bieten wir dir die einmalige Chance die Inhalte aus zwei Berufen zu erlernen. In deiner Ausbildung als Anlagenmechaniker:in erhältst du bei uns on top auch alle wichtigen Inhalte der Industriemechanik. Du hast dich schon immer gerne mit Werkzeugen beschäftigt und interessierst dich für Technik? Hast du Spaß daran dich aktiv einzubringen, Produktionsanlagen und Maschinen faszinieren dich? Dann werden dir spannende Aufgaben, wie das Bearbeiten von me",
+      "recruiter": {
+        "name": "Lisa Nabra",
+        "email": "lisa.nabra@basf.com",
+        "phone": "+49 30 2005-58195"
       }
     },
     {
@@ -1569,9 +1635,9 @@
       "date_posted": "2026-04-14T22:00:00Z",
       "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
       "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
+        "name": "Romy Marie Gründel",
+        "email": "romy.gruendel@basf.com",
+        "phone": "+49 30 2005-56730"
       }
     },
     {
@@ -2055,28 +2121,6 @@
         "name": "Lea Sophie Günther",
         "email": "lea-sophie.guenther@basf.com",
         "phone": "+49 30 2005-56150"
-      }
-    },
-    {
-      "job_id": "134206",
-      "title": "Risk Management System (RMS) & Internal Control System (ICS)  Team Lead (m/f/d)",
-      "url": "https://basf.jobs/job-invite/134206/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Agricultural Solutions Deutschland GmbH",
-      "business_unit": "EMEA",
-      "department": "APB/C IPO Readiness Project",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": true,
-      "date_posted": "2026-03-16T15:55:46Z",
-      "description": "WELCOME TO BASF &#13; We are BASF in Agriculture and everything we do, we do for the love of farming, and the biggest job on Earth. We are an internationally successful company of the BASF Group. Our solutions are purpose-designed for different crop systems. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. With teams in the lab, fiel",
-      "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
       }
     },
     {
@@ -3483,27 +3527,6 @@
       }
     },
     {
-      "job_id": "124062",
-      "title": "Ausbildung Chemikant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/124062/?locale=en_US",
-      "city": "Würzburg",
-      "state": "Bayern",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "department": "BASF Coatings",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-06-30T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Ein Chemieunternehmen ohne seine Chemikanten? Unvorstellbar! Als Chemikant:in übernimmst Du anspruchsvolle Aufgaben im gesamten Herstellungsprozess: vom Bereitstellen der Inhaltsstoffe bis zur Abfüllung der fertigen Lacke. Du bedienst und überwachst die Produktionsanlagen, entnimmst regelmäßig Proben und analysierst die Produkte - einschließlich der Dokumentation. Damit bekommst Du nicht nur einen Einblick in unsere spannende Produktwelt, sondern bist bei der Pro",
-      "recruiter": {
-        "name": "Julia Kilias",
-        "email": "julia.kilias@basf.com",
-        "phone": "+49 30 2005-59139"
-      }
-    },
-    {
       "job_id": "124061",
       "title": "Ausbildung Verfahrensmechaniker:in für Beschichtungstechnik (m/w/d)",
       "url": "https://basf.jobs/job-invite/124061/?locale=en_US",
@@ -3518,6 +3541,27 @@
       "hybrid": false,
       "date_posted": "2025-06-30T22:00:00Z",
       "description": "ELEMENTE DEINER AUSBILDUNG &#13; Maschinen interessieren Dich und Chemie ist dein Ding? Perfekt! Als Verfahrensmechaniker:in für Beschichtungstechnik hilfst Du mit, neue Lackrezepturen und Beschichtungsverfahren zu entwickeln und zu überprüfen. Egal ob im Automobilwerk, beim Kunden oder im Betrieb: Du betreust die Applikation der Lacke und organisierst den gesamten Prozess von der Lack­anlieferung bis zur Freigabe der Lackanwendung. Du optimierst den Prozess, dass unser Lack mit dem besten Besch",
+      "recruiter": {
+        "name": "Julia Kilias",
+        "email": "julia.kilias@basf.com",
+        "phone": "+49 30 2005-59139"
+      }
+    },
+    {
+      "job_id": "124062",
+      "title": "Ausbildung Chemikant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/124062/?locale=en_US",
+      "city": "Würzburg",
+      "state": "Bayern",
+      "country": "Germany",
+      "company": "BASF Coatings GmbH",
+      "department": "BASF Coatings",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-06-30T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Ein Chemieunternehmen ohne seine Chemikanten? Unvorstellbar! Als Chemikant:in übernimmst Du anspruchsvolle Aufgaben im gesamten Herstellungsprozess: vom Bereitstellen der Inhaltsstoffe bis zur Abfüllung der fertigen Lacke. Du bedienst und überwachst die Produktionsanlagen, entnimmst regelmäßig Proben und analysierst die Produkte - einschließlich der Dokumentation. Damit bekommst Du nicht nur einen Einblick in unsere spannende Produktwelt, sondern bist bei der Pro",
       "recruiter": {
         "name": "Julia Kilias",
         "email": "julia.kilias@basf.com",
@@ -3760,48 +3804,6 @@
       }
     },
     {
-      "job_id": "119401",
-      "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
-      "url": "https://basf.jobs/job-invite/119401/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Anlagenmechaniker",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Mit dem plus bieten wir dir die einmalige Chance die Inhalte aus zwei Berufen zu erlernen. In deiner Ausbildung als Anlagenmechaniker:in erh ltst du bei uns on top auch alle wichtigen Inhalte der Industriemechanik. Du hast dich schon immer gerne mit Werkzeugen besch ftigt und interessierst dich f r Technik? Hast du Spa daran dich aktiv einzubringen, Produktionsanlagen und Maschinen faszinieren dich? Dann werden dir spannende Aufgaben, wie das Bearbeiten von metal",
-      "recruiter": {
-        "name": "Lisa Nabra",
-        "email": "lisa.nabra@basf.com",
-        "phone": "+49 30 2005-58195"
-      }
-    },
-    {
-      "job_id": "119244",
-      "title": "Ausbildung Kunststoff- und Kautschuktechnologe:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/119244/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Anlagenmechaniker / VMKK",
-      "job_field": "Other",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kunststoff fasziniert dich? Dann ist dieser Beruf genau der Richtige für dich! Kunststoff und Kautschuk sind auf Grund ihrer sehr guten chemischen Beständigkeit vielseitig einsetzbar. Bei uns lernst du die Welt dieses Materials genauestens kennen und hast die Möglichkeit dich für die Fachrichtung Formteile, Bauteile oder Halbzeugeherstellung zu bewerben. Gib Gummi in einem der vielseitigsten Berufe bei der BASF! DAS LERNST DU WÄHREND DEINER AUSBILDUNG &#13; Das b",
-      "recruiter": {
-        "name": "Lisa Nabra",
-        "email": "lisa.nabra@basf.com",
-        "phone": "+49 30 2005-58195"
-      }
-    },
-    {
       "job_id": "119238",
       "title": "Ausbildung im Bereich Technik oder Produktion: Jetzt bewerben - später entscheiden! (m/w/d)",
       "url": "https://basf.jobs/job-invite/119238/?locale=en_US",
@@ -3862,6 +3864,48 @@
         "name": "Lina Wehr",
         "email": "lina.wehr@basf.com",
         "phone": "+49 30 2005-56745"
+      }
+    },
+    {
+      "job_id": "119401",
+      "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
+      "url": "https://basf.jobs/job-invite/119401/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Anlagenmechaniker",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Mit dem plus bieten wir dir die einmalige Chance die Inhalte aus zwei Berufen zu erlernen. In deiner Ausbildung als Anlagenmechaniker:in erh ltst du bei uns on top auch alle wichtigen Inhalte der Industriemechanik. Du hast dich schon immer gerne mit Werkzeugen besch ftigt und interessierst dich f r Technik? Hast du Spa daran dich aktiv einzubringen, Produktionsanlagen und Maschinen faszinieren dich? Dann werden dir spannende Aufgaben, wie das Bearbeiten von metal",
+      "recruiter": {
+        "name": "Lisa Nabra",
+        "email": "lisa.nabra@basf.com",
+        "phone": "+49 30 2005-58195"
+      }
+    },
+    {
+      "job_id": "119244",
+      "title": "Ausbildung Kunststoff- und Kautschuktechnologe:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/119244/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Anlagenmechaniker / VMKK",
+      "job_field": "Other",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kunststoff fasziniert dich? Dann ist dieser Beruf genau der Richtige für dich! Kunststoff und Kautschuk sind auf Grund ihrer sehr guten chemischen Beständigkeit vielseitig einsetzbar. Bei uns lernst du die Welt dieses Materials genauestens kennen und hast die Möglichkeit dich für die Fachrichtung Formteile, Bauteile oder Halbzeugeherstellung zu bewerben. Gib Gummi in einem der vielseitigsten Berufe bei der BASF! DAS LERNST DU WÄHREND DEINER AUSBILDUNG &#13; Das b",
+      "recruiter": {
+        "name": "Lisa Nabra",
+        "email": "lisa.nabra@basf.com",
+        "phone": "+49 30 2005-58195"
       }
     },
     {
