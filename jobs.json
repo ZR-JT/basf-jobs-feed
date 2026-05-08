@@ -1,7 +1,115 @@
 {
-  "last_updated": "2026-05-08T09:05:40Z",
-  "total_active": 201,
+  "last_updated": "2026-05-08T13:05:31Z",
+  "total_active": 203,
   "jobs": [
+    {
+      "job_id": "88396",
+      "title": "Do not apply - Admin Test Requisition Global Apprentice 1",
+      "url": "https://basf.jobs/job-invite/88396/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "department": "GBE/SHV-TGS1 General Service",
+      "job_field": "Digitalization",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-05-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast Lust deine Ausbildung in einem innovativen Unternehmen zu absolvieren? Kunststoff fasziniert dich? Dann ist diese Ausbildung genau das Richtige für dich! Wähle diesen Ausbildungsberuf und lerne bei uns die Welt des Kunstoffs im 3D Druck genauestens kennen. Kunststoff und auch Kautschuk sind auf Grund ihrer sehr guten chemischen Beständigkeit vielseitig einsetzbar und damit für uns Gold wert. Genau wie Du! Komm in unser Team und arbeite in einem der vielse",
+      "recruiter": {
+        "name": "Ahmet Alkan",
+        "email": "ahmet.alkan@basf.com"
+      }
+    },
+    {
+      "job_id": "88393",
+      "title": "Do not apply - Admin Test Requisition Global Core 2",
+      "url": "https://basf.jobs/job-invite/88393/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/SHV-TGS1 General Service",
+      "job_field": "Engineering",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-14T22:00:00Z",
+      "description": "WELCOME TO BASF &#13; WHAT YOU CAN EXPECT &#13; WHAT YOU OFFER &#13; WHAT WE OFFER &#13; HOW TO REACH US &#13; ABOUT US &#13; Diversity is our greatest strength! &#13; Become a part of our winning formula for success and develop the future with us -- in a global team that embraces inclusion and equal opportunities irrespective of gender, age, origin, sexual orientation, disability or belief.",
+      "recruiter": {
+        "name": "Chris Goslinowski",
+        "email": "chris.goslinowski@basf.com",
+        "phone": "+49 30 2005-5768"
+      }
+    },
+    {
+      "job_id": "88401",
+      "title": "Do not Apply - Admin Test Requisition BASF SE 1",
+      "url": "https://basf.jobs/job-invite/88401/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "GBE/SHV-TGS1 General Service",
+      "job_field": "Other",
+      "job_level": "Other",
+      "job_type": "Other",
+      "hybrid": false,
+      "date_posted": "2026-05-14T22:00:00Z",
+      "description": "JOIN THE TEAM &#13; RESPONSIBILITIES &#13; QUALIFICATIONS &#13; BENEFITS &#13; ABOUT US &#13; At BASF, the chemistry is right. &#13; Because we are counting on innovative solutions, on sustainable actions, and on connected thinking. And on you. Become a part of our formula for success and develop the future with us - in a global team that embraces diversity and equal opportunities irrespective of gender, age, origin, sexual orientation, disability or belief.",
+      "recruiter": {
+        "name": "Chris Goslinowski",
+        "email": "chris.goslinowski@basf.com",
+        "phone": "+49 30 2005-5768"
+      }
+    },
+    {
+      "job_id": "138274",
+      "title": "Officer Customer Credit Risk Management Support - Parental Leave Substit (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/138274/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/EA-R Credit Risk Management",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-05-08T09:52:17Z",
+      "description": "WELCOME TO BASF &#13; n Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit, we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Do you love working in an inspiring and multicultural environment? Then join our team as a parental leave substitution for one year and ensure ",
+      "recruiter": {
+        "name": "Jennifer Weiz",
+        "email": "jennifer.weiz@basf.com",
+        "phone": "+49 30 2005-56454"
+      }
+    },
+    {
+      "job_id": "138115",
+      "title": "Transport Officer (m/w/d)",
+      "url": "https://basf.jobs/job-invite/138115/?locale=en_US",
+      "city": "Freiburg im Breisgau",
+      "state": "Baden-Württemberg",
+      "country": "Germany",
+      "company": "Performance Polyamides GmbH",
+      "business_unit": "EMEA",
+      "department": "E-CMP/OF Polyamides & Precursors Europe",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-08T09:42:54Z",
+      "description": "WILLKOMMEN BEI UNS &#13; In Freiburg im Breisgau, im Infrarhod-Industriepark, produzieren wir Polyamide für den weltweiten Textil- und Automobilmarkt. Unsere Produkte werden z.B. in der europäischen Textilindustrie zu Garnen weiterverarbeitet, die in Funktionstextilien namhafter Hersteller zum Einsatz kommen. Weiterhin werden anspruchsvolle Bauteile für die Automobilindustrie und die Elektromobilität aus unserem Produkt gefertigt. Darüber hinaus sind wir an der Verwertung und dem Vertrieb unsere",
+      "recruiter": {
+        "name": "Jenny König",
+        "email": "jenny.koenig@basf.com",
+        "phone": "+49 30 2005-56012"
+      }
+    },
     {
       "job_id": "135751",
       "title": "Counsel Legal & Compliance (m/f/d)",
@@ -105,7 +213,7 @@
       "job_type": "Permanent",
       "hybrid": false,
       "date_posted": "2026-05-06T13:50:24Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Ob Mittagspause, Event oder einfach guter Geschmack – wir machen Ludwigshafen lecker! In unseren Häusern (Gesellschaftshaus, Feierabendhaus, Hotel René Bohn, Studienhaus St. Johann, Aktivhotel Haus Breitnau) sorgen wir für Vielfalt, Qualität und echte Genussmomente. Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Saucen perfektionieren – Sie kreieren klassische und moderne Saucen, die jedem Gericht den letzten Schliff geben Aromen komponieren – Sie arbeiten mit Fonds, ",
+      "description": "WILLKOMMEN BEI UNS &#13; Ob Mittagspause, Event oder einfach guter Geschmack – wir machen Ludwigshafen lecker! In unseren Häusern (Gesellschaftshaus, Feierabendhaus, Hotel René Bohn, Studienhaus St. Johann, Aktivhotel Haus Breitnau) sorgen wir für Vielfalt, Qualität und echte Genussmomente. Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Saucen perfektionieren - Sie kreieren klassische und moderne Saucen, die jedem Gericht den letzten Schliff geben. Aromen komponieren - Sie arbeiten mit Fonds,",
       "recruiter": {
         "name": "Susanne Reddmann",
         "email": "susanne.reddmann@basf.com",
@@ -1619,28 +1727,6 @@
       }
     },
     {
-      "job_id": "135415",
-      "title": "Praktikum Change Management (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135415/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "CDM/OT Change Management & Communication",
-      "job_field": "General Management",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-04-13T14:03:46Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir gestalten die Zukunft der BASF, in dem wir den strategischen Rahmen definieren. Als Teil des Corporate Centers unterstützen wir unseren Vorstand in allen Portfolio- und Ressourcenallokationsentscheidungen. Wir entwickeln Strategien, identifizieren Chancen und Risiken und analysieren Trends in Nachhaltigkeit und Technologie. Gemeinsam mit den Unternehmensbereichen erarbeiten wir Strategien für die Geschäftsbereiche und begleiten deren Umsetzung. WAS SIE ERWARTET &#13;",
-      "recruiter": {
-        "name": "Yasemin Koparan",
-        "email": "yasemin.koparan@basf.com",
-        "phone": "+49 30 2005-58540"
-      }
-    },
-    {
       "job_id": "134983",
       "title": "Working Student Pension Asset Management (m/f/d)",
       "url": "https://basf.jobs/job-invite/134983/?locale=en_US",
@@ -1770,28 +1856,6 @@
         "name": "Svenja Sollmann",
         "email": "svenja.sollmann@basf.com",
         "phone": "+49 30 2005-59355"
-      }
-    },
-    {
-      "job_id": "134602",
-      "title": "Chemikant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134602/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Agricultural Solutions Deutschland GmbH",
-      "business_unit": "EMEA",
-      "department": "APT/ELV Xemium-Fabrik - Schicht A",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-04-07T14:26:27Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft. Wir verbinden Saatgut und Traits, Pflanzenschutzprodukte, digitale Werkzeuge und Nachhaltigkeitsansätze, um Landwirten und anderen Stakeholdern entlang der Wertschöpfungskette die bestmöglichen Ergebnisse zu liefern. Wir tun alles in unserer Macht Stehende, um eine nachhaltige Zukunft für die Landwirtschaft zu schaffen, indem wir Innovationen, Kunden und die Gesellschaft mit",
-      "recruiter": {
-        "name": "Romy Marie Gründel",
-        "email": "romy.gruendel@basf.com",
-        "phone": "+49 30 2005-56730"
       }
     },
     {
@@ -2404,28 +2468,6 @@
         "name": "Sophie Maria Meyer",
         "email": "sophie-maria.meyer@basf.com",
         "phone": "+49 30 2005-58071"
-      }
-    },
-    {
-      "job_id": "133644",
-      "title": "Senior SAP Developer für Material Master / EHS (m/w/d)",
-      "url": "https://basf.jobs/job-invite/133644/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "EC/XDM Appl Mgmt Materials, EHS, Labelling, R&D",
-      "job_field": "Digitalization",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-02-23T08:00:00Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den ",
-      "recruiter": {
-        "name": "Bekim Krasniqi",
-        "email": "bekim.krasniqi@basf.com",
-        "phone": "+49 30 2005-56136"
       }
     },
     {
