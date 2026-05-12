@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12T10:23:00Z",
+  "last_updated": "2026-05-12T13:52:28Z",
   "total_active": 208,
   "jobs": [
     {
@@ -45,9 +45,9 @@
       }
     },
     {
-      "job_id": "138112",
-      "title": "Group Lead Compliance & Indirect Tax​ ​(m/f/d)",
-      "url": "https://basf.jobs/job-invite/138112/?locale=en_US",
+      "job_id": "136112",
+      "title": "ICTP Governance Specialist​ (m/f/d)",
+      "url": "https://basf.jobs/job-invite/136112/?locale=en_US",
       "city": "Limburgerhof",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
@@ -67,9 +67,9 @@
       }
     },
     {
-      "job_id": "136112",
-      "title": "ICTP Governance Specialist​ (m/f/d)",
-      "url": "https://basf.jobs/job-invite/136112/?locale=en_US",
+      "job_id": "138112",
+      "title": "Group Lead Compliance & Indirect Tax​ ​(m/f/d)",
+      "url": "https://basf.jobs/job-invite/138112/?locale=en_US",
       "city": "Limburgerhof",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
@@ -111,8 +111,52 @@
       }
     },
     {
+      "job_id": "135219",
+      "title": "Senior Specialist Executive Legal, Pension and Labor Relations Support (m/f/d)",
+      "url": "https://basf.jobs/job-invite/135219/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "business_unit": "EMEA",
+      "department": "APB/H Global HR Agricultural Solutions",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-12T13:10:57Z",
+      "description": "WELCOME TO BASF &#13; We are BASF in Agriculture and everything we do, we do for the love of farming, and the biggest job on Earth. We are an internationally successful company of the BASF Group. Our solutions are purpose-designed for different crop systems. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. With teams in the lab, fiel",
+      "recruiter": {
+        "name": "Isabel Maisack",
+        "email": "isabel.maisack@basf.com",
+        "phone": "+49 30 2005-56683"
+      }
+    },
+    {
+      "job_id": "134194",
+      "title": "Praktikum Instrumentelle Analytik (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134194/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "ESG/CB Human Biomonitoring",
+      "job_field": "Occupational Medicine",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-05-12T11:26:04Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an denStandorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices undLogistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche,die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allenBelangen rund um Umweltschut",
+      "recruiter": {
+        "name": "Silke Pudicke",
+        "email": "silke.pudicke@basf.com",
+        "phone": "+49 30 2005-58449"
+      }
+    },
+    {
       "job_id": "132142",
-      "title": "Bilanzkreismanager Gas/ Strom (m/f/d)",
+      "title": "Bilanzkreismanager Gas/ Strom (m/w/d)",
       "url": "https://basf.jobs/job-invite/132142/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
@@ -328,28 +372,6 @@
         "name": "Jenny König",
         "email": "jenny.koenig@basf.com",
         "phone": "+49 30 2005-56012"
-      }
-    },
-    {
-      "job_id": "135751",
-      "title": "Counsel Legal & Compliance (m/f/d)",
-      "url": "https://basf.jobs/job-invite/135751/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "CL/OB Legal & Compliance Services Hub Berlin",
-      "job_field": "Legal, Tax & Insurance",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-05-08T07:56:58Z",
-      "description": "WELCOME TO BASF &#13; In our Corporate Legal, Compliance Insurance unit we advise on legal issues and insurance and support the BASF Group's Compliance Integrity Program. With our expertise, we support our colleagues as an active partner. Our global team ensures that our advice is always close to the customer. WHAT YOU CAN EXPECT &#13; As part of our Legal Compliance Services Hub in Berlin, you support BASF businesses across the EMEA Region in legal and compliance matters, delivering efficient, ",
-      "recruiter": {
-        "name": "Bonnie Gardt",
-        "email": "bonnie.gardt@basf.com",
-        "phone": "+49 30 2005-59672"
       }
     },
     {
@@ -987,28 +1009,6 @@
         "name": "Antje Pfeifer",
         "email": "antje.pfeifer@basf.com",
         "phone": "+49 30 2005-58153"
-      }
-    },
-    {
-      "job_id": "134194",
-      "title": "Praktikum Instrumentelle Analytik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134194/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "ESG/CB Human Biomonitoring",
-      "job_field": "Occupational Medicine",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-04-27T07:18:41Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an denStandorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices undLogistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche,die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allenBelangen rund um Umweltschut",
-      "recruiter": {
-        "name": "Silke Pudicke",
-        "email": "silke.pudicke@basf.com",
-        "phone": "+49 30 2005-58449"
       }
     },
     {
