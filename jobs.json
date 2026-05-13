@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-13T01:59:04Z",
-  "total_active": 206,
+  "last_updated": "2026-05-13T06:41:54Z",
+  "total_active": 207,
   "jobs": [
     {
       "job_id": "88396",
@@ -108,6 +108,28 @@
         "name": "Chris Goslinowski",
         "email": "chris.goslinowski@basf.com",
         "phone": "+49 30 2005-5768"
+      }
+    },
+    {
+      "job_id": "134754",
+      "title": "Praktikum Digitalisierung Projektcontrolling Power BI (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134754/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "GEM/ES Project Analytics",
+      "job_field": "Engineering",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-05-13T06:13:29Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Die Serviceeinheit Global Engineering Services trägt mit herausragender technischer Expertise dazu bei, eine nachhaltige Zukunft zu gestalten. Mit unseren engagierten, interdisziplinären Teams unterstützen wir die BASF-Unternehmensbereiche dabei, gemeinsam mit unseren Kunden und Märkten zu wachsen. Wir setzen Investitionen wettbewerbsfähig um. Rund um den Globus, sorgen wir für sichere und zuverlässige Lösungen, damit die Produktionsanlagen exzellente Leistung erbringen.",
+      "recruiter": {
+        "name": "Paula Männecke",
+        "email": "paula.maennecke@basf.com",
+        "phone": "+4930200556093"
       }
     },
     {
