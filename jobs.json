@@ -1,27 +1,7 @@
 {
-  "last_updated": "2026-05-14T10:05:06Z",
-  "total_active": 200,
+  "last_updated": "2026-05-14T13:29:34Z",
+  "total_active": 202,
   "jobs": [
-    {
-      "job_id": "88396",
-      "title": "Do not apply - Admin Test Requisition Global Apprentice 1",
-      "url": "https://basf.jobs/job-invite/88396/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "department": "GBE/SHV-TGS1 General Service",
-      "job_field": "Digitalization",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-05-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast Lust deine Ausbildung in einem innovativen Unternehmen zu absolvieren? Kunststoff fasziniert dich? Dann ist diese Ausbildung genau das Richtige für dich! Wähle diesen Ausbildungsberuf und lerne bei uns die Welt des Kunstoffs im 3D Druck genauestens kennen. Kunststoff und auch Kautschuk sind auf Grund ihrer sehr guten chemischen Beständigkeit vielseitig einsetzbar und damit für uns Gold wert. Genau wie Du! Komm in unser Team und arbeite in einem der vielse",
-      "recruiter": {
-        "name": "Ahmet Alkan",
-        "email": "ahmet.alkan@basf.com"
-      }
-    },
     {
       "job_id": "88393",
       "title": "Do not apply - Admin Test Requisition Global Core 2",
@@ -36,7 +16,7 @@
       "job_level": "Professional",
       "job_type": "Permanent",
       "hybrid": false,
-      "date_posted": "2026-05-14T22:00:00Z",
+      "date_posted": "2026-05-15T22:00:00Z",
       "description": "WELCOME TO BASF &#13; WHAT YOU CAN EXPECT &#13; WHAT YOU OFFER &#13; WHAT WE OFFER &#13; HOW TO REACH US &#13; ABOUT US &#13; Diversity is our greatest strength! &#13; Become a part of our winning formula for success and develop the future with us -- in a global team that embraces inclusion and equal opportunities irrespective of gender, age, origin, sexual orientation, disability or belief.",
       "recruiter": {
         "name": "Chris Goslinowski",
@@ -108,6 +88,70 @@
         "name": "Chris Goslinowski",
         "email": "chris.goslinowski@basf.com",
         "phone": "+49 30 2005-5768"
+      }
+    },
+    {
+      "job_id": "88396",
+      "title": "Do not apply - Admin Test Requisition Global Apprentice 1",
+      "url": "https://basf.jobs/job-invite/88396/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "department": "GBE/SHV-TGS1 General Service",
+      "job_field": "Digitalization",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-05-14T09:17:50Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast Lust deine Ausbildung in einem innovativen Unternehmen zu absolvieren? Kunststoff fasziniert dich? Dann ist diese Ausbildung genau das Richtige für dich! Wähle diesen Ausbildungsberuf und lerne bei uns die Welt des Kunstoffs im 3D Druck genauestens kennen. Kunststoff und auch Kautschuk sind auf Grund ihrer sehr guten chemischen Beständigkeit vielseitig einsetzbar und damit für uns Gold wert. Genau wie Du! Komm in unser Team und arbeite in einem der vielse",
+      "recruiter": {
+        "name": "Ahmet Alkan",
+        "email": "ahmet.alkan@basf.com"
+      }
+    },
+    {
+      "job_id": "138384",
+      "title": "Praktikum Führungskräfteentwicklung (m/w/d)",
+      "url": "https://basf.jobs/job-invite/138384/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "ESH/VA Quali., Lead. & Learning Design in Oper.",
+      "job_field": "Human Resources",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-05-13T13:03:56Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an den Standorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices und Logistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche, die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allen Belangen rund um Umwelts",
+      "recruiter": {
+        "name": "Antje Pfeifer",
+        "email": "antje.pfeifer@basf.com",
+        "phone": "+49 30 2005-58153"
+      }
+    },
+    {
+      "job_id": "135920",
+      "title": "Verkaufsberater:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135920/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "business_unit": "EMEA",
+      "department": "E-APE/NDVM Vertriebsteam Mitte",
+      "job_field": "Marketing & Sales",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-13T10:31:24Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft. Wir verbinden Saatgut und Traits, Pflanzenschutzprodukte, digitale Werkzeuge und Nachhaltigkeitsansätze, um Landwirten und anderen Stakeholdern entlang der Wertschöpfungskette die bestmöglichen Ergebnisse zu liefern. Wir tun alles in unserer Macht Stehende, um eine nachhaltige Zukunft für die Landwirtschaft zu schaffen, indem wir Innovationen, Kunden und die Gesellschaft mit",
+      "recruiter": {
+        "name": "Lea Sophie Günther",
+        "email": "lea-sophie.guenther@basf.com",
+        "phone": "+49 30 2005-56150"
       }
     },
     {
