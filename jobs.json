@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-15T10:13:21Z",
-  "total_active": 201,
+  "last_updated": "2026-05-15T13:28:32Z",
+  "total_active": 202,
   "jobs": [
     {
       "job_id": "88393",
@@ -22,6 +22,28 @@
         "name": "Chris Goslinowski",
         "email": "chris.goslinowski@basf.com",
         "phone": "+49 30 2005-5768"
+      }
+    },
+    {
+      "job_id": "138568",
+      "title": "Sachbearbeiter:in Rechnungswesen Schwerpunkt Debitorenbuchhaltung (m/w/d) - Hybrid Option DE",
+      "url": "https://basf.jobs/job-invite/138568/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/EA-GB Team Germany & Switzerland 2",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-05-15T12:29:28Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Die Einheit \"Global Business Services\" unterstützt die Geschäftsbereiche der BASF mit einem funktionsübergreifenden Netzwerk und bietet dafür moderne und bedarfsgerechte Lösungen. Als spezialisierte Serviceeinheit stehen wir für eine hohe Kundenorientierung und gestalten unsere Dienstleistungen partnerschaftlich, effizient und zukunftsweisend. WAS SIE ERWARTET &#13; Unterstützen Sie uns im Team zum nächstmöglichen Zeitpunkt in der Debitorenbuchhaltung und stellen Sie gem",
+      "recruiter": {
+        "name": "Jennifer Weiz",
+        "email": "jennifer.weiz@basf.com",
+        "phone": "+49 30 2005-56454"
       }
     },
     {
