@@ -1,29 +1,7 @@
 {
-  "last_updated": "2026-05-16T06:15:13Z",
-  "total_active": 204,
+  "last_updated": "2026-05-16T09:19:26Z",
+  "total_active": 201,
   "jobs": [
-    {
-      "job_id": "88393",
-      "title": "Do not apply - Admin Test Requisition Global Core 2",
-      "url": "https://basf.jobs/job-invite/88393/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/SHV-TGS1 General Service",
-      "job_field": "Engineering",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-05-15T22:00:00Z",
-      "description": "WELCOME TO BASF &#13; WHAT YOU CAN EXPECT &#13; WHAT YOU OFFER &#13; WHAT WE OFFER &#13; HOW TO REACH US &#13; ABOUT US &#13; Diversity is our greatest strength! &#13; Become a part of our winning formula for success and develop the future with us -- in a global team that embraces inclusion and equal opportunities irrespective of gender, age, origin, sexual orientation, disability or belief.",
-      "recruiter": {
-        "name": "Chris Goslinowski",
-        "email": "chris.goslinowski@basf.com",
-        "phone": "+49 30 2005-5768"
-      }
-    },
     {
       "job_id": "138348",
       "title": "Junior Controller (m/f/d) - Hybrid Option GER",
@@ -132,48 +110,6 @@
         "name": "Lennart Boudgoust",
         "email": "lennart.boudgoust@basf.com",
         "phone": "+49 30 2005-56521"
-      }
-    },
-    {
-      "job_id": "88401",
-      "title": "Do not Apply - Admin Test Requisition BASF SE 1",
-      "url": "https://basf.jobs/job-invite/88401/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "GBE/SHV-TGS1 General Service",
-      "job_field": "Other",
-      "job_level": "Other",
-      "job_type": "Other",
-      "hybrid": false,
-      "date_posted": "2026-05-14T22:00:00Z",
-      "description": "JOIN THE TEAM &#13; RESPONSIBILITIES &#13; QUALIFICATIONS &#13; BENEFITS &#13; ABOUT US &#13; At BASF, the chemistry is right. &#13; Because we are counting on innovative solutions, on sustainable actions, and on connected thinking. And on you. Become a part of our formula for success and develop the future with us - in a global team that embraces diversity and equal opportunities irrespective of gender, age, origin, sexual orientation, disability or belief.",
-      "recruiter": {
-        "name": "Chris Goslinowski",
-        "email": "chris.goslinowski@basf.com",
-        "phone": "+49 30 2005-5768"
-      }
-    },
-    {
-      "job_id": "88396",
-      "title": "Do not apply - Admin Test Requisition Global Apprentice 1",
-      "url": "https://basf.jobs/job-invite/88396/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "department": "GBE/SHV-TGS1 General Service",
-      "job_field": "Digitalization",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-05-14T09:17:50Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast Lust deine Ausbildung in einem innovativen Unternehmen zu absolvieren? Kunststoff fasziniert dich? Dann ist diese Ausbildung genau das Richtige für dich! Wähle diesen Ausbildungsberuf und lerne bei uns die Welt des Kunstoffs im 3D Druck genauestens kennen. Kunststoff und auch Kautschuk sind auf Grund ihrer sehr guten chemischen Beständigkeit vielseitig einsetzbar und damit für uns Gold wert. Genau wie Du! Komm in unser Team und arbeite in einem der vielse",
-      "recruiter": {
-        "name": "Ahmet Alkan",
-        "email": "ahmet.alkan@basf.com"
       }
     },
     {
