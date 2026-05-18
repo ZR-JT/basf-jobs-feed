@@ -1,7 +1,95 @@
 {
-  "last_updated": "2026-05-18T07:53:44Z",
-  "total_active": 202,
+  "last_updated": "2026-05-18T14:51:17Z",
+  "total_active": 205,
   "jobs": [
+    {
+      "job_id": "138515",
+      "title": "EMEA & International Tax Specialist (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138515/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "business_unit": "EMEA",
+      "department": "AP AP Finance",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-24T22:00:00Z",
+      "description": "WELCOME TO BASF &#13; We are BASF in agriculture and everything we do, we do for the love of farming. Our solutions are purpose-designed for different crop systems, connecting seeds and traits, crop protection, digital tools and sustainability approaches. We strive to deliver the best possible outcomes for farmers, growers and other stakeholders along the value chain. We do everything in our power to build a sustainable future for agriculture by connecting innovation, customers and society. #For",
+      "recruiter": {
+        "name": "Lennart Boudgoust",
+        "email": "lennart.boudgoust@basf.com",
+        "phone": "+49 30 2005-56521"
+      }
+    },
+    {
+      "job_id": "138457",
+      "title": "Global Product Manager - Asset (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138457/?locale=en_US",
+      "city": "Lampertheim",
+      "state": "Hessen",
+      "country": "Germany",
+      "company": "BASF Lampertheim GmbH",
+      "business_unit": "EMEA",
+      "department": "G-EVP/PM Global Product Management",
+      "job_field": "Research & Development",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-18T12:23:10Z",
+      "description": "WELCOME TO BASF &#13; In the Performance Chemicals Division, it is all about customized products. The division's portfolio includes plastics additives, fuel and lubricant solutions as well as oilfield chemicals, mining solutions and chemical as well as refinery catalysts. The customers who benefit from our innovative solutions are from various industries, including the chemicals, plastics, consumer goods, energy and resources as well as the automotive and transportation industries. WHAT YOU CAN ",
+      "recruiter": {
+        "name": "Michael Wiesenack-Flick",
+        "email": "michael.wiesenack-flick@basf.com",
+        "phone": "+49 30 2005-58564"
+      }
+    },
+    {
+      "job_id": "138458",
+      "title": "Head of Product Management (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138458/?locale=en_US",
+      "city": "Lampertheim",
+      "state": "Hessen",
+      "country": "Germany",
+      "company": "BASF Lampertheim GmbH",
+      "business_unit": "EMEA",
+      "department": "G-EVP/PM Global Product Management",
+      "job_field": "Research & Development",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-18T12:22:19Z",
+      "description": "WELCOME TO BASF &#13; In the Performance Chemicals Division, it is all about customized products. The division's portfolio includes plastics additives, fuel and lubricant solutions as well as oilfield chemicals, mining solutions and chemical as well as refinery catalysts. The customers who benefit from our innovative solutions are from various industries, including the chemicals, plastics, consumer goods, energy and resources as well as the automotive and transportation industries. WHAT YOU CAN ",
+      "recruiter": {
+        "name": "Michael Wiesenack-Flick",
+        "email": "michael.wiesenack-flick@basf.com",
+        "phone": "+49 30 2005-58564"
+      }
+    },
+    {
+      "job_id": "138460",
+      "title": "Sourcing Manager (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138460/?locale=en_US",
+      "city": "Lampertheim",
+      "state": "Hessen",
+      "country": "Germany",
+      "company": "BASF Lampertheim GmbH",
+      "business_unit": "EMEA",
+      "department": "G-EVP/PM Global Product Management",
+      "job_field": "Research & Development",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-18T12:21:27Z",
+      "description": "WELCOME TO BASF &#13; In the Performance Chemicals Division, it is all about customized products. The division's portfolio includes plastics additives, fuel and lubricant solutions as well as oilfield chemicals, mining solutions and chemical as well as refinery catalysts. The customers who benefit from our innovative solutions are from various industries, including the chemicals, plastics, consumer goods, energy and resources as well as the automotive and transportation industries. WHAT YOU CAN ",
+      "recruiter": {
+        "name": "Michael Wiesenack-Flick",
+        "email": "michael.wiesenack-flick@basf.com",
+        "phone": "+49 30 2005-58564"
+      }
+    },
     {
       "job_id": "138446",
       "title": "Anlagenfahrer:in (m/w/d)",
@@ -91,9 +179,9 @@
       }
     },
     {
-      "job_id": "138112",
-      "title": "Group Lead Compliance & Indirect Tax​ ​(m/f/d)",
-      "url": "https://basf.jobs/job-invite/138112/?locale=en_US",
+      "job_id": "136112",
+      "title": "ICTP Governance Specialist​ (m/f/d)",
+      "url": "https://basf.jobs/job-invite/136112/?locale=en_US",
       "city": "Limburgerhof",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
@@ -113,9 +201,9 @@
       }
     },
     {
-      "job_id": "136112",
-      "title": "ICTP Governance Specialist​ (m/f/d)",
-      "url": "https://basf.jobs/job-invite/136112/?locale=en_US",
+      "job_id": "138112",
+      "title": "Group Lead Compliance & Indirect Tax​ ​(m/f/d)",
+      "url": "https://basf.jobs/job-invite/138112/?locale=en_US",
       "city": "Limburgerhof",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
@@ -704,28 +792,6 @@
         "name": "Susanne Reddmann",
         "email": "susanne.reddmann@basf.com",
         "phone": "+49 30 2005-56097"
-      }
-    },
-    {
-      "job_id": "135814",
-      "title": "Internship Process Development of Surfactant Systems (m/f/d)",
-      "url": "https://basf.jobs/job-invite/135814/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "RGR/CH Drying and Product Design",
-      "job_field": "Research & Development",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-05-05T12:31:59Z",
-      "description": "WELCOME TO BASF &#13; We are a leading global research organization with over 3000 employees working in the field of material and analytical science, chemical synthesis, process development, bioscience, catalysis and digitalization. With our creative and diverse teams as well as our cutting-edge research, we help to make our customers more successful and drive the sustainability transformation. WHAT YOU CAN EXPECT &#13; Starting July 2026, you will have the opportunity to gain hands-on experienc",
-      "recruiter": {
-        "name": "Tina Le",
-        "email": "tina.le@basf.com",
-        "phone": "+49 30 2005-56367"
       }
     },
     {
