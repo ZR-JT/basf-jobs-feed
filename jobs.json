@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-20T02:03:26Z",
-  "total_active": 206,
+  "last_updated": "2026-05-20T07:38:54Z",
+  "total_active": 207,
   "jobs": [
     {
       "job_id": "138515",
@@ -22,6 +22,28 @@
         "name": "Lennart Boudgoust",
         "email": "lennart.boudgoust@basf.com",
         "phone": "+49 30 2005-56521"
+      }
+    },
+    {
+      "job_id": "138358",
+      "title": "Corporate Real Estate Manager (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138358/?locale=en_US",
+      "city": "Limburgerhof",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "business_unit": "EMEA",
+      "department": "AP AP Finance",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-20T06:22:07Z",
+      "description": "WELCOME TO BASF &#13; We are BASF in Agriculture and everything we do, we do for the love of farming, and the biggest job on Earth. We are an internationally successful company of the BASF Group. Our solutions are purpose-designed for different crop systems. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. With teams in the lab, fiel",
+      "recruiter": {
+        "name": "Isabel Maisack",
+        "email": "isabel.maisack@basf.com",
+        "phone": "+49 30 2005-56683"
       }
     },
     {
