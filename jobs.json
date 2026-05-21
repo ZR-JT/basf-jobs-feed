@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T10:57:39Z",
-  "total_active": 206,
+  "last_updated": "2026-05-21T14:37:22Z",
+  "total_active": 205,
   "jobs": [
     {
       "job_id": "138515",
@@ -195,9 +195,9 @@
       "date_posted": "2026-05-19T12:43:26Z",
       "description": "WILLKOMMEN BEI UNS &#13; Die globale Geschäftseinheit Oberflächentechnik des Unternehmensbereichs Coatings der BASF, die unter der Marke Chemetall operiert, ist ein führender Lieferant angewandter Oberflächentechnik für Metall-, Kunststoff- und Glassubstrate. Diese Spezialchemikalien werden in vielen Industrien und Märkten genutzt, wie zum Beispiel Automobil, Luftfahrt, Aluminiumveredelung, Coil oder in der metallverarbeitenden Industrie – unterstützt von einem großen Netzwerk technischer Expert",
       "recruiter": {
-        "name": "Manuela Bubach",
-        "email": "manuela.bubach@basf.com",
-        "phone": "+49 69 7165-3049"
+        "name": "Britta Schneider",
+        "email": "britta.schneider@basf.com",
+        "phone": "+49 69 7165-3361"
       }
     },
     {
@@ -1430,27 +1430,6 @@
       }
     },
     {
-      "job_id": "135227",
-      "title": "Ausbildung Fachmann:frau (m/w/d) für Systemgastronomie",
-      "url": "https://basf.jobs/job-invite/135227/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "department": "ESM/G Catering",
-      "job_field": "Catering",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du bist organisiert, kommunikativ und hast Interesse an effizienten Abläufen in der Gastronomie? Dann ist die Ausbildung als Fachmann:frau für Systemgastronomie genau das Richtige für dich! In diesem vielseitigen Beruf lernst du alles, was du über die Prozesse und das Management in modernen Systemgastronomiebetrieben wissen musst. Gemeinsam mit dem Team sorgst du für ein ebenso leckeres wie ausgewogenes Angebot. Neben der Kundenbetreuung und dem Anrichten der Spe",
-      "recruiter": {
-        "name": "Lina Wehr",
-        "email": "lina.wehr@basf.com",
-        "phone": "+49 30 2005-56745"
-      }
-    },
-    {
       "job_id": "135283",
       "title": "Ausbildung Koch:Köchin (m/w/d)",
       "url": "https://basf.jobs/job-invite/135283/?locale=en_US",
@@ -1745,6 +1724,27 @@
       }
     },
     {
+      "job_id": "135227",
+      "title": "Ausbildung Fachmann:frau (m/w/d) für Systemgastronomie",
+      "url": "https://basf.jobs/job-invite/135227/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "department": "ESM/G Catering",
+      "job_field": "Catering",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du bist organisiert, kommunikativ und hast Interesse an effizienten Abläufen in der Gastronomie? Dann ist die Ausbildung als Fachmann:frau für Systemgastronomie genau das Richtige für dich! In diesem vielseitigen Beruf lernst du alles, was du über die Prozesse und das Management in modernen Systemgastronomiebetrieben wissen musst. Gemeinsam mit dem Team sorgst du für ein ebenso leckeres wie ausgewogenes Angebot. Neben der Kundenbetreuung und dem Anrichten der Spe",
+      "recruiter": {
+        "name": "Lina Wehr",
+        "email": "lina.wehr@basf.com",
+        "phone": "+49 30 2005-56745"
+      }
+    },
+    {
       "job_id": "135018",
       "title": "Ausbildung Chemikant:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/135018/?locale=en_US",
@@ -1892,27 +1892,6 @@
       }
     },
     {
-      "job_id": "135231",
-      "title": "Ausbildung Koch:Köchin (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135231/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "department": "ESM/GR Business-Hotel René Bohn",
-      "job_field": "Catering",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast eine Leidenschaft für gutes Essen, arbeitest gerne mit frischen Zutaten und möchtest dein kulinarisches Talent in einem professionellen Umfeld ausbauen? Dann starte deine Ausbildung bei uns! Als Koch lernst du alle wichtigen Aspekte der Gastronomie kennen und entwickelst dich zu einem echten Profi in der Küche. Während deiner Ausbildung wirst du in einem motivierten Team arbeiten und die Grundlagen der Zubereitung, Präsentation und Planung von Gerichten e",
-      "recruiter": {
-        "name": "Lina Wehr",
-        "email": "lina.wehr@basf.com",
-        "phone": "+49 30 2005-56745"
-      }
-    },
-    {
       "job_id": "135134",
       "title": "Ausbildung Biologielaborant:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/135134/?locale=en_US",
@@ -1934,20 +1913,20 @@
       }
     },
     {
-      "job_id": "135282",
-      "title": "Ausbildung Fachmann:frau für Restaurants und Veranstaltungsgastronomie (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135282/?locale=en_US",
+      "job_id": "135231",
+      "title": "Ausbildung Koch:Köchin (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135231/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF Gastronomie GmbH",
-      "department": "ESM/GR Bankett/Catering",
+      "department": "ESM/GR Business-Hotel René Bohn",
       "job_field": "Catering",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du liebst es, Events und Veranstaltungen zu organisieren, hast ein Auge für Details und möchtest lernen, wie man sowohl in Restaurants als auch bei großen Veranstaltungen einen erstklassigen Service bietet? Dann bist du bei uns genau richtig! Als Fachmann:frau für Restaurants und Veranstaltungsgastronomie wirst du in deiner Ausbildung nicht nur alle relevanten Bereiche der Gastronomie kennenlernen, sondern auch wertvolle Erfahrungen im Bereich Eventmanagement sam",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast eine Leidenschaft für gutes Essen, arbeitest gerne mit frischen Zutaten und möchtest dein kulinarisches Talent in einem professionellen Umfeld ausbauen? Dann starte deine Ausbildung bei uns! Als Koch lernst du alle wichtigen Aspekte der Gastronomie kennen und entwickelst dich zu einem echten Profi in der Küche. Während deiner Ausbildung wirst du in einem motivierten Team arbeiten und die Grundlagen der Zubereitung, Präsentation und Planung von Gerichten e",
       "recruiter": {
         "name": "Lina Wehr",
         "email": "lina.wehr@basf.com",
@@ -1994,6 +1973,27 @@
         "name": "Isabel Maisack",
         "email": "isabel.maisack@basf.com",
         "phone": "+49 30 2005-56683"
+      }
+    },
+    {
+      "job_id": "135282",
+      "title": "Ausbildung Fachmann:frau für Restaurants und Veranstaltungsgastronomie (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135282/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "department": "ESM/GR Bankett/Catering",
+      "job_field": "Catering",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du liebst es, Events und Veranstaltungen zu organisieren, hast ein Auge für Details und möchtest lernen, wie man sowohl in Restaurants als auch bei großen Veranstaltungen einen erstklassigen Service bietet? Dann bist du bei uns genau richtig! Als Fachmann:frau für Restaurants und Veranstaltungsgastronomie wirst du in deiner Ausbildung nicht nur alle relevanten Bereiche der Gastronomie kennenlernen, sondern auch wertvolle Erfahrungen im Bereich Eventmanagement sam",
+      "recruiter": {
+        "name": "Lina Wehr",
+        "email": "lina.wehr@basf.com",
+        "phone": "+49 30 2005-56745"
       }
     },
     {
@@ -2915,28 +2915,6 @@
       }
     },
     {
-      "job_id": "132031",
-      "title": "Seed Science Operations Agronomist (m/f/d)",
-      "url": "https://basf.jobs/job-invite/132031/?locale=en_US",
-      "city": "Gatersleben",
-      "state": "Sachsen-Anhalt",
-      "country": "Germany",
-      "company": "BASF Agricultural Solutions GmbH",
-      "business_unit": "EMEA",
-      "department": "APP/XW",
-      "job_field": "Research & Development",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-01-21T07:51:59Z",
-      "description": "WELCOME TO BASF &#13; We are BASF in agriculture and everything we do, we do for the love of farming. Our solutions are purpose-designed for different crop systems, connecting seeds and traits, crop protection, digital tools and sustainability approaches. We strive to deliver the best possible outcomes for farmers, growers and other stakeholders along the value chain. We do everything in our power to build a sustainable future for agriculture by connecting innovation, customers and society. #For",
-      "recruiter": {
-        "name": "Lennart Boudgoust",
-        "email": "lennart.boudgoust@basf.com",
-        "phone": "+49 30 2005-56521"
-      }
-    },
-    {
       "job_id": "132022",
       "title": "Chef de Rang mit Stellvertreterfunktion - Haus Breitnau (m/w/d)",
       "url": "https://basf.jobs/job-invite/132022/?locale=en_US",
@@ -3027,10 +3005,10 @@
       "job_id": "130712",
       "title": "Ausbildung Chemikant:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/130712/?locale=en_US",
-      "city": "Limburgerhof",
+      "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
-      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "company": "BASF SE",
       "department": "ESH/VO Produktionstechnik",
       "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Pupil (only Germany)",
@@ -3048,10 +3026,10 @@
       "job_id": "130658",
       "title": "Ausbildung Mechatroniker:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/130658/?locale=en_US",
-      "city": "Limburgerhof",
+      "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
-      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "company": "BASF SE",
       "department": "ESH/VT Technikausbildung Mechatroniker",
       "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Pupil (only Germany)",
@@ -3069,10 +3047,10 @@
       "job_id": "130656",
       "title": "Ausbildung Chemielaborant:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/130656/?locale=en_US",
-      "city": "Limburgerhof",
+      "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
-      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "company": "BASF SE",
       "department": "ESH/VL Voc. Training Laboratory Assistants",
       "job_field": "Research & Development",
       "job_level": "Pupil (only Germany)",
@@ -3090,10 +3068,10 @@
       "job_id": "130655",
       "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
       "url": "https://basf.jobs/job-invite/130655/?locale=en_US",
-      "city": "Limburgerhof",
+      "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
-      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "company": "BASF SE",
       "department": "ESH/VT Technikausbildung EAUT",
       "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Pupil (only Germany)",
@@ -3111,10 +3089,10 @@
       "job_id": "130654",
       "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
       "url": "https://basf.jobs/job-invite/130654/?locale=en_US",
-      "city": "Limburgerhof",
+      "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
-      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "company": "BASF SE",
       "department": "ESH/VT Anlagenmechaniker",
       "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Pupil (only Germany)",
