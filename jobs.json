@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-21T07:40:34Z",
-  "total_active": 207,
+  "last_updated": "2026-05-21T10:57:39Z",
+  "total_active": 206,
   "jobs": [
     {
       "job_id": "138515",
@@ -22,6 +22,28 @@
         "name": "Lennart Boudgoust",
         "email": "lennart.boudgoust@basf.com",
         "phone": "+49 30 2005-56521"
+      }
+    },
+    {
+      "job_id": "138616",
+      "title": "Praktikum Prozessoptimierung & Digitalisierung (m/w/d)",
+      "url": "https://basf.jobs/job-invite/138616/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "E-CMP/H Human Resources E-CMP",
+      "job_field": "Human Resources",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-05-21T10:05:29Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Bei BASF Monomers produzieren und entwickeln wir weltweit Produkte, die im Mittelpunkt unseres täglichen Lebens stehen. Unser breites Portfolio an Isocyanaten, Polyamiden, Basischemikalien und anorganischen Spezialitäten wird in einer Vielzahl von Industrien eingesetzt, von der Automobil-, Bau- und Verpackungsindustrie bis hin zur Holzverarbeitung und Life Science. Unser ständig wachsendes Portfolio an innovativen, nachhaltigen und kohlenstoffarmen Produkten hilft unsere",
+      "recruiter": {
+        "name": "Nina Schülzke",
+        "email": "nina.schuelzke@basf.com",
+        "phone": "030200558790"
       }
     },
     {
@@ -308,50 +330,6 @@
         "name": "Valeria Illera Benjumea",
         "email": "valeria.illera-benjumea@basf.com",
         "phone": "0302005-58110"
-      }
-    },
-    {
-      "job_id": "138348",
-      "title": "Junior Controller (m/f/d) - Hybrid Option GER",
-      "url": "https://basf.jobs/job-invite/138348/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/WB1 Business Reporting l",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": true,
-      "date_posted": "2026-05-15T14:56:13Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Are you a passionate and motivated person? Then join our Business Reporting team as a Junior Controller. This position offers you the opportuni",
-      "recruiter": {
-        "name": "Katarina Borisov",
-        "email": "katarina.borisov@basf.com",
-        "phone": "+49 30 2005-59269"
-      }
-    },
-    {
-      "job_id": "138103",
-      "title": "Working Student Business Reporting (m/f/d) - Hybrid Option GER",
-      "url": "https://basf.jobs/job-invite/138103/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/WB2 Business Reporting ll",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Student",
-      "job_type": "Temporary",
-      "hybrid": true,
-      "date_posted": "2026-05-15T14:28:45Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Are you a passionate and motivated person? Then join our unit Business Reporting II as a working student. This position offers you the opportun",
-      "recruiter": {
-        "name": "Katarina Borisov",
-        "email": "katarina.borisov@basf.com",
-        "phone": "+49 30 2005-59269"
       }
     },
     {
@@ -2331,7 +2309,7 @@
       "city": "Limburgerhof",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
-      "company": "BASF Jobmarkt GmbH",
+      "company": "BASF Agricultural Solutions Deutschland GmbH",
       "business_unit": "EMEA",
       "department": "APR/FE Screening",
       "job_field": "Research & Development",
