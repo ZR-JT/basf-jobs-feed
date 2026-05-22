@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T02:04:28Z",
-  "total_active": 205,
+  "last_updated": "2026-05-22T07:35:18Z",
+  "total_active": 208,
   "jobs": [
     {
       "job_id": "138515",
@@ -22,6 +22,94 @@
         "name": "Lennart Boudgoust",
         "email": "lennart.boudgoust@basf.com",
         "phone": "+49 30 2005-56521"
+      }
+    },
+    {
+      "job_id": "138147",
+      "title": "Working Student Prototype Software Development for the FarmSPT Research Project (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138147/?locale=en_US",
+      "city": "Köln",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "company": "BASF Digital Farming GmbH",
+      "business_unit": "EMEA",
+      "department": "APM/DE Master Data & Data Frameworks",
+      "job_field": "Information Technology & Services",
+      "job_level": "Student",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-05-22T06:51:16Z",
+      "description": "WELCOME TO BASF &#13; We are BASF in agriculture and everything we do, we do for the love of farming. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. We do everything in our power to build a sustainable future for agriculture by connecting innovation, customers and society. #ForTheLoveOfFarming #TheBiggestJobOnEarth Take a look at o",
+      "recruiter": {
+        "name": "Lennart Boudgoust",
+        "email": "lennart.boudgoust@basf.com",
+        "phone": "+49 30 2005-56521"
+      }
+    },
+    {
+      "job_id": "138308",
+      "title": "Junior HR Business Partner:in (w/m/d)",
+      "url": "https://basf.jobs/job-invite/138308/?locale=en_US",
+      "city": "Schwarzheide",
+      "state": "Brandenburg",
+      "country": "Germany",
+      "company": "BASF Schwarzheide GmbH",
+      "business_unit": "EMEA",
+      "department": "PM/LES Human Resources Schwarzheide",
+      "job_field": "Human Resources",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-05-22T06:25:48Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Sie suchen einen Arbeitgeber, der Ihnen spannende Herausforderungen und langfristige Perspektiven bietet? An unserem Lausitzer Produktionsstandort in Schwarzheide arbeiten 2000 Kollegen und Kolleginnen gemeinsam daran, dass die Chemie stimmt. Wir setzen auf Innovation und Nachhaltigkeit. Unsere vier Unternehmenswerte kreativ, offen, verantwortungsvoll und unternehmerisch legen fest, wie wir miteinander arbeiten. Füllen auch Sie diese Werte mit Leben. Entdecken Sie jetzt ",
+      "recruiter": {
+        "name": "Julia Schubert",
+        "email": "julia.schubert@basf.com",
+        "phone": "+49 30 2005-59076"
+      }
+    },
+    {
+      "job_id": "135163",
+      "title": "Industriemechaniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135163/?locale=en_US",
+      "city": "Düsseldorf",
+      "state": "Nordrhein-Westfalen",
+      "country": "Germany",
+      "company": "BASF Personal Care and Nutrition GmbH",
+      "business_unit": "EMEA",
+      "department": "EMX/HI Cluster EMU",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-22T06:11:07Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir bei Care Chemicals handeln aus Leidenschaft. Unsere Mitarbeiter:innen sind unser wertvollstes Gut und wir pflegen eine Kultur der Empathie, der Unterstützung und des Wachstums. Auf diese Weise befähigen wir unser Team, sich persönlich und beruflich weiterzuentwickeln. Mit vereinten Kräften engagieren wir uns für die Entwicklung nachhaltiger, digitaler und innovativer Lösungen für eine bessere Zukunft. Pflegende Hautcremes, milde Shampoos, Sonnenschutzmittel, schonend",
+      "recruiter": {
+        "name": "Svenja Sollmann",
+        "email": "svenja.sollmann@basf.com",
+        "phone": "+49 30 2005-59355"
+      }
+    },
+    {
+      "job_id": "138305",
+      "title": "HR Business Partner:in (w/m/d)",
+      "url": "https://basf.jobs/job-invite/138305/?locale=en_US",
+      "city": "Schwarzheide",
+      "state": "Brandenburg",
+      "country": "Germany",
+      "company": "BASF Schwarzheide GmbH",
+      "business_unit": "EMEA",
+      "department": "PM/LES Human Resources Schwarzheide",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-05-22T06:03:29Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Sie suchen einen Arbeitgeber, der Ihnen spannende Herausforderungen und langfristige Perspektiven bietet? An unserem Lausitzer Produktionsstandort in Schwarzheide arbeiten 2000 Kollegen und Kolleginnen gemeinsam daran, dass die Chemie stimmt. Wir setzen auf Innovation und Nachhaltigkeit. Unsere vier Unternehmenswerte kreativ, offen, verantwortungsvoll und unternehmerisch legen fest, wie wir miteinander arbeiten. Füllen auch Sie diese Werte mit Leben. Entdecken Sie jetzt ",
+      "recruiter": {
+        "name": "Julia Schubert",
+        "email": "julia.schubert@basf.com",
+        "phone": "+49 30 2005-59076"
       }
     },
     {
@@ -2893,28 +2981,6 @@
       }
     },
     {
-      "job_id": "127478",
-      "title": "Rechtsanwältin / Rechtsanwalt IP Legal - Agricultural Solutions (m/w/d)",
-      "url": "https://basf.jobs/job-invite/127478/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "APM/PL IP Legal, Trademarks & IP Brazil",
-      "job_field": "Legal, Tax & Insurance",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-01-22T14:43:15Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft. Wir verbinden Saatgut und Traits, Pflanzenschutzprodukte, digitale Werkzeuge und Nachhaltigkeitsansätze, um Landwirten und anderen Stakeholdern entlang der Wertschöpfungskette die bestmöglichen Ergebnisse zu liefern. Wir tun alles in unserer Macht Stehende, um eine nachhaltige Zukunft für die Landwirtschaft zu schaffen, indem wir Innovationen, Kunden und die Gesellschaft mit",
-      "recruiter": {
-        "name": "Lea Sophie Günther",
-        "email": "lea-sophie.guenther@basf.com",
-        "phone": "+49 30 2005-56150"
-      }
-    },
-    {
       "job_id": "132022",
       "title": "Chef de Rang mit Stellvertreterfunktion - Haus Breitnau (m/w/d)",
       "url": "https://basf.jobs/job-invite/132022/?locale=en_US",
@@ -3834,27 +3900,6 @@
       }
     },
     {
-      "job_id": "119398",
-      "title": "Ausbildung Chemikant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/119398/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VO Produktionstechnik",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Ein Chemieunternehmen ohne seine Chemikant:innen? Unvorstellbar! Das w re wie Z hneputzen ohne Zahnpasta, Joggen ohne Laufschuhe oder die perfekte Frisur ohne Haarspray. Neugierig, in welchen Produkten die BASF noch enthalten ist? Dann ist dieser Beruf genau das Richtige f r dich, denn du bekommst nicht nur einen genauen Einblick in die spannende Produktwelt, sondern steuerst und berwachst die Produktion von vielen chemischen Erzeugnissen. Komm an Bord und nimm F",
-      "recruiter": {
-        "name": "Lisa Nabra",
-        "email": "lisa.nabra@basf.com",
-        "phone": "+49 30 2005-58195"
-      }
-    },
-    {
       "job_id": "119238",
       "title": "Ausbildung im Bereich Technik oder Produktion: Jetzt bewerben - später entscheiden! (m/w/d)",
       "url": "https://basf.jobs/job-invite/119238/?locale=en_US",
@@ -3953,6 +3998,27 @@
       "hybrid": false,
       "date_posted": "2025-04-01T22:00:00Z",
       "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kunststoff fasziniert dich? Dann ist dieser Beruf genau der Richtige für dich! Kunststoff und Kautschuk sind auf Grund ihrer sehr guten chemischen Beständigkeit vielseitig einsetzbar. Bei uns lernst du die Welt dieses Materials genauestens kennen und hast die Möglichkeit dich für die Fachrichtung Formteile, Bauteile oder Halbzeugeherstellung zu bewerben. Gib Gummi in einem der vielseitigsten Berufe bei der BASF! DAS LERNST DU WÄHREND DEINER AUSBILDUNG &#13; Das b",
+      "recruiter": {
+        "name": "Lisa Nabra",
+        "email": "lisa.nabra@basf.com",
+        "phone": "+49 30 2005-58195"
+      }
+    },
+    {
+      "job_id": "119398",
+      "title": "Ausbildung Chemikant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/119398/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VO Produktionstechnik",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Ein Chemieunternehmen ohne seine Chemikant:innen? Unvorstellbar! Das wäre wie Zähneputzen ohne Zahnpasta, Joggen ohne Laufschuhe oder die perfekte Frisur ohne Haarspray. Neugierig, in welchen Produkten die BASF noch enthalten ist? Dann ist dieser Beruf genau das Richtige für dich, denn du bekommst nicht nur einen genauen Einblick in die spannende Produktwelt, sondern steuerst und überwachst die Produktion von vielen chemischen Erzeugnissen. Komm an Bord und nimm ",
       "recruiter": {
         "name": "Lisa Nabra",
         "email": "lisa.nabra@basf.com",
