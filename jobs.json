@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-22T07:35:18Z",
-  "total_active": 208,
+  "last_updated": "2026-05-22T10:41:16Z",
+  "total_active": 205,
   "jobs": [
     {
       "job_id": "138515",
@@ -22,6 +22,28 @@
         "name": "Lennart Boudgoust",
         "email": "lennart.boudgoust@basf.com",
         "phone": "+49 30 2005-56521"
+      }
+    },
+    {
+      "job_id": "138839",
+      "title": "Mitarbeiter:in Werkfeuerwehr (m/w/d)",
+      "url": "https://basf.jobs/job-invite/138839/?locale=en_US",
+      "city": "Lampertheim",
+      "state": "Hessen",
+      "country": "Germany",
+      "company": "BASF Lampertheim GmbH",
+      "business_unit": "EMEA",
+      "department": "EVM/ELS Fire department",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-22T09:19:51Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Bei unserem Bereich Performance Chemicals geht es um maßgeschneiderte Produkte. Das Portfolio des Bereiches umfasst Kunststoff-Additive, Lösungen für Kraftstoffe und Schmierstoffe, Chemikalien und Lösungen für die Ölfeld- und Bergbauindustrie sowie Chemische- und Raffineriekatalysatoren. Kunden aus den unterschiedlichsten Industrien, einschließlich Chemie, Kunststoffe, Konsumgüter, Energie Ressourcen sowie der Automobil- Transportmittelindustrie, profitieren von unseren ",
+      "recruiter": {
+        "name": "Michael Wiesenack-Flick",
+        "email": "michael.wiesenack-flick@basf.com",
+        "phone": "+49 30 2005-58564"
       }
     },
     {
@@ -333,72 +355,6 @@
       }
     },
     {
-      "job_id": "138457",
-      "title": "Global Product Manager - Asset (m/f/d)",
-      "url": "https://basf.jobs/job-invite/138457/?locale=en_US",
-      "city": "Lampertheim",
-      "state": "Hessen",
-      "country": "Germany",
-      "company": "BASF Lampertheim GmbH",
-      "business_unit": "EMEA",
-      "department": "G-EVP/PM Global Product Management",
-      "job_field": "Research & Development",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-05-18T12:23:10Z",
-      "description": "WELCOME TO BASF &#13; In the Performance Chemicals Division, it is all about customized products. The division's portfolio includes plastics additives, fuel and lubricant solutions as well as oilfield chemicals, mining solutions and chemical as well as refinery catalysts. The customers who benefit from our innovative solutions are from various industries, including the chemicals, plastics, consumer goods, energy and resources as well as the automotive and transportation industries. WHAT YOU CAN ",
-      "recruiter": {
-        "name": "Michael Wiesenack-Flick",
-        "email": "michael.wiesenack-flick@basf.com",
-        "phone": "+49 30 2005-58564"
-      }
-    },
-    {
-      "job_id": "138458",
-      "title": "Head of Product Management (m/f/d)",
-      "url": "https://basf.jobs/job-invite/138458/?locale=en_US",
-      "city": "Lampertheim",
-      "state": "Hessen",
-      "country": "Germany",
-      "company": "BASF Lampertheim GmbH",
-      "business_unit": "EMEA",
-      "department": "G-EVP/PM Global Product Management",
-      "job_field": "Research & Development",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-05-18T12:22:19Z",
-      "description": "WELCOME TO BASF &#13; In the Performance Chemicals Division, it is all about customized products. The division's portfolio includes plastics additives, fuel and lubricant solutions as well as oilfield chemicals, mining solutions and chemical as well as refinery catalysts. The customers who benefit from our innovative solutions are from various industries, including the chemicals, plastics, consumer goods, energy and resources as well as the automotive and transportation industries. WHAT YOU CAN ",
-      "recruiter": {
-        "name": "Michael Wiesenack-Flick",
-        "email": "michael.wiesenack-flick@basf.com",
-        "phone": "+49 30 2005-58564"
-      }
-    },
-    {
-      "job_id": "138460",
-      "title": "Sourcing Manager (m/f/d)",
-      "url": "https://basf.jobs/job-invite/138460/?locale=en_US",
-      "city": "Lampertheim",
-      "state": "Hessen",
-      "country": "Germany",
-      "company": "BASF Lampertheim GmbH",
-      "business_unit": "EMEA",
-      "department": "G-EVP/PM Global Product Management",
-      "job_field": "Research & Development",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-05-18T12:21:27Z",
-      "description": "WELCOME TO BASF &#13; In the Performance Chemicals Division, it is all about customized products. The division's portfolio includes plastics additives, fuel and lubricant solutions as well as oilfield chemicals, mining solutions and chemical as well as refinery catalysts. The customers who benefit from our innovative solutions are from various industries, including the chemicals, plastics, consumer goods, energy and resources as well as the automotive and transportation industries. WHAT YOU CAN ",
-      "recruiter": {
-        "name": "Michael Wiesenack-Flick",
-        "email": "michael.wiesenack-flick@basf.com",
-        "phone": "+49 30 2005-58564"
-      }
-    },
-    {
       "job_id": "138446",
       "title": "Anlagenfahrer:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/138446/?locale=en_US",
@@ -572,28 +528,6 @@
         "name": "Isabel Maisack",
         "email": "isabel.maisack@basf.com",
         "phone": "+49 30 2005-56683"
-      }
-    },
-    {
-      "job_id": "134194",
-      "title": "Praktikum Instrumentelle Analytik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134194/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "ESG/CB Human Biomonitoring",
-      "job_field": "Occupational Medicine",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-05-12T11:26:04Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an denStandorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices undLogistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche,die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allenBelangen rund um Umweltschut",
-      "recruiter": {
-        "name": "Silke Pudicke",
-        "email": "silke.pudicke@basf.com",
-        "phone": "+49 30 2005-58449"
       }
     },
     {
