@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-05-26T07:35:03Z",
-  "total_active": 204,
+  "last_updated": "2026-05-26T14:35:34Z",
+  "total_active": 203,
   "jobs": [
+    {
+      "job_id": "138276",
+      "title": "Personal Protection Officer (m/w/d)",
+      "url": "https://basf.jobs/job-invite/138276/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "CL/PPL Limousinenservice",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-26T13:10:38Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Unsere Einheit Corporate Legal, Compliance, Insurance Security berät zu Rechtsfragen und Versicherungen, betreut das Compliance Integrity Programm der BASF-Gruppe und bündelt alle Themen rund um Schutz und Sicherheit. Mit unserer Expertise auf diesen Gebieten stehen wir unseren Kolleg:innen als aktiv gestaltender Partner zur Seite. Durch unser globales Team stellen wir sicher, dass unsere Beratung stets nah am Kunden erfolgt. WAS SIE ERWARTET &#13; Sie führen operative P",
+      "recruiter": {
+        "name": "Laura Juliane Mierke",
+        "email": "juliane.mierke@basf.com",
+        "phone": "+49 30 2005-58922"
+      }
+    },
+    {
+      "job_id": "138348",
+      "title": "Junior Controller (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/138348/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/WB1 Business Reporting l",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-05-26T13:08:50Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Are you a passionate and motivated person? Then join our Business Reporting team as a Junior Controller. This position offers you the opportuni",
+      "recruiter": {
+        "name": "Katarina Borisov",
+        "email": "katarina.borisov@basf.com",
+        "phone": "+49 30 2005-59269"
+      }
+    },
     {
       "job_id": "138515",
       "title": "EMEA & International Tax Specialist (m/f/d)",
@@ -48,7 +92,7 @@
     },
     {
       "job_id": "138147",
-      "title": "Working Student Prototype Software Development for the FarmSPT Research Project (m/f/d)",
+      "title": "Werksstudent:in Prototype Software Development for the FarmSPT Research Project (m/w/d)",
       "url": "https://basf.jobs/job-invite/138147/?locale=en_US",
       "city": "Köln",
       "state": "Nordrhein-Westfalen",
@@ -61,7 +105,7 @@
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2026-05-22T06:51:16Z",
-      "description": "WELCOME TO BASF &#13; We are BASF in agriculture and everything we do, we do for the love of farming. Connecting seeds and traits, crop protection products, digital tools and sustainability approaches, to help deliver the best possible outcomes for farmers, growers and our other stakeholders along the value chain. We do everything in our power to build a sustainable future for agriculture by connecting innovation, customers and society. #ForTheLoveOfFarming #TheBiggestJobOnEarth Take a look at o",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft. Wir verbinden Saatgut und Traits, Pflanzenschutzprodukte, digitale Werkzeuge und Nachhaltigkeitsansätze, um Landwirten und anderen Stakeholdern entlang der Wertschöpfungskette die bestmöglichen Ergebnisse zu liefern. Wir tun alles in unserer Macht Stehende, um eine nachhaltige Zukunft für die Landwirtschaft zu schaffen, indem wir Innovationen, Kunden und die Gesellschaft mit",
       "recruiter": {
         "name": "Lennart Boudgoust",
         "email": "lennart.boudgoust@basf.com",
@@ -487,28 +531,6 @@
       }
     },
     {
-      "job_id": "134754",
-      "title": "Praktikum Digitalisierung Projektcontrolling Power BI (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134754/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "GEM/ES Project Analytics",
-      "job_field": "Engineering",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-05-13T06:13:29Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Die Serviceeinheit Global Engineering Services trägt mit herausragender technischer Expertise dazu bei, eine nachhaltige Zukunft zu gestalten. Mit unseren engagierten, interdisziplinären Teams unterstützen wir die BASF-Unternehmensbereiche dabei, gemeinsam mit unseren Kunden und Märkten zu wachsen. Wir setzen Investitionen wettbewerbsfähig um. Rund um den Globus, sorgen wir für sichere und zuverlässige Lösungen, damit die Produktionsanlagen exzellente Leistung erbringen.",
-      "recruiter": {
-        "name": "Paula Männecke",
-        "email": "paula.maennecke@basf.com",
-        "phone": "+4930200556093"
-      }
-    },
-    {
       "job_id": "135219",
       "title": "Senior Specialist Executive Legal, Pension and Labor Relations Support (m/f/d)",
       "url": "https://basf.jobs/job-invite/135219/?locale=en_US",
@@ -748,28 +770,6 @@
         "name": "Thomas Glatz",
         "email": "thomas.a.glatz@basf.com",
         "phone": "+49697165-3277"
-      }
-    },
-    {
-      "job_id": "136019",
-      "title": "Chef de Partie Saucier (m/w/d)",
-      "url": "https://basf.jobs/job-invite/136019/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "business_unit": "EMEA",
-      "department": "ES/RR Bankett Gesellschaftshaus",
-      "job_field": "Catering",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-05-06T13:50:24Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Ob Mittagspause, Event oder einfach guter Geschmack – wir machen Ludwigshafen lecker! In unseren Häusern (Gesellschaftshaus, Feierabendhaus, Hotel René Bohn, Studienhaus St. Johann, Aktivhotel Haus Breitnau) sorgen wir für Vielfalt, Qualität und echte Genussmomente. Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Saucen perfektionieren - Sie kreieren klassische und moderne Saucen, die jedem Gericht den letzten Schliff geben. Aromen komponieren - Sie arbeiten mit Fonds,",
-      "recruiter": {
-        "name": "Susanne Reddmann",
-        "email": "susanne.reddmann@basf.com",
-        "phone": "+49 30 2005-56097"
       }
     },
     {
@@ -1074,28 +1074,6 @@
       "hybrid": false,
       "date_posted": "2026-05-04T08:08:14Z",
       "description": "WILLKOMMEN BEI UNS &#13; Ausgezeichnet speisen, stilvoll tagen und sich wohlfühlen – das Studienhaus St. Johann ist ein besonderer Ort für Seminare und Veranstaltungen. Hier sorgen wir für Gastlichkeit auf höchstem Niveau. Werden Sie Teil unseres Teams und gestalten Sie mit uns besondere Momente! WAS SIE ERWARTET &#13; Teamunterstützung - Sie weisen neue Mitarbeitende ein und gehen unseren Auszubildenden mit gutem Beispiel voraus und fördern die Zusammenarbeit. Qualität Sicherheit - Sie sorgen f",
-      "recruiter": {
-        "name": "Susanne Reddmann",
-        "email": "susanne.reddmann@basf.com",
-        "phone": "+49 30 2005-56097"
-      }
-    },
-    {
-      "job_id": "134255",
-      "title": "Küchenleiter:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134255/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "business_unit": "EMEA",
-      "department": "ES/RR Feierabendhaus",
-      "job_field": "Catering",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-05-04T08:06:18Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Ob Mittagspause, Event oder einfach guter Geschmack – wir machen Ludwigshafen lecker! In unseren Häusern (Gesellschaftshaus, Feierabendhaus, Hotel René Bohn, Studienhaus St. Johann, Aktivhotel Haus Breitnau) sorgen wir für Vielfalt, Qualität und echte Genussmomente. Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Operative Küchenleitung – Sie organisieren und steuern den täglichen Küchenbetrieb inklusive aller Produktionsabläufe. Produktion Speisenangebot – Sie setzen ",
       "recruiter": {
         "name": "Susanne Reddmann",
         "email": "susanne.reddmann@basf.com",
