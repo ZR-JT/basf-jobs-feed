@@ -1,7 +1,133 @@
 {
-  "last_updated": "2026-05-27T02:08:21Z",
-  "total_active": 203,
+  "last_updated": "2026-05-27T07:55:20Z",
+  "total_active": 207,
   "jobs": [
+    {
+      "job_id": "138502",
+      "title": "Ausbildung Chemikant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/138502/?locale=en_US",
+      "city": "Lemförde",
+      "state": "Niedersachsen",
+      "country": "Germany",
+      "company": "BASF Polyurethanes GmbH",
+      "department": "PM/LHAA Apprenticeship - Production",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-05-27T07:48:07Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Ein Chemieunternehmen ohne seine Chemikanten? Unvorstellbar! Das wäre wie Zähneputzen ohne Zahnpasta, Joggen ohne Laufschuhe oder die perfekte Frisur ohne Haarspray. Neugierig, in welchen Produkten die BASF noch enthalten ist? Dann ist dieser Beruf genau das Richtige für Dich, denn Du bekommst nicht nur einen genauen Einblick in die spannende Produktwelt, sondern bist bei der Produktion von vielen chemischen Erzeugnissen mittendrin statt nur dabei. Komm an Bord u",
+      "recruiter": {
+        "name": "Michael Wiesenack-Flick",
+        "email": "michael.wiesenack-flick@basf.com",
+        "phone": "+49 30 2005-58564"
+      }
+    },
+    {
+      "job_id": "138500",
+      "title": "Ausbildung Chemielaborant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/138500/?locale=en_US",
+      "city": "Lemförde",
+      "state": "Niedersachsen",
+      "country": "Germany",
+      "company": "BASF Polyurethanes GmbH",
+      "department": "PM/LHAA Apprenticeship - Laboratory",
+      "job_field": "Research & Development",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-05-27T07:43:50Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Die Chemie ist deine Leidenschaft und neugierig warst du schon immer. Sobald du dein Duschgel in der Hand hältst, willst du wissen, wie es sich zusammensetzt und dass selbst ein Handy ohne Chemie keine Energie hätte, ist für dich nichts Neues. Du kannst es nicht abwarten, endlich im Labor zu stehen und den Dingen auf den Grund zu gehen. Bei uns untersuchst du verschiedene Verbindungen mit detektivischer Genauigkeit und modernsten Methoden. Tauche ein in die Grund",
+      "recruiter": {
+        "name": "Michael Wiesenack-Flick",
+        "email": "michael.wiesenack-flick@basf.com",
+        "phone": "+49 30 2005-58564"
+      }
+    },
+    {
+      "job_id": "138503",
+      "title": "Ausbildung Elektroniker:in für Betriebstechnik (m/w/d)",
+      "url": "https://basf.jobs/job-invite/138503/?locale=en_US",
+      "city": "Lemförde",
+      "state": "Niedersachsen",
+      "country": "Germany",
+      "company": "BASF Polyurethanes GmbH",
+      "department": "PM/LHA Apprenticeship Industrial",
+      "job_field": "Applications Technology",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-05-27T07:40:01Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kabelsalat steht regelmäßig auf Deinem Speiseplan? Wie der Strom in die Steckdose kommt, könntest Du im Schlaf erklären? Du stehst nicht auf der Leitung, sondern willst welche verlegen? Nicht nur in der BASF bist Du schwer gefragt, denn unsere Maschinen laufen erst, wenn sie von Dir programmiert wurden. Sollte mal etwas gegen den Strom fließen, bringst Du die Elektronik wieder in die richtige Bahn. Kurz gesagt - Du erweckst jede Anlage zum Leben! Widerstand ist z",
+      "recruiter": {
+        "name": "Michael Wiesenack-Flick",
+        "email": "michael.wiesenack-flick@basf.com",
+        "phone": "+49 30 2005-58564"
+      }
+    },
+    {
+      "job_id": "138499",
+      "title": "Ausbildung Industriekaufmann:frau (m/w/d)",
+      "url": "https://basf.jobs/job-invite/138499/?locale=en_US",
+      "city": "Lemförde",
+      "state": "Niedersachsen",
+      "country": "Germany",
+      "company": "BASF Polyurethanes GmbH",
+      "department": "PM/LHA Management Apprentices",
+      "job_field": "Administration & Office Support",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-05-27T07:33:14Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du hast Dich schon oft gefragt, wie ein großes Unternehmen eigentlich funktioniert? Excel ist für Dich kein Vorname und dass man die Buchhaltung nicht in der Bücherei abwickelt, ist Dir schon lange klar? Tausche Deine Schulbücher gegen einen Laptop und erfahre in dieser Ausbildung, was von einem Schreibtisch aus alles in Gang gesetzt werden kann. Lerne unsere wichtigsten Abteilungen kennen und reichere so tagtäglich Dein wirtschaftliches Interesse und Wissen an. ",
+      "recruiter": {
+        "name": "Michael Wiesenack-Flick",
+        "email": "michael.wiesenack-flick@basf.com",
+        "phone": "+49 30 2005-58564"
+      }
+    },
+    {
+      "job_id": "138504",
+      "title": "Ausbildung Industriemechaniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/138504/?locale=en_US",
+      "city": "Lemförde",
+      "state": "Niedersachsen",
+      "country": "Germany",
+      "company": "BASF Polyurethanes GmbH",
+      "department": "PM/LHA Apprenticeship Technical",
+      "job_field": "Applications Technology",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-05-27T07:28:38Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Ohne Dich läuft nichts! Du lernst, wie unsere Anlagen, Maschinen, Baugruppen und technischen Systeme hergestellt, montiert, eingerichtet und instandgehalten werden. Damit sorgst Du dafür, dass die Entwicklung des vielseitigen Spezialkunststoffs Polyurethan reibungslos funktionieren kann. Du bist nicht nur ein kleines Rädchen im Getriebe der Maschinerie -ohne Dich gäbe es keine Maschinerie! DAS LERNST DU WÄHREND DEINER AUSBILDUNG &#13; Herstellen, Bearbeiten und B",
+      "recruiter": {
+        "name": "Michael Wiesenack-Flick",
+        "email": "michael.wiesenack-flick@basf.com",
+        "phone": "+49 30 2005-58564"
+      }
+    },
+    {
+      "job_id": "138501",
+      "title": "Ausbildung Werkstoffprüfer:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/138501/?locale=en_US",
+      "city": "Lemförde",
+      "state": "Niedersachsen",
+      "country": "Germany",
+      "company": "BASF Polyurethanes GmbH",
+      "department": "PM/LHAA Apprenticeship - Production",
+      "job_field": "Research & Development",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-05-27T07:21:18Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du schaust lieber zweimal hin und erledigst deine Aufgaben ganz genau? Qualität ist für dich selbstverständlich und du arbeitest gerne mit verschiedenen Werkstoffen? Dann haben wir die richtige Ausbildung für dich! Werde Werkstoffprüfer:in und kümmere dich um die Einhaltung von Qualitätsanforderungen. Werkstoffe müssen bei dir auf Biegen und Brechen den Härtetestbestehen. Mit Forschergeist und Scharfsinn spürst du Fehler im Material auf. Du kannst dir nichts Schö",
+      "recruiter": {
+        "name": "Michael Wiesenack-Flick",
+        "email": "michael.wiesenack-flick@basf.com",
+        "phone": "+49 30 2005-58564"
+      }
+    },
     {
       "job_id": "138276",
       "title": "Personal Protection Officer (m/w/d)",
@@ -198,28 +324,6 @@
         "name": "Nina Schülzke",
         "email": "nina.schuelzke@basf.com",
         "phone": "030200558790"
-      }
-    },
-    {
-      "job_id": "138590",
-      "title": "Officer Accounts Payable Team Intercompany (m/f/d)",
-      "url": "https://basf.jobs/job-invite/138590/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/VA-RA Intercompany",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-05-21T07:16:09Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; The Accounts Payable and Freight Cost Management Department provides professional invoice management for all affiliated European BASF Group com",
-      "recruiter": {
-        "name": "Viktoria Pohl",
-        "email": "viktoria.pohl@basf.com",
-        "phone": "+49 30 2005-58390"
       }
     },
     {
@@ -484,28 +588,6 @@
         "name": "Lennart Boudgoust",
         "email": "lennart.boudgoust@basf.com",
         "phone": "+49 30 2005-56521"
-      }
-    },
-    {
-      "job_id": "138384",
-      "title": "Praktikum Führungskräfteentwicklung (m/w/d)",
-      "url": "https://basf.jobs/job-invite/138384/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "ESH/VA Quali., Lead. & Learning Design in Oper.",
-      "job_field": "Human Resources",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-05-13T13:03:56Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an den Standorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices und Logistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche, die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allen Belangen rund um Umwelts",
-      "recruiter": {
-        "name": "Antje Pfeifer",
-        "email": "antje.pfeifer@basf.com",
-        "phone": "+49 30 2005-58153"
       }
     },
     {
@@ -1619,27 +1701,6 @@
       }
     },
     {
-      "job_id": "135205",
-      "title": "Ausbildung Chemielaborant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135205/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Agricultural Solutions Deutschland GmbH",
-      "department": "ESH/VL Voc. Training Laboratory Assistants",
-      "job_field": "Research & Development",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
-      "recruiter": {
-        "name": "Romy Marie Gründel",
-        "email": "romy.gruendel@basf.com",
-        "phone": "+49 30 2005-56730"
-      }
-    },
-    {
       "job_id": "135209",
       "title": "Ausbildung Mechatroniker:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/135209/?locale=en_US",
@@ -1742,6 +1803,27 @@
         "name": "Lina Wehr",
         "email": "lina.wehr@basf.com",
         "phone": "+49 30 2005-56745"
+      }
+    },
+    {
+      "job_id": "135205",
+      "title": "Ausbildung Chemielaborant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135205/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "department": "ESH/VL Voc. Training Laboratory Assistants",
+      "job_field": "Research & Development",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
+      "recruiter": {
+        "name": "Romy Marie Gründel",
+        "email": "romy.gruendel@basf.com",
+        "phone": "+49 30 2005-56730"
       }
     },
     {
