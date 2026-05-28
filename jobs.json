@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T07:46:06Z",
-  "total_active": 202,
+  "last_updated": "2026-05-28T11:28:06Z",
+  "total_active": 201,
   "jobs": [
     {
       "job_id": "138103",
@@ -2119,28 +2119,6 @@
       }
     },
     {
-      "job_id": "134437",
-      "title": "Account Manager Fluids & Lubricants (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134437/?locale=en_US",
-      "city": "Monheim am Rhein",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BTC Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "RES03/DIA-S Sales Automotive & Industrial Fluid Sol.",
-      "job_field": "Marketing & Sales",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": true,
-      "date_posted": "2026-04-09T07:01:09Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Als europäische Vertriebsorganisation der BASF-Gruppe vertreibt BTC Europe hochveredelte Spezial- und Feinchemikalien an internationale Kunden in zahlreichen Branchen. Wir profitieren von unserer Kundennähe, unserer Flexibilität, unserer langjährigen Erfahrung und dem geballten Know-how des BASF-Verbunds. WAS SIE ERWARTET &#13; Wir suchen einen Außendienstmitarbeiter für die Vertriebsregion DACH, der so bald wie möglich mit einer 100-prozentigen Remote-Arbeitsregelung be",
-      "recruiter": {
-        "name": "Svenja Sollmann",
-        "email": "svenja.sollmann@basf.com",
-        "phone": "+49 30 2005-59355"
-      }
-    },
-    {
       "job_id": "132103",
       "title": "Account Manager Glysantin DACH (m/f/d)",
       "url": "https://basf.jobs/job-invite/132103/?locale=en_US",
@@ -4014,27 +3992,6 @@
       }
     },
     {
-      "job_id": "119549",
-      "title": "Ausbildung Chemielaborant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/119549/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VL Voc. Training Laboratory Assistants",
-      "job_field": "Research & Development",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Die Chemie ist deine Leidenschaft und neugierig warst du schon immer. Sobald du dein Duschgel in der Hand hältst, willst du wissen, wie es sich zusammensetzt und dass selbst ein Handy ohne Chemie keine Energie hätte, ist für dich nichts Neues. Du kannst es nicht abwarten, endlich im Labor zu stehen und den Dingen auf den Grund zu gehen. Bei uns untersuchst du verschiedenste Verbindungen mit detektivischer Genauigkeit und modernsten Methoden. Tauche ein in die Gru",
-      "recruiter": {
-        "name": "Susanne Reddmann",
-        "email": "susanne.reddmann@basf.com",
-        "phone": "+49 30 2005-56097"
-      }
-    },
-    {
       "job_id": "119235",
       "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
       "url": "https://basf.jobs/job-invite/119235/?locale=en_US",
@@ -4074,6 +4031,27 @@
         "name": "Katrin Statnick",
         "email": "katrin.statnick@basf.com",
         "phone": "+49 30 2005-58118"
+      }
+    },
+    {
+      "job_id": "119549",
+      "title": "Ausbildung Chemielaborant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/119549/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VL Voc. Training Laboratory Assistants",
+      "job_field": "Research & Development",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Die Chemie ist deine Leidenschaft und neugierig warst du schon immer. Sobald du dein Duschgel in der Hand hältst, willst du wissen, wie es sich zusammensetzt und dass selbst ein Handy ohne Chemie keine Energie hätte, ist für dich nichts Neues. Du kannst es nicht abwarten, endlich im Labor zu stehen und den Dingen auf den Grund zu gehen. Bei uns untersuchst du verschiedenste Verbindungen mit detektivischer Genauigkeit und modernsten Methoden. Tauche ein in die Gru",
+      "recruiter": {
+        "name": "Susanne Reddmann",
+        "email": "susanne.reddmann@basf.com",
+        "phone": "+49 30 2005-56097"
       }
     },
     {
