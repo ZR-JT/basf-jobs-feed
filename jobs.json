@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-28T11:28:06Z",
-  "total_active": 201,
+  "last_updated": "2026-05-28T15:02:42Z",
+  "total_active": 200,
   "jobs": [
     {
       "job_id": "138103",
@@ -212,28 +212,6 @@
         "name": "Katarina Borisov",
         "email": "katarina.borisov@basf.com",
         "phone": "+49 30 2005-59269"
-      }
-    },
-    {
-      "job_id": "138515",
-      "title": "EMEA & International Tax Specialist (m/f/d)",
-      "url": "https://basf.jobs/job-invite/138515/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Agricultural Solutions Deutschland GmbH",
-      "business_unit": "EMEA",
-      "department": "AP AP Finance",
-      "job_field": "Finance, Controlling & Audit",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-05-24T22:00:00Z",
-      "description": "WELCOME TO BASF &#13; We are BASF in agriculture and everything we do, we do for the love of farming. Our solutions are purpose-designed for different crop systems, connecting seeds and traits, crop protection, digital tools and sustainability approaches. We strive to deliver the best possible outcomes for farmers, growers and other stakeholders along the value chain. We do everything in our power to build a sustainable future for agriculture by connecting innovation, customers and society. #For",
-      "recruiter": {
-        "name": "Lennart Boudgoust",
-        "email": "lennart.boudgoust@basf.com",
-        "phone": "+49 30 2005-56521"
       }
     },
     {
@@ -2645,7 +2623,7 @@
     },
     {
       "job_id": "133056",
-      "title": "Industriekletterer:in / Seilzugangstechniker:in mit Level 3 (m/w/d)",
+      "title": "Dummy",
       "url": "https://basf.jobs/job-invite/133056/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
@@ -2653,9 +2631,9 @@
       "company": "BASF SE",
       "business_unit": "EMEA",
       "department": "ESO/PZ Montagekoord. Seilzugangstechnik",
-      "job_field": "Engineering",
-      "job_level": "Professional",
-      "job_type": "Permanent",
+      "job_field": "Other",
+      "job_level": "Other",
+      "job_type": "Other",
       "hybrid": false,
       "date_posted": "2026-02-13T19:27:51Z",
       "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an den Standorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices und Logistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche, die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allen Belangen rund um Umwelts",
@@ -2852,7 +2830,7 @@
       "department": "ESH/VT Ingenieurprogramme Produktion u. Technik",
       "job_field": "Other",
       "job_level": "Other",
-      "job_type": "Permanent",
+      "job_type": "Other",
       "hybrid": false,
       "date_posted": "2026-01-28T08:48:12Z",
       "description": "WILLKOMMEN BEI UNS &#13; Mit unseren START IN-Traineeprogrammen bereiten wir Sie durch anspruchsvolle Aufgaben, spannende Projekte und Verantwortung ab dem ersten Tag auf Ihre zukünftige Rolle bei BASF vor. Jedes START IN-Programm wird individuell Ihrer Entwicklung auf die Zielposition angepasst. Nutzen Sie die Gelegenheit sich in einem dynamischen Umfeld zu entfalten und gemeinsam mit uns die Zukunft zu gestalten. Werden Sie Teil einer inspirierenden Community, die sich durch Zusammenarbeit und",
