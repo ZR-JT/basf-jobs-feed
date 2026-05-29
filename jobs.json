@@ -1,7 +1,95 @@
 {
-  "last_updated": "2026-05-29T07:45:03Z",
+  "last_updated": "2026-05-29T11:18:33Z",
   "total_active": 199,
   "jobs": [
+    {
+      "job_id": "139107",
+      "title": "Internship Carbon Steering (m/f/d)",
+      "url": "https://basf.jobs/job-invite/139107/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "CD/NC Carbon Steering",
+      "job_field": "General Management",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-05-29T10:07:52Z",
+      "description": "WELCOME TO BASF &#13; We shape BASF's future by defining the strategic framework. As part of the Corporate Center, we support our Board of Executive Directors in all portfolio and resource allocation decisions. We develop strategies, identify risks and opportunities and analyze trends in sustainability and technology. Together with the operating divisions, we develop strategies for the business and support their implementation. WHAT YOU CAN EXPECT &#13; The Corporate Sustainability division mana",
+      "recruiter": {
+        "name": "Yasemin Koparan",
+        "email": "yasemin.koparan@basf.com",
+        "phone": "+49 30 2005-58540"
+      }
+    },
+    {
+      "job_id": "139110",
+      "title": "Officer Flächenmanagement (m/w/d)",
+      "url": "https://basf.jobs/job-invite/139110/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "business_unit": "EMEA",
+      "department": "ES/RC Flächenmanagement",
+      "job_field": "Catering",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-29T09:50:34Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Ob Mittagspause, Event oder einfach guter Geschmack – wir machen Ludwigshafen lecker! In unseren Kantinen und Locations sorgen wir für Vielfalt, Qualität und echte Genussmomente. Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Catering Veranstaltungen im Griff – Sie bearbeiten Anfragen zu Veranstaltungen, planen passende Cateringlösungen und stimmen sich eng mit unseren Kund:innen zu Ablauf, Umfang und Details ab. Operative Steuerung vor Ort – Sie begleiten Caterings a",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
+      }
+    },
+    {
+      "job_id": "139090",
+      "title": "Leitung Culinary Operations - Betriebsgastronomie (m/w/d)",
+      "url": "https://basf.jobs/job-invite/139090/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "business_unit": "EMEA",
+      "department": "ES/RC Canteens",
+      "job_field": "Catering",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-29T09:35:20Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Ob Mittagspause, Event oder einfach guter Geschmack – wir machen Ludwigshafen lecker! In unseren Kantinen und Locations sorgen wir für Vielfalt, Qualität und echte Genussmomente. Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Fachliche Führung Verantwortung - Sie leiten zehn Betriebskantinen in Ludwigshafen und führen die Küchenleiter:innen (8) sowie das Team Angebotskonzeption (2). Führung Entwicklung - Sie coachen und entwickeln Führungskräfte, begleiten Recruiting,",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
+      }
+    },
+    {
+      "job_id": "139106",
+      "title": "Minijob / Aushilfe Logistik & Versand Weinfachgeschäft - 603 €-Basis (m/w/d)",
+      "url": "https://basf.jobs/job-invite/139106/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "business_unit": "EMEA",
+      "department": "ES/RW Logistik",
+      "job_field": "Catering",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-05-29T08:30:18Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Starten Sie mit uns in eine Welt voller Genuss! Ob edle Tropfen, perfekte Lagerung oder exklusive Tastings – bei uns dreht sich alles um die Leidenschaft für Wein. Mit Ihrem Know-how sorgen Sie dafür, dass unsere Kundinnen und Kunden besondere Momente erleben. Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Versandvorbereitung - Sie falten und bereiten Versandkartonagen vor, damit der Versand reibungslos starten kann. Logistik Versand - Sie unterstützen beim Verpacken ",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
+      }
+    },
     {
       "job_id": "138507",
       "title": "Bachelor of Science Betriebswirtschaftslehre (m/w/d)",
@@ -1398,28 +1486,6 @@
       "recruiter": {
         "name": "Liliana Marcela Quiroga Duarte",
         "email": "liliana-marcela.quiroga-duarte@basf.com"
-      }
-    },
-    {
-      "job_id": "135037",
-      "title": "Development Manager Biocides (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135037/?locale=en_US",
-      "city": "Grenzach-Wyhlen",
-      "state": "Baden-Württemberg",
-      "country": "Germany",
-      "company": "BASF Grenzach GmbH",
-      "business_unit": "EMEA",
-      "department": "G-EMH/RM Development & AT Microbial Control",
-      "job_field": "Research & Development",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-04-15T07:26:43Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir bei Care Chemicals handeln aus Leidenschaft. Unsere Mitarbeiter:innen sind unser wertvollstes Gut und wir pflegen eine Kultur der Empathie, der Unterstützung und des Wachstums. Auf diese Weise befähigen wir unser Team, sich persönlich und beruflich weiterzuentwickeln. Mit vereinten Kräften engagieren wir uns für die Entwicklung nachhaltiger, digitaler und innovativer Lösungen für eine bessere Zukunft. Pflegende Hautcremes, milde Shampoos, Sonnenschutzmittel, schonend",
-      "recruiter": {
-        "name": "Corinna Granterath",
-        "email": "corinna.granterath@basf.com",
-        "phone": "+49 30 2005-59302"
       }
     },
     {
@@ -3328,69 +3394,6 @@
       "hybrid": false,
       "date_posted": "2025-07-01T07:37:04Z",
       "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du bist motiviert, den Einstieg ins Berufsleben zu schaffen? Praktisches Arbeiten ist genau dein Ding? Dann bist Du hier richtig: Mit unserem einjährigen Programm machst Du dich fit für deine Wunschausbildung! DAS LERNST DU WÄHREND DEINER AUSBILDUNG &#13; Vorbereiten, steuern und überwachen von Produktionsprozessen Kennenlernen von Infrastrukturbetrieben Kennenlernen moderner Abfüllanlagen für Autolacke Herstellung von Autoserien-, Autoreparaturlacken und Folienb",
-      "recruiter": {
-        "name": "Romy Marie Gründel",
-        "email": "romy.gruendel@basf.com",
-        "phone": "+49 30 2005-56730"
-      }
-    },
-    {
-      "job_id": "124655",
-      "title": "Ausbildung Verfahrensmechaniker:in für Beschichtungstechnik (m/w/d)",
-      "url": "https://basf.jobs/job-invite/124655/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "department": "BASF Coatings",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-07-01T07:22:37Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Deine Lieblingsfarbe ist bunt und Lack Deine Leidenschaft? Perfekt! Als Verfahrensmechaniker:in für Beschichtungs­technik hilfst Du mit, neue Lackrezepturen und Beschichtungsverfahren zu ent­wickeln und zu überprüfen. Im Automobilwerk betreust Du den Auftrag der Lacke und organisierst den gesamten Prozess von der Lack-Anlieferung bis zur Freigabe der lackierten Karosserie und Kundenberatung in technischen Fragen der Lackanwendung. Du wirkst daran mit, dass unser ",
-      "recruiter": {
-        "name": "Romy Marie Gründel",
-        "email": "romy.gruendel@basf.com",
-        "phone": "+49 30 2005-56730"
-      }
-    },
-    {
-      "job_id": "124356",
-      "title": "Ausbildung Fahrzeuglackierer:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/124356/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "department": "BASF Coatings",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-07-01T07:19:10Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du triffst immer den richtigen Ton und beweist dabei noch handwerkliches Geschick? Dann bist Du hier richtig: An Fahrzeugteilen erlernst Du in Lackierkabinen den richtigen Umgang mit der Lackierpistole, beurteilst mit dem bloßen Auge und Messgeräten das Lackierergebnis und den richtigen Farbton des Lackes. Während deiner Ausbildung lernst Du außerdem einige Autolackierereien / Kunden in verschiedenen Ländern kennen. Du wirkst daran mit, dass unsere Welt bunter wi",
-      "recruiter": {
-        "name": "Romy Marie Gründel",
-        "email": "romy.gruendel@basf.com",
-        "phone": "+49 30 2005-56730"
-      }
-    },
-    {
-      "job_id": "124308",
-      "title": "Ausbildung Lacklaborant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/124308/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "department": "BASF Coatings",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-07-01T07:14:06Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du bist der Chemie verfallen und kannst es nicht abwarten endlich im Labor zu stehen? Du fragst dich: Warum funkelt die Lackierung eines Autos wie ein Sternenhimmel? Warum wechselt der Farbton bei Änderung des Blickwinkels? Dann hast Du einen Forschergeist! In unseren Laboren kannst Du diesen Fragen mit detektivischer Genauigkeit und modernsten Untersuchungsgeräten auf den Grund gehen. Tauche ein in die Grundlagen der Chemie und erlerne dabei Produktions- und Ana",
       "recruiter": {
         "name": "Romy Marie Gründel",
         "email": "romy.gruendel@basf.com",
