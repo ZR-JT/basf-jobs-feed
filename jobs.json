@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-05-29T11:18:33Z",
-  "total_active": 199,
+  "last_updated": "2026-05-29T14:35:46Z",
+  "total_active": 201,
   "jobs": [
+    {
+      "job_id": "138276",
+      "title": "Personal Protection Officer (m/w/d)",
+      "url": "https://basf.jobs/job-invite/138276/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "CL/PPL Limousinenservice",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-05-29T13:22:02Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Unsere Einheit Corporate Legal, Compliance, Insurance Security berät zu Rechtsfragen und Versicherungen, betreut das Compliance Integrity Programm der BASF-Gruppe und bündelt alle Themen rund um Schutz und Sicherheit. Mit unserer Expertise auf diesen Gebieten stehen wir unseren Kolleg:innen als aktiv gestaltender Partner zur Seite. Durch unser globales Team stellen wir sicher, dass unsere Beratung stets nah am Kunden erfolgt. WAS SIE ERWARTET &#13; Sie führen operative P",
+      "recruiter": {
+        "name": "Laura Juliane Mierke",
+        "email": "juliane.mierke@basf.com",
+        "phone": "+49 30 2005-58922"
+      }
+    },
+    {
+      "job_id": "139055",
+      "title": "Praktikum / Abschlussarbeit - Datenanalyse & Prozessoptimierung (w/m/d)",
+      "url": "https://basf.jobs/job-invite/139055/?locale=en_US",
+      "city": "Freiburg im Breisgau",
+      "state": "Baden-Württemberg",
+      "country": "Germany",
+      "company": "Performance Polyamides GmbH",
+      "business_unit": "EMEA",
+      "department": "E-CMP/OF Polyamides & Precursors Europe",
+      "job_field": "Engineering",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-05-29T12:32:50Z",
+      "description": "WILLKOMMEN BEI UNS &#13; In Freiburg im Breisgau, im Infrarhod-Industriepark, produzieren wir Polyamide für den weltweiten Textil- und Automobilmarkt. Unsere Produkte werden z.B. in der europäischen Textilindustrie zu Garnen weiterverarbeitet, die in Funktionstextilien namhafter Hersteller zum Einsatz kommen. Weiterhin werden anspruchsvolle Bauteile für die Automobilindustrie und die Elektromobilität aus unserem Produkt gefertigt. Darüber hinaus sind wir an der Verwertung und dem Vertrieb unsere",
+      "recruiter": {
+        "name": "Jenny König",
+        "email": "jenny.koenig@basf.com",
+        "phone": "+49 30 2005-56012"
+      }
+    },
     {
       "job_id": "139107",
       "title": "Internship Carbon Steering (m/f/d)",
