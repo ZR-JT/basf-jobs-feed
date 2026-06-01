@@ -1,7 +1,28 @@
 {
-  "last_updated": "2026-06-01T09:09:49Z",
-  "total_active": 202,
+  "last_updated": "2026-06-01T17:13:09Z",
+  "total_active": 201,
   "jobs": [
+    {
+      "job_id": "139093",
+      "title": "Ausbildung Chemikant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/139093/?locale=en_US",
+      "city": "Lampertheim",
+      "state": "Hessen",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "EVM/EL Lampertheim Site",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-06-01T09:08:19Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Ein Chemieunternehmen ohne seine Chemikant:innen? Unvorstellbar! Das wäre wie Zähneputzen ohne Zahnpasta, Joggen ohne Laufschuhe oder die perfekte Frisur ohne Haarspray. Neugierig, in welchen Produkten die BASF noch enthalten ist? Dann ist dieser Beruf genau das Richtige für Dich, denn Du bekommst nicht nur einen genauen Einblick in die spannende Produktwelt, sondern steuerst und überwachst die Produktion von vielen chemischen Erzeugnissen. Komm an Bord und nimm ",
+      "recruiter": {
+        "name": "Olesya Günther",
+        "email": "olesya.guenther@basf.com",
+        "phone": "+49 30 2005-56947"
+      }
+    },
     {
       "job_id": "139046",
       "title": "Praktikum Regional Container Management (m/w/d)",
@@ -766,7 +787,7 @@
     },
     {
       "job_id": "135920",
-      "title": "Verkaufsberater:in (m/w/d)",
+      "title": "Verkaufsberater:in Pflanzenschutzmittel - Sachsen-Anhalt (m/w/d)",
       "url": "https://basf.jobs/job-invite/135920/?locale=en_US",
       "city": "Limburgerhof",
       "state": "Rheinland-Pfalz",
@@ -1070,50 +1091,6 @@
         "name": "Antje Pfeifer",
         "email": "antje.pfeifer@basf.com",
         "phone": "+49 30 2005-58153"
-      }
-    },
-    {
-      "job_id": "135113",
-      "title": "Werkstudent:in Future Workforce Office (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135113/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "EC/XTF Future Workforce",
-      "job_field": "Digitalization",
-      "job_level": "Student",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-05-06T07:26:47Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den ",
-      "recruiter": {
-        "name": "Melissa Amina Rahmani",
-        "email": "melissa.rahmani@basf.com",
-        "phone": "+49 30 2005-58073"
-      }
-    },
-    {
-      "job_id": "136017",
-      "title": "Anwendungstechniker:in im Außendienst für die Marke Glasurit (R) (m/w/d)",
-      "url": "https://basf.jobs/job-invite/136017/?locale=en_US",
-      "city": "Hamburg",
-      "state": "Hamburg",
-      "country": "Germany",
-      "company": "BASF Coatings Services GmbH",
-      "business_unit": "EMEA",
-      "department": "G-ECR/ED BCSD Sales Mgmt North",
-      "job_field": "Marketing & Sales",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-05-06T07:21:42Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den ",
-      "recruiter": {
-        "name": "Melissa Amina Rahmani",
-        "email": "melissa.rahmani@basf.com",
-        "phone": "+49 30 2005-58073"
       }
     },
     {
