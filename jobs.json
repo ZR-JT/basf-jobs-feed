@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-06-02T08:19:07Z",
-  "total_active": 200,
+  "last_updated": "2026-06-02T19:35:16Z",
+  "total_active": 202,
   "jobs": [
+    {
+      "job_id": "139240",
+      "title": "Internship Management Consulting - (Digital) Innovation & Circular Economy (m/f/d)",
+      "url": "https://basf.jobs/job-invite/139240/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "GBM/M Innovation Excellence",
+      "job_field": "Inhouse Consulting",
+      "job_level": "Student",
+      "job_type": "Internship",
+      "hybrid": false,
+      "date_posted": "2026-06-02T10:27:50Z",
+      "description": "WELCOME TO BASF &#13; Welcome to the global management consultancy of BASF. We focus on strategic inhouse projects that drive the effective transformation of our businesses. Our teams work on a broad range of exciting projects covering topics such as marketing sales, organizational development, efficiency projects, M A as well as profitable growth through all types of innovation. If you join us, you can grow as well: We always put people first and actively support you in your career development ",
+      "recruiter": {
+        "name": "Annika Emmerich",
+        "email": "annika.emmerich@basf.com",
+        "phone": "+49 30 2005-58420"
+      }
+    },
+    {
+      "job_id": "135997",
+      "title": "Accountant Financial Reporting with Polish (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/135997/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/WR1-CN Fin. Rep. Central, Nordic & Baltic",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-06-02T10:23:58Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our international financial reporting team as a Financial Accountant. In this role, you are responsible for the general ledger and act as ",
+      "recruiter": {
+        "name": "Jennifer Weiz",
+        "email": "jennifer.weiz@basf.com",
+        "phone": "+49 30 2005-56454"
+      }
+    },
+    {
+      "job_id": "139238",
+      "title": "Officer Accounts Payable with Spanish (m/f/d)",
+      "url": "https://basf.jobs/job-invite/139238/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/VA-EA IBERIA",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-06-02T08:40:07Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; The Accounts Payable and Freight Cost Management department provides professional invoice management for all affiliated European BASF Group com",
+      "recruiter": {
+        "name": "Viktoria Pohl",
+        "email": "viktoria.pohl@basf.com",
+        "phone": "+49 30 2005-58390"
+      }
+    },
     {
       "job_id": "139093",
       "title": "Ausbildung Chemikant:in (m/w/d)",
@@ -695,28 +761,6 @@
         "name": "Svenja Sollmann",
         "email": "svenja.sollmann@basf.com",
         "phone": "+49 30 2005-59355"
-      }
-    },
-    {
-      "job_id": "138446",
-      "title": "Anlagenfahrer:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/138446/?locale=en_US",
-      "city": "Düsseldorf",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Personal Care and Nutrition GmbH",
-      "business_unit": "EMEA",
-      "department": "EMX/HV Cluster EMV",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-05-18T07:34:38Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir bei Care Chemicals handeln aus Leidenschaft. Unsere Mitarbeiter:innen sind unser wertvollstes Gut und wir pflegen eine Kultur der Empathie, der Unterstützung und des Wachstums. Auf diese Weise befähigen wir unser Team, sich persönlich und beruflich weiterzuentwickeln. Mit vereinten Kräften engagieren wir uns für die Entwicklung nachhaltiger, digitaler und innovativer Lösungen für eine bessere Zukunft. Pflegende Hautcremes, milde Shampoos, Sonnenschutzmittel, schonend",
-      "recruiter": {
-        "name": "Valeria Illera Benjumea",
-        "email": "valeria.illera-benjumea@basf.com",
-        "phone": "0302005-58110"
       }
     },
     {
@@ -2057,27 +2101,6 @@
       }
     },
     {
-      "job_id": "135043",
-      "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135043/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Anlagenmechaniker",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Mit dem “plus“ bieten wir dir die einmalige Chance die Inhalte aus zwei Berufen zu erlernen. In deiner Ausbildung als Anlagenmechaniker:in erhältst du bei uns on top auch alle wichtigen Inhalte der Industriemechanik. Du hast dich schon immer gerne mit Werkzeugen beschäftigt und interessierst dich für Technik? Hast du Spaß daran dich aktiv einzubringen, Produktionsanlagen und Maschinen faszinieren dich? Dann werden dir spannende Aufgaben, wie das Bearbeiten von me",
-      "recruiter": {
-        "name": "Lisa Nabra",
-        "email": "lisa.nabra@basf.com",
-        "phone": "+49 30 2005-58195"
-      }
-    },
-    {
       "job_id": "135282",
       "title": "Ausbildung Fachmann:frau für Restaurants und Veranstaltungsgastronomie (m/w/d)",
       "url": "https://basf.jobs/job-invite/135282/?locale=en_US",
@@ -2117,6 +2140,27 @@
         "name": "Isabel Maisack",
         "email": "isabel.maisack@basf.com",
         "phone": "+49 30 2005-56683"
+      }
+    },
+    {
+      "job_id": "135043",
+      "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135043/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Anlagenmechaniker",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Mit dem “plus“ bieten wir dir die einmalige Chance die Inhalte aus zwei Berufen zu erlernen. In deiner Ausbildung als Anlagenmechaniker:in erhältst du bei uns on top auch alle wichtigen Inhalte der Industriemechanik. Du hast dich schon immer gerne mit Werkzeugen beschäftigt und interessierst dich für Technik? Hast du Spaß daran dich aktiv einzubringen, Produktionsanlagen und Maschinen faszinieren dich? Dann werden dir spannende Aufgaben, wie das Bearbeiten von me",
+      "recruiter": {
+        "name": "Lisa Nabra",
+        "email": "lisa.nabra@basf.com",
+        "phone": "+49 30 2005-58195"
       }
     },
     {
@@ -3783,27 +3827,6 @@
       }
     },
     {
-      "job_id": "119401",
-      "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
-      "url": "https://basf.jobs/job-invite/119401/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Anlagenmechaniker",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Mit dem plus bieten wir dir die einmalige Chance die Inhalte aus zwei Berufen zu erlernen. In deiner Ausbildung als Anlagenmechaniker:in erh ltst du bei uns on top auch alle wichtigen Inhalte der Industriemechanik. Du hast dich schon immer gerne mit Werkzeugen besch ftigt und interessierst dich f r Technik? Hast du Spa daran dich aktiv einzubringen, Produktionsanlagen und Maschinen faszinieren dich? Dann werden dir spannende Aufgaben, wie das Bearbeiten von metal",
-      "recruiter": {
-        "name": "Lisa Nabra",
-        "email": "lisa.nabra@basf.com",
-        "phone": "+49 30 2005-58195"
-      }
-    },
-    {
       "job_id": "119244",
       "title": "Ausbildung Kunststoff- und Kautschuktechnologe:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/119244/?locale=en_US",
@@ -3818,6 +3841,27 @@
       "hybrid": false,
       "date_posted": "2025-04-01T22:00:00Z",
       "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kunststoff fasziniert dich? Dann ist dieser Beruf genau der Richtige für dich! Kunststoff und Kautschuk sind auf Grund ihrer sehr guten chemischen Beständigkeit vielseitig einsetzbar. Bei uns lernst du die Welt dieses Materials genauestens kennen und hast die Möglichkeit dich für die Fachrichtung Formteile, Bauteile oder Halbzeugeherstellung zu bewerben. Gib Gummi in einem der vielseitigsten Berufe bei der BASF! DAS LERNST DU WÄHREND DEINER AUSBILDUNG &#13; Das b",
+      "recruiter": {
+        "name": "Lisa Nabra",
+        "email": "lisa.nabra@basf.com",
+        "phone": "+49 30 2005-58195"
+      }
+    },
+    {
+      "job_id": "119401",
+      "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
+      "url": "https://basf.jobs/job-invite/119401/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Anlagenmechaniker",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Mit dem “plus“ bieten wir dir die einmalige Chance die Inhalte aus zwei Berufen zu erlernen. In deiner Ausbildung als Anlagenmechaniker:in erhältst du bei uns on top auch alle wichtigen Inhalte der Industriemechanik. Du hast dich schon immer gerne mit Werkzeugen beschäftigt und interessierst dich für Technik? Hast du Spaß daran dich aktiv einzubringen, Produktionsanlagen und Maschinen faszinieren dich? Dann werden dir spannende Aufgaben, wie das Bearbeiten von me",
       "recruiter": {
         "name": "Lisa Nabra",
         "email": "lisa.nabra@basf.com",
