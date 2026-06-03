@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-06-03T08:46:26Z",
-  "total_active": 202,
+  "last_updated": "2026-06-03T16:13:29Z",
+  "total_active": 203,
   "jobs": [
+    {
+      "job_id": "139334",
+      "title": "Ferienhelfer:in Lemförde (m/w/d)",
+      "url": "https://basf.jobs/job-invite/139334/?locale=en_US",
+      "city": "Lemförde",
+      "state": "Niedersachsen",
+      "country": "Germany",
+      "company": "BASF Polyurethanes GmbH",
+      "business_unit": "EMEA",
+      "department": "G-PM/AOL Asset Management",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Student",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-06-03T11:59:45Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Performance Materials entwickeln und produzieren wir innovative Kunststoffe und Schäume für verschiedenste Anwendungen. Ob für Autos, Gebäude oder Sportartikel - wir suchen immer die ideale Materiallösung. Dafür arbeiten wir eng mit unseren Kunden zusammen: von Produktion und Logistik über Forschung und Vertrieb bis hin zu Bauteilprüfung, Designberatung und Simulation. WAS SIE ERWARTET &#13; Als Ferienhelfer:in unterstützen Sie während der vorlesungsfreien Zei",
+      "recruiter": {
+        "name": "Michael Wiesenack-Flick",
+        "email": "michael.wiesenack-flick@basf.com",
+        "phone": "+49 30 2005-58564"
+      }
+    },
+    {
+      "job_id": "139328",
+      "title": "HR Officer (m/w/d)",
+      "url": "https://basf.jobs/job-invite/139328/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "business_unit": "EMEA",
+      "department": "ES/R BASF Gastronomie GmbH",
+      "job_field": "Catering",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-03T11:58:22Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Sie behalten den Überblick, arbeiten strukturiert und haben Freude daran, Menschen im Arbeitsalltag zu unterstützen? Als HR Officer übernehmen Sie eine zentrale Rolle entlang des gesamten Employee Lifecycles und tragen aktiv dazu bei, unsere HR‑Prozesse effizient und rechtssicher ablaufen. Dabei gestalten Sie den weiteren Aufbau der BASF Gastronomie GmbH aktiv mit. WAS SIE ERWARTET &#13; Beratung Betreuung – Sie unterstützen Führungskräfte bei personalrelevanten Frageste",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
+      }
+    },
     {
       "job_id": "139240",
       "title": "Internship Management Consulting - (Digital) Innovation & Circular Economy (m/f/d)",
@@ -2280,7 +2324,7 @@
       "country": "Germany",
       "company": "BASF InfraService & Solutions Lausitz GmbH",
       "business_unit": "EMEA",
-      "department": "ESS/SRI Data Analytics & AI",
+      "department": "ESS/TSI Data Analytics & AI",
       "job_field": "Digitalization",
       "job_level": "Professional",
       "job_type": "Permanent",
@@ -2412,7 +2456,7 @@
       "country": "Germany",
       "company": "BASF InfraService & Solutions Lausitz GmbH",
       "business_unit": "EMEA",
-      "department": "ESS/TW Crisis Management",
+      "department": "ESS/CSE Crisis Management",
       "job_field": "Environment, Health & Safety",
       "job_level": "Professional",
       "job_type": "Temporary",
@@ -3317,27 +3361,6 @@
       }
     },
     {
-      "job_id": "119646",
-      "title": "Ausbildung Physiklaborant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/119646/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VL Voc. Training Laboratory Assistants",
-      "job_field": "Research & Development",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-08-14T06:58:24Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du steckst voller Energie und mit \"Kelvin\" meinst du nicht das Modelabel? Wenn du an Lux und Ampere denkst, geht dir ein Licht auf und du kannst es nicht abwarten, endlich im Labor zu stehen? Mit Hilfe moderner Geräte erforschst du Eigenschaften von Stoffen und Produkten oder du automatisierst die Steuerung unserer Messanlagen - du kannst also gespannt sein! DAS LERNST DU WÄHREND DEINER AUSBILDUNG &#13; Durchführen physikalischer Messungen und Versuchsreihen Ausw",
-      "recruiter": {
-        "name": "Mariya Budkevych",
-        "email": "mariya.budkevych@basf.com",
-        "phone": "+49 30 2005-56363"
-      }
-    },
-    {
       "job_id": "124871",
       "title": "Ausbildung Industriemechaniker:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/124871/?locale=en_US",
@@ -3785,27 +3808,6 @@
       }
     },
     {
-      "job_id": "118966",
-      "title": "Ausbildung Mechatroniker:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/118966/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung Mechatroniker",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Ger t den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du t ftelst f r dein Leben gerne? Deine Lieblingsf cher sind Mathe und Physik, aber noch viel lieber h ttest du fter die F cher Mechanik, Elektrotechnik und IT? Das klingt ganz so, als w re ein Beruf in diesem Bereich perfekt f r dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu k mmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich f r eine Au",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
-      }
-    },
-    {
       "job_id": "119404",
       "title": "Ausbildung Hotelfachmann:frau (m/w/d) mit Zusatzqualifikation Hotelmanagement",
       "url": "https://basf.jobs/job-invite/119404/?locale=en_US",
@@ -3887,6 +3889,27 @@
         "name": "Lisa Nabra",
         "email": "lisa.nabra@basf.com",
         "phone": "+49 30 2005-58195"
+      }
+    },
+    {
+      "job_id": "118966",
+      "title": "Ausbildung Mechatroniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/118966/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung Mechatroniker",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Gerät den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du tüftelst für dein Leben gerne? Deine Lieblingsfächer sind Mathe und Physik, aber noch viel lieber hättest du öfter die Fächer Mechanik, Elektrotechnik und IT? Das klingt ganz so, als wäre ein Beruf in diesem Bereich perfekt für dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu kümmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich für eine A",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
       }
     },
     {
@@ -4016,27 +4039,6 @@
       }
     },
     {
-      "job_id": "119235",
-      "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
-      "url": "https://basf.jobs/job-invite/119235/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung EAUT",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kein elektrisches Ger t ist vor dir sicher. Erst wenn du wei t, wie es funktioniert, bist du zufrieden. Du t ftelst f r dein Leben gern und hast Spa an Mathe und Physik. Dass unser Leben ohne die Elektrotechnik heute nicht mehr vorstellbar w re, wei t du ganz genau. In modernen Anlagen werden chemische Produkte hergestellt, die in vielen Dingen unseres Alltags verwendet werden, wie zum Beispiel in Handys oder in Turnschuhen. Elektroniker:innen f r Automatisierung",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
-      }
-    },
-    {
       "job_id": "119240",
       "title": "Bachelor of Engineering - Elektrotechnik - Schwerpunkt Automatisierungstechnik (m/w/d)",
       "url": "https://basf.jobs/job-invite/119240/?locale=en_US",
@@ -4076,6 +4078,27 @@
         "name": "Susanne Reddmann",
         "email": "susanne.reddmann@basf.com",
         "phone": "+49 30 2005-56097"
+      }
+    },
+    {
+      "job_id": "119235",
+      "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
+      "url": "https://basf.jobs/job-invite/119235/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung EAUT",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kein elektrisches Ger t ist vor dir sicher. Erst wenn du wei t, wie es funktioniert, bist du zufrieden. Du t ftelst f r dein Leben gern und hast Spa an Mathe und Physik. Dass unser Leben ohne die Elektrotechnik heute nicht mehr vorstellbar w re, wei t du ganz genau. In modernen Anlagen werden chemische Produkte hergestellt, die in vielen Dingen unseres Alltags verwendet werden, wie zum Beispiel in Handys oder in Turnschuhen. Elektroniker:innen f r Automatisierung",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
       }
     },
     {
