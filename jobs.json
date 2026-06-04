@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T08:11:24Z",
+  "last_updated": "2026-06-04T21:22:17Z",
   "total_active": 203,
   "jobs": [
     {
@@ -830,9 +830,9 @@
       }
     },
     {
-      "job_id": "138112",
-      "title": "Group Lead Compliance & Indirect Tax​ ​(m/f/d)",
-      "url": "https://basf.jobs/job-invite/138112/?locale=en_US",
+      "job_id": "136112",
+      "title": "ICTP Governance Specialist​ (m/f/d)",
+      "url": "https://basf.jobs/job-invite/136112/?locale=en_US",
       "city": "Limburgerhof",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
@@ -852,9 +852,9 @@
       }
     },
     {
-      "job_id": "136112",
-      "title": "ICTP Governance Specialist​ (m/f/d)",
-      "url": "https://basf.jobs/job-invite/136112/?locale=en_US",
+      "job_id": "138112",
+      "title": "Group Lead Compliance & Indirect Tax​ ​(m/f/d)",
+      "url": "https://basf.jobs/job-invite/138112/?locale=en_US",
       "city": "Limburgerhof",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
@@ -1893,6 +1893,27 @@
       }
     },
     {
+      "job_id": "135209",
+      "title": "Ausbildung Mechatroniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135209/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "department": "ESH/VT Technikausbildung Mechatroniker",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
+      "recruiter": {
+        "name": "Isabel Maisack",
+        "email": "isabel.maisack@basf.com",
+        "phone": "+49 30 2005-56683"
+      }
+    },
+    {
       "job_id": "135205",
       "title": "Ausbildung Chemielaborant:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/135205/?locale=en_US",
@@ -1932,27 +1953,6 @@
         "name": "Romy Marie Gründel",
         "email": "romy.gruendel@basf.com",
         "phone": "+49 30 2005-56730"
-      }
-    },
-    {
-      "job_id": "135209",
-      "title": "Ausbildung Mechatroniker:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135209/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Agricultural Solutions Deutschland GmbH",
-      "department": "ESH/VT Technikausbildung Mechatroniker",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
-      "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
       }
     },
     {
@@ -2019,27 +2019,6 @@
       }
     },
     {
-      "job_id": "135208",
-      "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
-      "url": "https://basf.jobs/job-invite/135208/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Agricultural Solutions Deutschland GmbH",
-      "department": "ESH/VT Technikausbildung EAUT",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
-      "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
-      }
-    },
-    {
       "job_id": "135051",
       "title": "Ausbildung im Bereich Technik oder Produktion: Jetzt bewerben - später entscheiden! (m/w/d)",
       "url": "https://basf.jobs/job-invite/135051/?locale=en_US",
@@ -2079,6 +2058,27 @@
         "name": "Lisa Nabra",
         "email": "lisa.nabra@basf.com",
         "phone": "+49 30 2005-58195"
+      }
+    },
+    {
+      "job_id": "135208",
+      "title": "Ausbildung Elektroniker:in (m/w/d) für Automatisierungstechnik",
+      "url": "https://basf.jobs/job-invite/135208/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "department": "ESH/VT Technikausbildung EAUT",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
+      "recruiter": {
+        "name": "Isabel Maisack",
+        "email": "isabel.maisack@basf.com",
+        "phone": "+49 30 2005-56683"
       }
     },
     {
@@ -2166,27 +2166,6 @@
       }
     },
     {
-      "job_id": "135210",
-      "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135210/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Agricultural Solutions Deutschland GmbH",
-      "department": "ESH/VT Anlagenmechaniker",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
-      "recruiter": {
-        "name": "Isabel Maisack",
-        "email": "isabel.maisack@basf.com",
-        "phone": "+49 30 2005-56683"
-      }
-    },
-    {
       "job_id": "135043",
       "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
       "url": "https://basf.jobs/job-invite/135043/?locale=en_US",
@@ -2205,6 +2184,27 @@
         "name": "Lisa Nabra",
         "email": "lisa.nabra@basf.com",
         "phone": "+49 30 2005-58195"
+      }
+    },
+    {
+      "job_id": "135210",
+      "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135210/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "department": "ESH/VT Anlagenmechaniker",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entlan",
+      "recruiter": {
+        "name": "Isabel Maisack",
+        "email": "isabel.maisack@basf.com",
+        "phone": "+49 30 2005-56683"
       }
     },
     {
