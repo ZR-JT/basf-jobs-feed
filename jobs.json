@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T02:32:53Z",
+  "last_updated": "2026-06-04T08:11:24Z",
   "total_active": 203,
   "jobs": [
     {
@@ -1809,27 +1809,6 @@
       }
     },
     {
-      "job_id": "135206",
-      "title": "Ausbildung Biologielaborant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135206/?locale=en_US",
-      "city": "Limburgerhof",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Agricultural Solutions Deutschland GmbH",
-      "department": "ESH/VL Voc. Training Laboratory Assistants",
-      "job_field": "Research & Development",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "WILLKOMMEN BEI BASF &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entla",
-      "recruiter": {
-        "name": "Romy Marie Gründel",
-        "email": "romy.gruendel@basf.com",
-        "phone": "+49 30 2005-56730"
-      }
-    },
-    {
       "job_id": "135237",
       "title": "Ausbildung Hotelfachmann:frau (m/w/d) mit Zusatzqualifikation Hotelmanagement",
       "url": "https://basf.jobs/job-invite/135237/?locale=en_US",
@@ -1935,6 +1914,27 @@
       }
     },
     {
+      "job_id": "135206",
+      "title": "Ausbildung Biologielaborant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135206/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Agricultural Solutions Deutschland GmbH",
+      "department": "ESH/VL Voc. Training Laboratory Assistants",
+      "job_field": "Research & Development",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "WILLKOMMEN BEI BASF &#13; Wir sind BASF in der Landwirtschaft und alles, was wir tun, tun wir aus Liebe zur Landwirtschaft und dem wichtigsten Beruf auf der Erde. Wir sind ein international erfolgreiches Unternehmen der BASF-Gruppe. Unsere Lösungen sind speziell für verschiedene Anbausysteme entwickelt. Sie verbinden Saatgut und speziell gezüchtete Pflanzeneigenschaften, Pflanzenschutzprodukte, digitale Tools und Nachhaltigkeitsansätze, um Landwirten, Züchtern und anderen Interessengruppen entla",
+      "recruiter": {
+        "name": "Romy Marie Gründel",
+        "email": "romy.gruendel@basf.com",
+        "phone": "+49 30 2005-56730"
+      }
+    },
+    {
       "job_id": "135209",
       "title": "Ausbildung Mechatroniker:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/135209/?locale=en_US",
@@ -1956,27 +1956,6 @@
       }
     },
     {
-      "job_id": "135018",
-      "title": "Ausbildung Chemikant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135018/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VO Produktionstechnik",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Produktion läuft nicht von allein – Verantwortung im Herzen der BASF Chemische Produkte sind die Grundlage für nahezu alles in unserem Alltag – von Mobilität über Ernährung bis hin zu Digitalisierung. Als Chemikant:in sorgst du dafür, dass diese Produkte entstehen. Am Standort Ludwigshafen – einem der größten Chemieareale der Welt – sorgst du dafür, dass Produktionsanlagen sicher laufen und wichtige Produkte für die Region und die Zukunft entstehen. Hier siehst d",
-      "recruiter": {
-        "name": "Lisa Nabra",
-        "email": "lisa.nabra@basf.com",
-        "phone": "+49 30 2005-58195"
-      }
-    },
-    {
       "job_id": "135235",
       "title": "Ausbildung Eisenbahner im Betriebsdienst Lokführer und Transport - Fachrichtung Güterverkehr (m/w/d)",
       "url": "https://basf.jobs/job-invite/135235/?locale=en_US",
@@ -1995,27 +1974,6 @@
         "name": "Antje Pfeifer",
         "email": "antje.pfeifer@basf.com",
         "phone": "+49 30 2005-58153"
-      }
-    },
-    {
-      "job_id": "135051",
-      "title": "Ausbildung im Bereich Technik oder Produktion: Jetzt bewerben - später entscheiden! (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135051/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung Splitterberufe",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du arbeitest gerne praktisch und möchtest die Ergebnisse deiner Arbeit sehen? Du findest Technik oder Produktion spannend und interessierst dich für den Bereich Metall, Elektro oder Produktion? Deine Lieblingsfächer in der Schule sind Technik, Mathematik, Physik, Chemie oder IT? Schwere Maschinen, Werkzeuge und laute Motoren faszinieren dich? Aber auch Produktion oder Technik im Detail und mit Fingerspitzengefühl könnte das richtige für dich sein? Oder Beides? We",
-      "recruiter": {
-        "name": "Lisa Nabra",
-        "email": "lisa.nabra@basf.com",
-        "phone": "+49 30 2005-58195"
       }
     },
     {
@@ -2079,6 +2037,48 @@
         "name": "Isabel Maisack",
         "email": "isabel.maisack@basf.com",
         "phone": "+49 30 2005-56683"
+      }
+    },
+    {
+      "job_id": "135051",
+      "title": "Ausbildung im Bereich Technik oder Produktion: Jetzt bewerben - später entscheiden! (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135051/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung Splitterberufe",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du arbeitest gerne praktisch und möchtest die Ergebnisse deiner Arbeit sehen? Du findest Technik oder Produktion spannend und interessierst dich für den Bereich Metall, Elektro oder Produktion? Deine Lieblingsfächer in der Schule sind Technik, Mathematik, Physik, Chemie oder IT? Schwere Maschinen, Werkzeuge und laute Motoren faszinieren dich? Aber auch Produktion oder Technik im Detail und mit Fingerspitzengefühl könnte das richtige für dich sein? Oder Beides? We",
+      "recruiter": {
+        "name": "Lisa Nabra",
+        "email": "lisa.nabra@basf.com",
+        "phone": "+49 30 2005-58195"
+      }
+    },
+    {
+      "job_id": "135018",
+      "title": "Ausbildung Chemikant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135018/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VO Produktionstechnik",
+      "job_field": "Production, Maintenance & Technical Services",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Produktion läuft nicht von allein – Verantwortung im Herzen der BASF Chemische Produkte sind die Grundlage für nahezu alles in unserem Alltag – von Mobilität über Ernährung bis hin zu Digitalisierung. Als Chemikant:in sorgst du dafür, dass diese Produkte entstehen. Am Standort Ludwigshafen – einem der größten Chemieareale der Welt – sorgst du dafür, dass Produktionsanlagen sicher laufen und wichtige Produkte für die Region und die Zukunft entstehen. Hier siehst d",
+      "recruiter": {
+        "name": "Lisa Nabra",
+        "email": "lisa.nabra@basf.com",
+        "phone": "+49 30 2005-58195"
       }
     },
     {
@@ -2232,7 +2232,7 @@
       "job_id": "135204",
       "title": "Ausbildung Chemikant:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/135204/?locale=en_US",
-      "city": "Limburgerhof",
+      "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF Agricultural Solutions Deutschland GmbH",
@@ -3787,27 +3787,6 @@
       }
     },
     {
-      "job_id": "119238",
-      "title": "Ausbildung im Bereich Technik oder Produktion: Jetzt bewerben - später entscheiden! (m/w/d)",
-      "url": "https://basf.jobs/job-invite/119238/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung Splitterberufe",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du arbeitest gerne praktisch und m chtest die Ergebnisse deiner Arbeit sehen? Du findest Technik oder Produktion spannend und interessierst dich f r den Bereich Metall, Elektro oder Produktion? Deine Lieblingsf cher in der Schule sind Technik, Mathematik, Physik, Chemie oder IT? Schwere Maschinen, Werkzeuge und laute Motoren faszinieren dich? Aber auch Produktion oder Technik im Detail und mit Fingerspitzengef hl k nnte das richtige f r dich sein? Oder Beides? We",
-      "recruiter": {
-        "name": "Lisa Nabra",
-        "email": "lisa.nabra@basf.com",
-        "phone": "+49 30 2005-58195"
-      }
-    },
-    {
       "job_id": "119404",
       "title": "Ausbildung Hotelfachmann:frau (m/w/d) mit Zusatzqualifikation Hotelmanagement",
       "url": "https://basf.jobs/job-invite/119404/?locale=en_US",
@@ -3829,24 +3808,24 @@
       }
     },
     {
-      "job_id": "119244",
-      "title": "Ausbildung Kunststoff- und Kautschuktechnologe:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/119244/?locale=en_US",
+      "job_id": "118966",
+      "title": "Ausbildung Mechatroniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/118966/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
-      "department": "ESH/VT Anlagenmechaniker / VMKK",
-      "job_field": "Other",
+      "department": "ESH/VT Technikausbildung Mechatroniker",
+      "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kunststoff fasziniert dich? Dann ist dieser Beruf genau der Richtige für dich! Kunststoff und Kautschuk sind auf Grund ihrer sehr guten chemischen Beständigkeit vielseitig einsetzbar. Bei uns lernst du die Welt dieses Materials genauestens kennen und hast die Möglichkeit dich für die Fachrichtung Formteile, Bauteile oder Halbzeugeherstellung zu bewerben. Gib Gummi in einem der vielseitigsten Berufe bei der BASF! DAS LERNST DU WÄHREND DEINER AUSBILDUNG &#13; Das b",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Gerät den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du tüftelst für dein Leben gerne? Deine Lieblingsfächer sind Mathe und Physik, aber noch viel lieber hättest du öfter die Fächer Mechanik, Elektrotechnik und IT? Das klingt ganz so, als wäre ein Beruf in diesem Bereich perfekt für dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu kümmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich für eine A",
       "recruiter": {
-        "name": "Lisa Nabra",
-        "email": "lisa.nabra@basf.com",
-        "phone": "+49 30 2005-58195"
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
       }
     },
     {
@@ -3892,24 +3871,45 @@
       }
     },
     {
-      "job_id": "118966",
-      "title": "Ausbildung Mechatroniker:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/118966/?locale=en_US",
+      "job_id": "119244",
+      "title": "Ausbildung Kunststoff- und Kautschuktechnologe:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/119244/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung Mechatroniker",
+      "department": "ESH/VT Anlagenmechaniker / VMKK",
+      "job_field": "Other",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Kunststoff fasziniert dich? Dann ist dieser Beruf genau der Richtige für dich! Kunststoff und Kautschuk sind auf Grund ihrer sehr guten chemischen Beständigkeit vielseitig einsetzbar. Bei uns lernst du die Welt dieses Materials genauestens kennen und hast die Möglichkeit dich für die Fachrichtung Formteile, Bauteile oder Halbzeugeherstellung zu bewerben. Gib Gummi in einem der vielseitigsten Berufe bei der BASF! DAS LERNST DU WÄHREND DEINER AUSBILDUNG &#13; Das b",
+      "recruiter": {
+        "name": "Lisa Nabra",
+        "email": "lisa.nabra@basf.com",
+        "phone": "+49 30 2005-58195"
+      }
+    },
+    {
+      "job_id": "119238",
+      "title": "Ausbildung im Bereich Technik oder Produktion: Jetzt bewerben - später entscheiden! (m/w/d)",
+      "url": "https://basf.jobs/job-invite/119238/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung Splitterberufe",
       "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Gerät den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du tüftelst für dein Leben gerne? Deine Lieblingsfächer sind Mathe und Physik, aber noch viel lieber hättest du öfter die Fächer Mechanik, Elektrotechnik und IT? Das klingt ganz so, als wäre ein Beruf in diesem Bereich perfekt für dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu kümmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich für eine A",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du arbeitest gerne praktisch und m chtest die Ergebnisse deiner Arbeit sehen? Du findest Technik oder Produktion spannend und interessierst dich f r den Bereich Metall, Elektro oder Produktion? Deine Lieblingsf cher in der Schule sind Technik, Mathematik, Physik, Chemie oder IT? Schwere Maschinen, Werkzeuge und laute Motoren faszinieren dich? Aber auch Produktion oder Technik im Detail und mit Fingerspitzengef hl k nnte das richtige f r dich sein? Oder Beides? We",
       "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
+        "name": "Lisa Nabra",
+        "email": "lisa.nabra@basf.com",
+        "phone": "+49 30 2005-58195"
       }
     },
     {
