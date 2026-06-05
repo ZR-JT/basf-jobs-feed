@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T02:07:34Z",
+  "last_updated": "2026-06-05T07:58:48Z",
   "total_active": 203,
   "jobs": [
     {
@@ -1683,27 +1683,6 @@
       }
     },
     {
-      "job_id": "135214",
-      "title": "Ausbildung zur Fachkraft für Schutz und Sicherheit (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135214/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Ausbildungsstätten Betrieb",
-      "job_field": "Environment, Health & Safety",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du behältst den Überblick - auch wenn’s stressig wird? Bei uns sorgst du dafür, dass das Werksgelände sicher bleibt: Du kontrollierst Personen und Fahrzeuge, gibst Auskünfte und bist Ansprechperson vor Ort. Dabei sind Fingerspitzengefühl und Durchsetzungsvermögen gefragt, um auch in anspruchsvollen Situationen souverän zu bleiben. Teamwork ist Standard! Du arbeitest eng mit weiteren Gefahrenabwehreinheiten zusammen - insbesondere der Werkfeuerwehr. In der Leitste",
-      "recruiter": {
-        "name": "Antje Pfeifer",
-        "email": "antje.pfeifer@basf.com",
-        "phone": "+49 30 2005-58153"
-      }
-    },
-    {
       "job_id": "134966",
       "title": "Ausbildung Mechatroniker:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/134966/?locale=en_US",
@@ -1956,20 +1935,20 @@
       }
     },
     {
-      "job_id": "135235",
-      "title": "Ausbildung Eisenbahner im Betriebsdienst Lokführer und Transport - Fachrichtung Güterverkehr (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135235/?locale=en_US",
+      "job_id": "135214",
+      "title": "Ausbildung zur Fachkraft für Schutz und Sicherheit (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135214/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
       "department": "ESH/VT Ausbildungsstätten Betrieb",
-      "job_field": "Logistics & Supply Chain Management",
+      "job_field": "Environment, Health & Safety",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; War es auch dein Kindheitstraum Lokomotivführer:in zu werden? Jetzt kann dein Traum Wirklichkeit werden! Spring auf unseren Zug auf und bewirb dich. In Deutschland sind jeden Tag Tausende Züge unterwegs. Allein durch das Werk der BASF SE in Ludwigshafen laufen 230 Kilometer Schienen. Das ist ungefähr so weit wie von Ludwigshafen nach Bonn. Nun bist du am Zug: Löse bei uns den Fahrschein für deine Ausbildung und steige ein. DAS LERNST DU WÄHREND DEINER AUSBILDUNG ",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Du behältst den Überblick - auch wenn’s stressig wird? Bei uns sorgst du dafür, dass das Werksgelände sicher bleibt: Du kontrollierst Personen und Fahrzeuge, gibst Auskünfte und bist Ansprechperson vor Ort. Dabei sind Fingerspitzengefühl und Durchsetzungsvermögen gefragt, um auch in anspruchsvollen Situationen souverän zu bleiben. Teamwork ist Standard! Du arbeitest eng mit weiteren Gefahrenabwehreinheiten zusammen - insbesondere der Werkfeuerwehr. In der Leitste",
       "recruiter": {
         "name": "Antje Pfeifer",
         "email": "antje.pfeifer@basf.com",
@@ -2079,6 +2058,27 @@
         "name": "Isabel Maisack",
         "email": "isabel.maisack@basf.com",
         "phone": "+49 30 2005-56683"
+      }
+    },
+    {
+      "job_id": "135235",
+      "title": "Ausbildung Eisenbahner im Betriebsdienst Lokführer und Transport - Fachrichtung Güterverkehr (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135235/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Ausbildungsstätten Betrieb",
+      "job_field": "Logistics & Supply Chain Management",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; War es auch dein Kindheitstraum Lokomotivführer:in zu werden? Jetzt kann dein Traum Wirklichkeit werden! Spring auf unseren Zug auf und bewirb dich. In Deutschland sind jeden Tag Tausende Züge unterwegs. Allein durch das Werk der BASF SE in Ludwigshafen laufen 230 Kilometer Schienen. Das ist ungefähr so weit wie von Ludwigshafen nach Bonn. Nun bist du am Zug: Löse bei uns den Fahrschein für deine Ausbildung und steige ein. DAS LERNST DU WÄHREND DEINER AUSBILDUNG ",
+      "recruiter": {
+        "name": "Antje Pfeifer",
+        "email": "antje.pfeifer@basf.com",
+        "phone": "+49 30 2005-58153"
       }
     },
     {
