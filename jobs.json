@@ -1,10 +1,31 @@
 {
-  "last_updated": "2026-06-05T07:58:48Z",
+  "last_updated": "2026-06-05T14:21:31Z",
   "total_active": 203,
   "jobs": [
     {
+      "job_id": "121038",
+      "title": "Officer/ Specialist Payroll and HR administration Specialist with French (m/f/d)",
+      "url": "https://basf.jobs/job-invite/121038/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/PH-FA Personnel Administration&Payroll France",
+      "job_field": "Human Resources",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-06-05T12:52:01Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation, and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Within the HR Services Team France, we are a diverse and inclusive team of experts and young professionals. Together, we are committed to deli",
+      "recruiter": {
+        "name": "Liliana Marcela Quiroga Duarte",
+        "email": "liliana-marcela.quiroga-duarte@basf.com"
+      }
+    },
+    {
       "job_id": "139334",
-      "title": "Ferienhelfer:in Lemförde (m/w/d)",
+      "title": "Ferienhelfer:in Produktion/Logistik (m/w/d)",
       "url": "https://basf.jobs/job-invite/139334/?locale=en_US",
       "city": "Lemförde",
       "state": "Niedersachsen",
@@ -1599,27 +1620,6 @@
       }
     },
     {
-      "job_id": "121038",
-      "title": "Officer/ Specialist Payroll and HR administration Specialist with French (m/f/d)",
-      "url": "https://basf.jobs/job-invite/121038/?locale=en_US",
-      "city": "Berlin",
-      "state": "Berlin",
-      "country": "Germany",
-      "company": "BASF Services Europe GmbH",
-      "business_unit": "EMEA",
-      "department": "GBE/PH-FA Personnel Administration&Payroll France",
-      "job_field": "Human Resources",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-15T13:46:08Z",
-      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Within the HR Services Team France, we are a diverse and inclusive team of experts and young professionals. Together, we are committed to deliv",
-      "recruiter": {
-        "name": "Liliana Marcela Quiroga Duarte",
-        "email": "liliana-marcela.quiroga-duarte@basf.com"
-      }
-    },
-    {
       "job_id": "135044",
       "title": "Duales Studium (B.Sc.) - Angewandte Informatik (m/w/d)",
       "url": "https://basf.jobs/job-invite/135044/?locale=en_US",
@@ -1701,27 +1701,6 @@
         "name": "Katrin Statnick",
         "email": "katrin.statnick@basf.com",
         "phone": "+49 30 2005-58118"
-      }
-    },
-    {
-      "job_id": "135233",
-      "title": "Bachelor of Science - International Business Administration & Information Technology (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135233/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
-      "job_field": "Information Technology & Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Digitalisierung spannend und möchtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spaß an Mathematik, Englisch und wirtschaftlichen Zusammenhängen hast und du dich zudem für fremde Kulturen interessierst, dann bist du in der internationalen Wirtschaftsinformatik richtig! Denn so vielfältig und anspruchsvoll wie deine Interessen sind, so ist auch dein Studium. Du erlernst die wichtigsten Grundlagen in Wirtscha",
-      "recruiter": {
-        "name": "Laura Juliane Mierke",
-        "email": "juliane.mierke@basf.com",
-        "phone": "+49 30 2005-58922"
       }
     },
     {
@@ -1956,41 +1935,20 @@
       }
     },
     {
-      "job_id": "135229",
-      "title": "Bachelor of Science - International Business Administration (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135229/?locale=en_US",
+      "job_id": "135233",
+      "title": "Bachelor of Science - International Business Administration & Information Technology (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135233/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
       "department": "ESH/VC Kaufmännische und IT-Ausbildung",
-      "job_field": "General Management",
+      "job_field": "Information Technology & Services",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert? Auch die Praxis findest du spannend? Dann ist dieses Studium genau richtig für dich! Durch die Verbindung von Theorie und Praxis wirst du zum wahren Allrounder. Du durchläufst verschiedene Abteilungen, wie zum Beispiel Marketing, Vertrieb, Personal und Controlling. Dabei lernst du, wie man ein Unternehmen führt, organisiert und steuert. Wesentliche Bestandteile dabei sind die Digitalisierung von Geschäfts",
-      "recruiter": {
-        "name": "Laura Juliane Mierke",
-        "email": "juliane.mierke@basf.com",
-        "phone": "+49 30 2005-58922"
-      }
-    },
-    {
-      "job_id": "135284",
-      "title": "Bachelor of Arts Betriebswirtschaftslehre - Risk and Insurance Management (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135284/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
-      "job_field": "Legal, Tax & Insurance",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert und auch das Thema Risikomanagement klingt für dich spannend? Was muss ein großer Konzern versichern und warum hat er eigene Versicherungsunternehmen? Wenn dich das interessiert, dann ist dieses praxisnahe Studium genau richtig für dich! Neben den theoretischen Grundlagen in BWL, VWL und Recht bis hin zum Marketing-Management, lernst du in verschiedenen Praxisphasen auch unterschiedliche Versicherungsspart",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Du findest Digitalisierung spannend und möchtest an der Gestaltung neuer Prozesse und Technologien mitwirken? Wenn du in der Schule Spaß an Mathematik, Englisch und wirtschaftlichen Zusammenhängen hast und du dich zudem für fremde Kulturen interessierst, dann bist du in der internationalen Wirtschaftsinformatik richtig! Denn so vielfältig und anspruchsvoll wie deine Interessen sind, so ist auch dein Studium. Du erlernst die wichtigsten Grundlagen in Wirtscha",
       "recruiter": {
         "name": "Laura Juliane Mierke",
         "email": "juliane.mierke@basf.com",
@@ -2079,6 +2037,48 @@
         "name": "Antje Pfeifer",
         "email": "antje.pfeifer@basf.com",
         "phone": "+49 30 2005-58153"
+      }
+    },
+    {
+      "job_id": "135229",
+      "title": "Bachelor of Science - International Business Administration (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135229/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
+      "job_field": "General Management",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert? Auch die Praxis findest du spannend? Dann ist dieses Studium genau richtig für dich! Durch die Verbindung von Theorie und Praxis wirst du zum wahren Allrounder. Du durchläufst verschiedene Abteilungen, wie zum Beispiel Marketing, Vertrieb, Personal und Controlling. Dabei lernst du, wie man ein Unternehmen führt, organisiert und steuert. Wesentliche Bestandteile dabei sind die Digitalisierung von Geschäfts",
+      "recruiter": {
+        "name": "Laura Juliane Mierke",
+        "email": "juliane.mierke@basf.com",
+        "phone": "+49 30 2005-58922"
+      }
+    },
+    {
+      "job_id": "135284",
+      "title": "Bachelor of Arts Betriebswirtschaftslehre - Risk and Insurance Management (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135284/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert und auch das Thema Risikomanagement klingt für dich spannend? Was muss ein großer Konzern versichern und warum hat er eigene Versicherungsunternehmen? Wenn dich das interessiert, dann ist dieses praxisnahe Studium genau richtig für dich! Neben den theoretischen Grundlagen in BWL, VWL und Recht bis hin zum Marketing-Management, lernst du in verschiedenen Praxisphasen auch unterschiedliche Versicherungsspart",
+      "recruiter": {
+        "name": "Laura Juliane Mierke",
+        "email": "juliane.mierke@basf.com",
+        "phone": "+49 30 2005-58922"
       }
     },
     {
@@ -3808,27 +3808,6 @@
       }
     },
     {
-      "job_id": "118966",
-      "title": "Ausbildung Mechatroniker:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/118966/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung Mechatroniker",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Gerät den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du tüftelst für dein Leben gerne? Deine Lieblingsfächer sind Mathe und Physik, aber noch viel lieber hättest du öfter die Fächer Mechanik, Elektrotechnik und IT? Das klingt ganz so, als wäre ein Beruf in diesem Bereich perfekt für dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu kümmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich für eine A",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
-      }
-    },
-    {
       "job_id": "119401",
       "title": "Ausbildung Anlagenmechaniker:in \"plus\" (m/w/d)",
       "url": "https://basf.jobs/job-invite/119401/?locale=en_US",
@@ -3913,24 +3892,24 @@
       }
     },
     {
-      "job_id": "120239",
-      "title": "Bachelor of Arts Betriebswirtschaftslehre - Risk and Insurance Management (m/w/d)",
-      "url": "https://basf.jobs/job-invite/120239/?locale=en_US",
+      "job_id": "118966",
+      "title": "Ausbildung Mechatroniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/118966/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
       "company": "BASF SE",
-      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
-      "job_field": "Legal, Tax & Insurance",
+      "department": "ESH/VT Technikausbildung Mechatroniker",
+      "job_field": "Production, Maintenance & Technical Services",
       "job_level": "Pupil (only Germany)",
       "job_type": "Temporary",
       "hybrid": false,
       "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert und auch das Thema Risikomanagement klingt f r dich spannend? Was muss ein gro er Konzern versichern und warum hat er eigene Versicherungsunternehmen? Wenn dich das interessiert, dann ist dieses praxisnahe Studium genau richtig f r dich! Neben den theoretischen Grundlagen in BWL, VWL und Recht bis hin zum Marketing-Management, lernst du in verschiedenen Praxisphasen auch unterschiedliche Versicherungsspart",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Gerät den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du tüftelst für dein Leben gerne? Deine Lieblingsfächer sind Mathe und Physik, aber noch viel lieber hättest du öfter die Fächer Mechanik, Elektrotechnik und IT? Das klingt ganz so, als wäre ein Beruf in diesem Bereich perfekt für dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu kümmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich für eine A",
       "recruiter": {
-        "name": "Laura Juliane Mierke",
-        "email": "juliane.mierke@basf.com",
-        "phone": "+49 30 2005-58922"
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
       }
     },
     {
@@ -3994,6 +3973,27 @@
         "name": "Katrin Statnick",
         "email": "katrin.statnick@basf.com",
         "phone": "+49 30 2005-58118"
+      }
+    },
+    {
+      "job_id": "120239",
+      "title": "Bachelor of Arts Betriebswirtschaftslehre - Risk and Insurance Management (m/w/d)",
+      "url": "https://basf.jobs/job-invite/120239/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VC Kaufmännische und IT-Ausbildung",
+      "job_field": "Legal, Tax & Insurance",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; Betriebswirtschaft hat dich schon immer interessiert und auch das Thema Risikomanagement klingt f r dich spannend? Was muss ein gro er Konzern versichern und warum hat er eigene Versicherungsunternehmen? Wenn dich das interessiert, dann ist dieses praxisnahe Studium genau richtig f r dich! Neben den theoretischen Grundlagen in BWL, VWL und Recht bis hin zum Marketing-Management, lernst du in verschiedenen Praxisphasen auch unterschiedliche Versicherungsspart",
+      "recruiter": {
+        "name": "Laura Juliane Mierke",
+        "email": "juliane.mierke@basf.com",
+        "phone": "+49 30 2005-58922"
       }
     },
     {
