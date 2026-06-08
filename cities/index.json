@@ -1,12 +1,11 @@
 {
+  "Ludwigshafen am Rhein": "ludwigshafen-am-rhein",
   "Berlin": "berlin",
   "Lemförde": "lemfoerde",
-  "Ludwigshafen am Rhein": "ludwigshafen-am-rhein",
   "Lampertheim": "lampertheim",
   "Münster": "muenster",
   "Köln": "koeln",
   "Freiburg im Breisgau": "freiburg-im-breisgau",
-  "Schwarzheide": "schwarzheide",
   "Düsseldorf": "duesseldorf",
   "Limburgerhof": "limburgerhof",
   "Frankfurt am Main": "frankfurt-am-main",
@@ -16,5 +15,6 @@
   "Monheim am Rhein": "monheim-am-rhein",
   "Rudolstadt": "rudolstadt",
   "Breitnau": "breitnau",
+  "Schwarzheide": "schwarzheide",
   "Langelsheim": "langelsheim"
 }

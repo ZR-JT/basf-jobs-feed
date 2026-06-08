@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-06-07T17:03:32Z",
-  "total_active": 203,
+  "last_updated": "2026-06-08T07:12:31Z",
+  "total_active": 200,
   "jobs": [
+    {
+      "job_id": "127235",
+      "title": "Notfallsanitäter:in Werkrettungsdienst für Wechselschicht oder Tagdienststelle (m/w/d)",
+      "url": "https://basf.jobs/job-invite/127235/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Jobmarkt GmbH",
+      "business_unit": "EMEA",
+      "department": "ESG/DNA Emergency Services - Tagdienst",
+      "job_field": "Environment, Health & Safety",
+      "job_level": "Professional",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-06-08T05:48:00Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an den Standorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices und Logistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche, die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allen Belangen rund um Umwelts",
+      "recruiter": {
+        "name": "Silke Pudicke",
+        "email": "silke.pudicke@basf.com",
+        "phone": "+49 30 2005-58449"
+      }
+    },
     {
       "job_id": "121038",
       "title": "Officer/ Specialist Payroll and HR administration Specialist with French (m/f/d)",
@@ -43,28 +65,6 @@
         "name": "Michael Wiesenack-Flick",
         "email": "michael.wiesenack-flick@basf.com",
         "phone": "+49 30 2005-58564"
-      }
-    },
-    {
-      "job_id": "139328",
-      "title": "HR Officer (m/w/d)",
-      "url": "https://basf.jobs/job-invite/139328/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "business_unit": "EMEA",
-      "department": "ES/R BASF Gastronomie GmbH",
-      "job_field": "Catering",
-      "job_level": "Graduate",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-06-03T11:58:22Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Sie behalten den Überblick, arbeiten strukturiert und haben Freude daran, Menschen im Arbeitsalltag zu unterstützen? Als HR Officer übernehmen Sie eine zentrale Rolle entlang des gesamten Employee Lifecycles und tragen aktiv dazu bei, unsere HR‑Prozesse effizient und rechtssicher ablaufen. Dabei gestalten Sie den weiteren Aufbau der BASF Gastronomie GmbH aktiv mit. WAS SIE ERWARTET &#13; Beratung Betreuung – Sie unterstützen Führungskräfte bei personalrelevanten Frageste",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
       }
     },
     {
@@ -565,28 +565,6 @@
       }
     },
     {
-      "job_id": "138308",
-      "title": "Junior HR Business Partner:in (w/m/d)",
-      "url": "https://basf.jobs/job-invite/138308/?locale=en_US",
-      "city": "Schwarzheide",
-      "state": "Brandenburg",
-      "country": "Germany",
-      "company": "BASF Schwarzheide GmbH",
-      "business_unit": "EMEA",
-      "department": "PM/LES Human Resources Schwarzheide",
-      "job_field": "Human Resources",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": true,
-      "date_posted": "2026-05-22T06:25:48Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Sie suchen einen Arbeitgeber, der Ihnen spannende Herausforderungen und langfristige Perspektiven bietet? An unserem Lausitzer Produktionsstandort in Schwarzheide arbeiten 2000 Kollegen und Kolleginnen gemeinsam daran, dass die Chemie stimmt. Wir setzen auf Innovation und Nachhaltigkeit. Unsere vier Unternehmenswerte kreativ, offen, verantwortungsvoll und unternehmerisch legen fest, wie wir miteinander arbeiten. Füllen auch Sie diese Werte mit Leben. Entdecken Sie jetzt ",
-      "recruiter": {
-        "name": "Julia Schubert",
-        "email": "julia.schubert@basf.com",
-        "phone": "+49 30 2005-59076"
-      }
-    },
-    {
       "job_id": "135163",
       "title": "Industriemechaniker:in (m/w/d)",
       "url": "https://basf.jobs/job-invite/135163/?locale=en_US",
@@ -606,28 +584,6 @@
         "name": "Svenja Sollmann",
         "email": "svenja.sollmann@basf.com",
         "phone": "+49 30 2005-59355"
-      }
-    },
-    {
-      "job_id": "138305",
-      "title": "HR Business Partner:in (w/m/d)",
-      "url": "https://basf.jobs/job-invite/138305/?locale=en_US",
-      "city": "Schwarzheide",
-      "state": "Brandenburg",
-      "country": "Germany",
-      "company": "BASF Schwarzheide GmbH",
-      "business_unit": "EMEA",
-      "department": "PM/LES Human Resources Schwarzheide",
-      "job_field": "Human Resources",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": true,
-      "date_posted": "2026-05-22T06:03:29Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Sie suchen einen Arbeitgeber, der Ihnen spannende Herausforderungen und langfristige Perspektiven bietet? An unserem Lausitzer Produktionsstandort in Schwarzheide arbeiten 2000 Kollegen und Kolleginnen gemeinsam daran, dass die Chemie stimmt. Wir setzen auf Innovation und Nachhaltigkeit. Unsere vier Unternehmenswerte kreativ, offen, verantwortungsvoll und unternehmerisch legen fest, wie wir miteinander arbeiten. Füllen auch Sie diese Werte mit Leben. Entdecken Sie jetzt ",
-      "recruiter": {
-        "name": "Julia Schubert",
-        "email": "julia.schubert@basf.com",
-        "phone": "+49 30 2005-59076"
       }
     },
     {
@@ -1551,28 +1507,6 @@
         "name": "Melissa Amina Rahmani",
         "email": "melissa.rahmani@basf.com",
         "phone": "+49 30 2005-58073"
-      }
-    },
-    {
-      "job_id": "127235",
-      "title": "Notfallsanitäter:in Werkrettungsdienst für Wechselschicht oder Tagdienststelle (m/w/d)",
-      "url": "https://basf.jobs/job-invite/127235/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Jobmarkt GmbH",
-      "business_unit": "EMEA",
-      "department": "ESG/DNA Emergency Services - Tagdienst",
-      "job_field": "Environment, Health & Safety",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-17T08:08:17Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Das European Site Verbund Management entwickelt die großen, europäischen Standorte der BASF stetig weiter und sichert damit deren Wettbewerbsfähigkeit: Wir managen an den Standorten die perfekte Verzahnung von Infrastruktur, Betriebsservices, Personalservices und Logistik mit der Produktion. Damit sichern wir die Grundversorgung der Unternehmensbereiche, die dadurch erfolgreich am Markt agieren können. Zusätzlich beraten wir die Betriebe in allen Belangen rund um Umwelts",
-      "recruiter": {
-        "name": "Silke Pudicke",
-        "email": "silke.pudicke@basf.com",
-        "phone": "+49 30 2005-58449"
       }
     },
     {
