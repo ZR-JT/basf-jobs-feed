@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-06-08T07:12:31Z",
-  "total_active": 200,
+  "last_updated": "2026-06-08T15:23:56Z",
+  "total_active": 193,
   "jobs": [
+    {
+      "job_id": "135595",
+      "title": "Accountant Financial Reporting (m/f/d) - Hybrid Option GER",
+      "url": "https://basf.jobs/job-invite/135595/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/WR1-EM2 Fin.Rep. Turkey, Middle East",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-06-08T12:19:03Z",
+      "description": "WELCOME TO BASF &#13; In Global Business Services, we support BASF's divisions with a cross-functional network and offer modern solutions tailored to the needs of the business. As a specialized service unit we ensure a high level of customer orientation and we design our services to be cooperative, efficient and future-oriented. WHAT YOU CAN EXPECT &#13; Join our international Financial Reporting team and start your career as an Accountant. In this position you are responsible for the general le",
+      "recruiter": {
+        "name": "Jennifer Weiz",
+        "email": "jennifer.weiz@basf.com",
+        "phone": "+49 30 2005-56454"
+      }
+    },
     {
       "job_id": "127235",
       "title": "Notfallsanitäter:in Werkrettungsdienst für Wechselschicht oder Tagdienststelle (m/w/d)",
@@ -243,28 +265,6 @@
       }
     },
     {
-      "job_id": "139107",
-      "title": "Internship Carbon Steering (m/f/d)",
-      "url": "https://basf.jobs/job-invite/139107/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "CD/NC Carbon Steering",
-      "job_field": "General Management",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-05-29T10:07:52Z",
-      "description": "WELCOME TO BASF &#13; We shape BASF's future by defining the strategic framework. As part of the Corporate Center, we support our Board of Executive Directors in all portfolio and resource allocation decisions. We develop strategies, identify risks and opportunities and analyze trends in sustainability and technology. Together with the operating divisions, we develop strategies for the business and support their implementation. WHAT YOU CAN EXPECT &#13; The Corporate Sustainability division mana",
-      "recruiter": {
-        "name": "Yasemin Koparan",
-        "email": "yasemin.koparan@basf.com",
-        "phone": "+49 30 2005-58540"
-      }
-    },
-    {
       "job_id": "139110",
       "title": "Officer Flächenmanagement (m/w/d)",
       "url": "https://basf.jobs/job-invite/139110/?locale=en_US",
@@ -302,28 +302,6 @@
       "hybrid": false,
       "date_posted": "2026-05-29T09:35:20Z",
       "description": "WILLKOMMEN BEI UNS &#13; Ob Mittagspause, Event oder einfach guter Geschmack – wir machen Ludwigshafen lecker! In unseren Kantinen und Locations sorgen wir für Vielfalt, Qualität und echte Genussmomente. Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Fachliche Führung Verantwortung - Sie leiten zehn Betriebskantinen in Ludwigshafen und führen die Küchenleiter:innen (8) sowie das Team Angebotskonzeption (2). Führung Entwicklung - Sie coachen und entwickeln Führungskräfte, begleiten Recruiting,",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
-      }
-    },
-    {
-      "job_id": "139106",
-      "title": "Minijob / Aushilfe Logistik & Versand Weinfachgeschäft - 603 €-Basis (m/w/d)",
-      "url": "https://basf.jobs/job-invite/139106/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "business_unit": "EMEA",
-      "department": "ES/RW Logistik",
-      "job_field": "Catering",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-05-29T08:30:18Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Starten Sie mit uns in eine Welt voller Genuss! Ob edle Tropfen, perfekte Lagerung oder exklusive Tastings – bei uns dreht sich alles um die Leidenschaft für Wein. Mit Ihrem Know-how sorgen Sie dafür, dass unsere Kundinnen und Kunden besondere Momente erleben. Jetzt fehlen nur noch Sie! WAS SIE ERWARTET &#13; Versandvorbereitung - Sie falten und bereiten Versandkartonagen vor, damit der Versand reibungslos starten kann. Logistik Versand - Sie unterstützen beim Verpacken ",
       "recruiter": {
         "name": "Katrin Statnick",
         "email": "katrin.statnick@basf.com",
@@ -958,28 +936,6 @@
         "name": "Bekim Krasniqi",
         "email": "bekim.krasniqi@basf.com",
         "phone": "+49 30 2005-56136"
-      }
-    },
-    {
-      "job_id": "138193",
-      "title": "Staplerfahrer:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/138193/?locale=en_US",
-      "city": "Würzburg",
-      "state": "Bayern",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "business_unit": "EMEA",
-      "department": "ECP/OPL Logistics & Warehousing Würzburg",
-      "job_field": "Logistics & Supply Chain Management",
-      "job_level": "Graduate",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-05-11T08:22:56Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Im Bereich Coatings bieten wir weit mehr als nur Lacke und Beschichtungen. Es ist unser Ansatz, die Bedürfnisse unserer Kunden in den Mittelpunkt zu stellen und stets einen Schritt vorauszudenken. Unser Motto „We always go beyond the surface“ verdeutlicht, dass wir nicht nur auf die Produkte selbst fokussiert sind, sondern auch auf die Gründe, warum wir sie entwickeln. Wir sind daran interessiert, innovative Lösungen zu schaffen, die zukünftiges Wachstum fördern und den ",
-      "recruiter": {
-        "name": "Julia Kilias",
-        "email": "julia.kilias@basf.com",
-        "phone": "+49 30 2005-59139"
       }
     },
     {
@@ -2037,27 +1993,6 @@
       }
     },
     {
-      "job_id": "135134",
-      "title": "Ausbildung Biologielaborant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135134/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VL Voc. Training Laboratory Assistants",
-      "job_field": "Research & Development",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn du \"Plasma\" hörst, denkst du nicht zuerst an deinen Fernseher. Dass \"Fotosynthese\" kein Bildbearbeitungsprogramm ist, war dir schon immer klar. Kurzum: Biologie fasziniert dich und du willst sie zu deinem Beruf machen! Arbeite mit unseren Forschern an der Gewinnung neuer Erkenntnisse und führe Versuche in den Bereichen der Grundlagenforschung, des Pflanzenschutzes und der Diagnostik durch. Hier zeigen wir dir auch, wie du toxikologische Untersuchungen an Tie",
-      "recruiter": {
-        "name": "Mariya Budkevych",
-        "email": "mariya.budkevych@basf.com",
-        "phone": "+49 30 2005-56363"
-      }
-    },
-    {
       "job_id": "135231",
       "title": "Ausbildung Koch:Köchin (m/w/d)",
       "url": "https://basf.jobs/job-invite/135231/?locale=en_US",
@@ -2076,6 +2011,27 @@
         "name": "Lina Wehr",
         "email": "lina.wehr@basf.com",
         "phone": "+49 30 2005-56745"
+      }
+    },
+    {
+      "job_id": "135134",
+      "title": "Ausbildung Biologielaborant:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/135134/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VL Voc. Training Laboratory Assistants",
+      "job_field": "Research & Development",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn du \"Plasma\" hörst, denkst du nicht zuerst an deinen Fernseher. Dass \"Fotosynthese\" kein Bildbearbeitungsprogramm ist, war dir schon immer klar. Kurzum: Biologie fasziniert dich und du willst sie zu deinem Beruf machen! Arbeite mit unseren Forschern an der Gewinnung neuer Erkenntnisse und führe Versuche in den Bereichen der Grundlagenforschung, des Pflanzenschutzes und der Diagnostik durch. Hier zeigen wir dir auch, wie du toxikologische Untersuchungen an Tie",
+      "recruiter": {
+        "name": "Mariya Budkevych",
+        "email": "mariya.budkevych@basf.com",
+        "phone": "+49 30 2005-56363"
       }
     },
     {
@@ -2379,28 +2335,6 @@
         "name": "Jennifer Weiz",
         "email": "jennifer.weiz@basf.com",
         "phone": "+49 30 2005-56454"
-      }
-    },
-    {
-      "job_id": "131937",
-      "title": "Spezialist:in Feuerwehr und Gefahrenabwehr (m/w/d)",
-      "url": "https://basf.jobs/job-invite/131937/?locale=en_US",
-      "city": "Schwarzheide",
-      "state": "Brandenburg",
-      "country": "Germany",
-      "company": "BASF InfraService & Solutions Lausitz GmbH",
-      "business_unit": "EMEA",
-      "department": "ESS/CSE Crisis Management",
-      "job_field": "Environment, Health & Safety",
-      "job_level": "Professional",
-      "job_type": "Temporary",
-      "hybrid": true,
-      "date_posted": "2026-03-23T06:41:53Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Die BASF InfraService Solutions Lausitz GmbH gestaltet aktiv die Strukturen und Abläufe im Industriepark Lausitz. Über 900 engagierte Mitarbeitende arbeiten hier täglich daran, Technik zu verstehen, Prozesse effizient zu gestalten und gemeinsam mit starken Partnern neue Maßstäbe zu setzen. Als Standortbetreibergesellschaft legen wir großen Wert auf kundenorientierte Services und maßgeschneiderte Lösungen – mit dem Ziel, nicht nur den Erfolg unserer Kunden zu sichern, son",
-      "recruiter": {
-        "name": "Julia Schubert",
-        "email": "julia.schubert@basf.com",
-        "phone": "+49 30 2005-59076"
       }
     },
     {
@@ -3208,28 +3142,6 @@
       }
     },
     {
-      "job_id": "128967",
-      "title": "Trainee program START IN Coatings - Engineering (m/f/d)",
-      "url": "https://basf.jobs/job-invite/128967/?locale=en_US",
-      "city": "Langelsheim",
-      "state": "Niedersachsen",
-      "country": "Germany",
-      "company": "Chemetall GmbH",
-      "business_unit": "EMEA",
-      "department": "G-ECT/OOL Operations & Productions LHM",
-      "job_field": "Engineering",
-      "job_level": "Graduate",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2025-10-29T12:33:44Z",
-      "description": "WELCOME TO BASF &#13; With our START IN trainee programs, we prepare you from day one for your future role with us through challenging tasks, exciting projects, and real responsibility. Each START IN program is tailored to you personally. Bring your creativity, your passion, and your pioneering spirit — and kick-start your professional future with us! WHAT YOU CAN EXPECT &#13; Are you planning the perfect start to your career and want to get the best possible start in the professional world? The",
-      "recruiter": {
-        "name": "Romy Marie Gründel",
-        "email": "romy.gruendel@basf.com",
-        "phone": "+49 30 2005-56730"
-      }
-    },
-    {
       "job_id": "129238",
       "title": "Minijob / Aushilfe Service und Gästebetreuung- St. Johann - 603 €-Basis (m/w/d)",
       "url": "https://basf.jobs/job-invite/129238/?locale=en_US",
@@ -3423,48 +3335,6 @@
       }
     },
     {
-      "job_id": "124233",
-      "title": "Ausbildung Industriekaufmann/-frau (m/w/d)",
-      "url": "https://basf.jobs/job-invite/124233/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "department": "BASF Coatings",
-      "job_field": "Administration & Office Support",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-07-01T07:08:48Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Monotone Aufgaben sind nicht Dein Ding und Vielseitigkeit ist Dein zweiter Vorname? Dann bist Du hier als Organisationstalent genau richtig. Denn Industriekaufleute sind wahre Allrounder: Planen, Organisieren, Kalkulieren. Deine Aufgaben erstrecken sich über alle Funktionen des Unternehmens – von der Materialbeschaffung über die Produktion bis hin zum Verkauf. Im Marketing oder im Personal- und Rechnungswesen bringst Du zudem deine Freude an Kommunikation ein, bi",
-      "recruiter": {
-        "name": "Melissa Amina Rahmani",
-        "email": "melissa.rahmani@basf.com",
-        "phone": "+49 30 2005-58073"
-      }
-    },
-    {
-      "job_id": "124063",
-      "title": "Ausbildung Lacklaborant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/124063/?locale=en_US",
-      "city": "Würzburg",
-      "state": "Bayern",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "department": "BASF Coatings",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-06-30T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Chemie und insbesondere Lack faszinieren Dich? Bei Autos schaust Du nicht zuerst auf die Marke, sondern auf den Lack? Dann bist Du hier genau richtig! Als Lacklaborant:in setzt Du Lacksysteme an, erforschst sie und entwickelst diese weiter. Du überprüfst und dosierst Inhaltsstoffe und erstellst die passenden Rezepturen. Auch die kontinuierliche Qualitätskontrolle gehört zu Deinen Aufgaben. Als Produktverantwortliche:r passt Du die Lacke an spezielle Kundenanforde",
-      "recruiter": {
-        "name": "Julia Kilias",
-        "email": "julia.kilias@basf.com",
-        "phone": "+49 30 2005-59139"
-      }
-    },
-    {
       "job_id": "124061",
       "title": "Ausbildung Verfahrensmechaniker:in für Beschichtungstechnik (m/w/d)",
       "url": "https://basf.jobs/job-invite/124061/?locale=en_US",
@@ -3479,27 +3349,6 @@
       "hybrid": false,
       "date_posted": "2025-06-30T22:00:00Z",
       "description": "ELEMENTE DEINER AUSBILDUNG &#13; Maschinen interessieren Dich und Chemie ist dein Ding? Perfekt! Als Verfahrensmechaniker:in für Beschichtungstechnik hilfst Du mit, neue Lackrezepturen und Beschichtungsverfahren zu entwickeln und zu überprüfen. Egal ob im Automobilwerk, beim Kunden oder im Betrieb: Du betreust die Applikation der Lacke und organisierst den gesamten Prozess von der Lack­anlieferung bis zur Freigabe der Lackanwendung. Du optimierst den Prozess, dass unser Lack mit dem besten Besch",
-      "recruiter": {
-        "name": "Julia Kilias",
-        "email": "julia.kilias@basf.com",
-        "phone": "+49 30 2005-59139"
-      }
-    },
-    {
-      "job_id": "124062",
-      "title": "Ausbildung Chemikant:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/124062/?locale=en_US",
-      "city": "Würzburg",
-      "state": "Bayern",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "department": "BASF Coatings",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-06-30T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Ein Chemieunternehmen ohne seine Chemikanten? Unvorstellbar! Als Chemikant:in übernimmst Du anspruchsvolle Aufgaben im gesamten Herstellungsprozess: vom Bereitstellen der Inhaltsstoffe bis zur Abfüllung der fertigen Lacke. Du bedienst und überwachst die Produktionsanlagen, entnimmst regelmäßig Proben und analysierst die Produkte - einschließlich der Dokumentation. Damit bekommst Du nicht nur einen Einblick in unsere spannende Produktwelt, sondern bist bei der Pro",
       "recruiter": {
         "name": "Julia Kilias",
         "email": "julia.kilias@basf.com",
@@ -3700,27 +3549,6 @@
       }
     },
     {
-      "job_id": "120227",
-      "title": "Ausbildung Glasapparatebauer:in (w/m/d)",
-      "url": "https://basf.jobs/job-invite/120227/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VL Voc. Training Laboratory Assistants",
-      "job_field": "Research & Development",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Was wäre ein Chemiker ohne Reagenzglas oder Destillationskolben? Hier kommst du ins Spiel! Denn du fertigst diese unverzichtbaren Instrumente für deine Kolleginnen und Kollegen an. Kaum zu glauben, aber das hochempfindliche und so leicht zerbrechliche Material lässt sich mit dem entsprechenden Fachwissen und enormen Fingerspitzengefühl in vielfältiger Weise formen. Wir bieten dir eine Ausbildung durch Expertinnen und Experten auf dem Gebiet der Be- und Verarbeitu",
-      "recruiter": {
-        "name": "Mariya Budkevych",
-        "email": "mariya.budkevych@basf.com",
-        "phone": "+49 30 2005-56363"
-      }
-    },
-    {
       "job_id": "119404",
       "title": "Ausbildung Hotelfachmann:frau (m/w/d) mit Zusatzqualifikation Hotelmanagement",
       "url": "https://basf.jobs/job-invite/119404/?locale=en_US",
@@ -3844,6 +3672,27 @@
         "name": "Katrin Statnick",
         "email": "katrin.statnick@basf.com",
         "phone": "+49 30 2005-58118"
+      }
+    },
+    {
+      "job_id": "120227",
+      "title": "Ausbildung Glasapparatebauer:in (w/m/d)",
+      "url": "https://basf.jobs/job-invite/120227/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VL Voc. Training Laboratory Assistants",
+      "job_field": "Research & Development",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Was wäre ein Chemiker ohne Reagenzglas oder Destillationskolben? Hier kommst du ins Spiel! Denn du fertigst diese unverzichtbaren Instrumente für deine Kolleginnen und Kollegen an. Kaum zu glauben, aber das hochempfindliche und so leicht zerbrechliche Material lässt sich mit dem entsprechenden Fachwissen und enormen Fingerspitzengefühl in vielfältiger Weise formen. Wir bieten dir eine Ausbildung durch Expertinnen und Experten auf dem Gebiet der Be- und Verarbeitu",
+      "recruiter": {
+        "name": "Mariya Budkevych",
+        "email": "mariya.budkevych@basf.com",
+        "phone": "+49 30 2005-56363"
       }
     },
     {
