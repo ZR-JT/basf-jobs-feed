@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-09T10:51:21Z",
-  "total_active": 193,
+  "last_updated": "2026-06-09T14:16:48Z",
+  "total_active": 191,
   "jobs": [
     {
       "job_id": "139269",
@@ -1071,28 +1071,6 @@
       }
     },
     {
-      "job_id": "135791",
-      "title": "Werkstudent Digital Marketing & Content (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135791/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF Gastronomie GmbH",
-      "business_unit": "EMEA",
-      "department": "ES/RM Kommunikation und Marketing",
-      "job_field": "Marketing & Sales",
-      "job_level": "Student",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-05-06T09:15:30Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Digitale Inhalte, spannende Kampagnen und neue Ideen – bei uns gestalten Sie aktiv unseren Online-Auftritt mit. Von Website über Social Media bis Newsletter arbeiten Sie an Projekten, die unsere Gastronomie nach außen sichtbar machen. Klingt gut? Dann fehlen nur noch Sie! WAS SIE ERWARTET &#13; • Website optimieren – Sie wirken an der kontinuierlichen Weiterentwicklung unserer Website mit und unterstützen bei der Verbesserung von Usability, Struktur und Inhalten. • Conte",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
-      }
-    },
-    {
       "job_id": "136000",
       "title": "Produktionsmitarbeiter:in mit berufsbegleitender Qualifizierung zum \"Chemikant:in\"(m/w/d)",
       "url": "https://basf.jobs/job-invite/136000/?locale=en_US",
@@ -1445,27 +1423,6 @@
       }
     },
     {
-      "job_id": "124231",
-      "title": "Bachelor of Arts Betriebswirt:in VWA (m/w/d)",
-      "url": "https://basf.jobs/job-invite/124231/?locale=en_US",
-      "city": "Münster",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Coatings GmbH",
-      "department": "BASF Coatings",
-      "job_field": "Administration & Office Support",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-20T10:15:10Z",
-      "description": "ELEMENTE DEINES DUALEN STUDIUMS &#13; BWL, VWL und Recht haben Dich schon immer interessiert? Auch die Praxis findest Du spannend? Dann ist dieses duale Studium genau richtig für Dich! Bei uns heißt es Lernen im Betrieb – Studieren an der IHK-Akademie: Die betriebliche Ausbildung zum/zur Industriekauf­mann/-frau wird kombiniert mit einem betriebs­wirtschaft­lichen Studium. Deine Aufgaben erstrecken sich über alle Funktionen des Unternehmens – von der Materialbeschaffung über die Produktion bis h",
-      "recruiter": {
-        "name": "Melissa Amina Rahmani",
-        "email": "melissa.rahmani@basf.com",
-        "phone": "+49 30 2005-58073"
-      }
-    },
-    {
       "job_id": "135138",
       "title": "(Senior) Project Manager Supply Chain Consulting (m/f/d)",
       "url": "https://basf.jobs/job-invite/135138/?locale=en_US",
@@ -1570,27 +1527,6 @@
         "name": "Lina Wehr",
         "email": "lina.wehr@basf.com",
         "phone": "+49 30 2005-56745"
-      }
-    },
-    {
-      "job_id": "134966",
-      "title": "Ausbildung Mechatroniker:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/134966/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung Mechatroniker",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2026-04-14T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Gerät den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du tüftelst für dein Leben gerne? Deine Lieblingsfächer sind Mathe und Physik, aber noch viel lieber hättest du öfter die Fächer Mechanik, Elektrotechnik und IT? Das klingt ganz so, als wäre ein Beruf in diesem Bereich perfekt für dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu kümmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich für eine A",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
       }
     },
     {
@@ -1843,6 +1779,27 @@
         "name": "Laura Juliane Mierke",
         "email": "juliane.mierke@basf.com",
         "phone": "+49 30 2005-58922"
+      }
+    },
+    {
+      "job_id": "134966",
+      "title": "Ausbildung Mechatroniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/134966/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung Mechatroniker",
+      "job_field": "Engineering",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2026-04-14T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Gerät den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du tüftelst für dein Leben gerne? Deine Lieblingsfächer sind Mathe und Physik, aber noch viel lieber hättest du öfter die Fächer Mechanik, Elektrotechnik und IT? Das klingt ganz so, als wäre ein Beruf in diesem Bereich perfekt für dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu kümmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich für eine A",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
       }
     },
     {
@@ -3654,27 +3611,6 @@
       }
     },
     {
-      "job_id": "118966",
-      "title": "Ausbildung Mechatroniker:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/118966/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "department": "ESH/VT Technikausbildung Mechatroniker",
-      "job_field": "Production, Maintenance & Technical Services",
-      "job_level": "Pupil (only Germany)",
-      "job_type": "Temporary",
-      "hybrid": false,
-      "date_posted": "2025-04-01T22:00:00Z",
-      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Gerät den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du tüftelst für dein Leben gerne? Deine Lieblingsfächer sind Mathe und Physik, aber noch viel lieber hättest du öfter die Fächer Mechanik, Elektrotechnik und IT? Das klingt ganz so, als wäre ein Beruf in diesem Bereich perfekt für dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu kümmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich für eine A",
-      "recruiter": {
-        "name": "Katrin Statnick",
-        "email": "katrin.statnick@basf.com",
-        "phone": "+49 30 2005-58118"
-      }
-    },
-    {
       "job_id": "120227",
       "title": "Ausbildung Glasapparatebauer:in (w/m/d)",
       "url": "https://basf.jobs/job-invite/120227/?locale=en_US",
@@ -3693,6 +3629,27 @@
         "name": "Mariya Budkevych",
         "email": "mariya.budkevych@basf.com",
         "phone": "+49 30 2005-56363"
+      }
+    },
+    {
+      "job_id": "118966",
+      "title": "Ausbildung Mechatroniker:in (m/w/d)",
+      "url": "https://basf.jobs/job-invite/118966/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "department": "ESH/VT Technikausbildung Mechatroniker",
+      "job_field": "Engineering",
+      "job_level": "Pupil (only Germany)",
+      "job_type": "Temporary",
+      "hybrid": false,
+      "date_posted": "2025-04-01T22:00:00Z",
+      "description": "ELEMENTE DEINER AUSBILDUNG &#13; Wenn ein Gerät den Geist aufgegeben hat, gibst du es noch lange nicht auf? Du tüftelst für dein Leben gerne? Deine Lieblingsfächer sind Mathe und Physik, aber noch viel lieber hättest du öfter die Fächer Mechanik, Elektrotechnik und IT? Das klingt ganz so, als wäre ein Beruf in diesem Bereich perfekt für dich! Wenn du es nicht mehr abwarten kannst, dich um technische Einrichtungen zu kümmern, sie am Laufen zu halten oder zu verbessern, dann bewirb dich für eine A",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
       }
     },
     {
