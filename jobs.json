@@ -1,7 +1,51 @@
 {
-  "last_updated": "2026-06-08T21:41:07Z",
+  "last_updated": "2026-06-09T10:51:21Z",
   "total_active": 193,
   "jobs": [
+    {
+      "job_id": "139269",
+      "title": "Praktikum im Bereich Reaktionstechnik und Reaktorauslegung (m/w/d)",
+      "url": "https://basf.jobs/job-invite/139269/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF SE",
+      "business_unit": "EMEA",
+      "department": "RGR/AD High Temperature Reactions",
+      "job_field": "Other",
+      "job_level": "Other",
+      "job_type": "Other",
+      "hybrid": false,
+      "date_posted": "2026-06-09T10:14:05Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Wir sind eine weltweit führende Forschungsorganisation mit über 3000 Mitarbeiter:innen, die in den Bereichen Materialwissenschaften, Analytik, chemische Synthese, Prozessentwicklung, Biowissenschaften, Katalyse und Digitalisierung arbeiten. Mit unseren kreativen und diversen Teams sowie unserer Spitzenforschung tragen wir dazu bei, unsere Kunden erfolgreicher zu machen und die Nachhaltigkeitstransformation voranzutreiben. WAS SIE ERWARTET &#13; BASF verfolgt das Ziel, di",
+      "recruiter": {
+        "name": "Tina Le",
+        "email": "tina.le@basf.com",
+        "phone": "+49 30 2005-56367"
+      }
+    },
+    {
+      "job_id": "138735",
+      "title": "Officer/Accountant - Freight Cost Management (m/f/d)",
+      "url": "https://basf.jobs/job-invite/138735/?locale=en_US",
+      "city": "Berlin",
+      "state": "Berlin",
+      "country": "Germany",
+      "company": "BASF Services Europe GmbH",
+      "business_unit": "EMEA",
+      "department": "GBE/VA Accounts Payable&Freight Cost Management",
+      "job_field": "Finance, Controlling & Audit",
+      "job_level": "Graduate",
+      "job_type": "Temporary",
+      "hybrid": true,
+      "date_posted": "2026-06-09T07:16:00Z",
+      "description": "WELCOME TO BASF &#13; At Supplier and Reporting, we don't just see numbers, we see solutions. We stand for high-quality purchasing and financial processes: from Purchase-to-Pay processes and Book-to-Report to our business and financial reporting. To achieve this, we not only handle our processes efficiently and accurately, but also focus specifically on modern solutions for designing future-oriented financial processes and satisfied customers. WHAT YOU CAN EXPECT &#13; If you love numbers as muc",
+      "recruiter": {
+        "name": "Viktoria Pohl",
+        "email": "viktoria.pohl@basf.com",
+        "phone": "+49 30 2005-58390"
+      }
+    },
     {
       "job_id": "135595",
       "title": "Accountant Financial Reporting (m/f/d) - Hybrid Option GER",
@@ -87,28 +131,6 @@
         "name": "Michael Wiesenack-Flick",
         "email": "michael.wiesenack-flick@basf.com",
         "phone": "+49 30 2005-58564"
-      }
-    },
-    {
-      "job_id": "139240",
-      "title": "Internship Management Consulting - (Digital) Innovation & Circular Economy (m/f/d)",
-      "url": "https://basf.jobs/job-invite/139240/?locale=en_US",
-      "city": "Ludwigshafen am Rhein",
-      "state": "Rheinland-Pfalz",
-      "country": "Germany",
-      "company": "BASF SE",
-      "business_unit": "EMEA",
-      "department": "GBM/M Innovation Excellence",
-      "job_field": "Inhouse Consulting",
-      "job_level": "Student",
-      "job_type": "Internship",
-      "hybrid": false,
-      "date_posted": "2026-06-02T10:27:50Z",
-      "description": "WELCOME TO BASF &#13; Welcome to the global management consultancy of BASF. We focus on strategic inhouse projects that drive the effective transformation of our businesses. Our teams work on a broad range of exciting projects covering topics such as marketing sales, organizational development, efficiency projects, M A as well as profitable growth through all types of innovation. If you join us, you can grow as well: We always put people first and actively support you in your career development ",
-      "recruiter": {
-        "name": "Annika Emmerich",
-        "email": "annika.emmerich@basf.com",
-        "phone": "+49 30 2005-58420"
       }
     },
     {
@@ -543,28 +565,6 @@
       }
     },
     {
-      "job_id": "135163",
-      "title": "Industriemechaniker:in (m/w/d)",
-      "url": "https://basf.jobs/job-invite/135163/?locale=en_US",
-      "city": "Düsseldorf",
-      "state": "Nordrhein-Westfalen",
-      "country": "Germany",
-      "company": "BASF Personal Care and Nutrition GmbH",
-      "business_unit": "EMEA",
-      "department": "EMX/HI Cluster EMU",
-      "job_field": "Logistics & Supply Chain Management",
-      "job_level": "Professional",
-      "job_type": "Permanent",
-      "hybrid": false,
-      "date_posted": "2026-05-22T06:11:07Z",
-      "description": "WILLKOMMEN BEI UNS &#13; Wir bei Care Chemicals handeln aus Leidenschaft. Unsere Mitarbeiter:innen sind unser wertvollstes Gut und wir pflegen eine Kultur der Empathie, der Unterstützung und des Wachstums. Auf diese Weise befähigen wir unser Team, sich persönlich und beruflich weiterzuentwickeln. Mit vereinten Kräften engagieren wir uns für die Entwicklung nachhaltiger, digitaler und innovativer Lösungen für eine bessere Zukunft. Pflegende Hautcremes, milde Shampoos, Sonnenschutzmittel, schonend",
-      "recruiter": {
-        "name": "Svenja Sollmann",
-        "email": "svenja.sollmann@basf.com",
-        "phone": "+49 30 2005-59355"
-      }
-    },
-    {
       "job_id": "138616",
       "title": "Praktikum Prozessoptimierung & Digitalisierung (m/w/d)",
       "url": "https://basf.jobs/job-invite/138616/?locale=en_US",
@@ -785,9 +785,9 @@
       }
     },
     {
-      "job_id": "136112",
-      "title": "ICTP Governance Specialist​ (m/f/d)",
-      "url": "https://basf.jobs/job-invite/136112/?locale=en_US",
+      "job_id": "138112",
+      "title": "Group Lead Compliance & Indirect Tax​ ​(m/f/d)",
+      "url": "https://basf.jobs/job-invite/138112/?locale=en_US",
       "city": "Limburgerhof",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
@@ -807,9 +807,9 @@
       }
     },
     {
-      "job_id": "138112",
-      "title": "Group Lead Compliance & Indirect Tax​ ​(m/f/d)",
-      "url": "https://basf.jobs/job-invite/138112/?locale=en_US",
+      "job_id": "136112",
+      "title": "ICTP Governance Senior Manager​ (m/f/d)",
+      "url": "https://basf.jobs/job-invite/136112/?locale=en_US",
       "city": "Limburgerhof",
       "state": "Rheinland-Pfalz",
       "country": "Germany",
@@ -2666,7 +2666,7 @@
     },
     {
       "job_id": "133056",
-      "title": "Dummy",
+      "title": "Industriekletterer:in / Seilzugangstechniker:in mit Level 3 (m/w/d)",
       "url": "https://basf.jobs/job-invite/133056/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
@@ -2863,7 +2863,7 @@
     },
     {
       "job_id": "88075",
-      "title": "Dummy",
+      "title": "START IN - Traineeprogramm Engineering & Management für Automatisierung und Elektrotechnik (m/w/d)",
       "url": "https://basf.jobs/job-invite/88075/?locale=en_US",
       "city": "Ludwigshafen am Rhein",
       "state": "Rheinland-Pfalz",
