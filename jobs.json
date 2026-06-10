@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-06-10T02:07:30Z",
-  "total_active": 190,
+  "last_updated": "2026-06-10T07:58:54Z",
+  "total_active": 191,
   "jobs": [
+    {
+      "job_id": "139328",
+      "title": "HR Officer in Teilzeit 50% (m/w/d)",
+      "url": "https://basf.jobs/job-invite/139328/?locale=en_US",
+      "city": "Ludwigshafen am Rhein",
+      "state": "Rheinland-Pfalz",
+      "country": "Germany",
+      "company": "BASF Gastronomie GmbH",
+      "business_unit": "EMEA",
+      "department": "ES/R BASF Gastronomie GmbH",
+      "job_field": "Catering",
+      "job_level": "Graduate",
+      "job_type": "Permanent",
+      "hybrid": false,
+      "date_posted": "2026-06-10T05:56:35Z",
+      "description": "WILLKOMMEN BEI UNS &#13; Sie behalten den Überblick, arbeiten strukturiert und haben Freude daran, Menschen im Arbeitsalltag zu unterstützen? Als HR Officer übernehmen Sie eine zentrale Rolle entlang des gesamten Employee Lifecycles und tragen aktiv dazu bei, unsere HR‑Prozesse effizient und rechtssicher ablaufen. Dabei gestalten Sie den weiteren Aufbau der BASF Gastronomie GmbH aktiv mit. WAS SIE ERWARTET &#13; Beratung Betreuung – Sie unterstützen Führungskräfte bei personalrelevanten Frageste",
+      "recruiter": {
+        "name": "Katrin Statnick",
+        "email": "katrin.statnick@basf.com",
+        "phone": "+49 30 2005-58118"
+      }
+    },
     {
       "job_id": "139269",
       "title": "Praktikum im Bereich Reaktionstechnik und Reaktorauslegung (m/w/d)",
